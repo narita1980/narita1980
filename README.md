@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 15 [IoT縛りの勉強会! IoTLT vol.85 @Youtube](https://iotlt.connpass.com/event/239891/)
-- Mar 10 [エンジニア採用はポジショニングが８割｜採用マーケティング勉強会#1](https://trackrecords.connpass.com/event/239755/)
-- Mar 3 [エンジニア勉強会＜NFT編＞ NFT業界トレンドとマーケットプレイス開発事例と課題](https://tech-street.connpass.com/event/239739/)
-- Feb 25 [30分で院卒社員が多い企業を一挙ご紹介！！](https://connpass.com/event/238476/)
-- Feb 23 [MAKERSスペースでデジファブろう！](https://engineercafe.connpass.com/event/239534/)
+- Mar 8 [【LT残4枠！】Web API LT会 - vol.3 #webapilt](https://rakus.connpass.com/event/236910/)
+- Mar 5 [朝_【川崎】もくもく会：怒涛の作業可能7時間](https://qitz.connpass.com/event/240006/)
+- Mar 3 [Gストラング線形代数勉強会](https://study-data-analysis.connpass.com/event/240007/)
+- Mar 1 [メルペイCEO & CTOによる Fintech Talk｜現在のトレンドと未来予測](https://mercari.connpass.com/event/239365/)
+- Feb 25 [2/25(金)【第967回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240002/)
 <!-- profile updater end: connpass -->
 
 <!---
