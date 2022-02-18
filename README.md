@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 8 [【LT残4枠！】Web API LT会 - vol.3 #webapilt](https://rakus.connpass.com/event/236910/)
-- Mar 5 [朝_【川崎】もくもく会：怒涛の作業可能7時間](https://qitz.connpass.com/event/240006/)
-- Mar 3 [Gストラング線形代数勉強会](https://study-data-analysis.connpass.com/event/240007/)
-- Mar 1 [メルペイCEO & CTOによる Fintech Talk｜現在のトレンドと未来予測](https://mercari.connpass.com/event/239365/)
-- Feb 25 [2/25(金)【第967回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240002/)
+- Mar 24 [【やっていき・初心者も大歓迎】リーダブルコード LT会 - vol.3 #readablelt](https://rakus.connpass.com/event/238395/)
+- Mar 4 [開発者体験(Developer eXperience)向上のためのエンジニア組織づくり](https://findy.connpass.com/event/239849/)
+- Mar 3 [【LT10枠満員御礼！】エンジニアの勉強法ハックLT- vol.7 #studyhacklt](https://rakus.connpass.com/event/236307/)
+- Feb 25 [REDMINE JAPAN vol.2 オンライン開催](https://redmine-japan.connpass.com/event/232298/)
+- Feb 25 [IT系&誰でも参加OK！もくもく会_朝活_2/25(金)](https://morimori.connpass.com/event/240118/)
 <!-- profile updater end: connpass -->
 
 <!---
