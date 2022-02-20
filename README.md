@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 19 [Nagoya.Swift+ 3月度勉強会（リモート開催）](https://nagoyaswiftplus.connpass.com/event/240214/)
-- Mar 3 [【追加開催】電帳法改正にも応用できる！RPAやAI-OCRを用いた、文書・データ連携サービスのご案内](https://connpass.com/event/240164/)
-- Feb 26 [IT系&誰でも参加OK！もくもく会_朝活_2/26(土)](https://morimori.connpass.com/event/240213/)
-- Feb 25 [IBM Power（スパコン）高速化勉強会（金曜日）](https://performanceoptimization.connpass.com/event/240197/)
-- Feb 25 [2/25CuboRex勉強会「テラボ」登壇申し込み](https://telab.connpass.com/event/240180/)
+- Mar 11 [第13回 OUXT-Polaris勉強会](https://ouxt-polaris.connpass.com/event/238115/)
+- Mar 6 [確率密度関数の変数変換の原理とその応用について理解する #2](https://ml-for-experts.connpass.com/event/238682/)
+- Feb 28 [2/28(月)【第973回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240266/)
+- Feb 28 [2/28(月)【第972回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240265/)
+- Feb 27 [オセロAI大会交流会](https://connpass.com/event/237158/)
 <!-- profile updater end: connpass -->
 
 <!---
