@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 11 [第13回 OUXT-Polaris勉強会](https://ouxt-polaris.connpass.com/event/238115/)
-- Mar 6 [確率密度関数の変数変換の原理とその応用について理解する #2](https://ml-for-experts.connpass.com/event/238682/)
-- Feb 28 [2/28(月)【第973回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240266/)
-- Feb 28 [2/28(月)【第972回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240265/)
-- Feb 27 [オセロAI大会交流会](https://connpass.com/event/237158/)
+- Mar 12 [第54回 CoderDojo 福岡 【オンライン】+ 会場（パソコン貸出可能）](https://coderdojo-fukuoka.connpass.com/event/240363/)
+- Mar 10 [みんなのPython勉強会#79](https://startpython.connpass.com/event/239619/)
+- Mar 1 [3/1(火)【第975回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240355/)
+- Mar 1 [3/1(火)【第974回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240354/)
+- Feb 28 [IT系&誰でも参加OK！もくもく会_朝活_2/28(月)](https://morimori.connpass.com/event/240362/)
 <!-- profile updater end: connpass -->
 
 <!---
