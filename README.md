@@ -13,21 +13,21 @@
 # Qiita Articles
 
 <!-- profile updater begin: qiita -->
+- Feb 22 [Simple.cssチートシート](https://qiita.com/narita1980/items/fd2ccf0e91944aab9fd5)
+- Feb 21 [【公式資料】GitLab社で学んだ最高の働き方](https://qiita.com/narita1980/items/d7d142c2bb6312cb9ad6)
 - Feb 18 [【随時更新】クレしんチャレンジまとめ](https://qiita.com/narita1980/items/03d9a24b7ac1fdf81b18)
 - Feb 15 [GitHubのMarkdownファイルでMermaid構文がサポートされたので作図まとめてみました。](https://qiita.com/narita1980/items/2cc69fc1d481e4ee6b08)
 - Jan 26 [Qiitaのタイトルは255字以内で入力する必要があります](https://qiita.com/narita1980/items/545e2dc92bd9385cbcb7)
-- Apr 27 [はてぶで「Wasp」というのを見つけたのでサイトを見たら5分でお試しできるということなので試してみた](https://qiita.com/narita1980/items/4911d7b2f0b206ecf8a9)
-- Apr 15 [【小ネタ】Streamlitのシークレットマネージャー機能を使ってみる](https://qiita.com/narita1980/items/bad3ea8ffa60f6891fbd)
 <!-- profile updater end: qiita -->
 
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 12 [第54回 CoderDojo 福岡 【オンライン】+ 会場（パソコン貸出可能）](https://coderdojo-fukuoka.connpass.com/event/240363/)
-- Mar 10 [みんなのPython勉強会#79](https://startpython.connpass.com/event/239619/)
-- Mar 1 [3/1(火)【第975回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240355/)
-- Mar 1 [3/1(火)【第974回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240354/)
-- Feb 28 [IT系&誰でも参加OK！もくもく会_朝活_2/28(月)](https://morimori.connpass.com/event/240362/)
+- Mar 18 [セミナー:  システム＆ソフトウェアおよびビジネスにおける知識体系と国際標準の最新動向](https://smartse.connpass.com/event/240394/)
+- Mar 16 [Point Cloud配信実験会](https://xr-fukuoka.connpass.com/event/239988/)
+- Mar 4 [祝完読(予定) しょぼちむのエヴァンス本のススメ](https://modeling-how-to-learn.connpass.com/event/233936/)
+- Feb 27 [よちよちAndroid名古屋支部 第191回オフライン開発ミーティング](https://yochiand.connpass.com/event/240445/)
+- Feb 26 [【第7回】サイバーセキュリティ勉強会2022 in 塩尻](https://connpass.com/event/228411/)
 <!-- profile updater end: connpass -->
 
 <!---
