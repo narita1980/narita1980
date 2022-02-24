@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 23 [【IWD2022】集え Flutter レディース](https://gdgkyoto.connpass.com/event/240258/)
-- Apr 10 [目黒もくもく勉強会7h#32](https://online-mokumoku.connpass.com/event/240257/)
-- Mar 10 [みんなのPython勉強会#79](https://startpython.connpass.com/event/239619/)
-- Mar 5 [クマ・ディソン 2022](https://kumamcn.connpass.com/event/239545/)
-- Mar 3 [3/3(木)【第979回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240550/)
+- Mar 12 [@大阪/本町 JOY Tech(仮) 勉強会](https://connpass.com/event/240565/)
+- Mar 10 [大好評開催！ エンジニアのための コミュニケーション力講座＋α](https://bullbase.connpass.com/event/240464/)
+- Mar 4 [NFT Meetup Vol.1](https://nft.connpass.com/event/234701/)
+- Mar 3 [IT系&誰でも参加OK！もくもく会_朝活_3/3(木)](https://morimori.connpass.com/event/240613/)
+- Mar 2 [ng-japan OnAir #51 Angular Testing Libraryでテストを書こう](https://ngjapan.connpass.com/event/240603/)
 <!-- profile updater end: connpass -->
 
 <!---
