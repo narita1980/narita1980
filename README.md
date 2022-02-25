@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 12 [@大阪/本町 JOY Tech(仮) 勉強会](https://connpass.com/event/240565/)
-- Mar 10 [大好評開催！ エンジニアのための コミュニケーション力講座＋α](https://bullbase.connpass.com/event/240464/)
-- Mar 4 [NFT Meetup Vol.1](https://nft.connpass.com/event/234701/)
-- Mar 3 [IT系&誰でも参加OK！もくもく会_朝活_3/3(木)](https://morimori.connpass.com/event/240613/)
-- Mar 2 [ng-japan OnAir #51 Angular Testing Libraryでテストを書こう](https://ngjapan.connpass.com/event/240603/)
+- Mar 24 [JAWS-UG CLI専門支部 #252R IAM基礎 (インスタンスプロファイル)](https://jawsug-cli.connpass.com/event/240712/)
+- Mar 16 [【LT残1枠！】おすすめの技術書 LT会 - vol.3 #itbookslt](https://rakus.connpass.com/event/237605/)
+- Mar 15 [【LT残5枠！】開発×テスト LT会 - vol.2  #devtestlt](https://rakus.connpass.com/event/237602/)
+- Mar 10 [JAWS-UG CLI専門支部 #251R  (入門者向け) IAM基礎 (ロール)](https://jawsug-cli.connpass.com/event/240711/)
+- Mar 8 [【LT残2枠！】Web API LT会 - vol.3 #webapilt](https://rakus.connpass.com/event/236910/)
 <!-- profile updater end: connpass -->
 
 <!---
