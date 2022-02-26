@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 24 [JAWS-UG CLI専門支部 #252R IAM基礎 (インスタンスプロファイル)](https://jawsug-cli.connpass.com/event/240712/)
-- Mar 16 [【LT残1枠！】おすすめの技術書 LT会 - vol.3 #itbookslt](https://rakus.connpass.com/event/237605/)
-- Mar 15 [【LT残5枠！】開発×テスト LT会 - vol.2  #devtestlt](https://rakus.connpass.com/event/237602/)
-- Mar 10 [JAWS-UG CLI専門支部 #251R  (入門者向け) IAM基礎 (ロール)](https://jawsug-cli.connpass.com/event/240711/)
-- Mar 8 [【LT残2枠！】Web API LT会 - vol.3 #webapilt](https://rakus.connpass.com/event/236910/)
+- Mar 21 [Avatar Jockey 体験展示 @Nigiwai Space 新保屋](https://connpass.com/event/240775/)
+- Mar 19 [◤xR with Anything Meetup #09 ◢ #xram81 #メタバース](https://xram.connpass.com/event/238560/)
+- Mar 12 [第34回 CoderDojo岐阜](https://coderdojo-gifu.connpass.com/event/240723/)
+- Mar 6 [3/6(日)【第985回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240798/)
+- Mar 6 [3/6(日)【第984回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240797/)
 <!-- profile updater end: connpass -->
 
 <!---
