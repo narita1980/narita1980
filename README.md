@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 21 [Avatar Jockey 体験展示 @Nigiwai Space 新保屋](https://connpass.com/event/240775/)
-- Mar 19 [◤xR with Anything Meetup #09 ◢ #xram81 #メタバース](https://xram.connpass.com/event/238560/)
-- Mar 12 [第34回 CoderDojo岐阜](https://coderdojo-gifu.connpass.com/event/240723/)
-- Mar 6 [3/6(日)【第985回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240798/)
-- Mar 6 [3/6(日)【第984回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240797/)
+- Mar 21 [京都キューブオフ会 2022/3/21（月）祝日、春分の日](https://kyoto-cube-off.connpass.com/event/240863/)
+- Mar 13 [【女性限定/オンライン】月刊フィントーク 輪読会](https://fintalk.connpass.com/event/240923/)
+- Mar 7 [3/7(月)【第987回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240919/)
+- Mar 7 [3/7(月)【第986回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240918/)
+- Mar 6 [IT系&誰でも参加OK！もくもく会_朝活_3/6(日)](https://morimori.connpass.com/event/240922/)
 <!-- profile updater end: connpass -->
 
 <!---
