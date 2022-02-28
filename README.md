@@ -13,21 +13,21 @@
 # Qiita Articles
 
 <!-- profile updater begin: qiita -->
+- Feb 27 [Instagram（インスタ）で1万人を超えたアカウントのフォロアー数、フォロー数を知るためには"?__a=1"を付与する](https://qiita.com/narita1980/items/630b7014fa893461b991)
 - Feb 22 [Simple.cssチートシート](https://qiita.com/narita1980/items/fd2ccf0e91944aab9fd5)
 - Feb 21 [【公式資料】GitLab社で学んだ最高の働き方](https://qiita.com/narita1980/items/d7d142c2bb6312cb9ad6)
 - Feb 18 [【随時更新】クレしんチャレンジまとめ](https://qiita.com/narita1980/items/03d9a24b7ac1fdf81b18)
 - Feb 15 [GitHubのMarkdownファイルでMermaid記法がサポートされたので作図まとめてみました。](https://qiita.com/narita1980/items/2cc69fc1d481e4ee6b08)
-- Jan 26 [Qiitaのタイトルは255字以内で入力する必要があります](https://qiita.com/narita1980/items/545e2dc92bd9385cbcb7)
 <!-- profile updater end: qiita -->
 
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 21 [京都キューブオフ会 2022/3/21（月）祝日、春分の日](https://kyoto-cube-off.connpass.com/event/240863/)
-- Mar 13 [【女性限定/オンライン】月刊フィントーク 輪読会](https://fintalk.connpass.com/event/240923/)
-- Mar 7 [3/7(月)【第987回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240919/)
-- Mar 7 [3/7(月)【第986回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/240918/)
-- Mar 6 [IT系&誰でも参加OK！もくもく会_朝活_3/6(日)](https://morimori.connpass.com/event/240922/)
+- Mar 24 [【LT残5枠！】リーダブルコード LT会 - vol.3 #readablelt](https://rakus.connpass.com/event/238395/)
+- Mar 7 [オンラインで一緒に夜活・勉強しませんか？](https://musako-asakatsu.connpass.com/event/240980/)
+- Mar 7 [【８時だヨ！ゆるIT講座】 第９回：VR内に人間の動きを反映するための「３種のセンサー」とは？](https://future-tech-association.connpass.com/event/240972/)
+- Mar 7 [IT系&誰でも参加OK！もくもく会_朝活_3/7(月)](https://morimori.connpass.com/event/240978/)
+- Mar 7 [オンラインで一緒に朝活・勉強しませんか？](https://musako-asakatsu.connpass.com/event/240979/)
 <!-- profile updater end: connpass -->
 
 <!---
