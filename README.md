@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 24 [【LT残5枠！】リーダブルコード LT会 - vol.3 #readablelt](https://rakus.connpass.com/event/238395/)
-- Mar 7 [オンラインで一緒に夜活・勉強しませんか？](https://musako-asakatsu.connpass.com/event/240980/)
-- Mar 7 [【８時だヨ！ゆるIT講座】 第９回：VR内に人間の動きを反映するための「３種のセンサー」とは？](https://future-tech-association.connpass.com/event/240972/)
-- Mar 7 [IT系&誰でも参加OK！もくもく会_朝活_3/7(月)](https://morimori.connpass.com/event/240978/)
-- Mar 7 [オンラインで一緒に朝活・勉強しませんか？](https://musako-asakatsu.connpass.com/event/240979/)
+- Mar 16 [GCPUG Shonan vol.73 Workload identity federation](https://gcpug-shonan.connpass.com/event/240182/)
+- Mar 10 [エンジニア採用はポジショニングが８割｜採用マーケティング勉強会#1](https://trackrecords.connpass.com/event/239755/)
+- Mar 8 [ビデオオフ読書会@Discord ノンジャンル](https://idea-io.connpass.com/event/240983/)
+- Mar 8 [IT系&誰でも参加OK！もくもく会_朝活_3/8(火)](https://morimori.connpass.com/event/241106/)
+- Mar 5 [第19回 Pythonで学ぶ統計学入門【東京大学出版】](https://math-coding.connpass.com/event/241108/)
 <!-- profile updater end: connpass -->
 
 <!---
