@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 16 [GCPUG Shonan vol.73 Workload identity federation](https://gcpug-shonan.connpass.com/event/240182/)
-- Mar 10 [エンジニア採用はポジショニングが８割｜採用マーケティング勉強会#1](https://trackrecords.connpass.com/event/239755/)
-- Mar 8 [ビデオオフ読書会@Discord ノンジャンル](https://idea-io.connpass.com/event/240983/)
-- Mar 8 [IT系&誰でも参加OK！もくもく会_朝活_3/8(火)](https://morimori.connpass.com/event/241106/)
-- Mar 5 [第19回 Pythonで学ぶ統計学入門【東京大学出版】](https://math-coding.connpass.com/event/241108/)
+- Mar 26 [autoracex #85](https://autoracex.connpass.com/event/240093/)
+- Mar 20 [【BSC/Solidity】スマートコントラクトの開発基礎知識（ハンズオン、初心者歓迎）](https://ruck-study.connpass.com/event/241230/)
+- Mar 16 [みんチャレ開発部 meetup α](https://a10lab-dev.connpass.com/event/240749/)
+- Mar 16 [【無料】ウェブ制作会社ベイジのライター仕事説明会](https://connpass.com/event/240451/)
+- Mar 14 [Language Night vol.2 〜コンパイル言語〜 #langnight](https://blastengine.connpass.com/event/241048/)
 <!-- profile updater end: connpass -->
 
 <!---
