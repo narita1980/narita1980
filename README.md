@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 26 [autoracex #85](https://autoracex.connpass.com/event/240093/)
-- Mar 20 [【BSC/Solidity】スマートコントラクトの開発基礎知識（ハンズオン、初心者歓迎）](https://ruck-study.connpass.com/event/241230/)
-- Mar 16 [みんチャレ開発部 meetup α](https://a10lab-dev.connpass.com/event/240749/)
-- Mar 16 [【無料】ウェブ制作会社ベイジのライター仕事説明会](https://connpass.com/event/240451/)
-- Mar 14 [Language Night vol.2 〜コンパイル言語〜 #langnight](https://blastengine.connpass.com/event/241048/)
+- Mar 30 [ビデオオフ読書会＠Discord 「攻殻機動隊論」](https://idea-io.connpass.com/event/241295/)
+- Mar 27 [ドローンプログラミング体験（会場：あけみおSKYドーム・会議室）](https://coderdojo-nago.connpass.com/event/240710/)
+- Mar 26 [ロボットプログラミング体験（会場：名護市マルチメディア館）](https://coderdojo-nago.connpass.com/event/239549/)
+- Mar 21 [ドローンプログラミング体験（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/240596/)
+- Mar 21 [ハックフォープレイで遊びつくる会（会場：あけみおSKYドーム+オンライン）](https://coderdojo-nago.connpass.com/event/240595/)
 <!-- profile updater end: connpass -->
 
 <!---
