@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 30 [【LT満員御礼！】PHPerのための「Laravel 9 について語る」PHPTechCafe](https://rakus.connpass.com/event/240365/)
-- Mar 27 [ドローンプログラミング体験（会場：あけみおSKYドーム・会議室）](https://coderdojo-nago.connpass.com/event/240710/)
-- Mar 26 [親子pythonデータサイエンス・量子プログラミング教室@渋谷スクランブルスクエア](https://qnn.connpass.com/event/237155/)
-- Mar 23 [Baseball Play Study mini〜中日ドラゴンズを語ろう(BPStudy#175)](https://bpstudy.connpass.com/event/241374/)
-- Mar 21 [ドローンプログラミング体験（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/240596/)
+- Mar 31 [オンラインCAE自習室(もくもく会)2022.03.31](https://cae-beginner.connpass.com/event/241545/)
+- Mar 26 [【LTするかも】みんなのITもくもく会@オンライン](https://itmokumoku.connpass.com/event/241572/)
+- Mar 24 [オンラインCAE自習室(もくもく会)2022.03.24](https://cae-beginner.connpass.com/event/241544/)
+- Mar 17 [オンラインCAE自習室(もくもく会)2022.03.17](https://cae-beginner.connpass.com/event/241543/)
+- Mar 12 [左門至峰によるネットワークスペシャリスト試験対策セミナー【第5回：R3午後2問1後半】](https://nespe.connpass.com/event/241570/)
 <!-- profile updater end: connpass -->
 
 <!---
