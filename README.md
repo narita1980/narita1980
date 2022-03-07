@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 29 [第四回ベイル杯～遠隔チーム戦～](https://connpass.com/event/241619/)
-- Mar 19 [◤xR with Anything Meetup #09 ◢ #xram81 #メタバース](https://xram.connpass.com/event/238560/)
-- Mar 13 [3/13(日)【第8回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/241622/)
-- Mar 12 [左門至峰によるネットワークスペシャリスト試験対策セミナー【第5回：R3午後2問1後半】](https://nespe.connpass.com/event/241570/)
-- Mar 12 [【ネスぺ塾2022参加者限定】Ciscoの設定をしてみよう](https://connpass.com/event/241620/)
+- Mar 27 [Roblox Day（会場：あけみおSKYドーム会議室 + オンライン）](https://coderdojo-nago.connpass.com/event/241681/)
+- Mar 24 [【LT残3枠！】リーダブルコード LT会 - vol.3 #readablelt](https://rakus.connpass.com/event/238395/)
+- Mar 24 [【明日から使えるテスト技法勉強会】 #４ ～CFD法って、なに？～](https://veriserve-event.connpass.com/event/239266/)
+- Mar 19 [【Nuxt3/Vue3】開発基礎知識（ハンズオン、初心者歓迎）](https://ruck-study.connpass.com/event/241213/)
+- Mar 14 [IT系&誰でも参加OK！もくもく会_朝活_3/14(月)](https://morimori.connpass.com/event/241682/)
 <!-- profile updater end: connpass -->
 
 <!---
