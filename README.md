@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 27 [Roblox Day（会場：あけみおSKYドーム会議室 + オンライン）](https://coderdojo-nago.connpass.com/event/241681/)
-- Mar 24 [【LT残3枠！】リーダブルコード LT会 - vol.3 #readablelt](https://rakus.connpass.com/event/238395/)
-- Mar 24 [【明日から使えるテスト技法勉強会】 #４ ～CFD法って、なに？～](https://veriserve-event.connpass.com/event/239266/)
-- Mar 19 [【Nuxt3/Vue3】開発基礎知識（ハンズオン、初心者歓迎）](https://ruck-study.connpass.com/event/241213/)
-- Mar 14 [IT系&誰でも参加OK！もくもく会_朝活_3/14(月)](https://morimori.connpass.com/event/241682/)
+- Apr 11 [JAWS-UG朝会 #32](https://jawsug-asa.connpass.com/event/240119/)
+- Apr 5 [【増枠】DeNA DESIGN KNOCK #01 サービスブランディングを通して、次のステージへ。](https://denadesign.connpass.com/event/225719/)
+- Mar 20 [初心者歓迎！Unity勉強会#22](https://c-sagyoba-benkyoukai.connpass.com/event/239790/)
+- Mar 19 [◤xR with Anything Meetup #09 ◢ #xram81 #メタバース](https://xram.connpass.com/event/238560/)
+- Mar 18 [ABEJA Tech LT #4 野球×データで次の投球を予測する！](https://abeja-innovation-meetup.connpass.com/event/235828/)
 <!-- profile updater end: connpass -->
 
 <!---
