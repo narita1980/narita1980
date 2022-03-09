@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 11 [JAWS-UG朝会 #32](https://jawsug-asa.connpass.com/event/240119/)
-- Apr 5 [【増枠】DeNA DESIGN KNOCK #01 サービスブランディングを通して、次のステージへ。](https://denadesign.connpass.com/event/225719/)
-- Mar 20 [初心者歓迎！Unity勉強会#22](https://c-sagyoba-benkyoukai.connpass.com/event/239790/)
+- Apr 15 [6th長崎QDG](https://nagasaki-it-engineers.connpass.com/event/222448/)
 - Mar 19 [◤xR with Anything Meetup #09 ◢ #xram81 #メタバース](https://xram.connpass.com/event/238560/)
-- Mar 18 [ABEJA Tech LT #4 野球×データで次の投球を予測する！](https://abeja-innovation-meetup.connpass.com/event/235828/)
+- Mar 19 [初心者歓迎！フォトグラメトリ 勉強会#16](https://c-sagyoba-benkyoukai.connpass.com/event/235415/)
+- Mar 18 [【PHP超初心者向け / オンライン】プログラミング勉強会](https://php-mokumoku.connpass.com/event/241902/)
+- Mar 17 [【PHP超初心者向け / オンライン】プログラミング勉強会](https://php-mokumoku.connpass.com/event/241904/)
 <!-- profile updater end: connpass -->
 
 <!---
