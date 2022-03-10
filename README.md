@@ -24,10 +24,10 @@
 
 <!-- profile updater begin: connpass -->
 - Apr 15 [6th長崎QDG](https://nagasaki-it-engineers.connpass.com/event/222448/)
-- Mar 19 [◤xR with Anything Meetup #09 ◢ #xram81 #メタバース](https://xram.connpass.com/event/238560/)
-- Mar 19 [初心者歓迎！フォトグラメトリ 勉強会#16](https://c-sagyoba-benkyoukai.connpass.com/event/235415/)
-- Mar 18 [【PHP超初心者向け / オンライン】プログラミング勉強会](https://php-mokumoku.connpass.com/event/241902/)
-- Mar 17 [【PHP超初心者向け / オンライン】プログラミング勉強会](https://php-mokumoku.connpass.com/event/241904/)
+- Apr 5 [【増枠】DeNA DESIGN KNOCK #01 サービスブランディングを通して、次のステージへ。](https://denadesign.connpass.com/event/225719/)
+- Mar 18 [3/18(金)【第1009回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/241997/)
+- Mar 18 [第7回 キッズプログラミングクラブCookie](https://cookie-nishigo.connpass.com/event/240391/)
+- Mar 18 [3/18(金)【第1008回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/241996/)
 <!-- profile updater end: connpass -->
 
 <!---
