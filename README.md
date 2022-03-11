@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Apr 23 [【IWD2022】集え Flutter レディース](https://gdgkyoto.connpass.com/event/240258/)
 - Apr 15 [6th長崎QDG](https://nagasaki-it-engineers.connpass.com/event/222448/)
-- Apr 5 [【増枠】DeNA DESIGN KNOCK #01 サービスブランディングを通して、次のステージへ。](https://denadesign.connpass.com/event/225719/)
-- Mar 18 [3/18(金)【第1009回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/241997/)
-- Mar 18 [第7回 キッズプログラミングクラブCookie](https://cookie-nishigo.connpass.com/event/240391/)
-- Mar 18 [3/18(金)【第1008回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/241996/)
+- Apr 9 [第12回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/242134/)
+- Mar 30 [マネーフォワード × MoT 大人気アプリの2社が語る、これからのビジョンとPdMの責任とは？](https://jtx.connpass.com/event/242077/)
+- Mar 28 [SREって何するの？　～若手～SREとしての成長とは～](https://cyberagent.connpass.com/event/240921/)
 <!-- profile updater end: connpass -->
 
 <!---
