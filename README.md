@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 23 [【IWD2022】集え Flutter レディース](https://gdgkyoto.connpass.com/event/240258/)
-- Apr 15 [6th長崎QDG](https://nagasaki-it-engineers.connpass.com/event/222448/)
-- Apr 9 [第12回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/242134/)
-- Mar 30 [マネーフォワード × MoT 大人気アプリの2社が語る、これからのビジョンとPdMの責任とは？](https://jtx.connpass.com/event/242077/)
-- Mar 28 [SREって何するの？　～若手～SREとしての成長とは～](https://cyberagent.connpass.com/event/240921/)
+- Mar 26 [機械学習の社会実装勉強会第9回](https://machine-learning-workshop.connpass.com/event/240822/)
+- Mar 23 [Plone研究会第74期 #1](https://plonejp.connpass.com/event/239341/)
+- Mar 20 [3/20(日)【第1013回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242229/)
+- Mar 20 [3/20(日)【第1012回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242228/)
+- Mar 18 [QUNOG 22 Meeting (福岡県福岡市)](https://qunog.connpass.com/event/238384/)
 <!-- profile updater end: connpass -->
 
 <!---
