@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Apr 16 [情シス井戸端会議 第28回](https://connpass.com/event/242286/)
+- Apr 5 [【女性限定/オンライン】月刊フィントーク その58](https://fintalk.connpass.com/event/242284/)
+- Mar 27 [【女性限定/オンライン】月刊フィントーク 輪読会](https://fintalk.connpass.com/event/242283/)
+- Mar 26 [【オンライン】札幌 Azure/Microsoft Learn もくもく会 44（2022/03）](https://sapporoazuremok2.connpass.com/event/242287/)
 - Mar 26 [機械学習の社会実装勉強会第9回](https://machine-learning-workshop.connpass.com/event/240822/)
-- Mar 23 [Plone研究会第74期 #1](https://plonejp.connpass.com/event/239341/)
-- Mar 20 [3/20(日)【第1013回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242229/)
-- Mar 20 [3/20(日)【第1012回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242228/)
-- Mar 18 [QUNOG 22 Meeting (福岡県福岡市)](https://qunog.connpass.com/event/238384/)
 <!-- profile updater end: connpass -->
 
 <!---
