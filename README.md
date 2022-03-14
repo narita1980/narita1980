@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 16 [情シス井戸端会議 第28回](https://connpass.com/event/242286/)
-- Apr 5 [【女性限定/オンライン】月刊フィントーク その58](https://fintalk.connpass.com/event/242284/)
-- Mar 27 [【女性限定/オンライン】月刊フィントーク 輪読会](https://fintalk.connpass.com/event/242283/)
-- Mar 26 [【オンライン】札幌 Azure/Microsoft Learn もくもく会 44（2022/03）](https://sapporoazuremok2.connpass.com/event/242287/)
-- Mar 26 [機械学習の社会実装勉強会第9回](https://machine-learning-workshop.connpass.com/event/240822/)
+- Apr 6 [【LT残6枠！】コードレビュー LT会 - vol.2 #codereviewlt](https://rakus.connpass.com/event/240393/)
+- Mar 29 [毎月1つずつ新しい何かをやってみる部 #5](https://yattemiru.connpass.com/event/242350/)
+- Mar 24 [【LT残1枠！】リーダブルコード LT会 - vol.3 #readablelt](https://rakus.connpass.com/event/238395/)
+- Mar 23 [たき工房の先輩デザイナーが後輩たちに教えている、デキるグラフィックデザイナーが日頃やっている習慣](https://vivivit.connpass.com/event/241389/)
+- Mar 20 [[Teams開催]Power BI Weekly News #16](https://pp-weeklynews.connpass.com/event/242345/)
 <!-- profile updater end: connpass -->
 
 <!---
