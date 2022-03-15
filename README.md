@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 6 [【LT残6枠！】コードレビュー LT会 - vol.2 #codereviewlt](https://rakus.connpass.com/event/240393/)
-- Mar 29 [毎月1つずつ新しい何かをやってみる部 #5](https://yattemiru.connpass.com/event/242350/)
-- Mar 24 [【LT残1枠！】リーダブルコード LT会 - vol.3 #readablelt](https://rakus.connpass.com/event/238395/)
-- Mar 23 [たき工房の先輩デザイナーが後輩たちに教えている、デキるグラフィックデザイナーが日頃やっている習慣](https://vivivit.connpass.com/event/241389/)
-- Mar 20 [[Teams開催]Power BI Weekly News #16](https://pp-weeklynews.connpass.com/event/242345/)
+- Apr 9 [#React アプリコンテスト「 #ウンドウノキッカケ」 説明会（+アイデアソン）](https://appcon.connpass.com/event/241707/)
+- Mar 31 [【増枠】PythonでXAI入門〜AIを説明する技術](https://studyco.connpass.com/event/240831/)
+- Mar 23 [3/23(水)【第1019回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242441/)
+- Mar 23 [3/23(水)【第1018回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242439/)
+- Mar 22 [3/22(火)【第1017回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242440/)
 <!-- profile updater end: connpass -->
 
 <!---
