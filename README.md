@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 9 [#React アプリコンテスト「 #ウンドウノキッカケ」 説明会（+アイデアソン）](https://appcon.connpass.com/event/241707/)
-- Mar 31 [【増枠】PythonでXAI入門〜AIを説明する技術](https://studyco.connpass.com/event/240831/)
-- Mar 23 [3/23(水)【第1019回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242441/)
-- Mar 23 [3/23(水)【第1018回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242439/)
-- Mar 22 [3/22(火)【第1017回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242440/)
+- Apr 12 [FM-Cafe(FileMaker)2022年4月開催！](https://connpass.com/event/242554/)
+- Mar 23 [Envaderチュートリアル#1](https://connpass.com/event/242539/)
+- Mar 23 [【初心者歓迎】GoでTDDをやってみよう! #9](https://yasashii-agile.connpass.com/event/242555/)
+- Mar 21 [ドローンプログラミング体験（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/240596/)
+- Mar 21 [ハックフォープレイで遊びつくる会（会場：あけみおSKYドーム+オンライン）](https://coderdojo-nago.connpass.com/event/240595/)
 <!-- profile updater end: connpass -->
 
 <!---
