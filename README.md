@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 12 [FM-Cafe(FileMaker)2022年4月開催！](https://connpass.com/event/242554/)
-- Mar 23 [Envaderチュートリアル#1](https://connpass.com/event/242539/)
-- Mar 23 [【初心者歓迎】GoでTDDをやってみよう! #9](https://yasashii-agile.connpass.com/event/242555/)
-- Mar 21 [ドローンプログラミング体験（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/240596/)
-- Mar 21 [ハックフォープレイで遊びつくる会（会場：あけみおSKYドーム+オンライン）](https://coderdojo-nago.connpass.com/event/240595/)
+- Apr 3 [ジュニア層エンジニア向けLT会](https://connpass.com/event/221065/)
+- Mar 30 [Power Automate「ビジネス プロセス フロー」マイクロソフト MVPが解説](https://rpacommunity.connpass.com/event/242247/)
+- Mar 22 [【ラクス】成長と安定のいいとこ取り！開発エンジニアのキャリア設計／キャリア座談会](https://rakus.connpass.com/event/241166/)
+- Mar 20 [Blenderで3DCG作ってみよう（会場：あけみおSKYドーム会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/240926/)
+- Mar 20 [ドローンプログラミング体験（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/240943/)
 <!-- profile updater end: connpass -->
 
 <!---
