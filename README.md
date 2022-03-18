@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 3 [ジュニア層エンジニア向けLT会](https://connpass.com/event/221065/)
-- Mar 30 [Power Automate「ビジネス プロセス フロー」マイクロソフト MVPが解説](https://rpacommunity.connpass.com/event/242247/)
-- Mar 22 [【ラクス】成長と安定のいいとこ取り！開発エンジニアのキャリア設計／キャリア座談会](https://rakus.connpass.com/event/241166/)
-- Mar 20 [Blenderで3DCG作ってみよう（会場：あけみおSKYドーム会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/240926/)
-- Mar 20 [ドローンプログラミング体験（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/240943/)
+- Apr 13 [エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/241176/)
+- Apr 6 [【LT残4枠！】コードレビュー LT会 - vol.2 #codereviewlt](https://rakus.connpass.com/event/240393/)
+- Mar 27 [3/27イワケンラボ 2021年度活動振り返りLT会+表彰式【XR】](https://iwakenlab.connpass.com/event/241605/)
+- Mar 26 [3/26(土)【第1024回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242725/)
+- Mar 25 [3/25(金)【第1023回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242726/)
 <!-- profile updater end: connpass -->
 
 <!---
