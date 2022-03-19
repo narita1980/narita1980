@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/241176/)
-- Apr 6 [【LT残4枠！】コードレビュー LT会 - vol.2 #codereviewlt](https://rakus.connpass.com/event/240393/)
-- Mar 27 [3/27イワケンラボ 2021年度活動振り返りLT会+表彰式【XR】](https://iwakenlab.connpass.com/event/241605/)
-- Mar 26 [3/26(土)【第1024回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242725/)
-- Mar 25 [3/25(金)【第1023回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242726/)
+- Apr 16 [Nagoya.Swift+ 4月度勉強会（リモート開催）](https://nagoyaswiftplus.connpass.com/event/242826/)
+- Mar 27 [3/27(日)【第1027回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242822/)
+- Mar 25 [１時間勉強会〜スマートフォンで始める写真の管理と共有〜](https://crossroads.connpass.com/event/242823/)
+- Mar 24 [ビデオはオフ！寝ぼけまなこでもくもく朝会](https://itmokumoku.connpass.com/event/242825/)
+- Mar 23 [プロトアウトジムもくもく・わいわい会 第2回](https://protoout.connpass.com/event/242824/)
 <!-- profile updater end: connpass -->
 
 <!---
