@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 16 [Nagoya.Swift+ 4月度勉強会（リモート開催）](https://nagoyaswiftplus.connpass.com/event/242826/)
-- Mar 27 [3/27(日)【第1027回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242822/)
-- Mar 25 [１時間勉強会〜スマートフォンで始める写真の管理と共有〜](https://crossroads.connpass.com/event/242823/)
-- Mar 24 [ビデオはオフ！寝ぼけまなこでもくもく朝会](https://itmokumoku.connpass.com/event/242825/)
-- Mar 23 [プロトアウトジムもくもく・わいわい会 第2回](https://protoout.connpass.com/event/242824/)
+- May 5 [【オンライン】GW集中勉強会⑪CAE技術者の為のデータサイエンス「階層ベイズ・モデル」5/5午前](https://insight.connpass.com/event/242460/)
+- May 1 [tecHub Meetup #11](https://techub.connpass.com/event/242877/)
+- Apr 29 [CPU+コンパイラ自作ワークショップ](https://connpass.com/event/241511/)
+- Apr 17 [【女性限定/オンライン】月刊フィントークモーニング その18](https://fintalk.connpass.com/event/242884/)
+- Mar 27 [【渋谷wework】第９回もくもく会【スクランブルスクエア】](https://smallit-mokumoku.connpass.com/event/242344/)
 <!-- profile updater end: connpass -->
 
 <!---
