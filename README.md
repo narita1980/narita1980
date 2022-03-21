@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 5 [【オンライン】GW集中勉強会⑪CAE技術者の為のデータサイエンス「階層ベイズ・モデル」5/5午前](https://insight.connpass.com/event/242460/)
-- May 1 [tecHub Meetup #11](https://techub.connpass.com/event/242877/)
-- Apr 29 [CPU+コンパイラ自作ワークショップ](https://connpass.com/event/241511/)
-- Apr 17 [【女性限定/オンライン】月刊フィントークモーニング その18](https://fintalk.connpass.com/event/242884/)
-- Mar 27 [【渋谷wework】第９回もくもく会【スクランブルスクエア】](https://smallit-mokumoku.connpass.com/event/242344/)
+- Apr 16 [【大阪】#React アプリコンテスト「 #ウンドウノキッカケ」アイデアソン](https://appcon.connpass.com/event/242408/)
+- Apr 10 [キャリアプランに脆弱性診断を追加したい"未来の"初級者向け『日曜日のアフタヌーンセミナー』#05](https://kabuto.connpass.com/event/242939/)
+- Apr 9 [#React アプリコンテスト「 #ウンドウノキッカケ」 説明会（+アイデアソン）](https://appcon.connpass.com/event/241707/)
+- Apr 3 [キャリアプランに脆弱性診断を追加したい"未来の"初級者向け『日曜日のアフタヌーンセミナー』#04](https://kabuto.connpass.com/event/242937/)
+- Mar 29 [3/29(火)【第1031回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242936/)
 <!-- profile updater end: connpass -->
 
 <!---
