@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 16 [【大阪】#React アプリコンテスト「 #ウンドウノキッカケ」アイデアソン](https://appcon.connpass.com/event/242408/)
-- Apr 10 [キャリアプランに脆弱性診断を追加したい"未来の"初級者向け『日曜日のアフタヌーンセミナー』#05](https://kabuto.connpass.com/event/242939/)
-- Apr 9 [#React アプリコンテスト「 #ウンドウノキッカケ」 説明会（+アイデアソン）](https://appcon.connpass.com/event/241707/)
-- Apr 3 [キャリアプランに脆弱性診断を追加したい"未来の"初級者向け『日曜日のアフタヌーンセミナー』#04](https://kabuto.connpass.com/event/242937/)
-- Mar 29 [3/29(火)【第1031回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/242936/)
+- May 20 [ShizuHack 修善寺合宿](https://pycon-shizu.connpass.com/event/240554/)
+- Apr 20 [【LT残4枠！】エンジニアの失敗学 LT会](https://rakus.connpass.com/event/241835/)
+- Apr 18 [派生開発セミナー 長崎 「ホワイトカラーの知的生産技術　～仕事を見える化し設計する～」](https://nagasaki-it-engineers.connpass.com/event/242978/)
+- Apr 6 [【LT残4枠！】コードレビュー LT会 - vol.2 #codereviewlt](https://rakus.connpass.com/event/240393/)
+- Mar 29 [【ラクス】急成長SaaS群の利便性を高める共通基盤開発チーム立ち上げ／キャリア座談会](https://rakus.connpass.com/event/241809/)
 <!-- profile updater end: connpass -->
 
 <!---
