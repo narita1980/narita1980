@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 20 [ShizuHack 修善寺合宿](https://pycon-shizu.connpass.com/event/240554/)
-- Apr 20 [【LT残4枠！】エンジニアの失敗学 LT会](https://rakus.connpass.com/event/241835/)
-- Apr 18 [派生開発セミナー 長崎 「ホワイトカラーの知的生産技術　～仕事を見える化し設計する～」](https://nagasaki-it-engineers.connpass.com/event/242978/)
-- Apr 6 [【LT残4枠！】コードレビュー LT会 - vol.2 #codereviewlt](https://rakus.connpass.com/event/240393/)
-- Mar 29 [【ラクス】急成長SaaS群の利便性を高める共通基盤開発チーム立ち上げ／キャリア座談会](https://rakus.connpass.com/event/241809/)
+- Apr 24 [Roblox Studio Day（会場：あけみおSKYドーム会議室 + オンライン）](https://coderdojo-nago.connpass.com/event/243135/)
+- Apr 24 [micro:bit Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/243133/)
+- Apr 3 [【公式】NUMERCONをみんなで観る会](https://numerai.connpass.com/event/243137/)
+- Apr 1 [IT関係者のためのTOEIC徹底攻略　【外資ITサバイバル英語 番外編】](https://setk.connpass.com/event/242748/)
+- Mar 31 [3/31(木)【第1035回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/243132/)
 <!-- profile updater end: connpass -->
 
 <!---
