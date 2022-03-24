@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 24 [Roblox Studio Day（会場：あけみおSKYドーム会議室 + オンライン）](https://coderdojo-nago.connpass.com/event/243135/)
-- Apr 24 [micro:bit Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/243133/)
-- Apr 3 [【公式】NUMERCONをみんなで観る会](https://numerai.connpass.com/event/243137/)
-- Apr 1 [IT関係者のためのTOEIC徹底攻略　【外資ITサバイバル英語 番外編】](https://setk.connpass.com/event/242748/)
-- Mar 31 [3/31(木)【第1035回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/243132/)
+- Apr 22 [【超ショート】90秒LT会【2022Spring】 #90SecLT](https://shirayanagiryuji.connpass.com/event/243249/)
+- Apr 2 [APTエミュレーション＋Windowsイベントログ解析 in 札幌！](https://yamatosecurity.connpass.com/event/242602/)
+- Apr 1 [4/1(金)【第1037回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/243256/)
+- Mar 31 [ビデオはオフ！寝ぼけまなこでもくもく朝会](https://itmokumoku.connpass.com/event/243263/)
+- Mar 31 [IT系&誰でも参加OK！もくもく会_朝活_3/31(木)](https://morimori.connpass.com/event/243260/)
 <!-- profile updater end: connpass -->
 
 <!---
