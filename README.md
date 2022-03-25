@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 22 [【超ショート】90秒LT会【2022Spring】 #90SecLT](https://shirayanagiryuji.connpass.com/event/243249/)
-- Apr 2 [APTエミュレーション＋Windowsイベントログ解析 in 札幌！](https://yamatosecurity.connpass.com/event/242602/)
-- Apr 1 [4/1(金)【第1037回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/243256/)
-- Mar 31 [ビデオはオフ！寝ぼけまなこでもくもく朝会](https://itmokumoku.connpass.com/event/243263/)
-- Mar 31 [IT系&誰でも参加OK！もくもく会_朝活_3/31(木)](https://morimori.connpass.com/event/243260/)
+- Apr 15 [cluster広島LT大会 #4](https://hmcn.connpass.com/event/200281/)
+- Apr 15 [Azure LT会](https://fin-py.connpass.com/event/242570/)
+- Apr 9 [第105回 いわき情報技術研究会](https://iitg.connpass.com/event/243356/)
+- Apr 7 [Gストラング線形代数勉強会](https://study-data-analysis.connpass.com/event/243351/)
+- Apr 2 [4/2(土)【第1039回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/243354/)
 <!-- profile updater end: connpass -->
 
 <!---
