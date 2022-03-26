@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 15 [cluster広島LT大会 #4](https://hmcn.connpass.com/event/200281/)
-- Apr 15 [Azure LT会](https://fin-py.connpass.com/event/242570/)
-- Apr 9 [第105回 いわき情報技術研究会](https://iitg.connpass.com/event/243356/)
-- Apr 7 [Gストラング線形代数勉強会](https://study-data-analysis.connpass.com/event/243351/)
-- Apr 2 [4/2(土)【第1039回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/243354/)
+- Apr 28 [Accessiブランチ #16](https://accessiblunch.connpass.com/event/243454/)
+- Apr 19 [Botterのためのデータ可視化入門](https://fin-py.connpass.com/event/243267/)
+- Apr 16 [Notion Sapporo Meetup #004(オフライン開催)](https://notion-sapporo.connpass.com/event/242828/)
+- Apr 10 [子供たちのためのプログラミング初心者/未経験者向け・オンラインのみ【CoderDojo青梅】](https://coderdojo-ome.connpass.com/event/243456/)
+- Apr 3 [4/3(日)【第1041回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/243453/)
 <!-- profile updater end: connpass -->
 
 <!---
