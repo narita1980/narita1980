@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 31 [【One coin de code】欠損値処理あれこれ：R & Python](https://datascienceteam.connpass.com/event/243550/)
-- Apr 23 [夜中のヒソヒソ話 - IT業界パネルディスカッション](https://setk.connpass.com/event/243332/)
-- Apr 17 [情報処理おつかれNight](https://setk.connpass.com/event/243546/)
-- Apr 10 [もくもくスタディ；もくもく会 #7](https://mokumokustudy.connpass.com/event/243357/)
-- Apr 10 [オンライン早朝活会 #85](https://fledglingdeveloper.connpass.com/event/243548/)
+- Apr 30 [PBIJP DAX Boot Camp #20](https://powerbi.connpass.com/event/243642/)
+- Apr 23 [PBIJP Power Query 秘密特訓「虎の穴」炎の復活編 #13](https://powerbi.connpass.com/event/243641/)
+- Apr 16 [Notion Sapporo Meetup #004(オフライン開催)](https://notion-sapporo.connpass.com/event/242828/)
+- Apr 8 [【第4回ショプクリ交流会】LINE × 飲食業 × 物販ミニセミナー付きECで仕事している人の交流会](https://shopify-meetup.connpass.com/event/243599/)
+- Apr 3 [Roblox Day（会場：あけみおSKYドーム会議室 + オンライン）](https://coderdojo-nago.connpass.com/event/242264/)
 <!-- profile updater end: connpass -->
 
 <!---
