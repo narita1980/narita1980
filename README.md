@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 30 [PBIJP DAX Boot Camp #20](https://powerbi.connpass.com/event/243642/)
-- Apr 23 [PBIJP Power Query 秘密特訓「虎の穴」炎の復活編 #13](https://powerbi.connpass.com/event/243641/)
-- Apr 16 [Notion Sapporo Meetup #004(オフライン開催)](https://notion-sapporo.connpass.com/event/242828/)
-- Apr 8 [【第4回ショプクリ交流会】LINE × 飲食業 × 物販ミニセミナー付きECで仕事している人の交流会](https://shopify-meetup.connpass.com/event/243599/)
-- Apr 3 [Roblox Day（会場：あけみおSKYドーム会議室 + オンライン）](https://coderdojo-nago.connpass.com/event/242264/)
+- Apr 30 [第65回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/243250/)
+- Apr 20 [SaaSにおけるマルチテナント設計の悩みと勘所 | SaaS.tech #2](https://saas-tech.connpass.com/event/243204/)
+- Apr 15 [cluster広島LT大会 #4](https://hmcn.connpass.com/event/200281/)
+- Apr 13 [【やっていき・初心者も大歓迎】エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/241176/)
+- Apr 12 [kintone Café 浜松 Vol.40「kintoneの今」事例発表&LT](https://kintonecafe-hamamatsu.connpass.com/event/241897/)
 <!-- profile updater end: connpass -->
 
 <!---
