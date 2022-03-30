@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 30 [第65回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/243250/)
-- Apr 20 [SaaSにおけるマルチテナント設計の悩みと勘所 | SaaS.tech #2](https://saas-tech.connpass.com/event/243204/)
-- Apr 15 [cluster広島LT大会 #4](https://hmcn.connpass.com/event/200281/)
-- Apr 13 [【やっていき・初心者も大歓迎】エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/241176/)
-- Apr 12 [kintone Café 浜松 Vol.40「kintoneの今」事例発表&LT](https://kintonecafe-hamamatsu.connpass.com/event/241897/)
+- Apr 23 [【無料】Python数理最適化無料ソルバー対決](https://datascienceteam.connpass.com/event/243858/)
+- Apr 14 [【夕方のハンズオン】Monaca × NCMBでカメラメモアプリを作ろう](https://ncmb.connpass.com/event/243854/)
+- Apr 12 [【お昼のハンズオン】Monaca × NCMBでカメラメモアプリを作ろう](https://ncmb.connpass.com/event/243853/)
+- Apr 11 [JAWS-UG朝会 #32](https://jawsug-asa.connpass.com/event/240119/)
+- Apr 7 [【夕方のハンズオン】Swift ×  #NCMB でカメラメモアプリを作ろう](https://ncmb.connpass.com/event/243852/)
 <!-- profile updater end: connpass -->
 
 <!---
