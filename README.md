@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 23 [【無料】Python数理最適化無料ソルバー対決](https://datascienceteam.connpass.com/event/243858/)
-- Apr 14 [【夕方のハンズオン】Monaca × NCMBでカメラメモアプリを作ろう](https://ncmb.connpass.com/event/243854/)
-- Apr 12 [【お昼のハンズオン】Monaca × NCMBでカメラメモアプリを作ろう](https://ncmb.connpass.com/event/243853/)
-- Apr 11 [JAWS-UG朝会 #32](https://jawsug-asa.connpass.com/event/240119/)
-- Apr 7 [【夕方のハンズオン】Swift ×  #NCMB でカメラメモアプリを作ろう](https://ncmb.connpass.com/event/243852/)
+- Jul 31 [【お好きな日にオンライン】AIハンズオン（ねこ検出器をtinyMLで作ろう）](https://iotlab.connpass.com/event/240542/)
+- May 10 [JAWS-UG朝会 #33](https://jawsug-asa.connpass.com/event/240120/)
+- Apr 16 [kintone Café 浜松 x JAWS-UG 浜松 合同開催 ハンズオン](https://kintonecafe-hamamatsu.connpass.com/event/242330/)
+- Apr 8 [4/8(金)【第1051回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/243990/)
+- Apr 8 [4/8(金)【第1050回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/243989/)
 <!-- profile updater end: connpass -->
 
 <!---
