@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 31 [【お好きな日にオンライン】AIハンズオン（ねこ検出器をtinyMLで作ろう）](https://iotlab.connpass.com/event/240542/)
-- May 10 [JAWS-UG朝会 #33](https://jawsug-asa.connpass.com/event/240120/)
-- Apr 16 [kintone Café 浜松 x JAWS-UG 浜松 合同開催 ハンズオン](https://kintonecafe-hamamatsu.connpass.com/event/242330/)
-- Apr 8 [4/8(金)【第1051回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/243990/)
-- Apr 8 [4/8(金)【第1050回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/243989/)
+- Apr 24 [Python機械学習勉強会 in 新潟 #15](https://pyml-niigata.connpass.com/event/241267/)
+- Apr 20 [【関東-オンライン開催】XRミーティング 2022/04/20#XRMTG](https://osaka-driven-dev-br-tokyo.connpass.com/event/244102/)
+- Apr 20 [【信州オンライン】XRミーティング 2022/04/20 #XRMTG](https://xr-shinshu.connpass.com/event/243558/)
+- Apr 20 [【神戸オンライン】XRミーティング 2022/04/20#XRMTG](https://kobe-driven-dev.connpass.com/event/244104/)
+- Apr 20 [【大阪オンライン】XRミーティング 2022/04/20【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/244101/)
 <!-- profile updater end: connpass -->
 
 <!---
