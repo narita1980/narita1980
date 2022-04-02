@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 24 [Python機械学習勉強会 in 新潟 #15](https://pyml-niigata.connpass.com/event/241267/)
-- Apr 20 [【関東-オンライン開催】XRミーティング 2022/04/20#XRMTG](https://osaka-driven-dev-br-tokyo.connpass.com/event/244102/)
-- Apr 20 [【信州オンライン】XRミーティング 2022/04/20 #XRMTG](https://xr-shinshu.connpass.com/event/243558/)
-- Apr 20 [【神戸オンライン】XRミーティング 2022/04/20#XRMTG](https://kobe-driven-dev.connpass.com/event/244104/)
-- Apr 20 [【大阪オンライン】XRミーティング 2022/04/20【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/244101/)
+- May 20 [NestJS meetup Online #2](https://nest-jp.connpass.com/event/244015/)
+- May 6 [tailwindcss を嗜む会 v0.0.4](https://connpass.com/event/244164/)
+- Apr 16 [CoderDojo木曽 第2回](https://coderdojo-kiso.connpass.com/event/244188/)
+- Apr 9 [ネットワークの実機演習【大阪開催】](https://nespe.connpass.com/event/244054/)
+- Apr 9 [IT系&誰でも参加OK！もくもく会_朝活_4/9(土)](https://morimori.connpass.com/event/244196/)
 <!-- profile updater end: connpass -->
 
 <!---
