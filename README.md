@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 20 [NestJS meetup Online #2](https://nest-jp.connpass.com/event/244015/)
-- May 6 [tailwindcss を嗜む会 v0.0.4](https://connpass.com/event/244164/)
-- Apr 16 [CoderDojo木曽 第2回](https://coderdojo-kiso.connpass.com/event/244188/)
-- Apr 9 [ネットワークの実機演習【大阪開催】](https://nespe.connpass.com/event/244054/)
-- Apr 9 [IT系&誰でも参加OK！もくもく会_朝活_4/9(土)](https://morimori.connpass.com/event/244196/)
+- May 1 [toio Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/244211/)
+- Apr 20 [リピート開催 [抽選制] 3日間のハンズオンでデータ分析基盤構築！OpenHack for MDW](https://dllab.connpass.com/event/240736/)
+- Apr 11 [【オンライン】第1回 解いて覚える画像認識](https://paper-and-code.connpass.com/event/243345/)
+- Apr 11 [4/11(月)【第1057回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244254/)
+- Apr 11 [4/11(月)【第1056回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244252/)
 <!-- profile updater end: connpass -->
 
 <!---
