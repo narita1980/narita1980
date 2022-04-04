@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- May 7 [BスタIT塾 もくもく会](https://bista-it.connpass.com/event/244333/)
 - May 1 [toio Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/244211/)
-- Apr 20 [リピート開催 [抽選制] 3日間のハンズオンでデータ分析基盤構築！OpenHack for MDW](https://dllab.connpass.com/event/240736/)
-- Apr 11 [【オンライン】第1回 解いて覚える画像認識](https://paper-and-code.connpass.com/event/243345/)
-- Apr 11 [4/11(月)【第1057回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244254/)
-- Apr 11 [4/11(月)【第1056回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244252/)
+- Apr 27 [第51回OWASP Sendai ミーティング](https://owaspsendai.connpass.com/event/244331/)
+- Apr 24 [Roblox Studio Day（会場：あけみおSKYドーム会議室 + オンライン）](https://coderdojo-nago.connpass.com/event/243135/)
+- Apr 24 [micro:bit Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/243133/)
 <!-- profile updater end: connpass -->
 
 <!---
