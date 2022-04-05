@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 7 [BスタIT塾 もくもく会](https://bista-it.connpass.com/event/244333/)
-- May 1 [toio Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/244211/)
+- Apr 27 [【LT残6枠！】UI/UXデザイナーLT会 - vol.7 #uiuxdesignerslt](https://rakus.connpass.com/event/242505/)
 - Apr 27 [第51回OWASP Sendai ミーティング](https://owaspsendai.connpass.com/event/244331/)
-- Apr 24 [Roblox Studio Day（会場：あけみおSKYドーム会議室 + オンライン）](https://coderdojo-nago.connpass.com/event/243135/)
-- Apr 24 [micro:bit Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/243133/)
+- Apr 23 [【IWD2022】集え Flutter レディース](https://gdgkyoto.connpass.com/event/240258/)
+- Apr 20 [【無料】UXリサーチの実例紹介～ネットショップ構築サービス管理画面～（GMOメイクショップ×ベイジ）](https://connpass.com/event/244148/)
+- Apr 16 [◤xR with Anything Meetup #010◢ #xram81 #メタバース](https://xram.connpass.com/event/243831/)
 <!-- profile updater end: connpass -->
 
 <!---
