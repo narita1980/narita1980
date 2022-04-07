@@ -17,17 +17,16 @@
 - Feb 27 [Instagram（インスタ）で1万人を超えたアカウントのフォロアー数、フォロー数を知るためには"?__a=1"を付与する](https://qiita.com/narita1980/items/630b7014fa893461b991)
 - Feb 22 [Simple.cssチートシート](https://qiita.com/narita1980/items/fd2ccf0e91944aab9fd5)
 - Feb 21 [【公式資料】GitLab社で学んだ最高の働き方](https://qiita.com/narita1980/items/d7d142c2bb6312cb9ad6)
-- Feb 18 [【随時更新】クレしんチャレンジまとめ](https://qiita.com/narita1980/items/03d9a24b7ac1fdf81b18)
 <!-- profile updater end: qiita -->
 
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 10 [JAWS-UG朝会 #33](https://jawsug-asa.connpass.com/event/240120/)
-- Apr 27 [第3回 Okta 勉強会](https://okta.connpass.com/event/244426/)
-- Apr 23 [【エンジニアハウス】電子工作、webアプリ制作など](https://connpass.com/event/244549/)
-- Apr 19 [スクラム道関西 Meet Up～10周年だよ！スクラム道関西！～](https://scrumdo-kansai.connpass.com/event/243233/)
+- May 19 [Rakuten: Producing a Large-scale Cloud](https://rakuten.connpass.com/event/243219/)
+- Apr 23 [SSIでの仕事可視化とその考察（#35 第27回 現場改善会議）](https://jpinnova.connpass.com/event/244666/)
+- Apr 20 [【LT残1枠！】エンジニアの失敗学 LT会](https://rakus.connpass.com/event/241835/)
 - Apr 17 [toio Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/244471/)
+- Apr 15 [4/15(金)【第1065回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244663/)
 <!-- profile updater end: connpass -->
 
 <!---
