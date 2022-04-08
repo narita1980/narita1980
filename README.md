@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 19 [Rakuten: Producing a Large-scale Cloud](https://rakuten.connpass.com/event/243219/)
-- Apr 23 [SSIでの仕事可視化とその考察（#35 第27回 現場改善会議）](https://jpinnova.connpass.com/event/244666/)
-- Apr 20 [【LT残1枠！】エンジニアの失敗学 LT会](https://rakus.connpass.com/event/241835/)
-- Apr 17 [toio Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/244471/)
-- Apr 15 [4/15(金)【第1065回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244663/)
+- May 14 [第13回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/242202/)
+- Apr 28 [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#28](https://easy2.connpass.com/event/244472/)
+- Apr 21 [「これはすごかった！」自慢したいプロジェクトや仕事をIT企業４社がトーク！](https://rpacommunity.connpass.com/event/244750/)
+- Apr 17 [4/17(日)9:00～【第4回】オンラインもくもく会](https://connpass.com/event/244739/)
+- Apr 16 [#2 ジュニア層エンジニア向けLT会](https://tsumiage.connpass.com/event/243509/)
 <!-- profile updater end: connpass -->
 
 <!---
