@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 23 [夜中のヒソヒソ話 - IT業界パネルディスカッション](https://setk.connpass.com/event/243332/)
-- Apr 23 [.NETラボ 勉強会 2022年4月](https://dotnetlab.connpass.com/event/243974/)
-- Apr 23 [【第1回】プロジェクトマネージャ試験勉強会](https://setk.connpass.com/event/244856/)
-- Apr 17 [4/17(日)【第1069回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244854/)
-- Apr 17 [4/17(日)【第1068回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244853/)
+- May 20 [NestJS meetup Online #2](https://nest-jp.connpass.com/event/244015/)
+- May 8 [第21回 CoderDojo 三島/沼津](https://coderdojo-mn.connpass.com/event/228207/)
+- Apr 18 [4/18(月)【第1071回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244911/)
+- Apr 18 [4/18(月)【第1070回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244910/)
+- Apr 17 [赤羽長時間もくもく会](https://akabanelab.connpass.com/event/244917/)
 <!-- profile updater end: connpass -->
 
 <!---
