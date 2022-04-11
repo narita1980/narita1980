@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 20 [NestJS meetup Online #2](https://nest-jp.connpass.com/event/244015/)
-- May 8 [第21回 CoderDojo 三島/沼津](https://coderdojo-mn.connpass.com/event/228207/)
-- Apr 18 [4/18(月)【第1071回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244911/)
-- Apr 18 [4/18(月)【第1070回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/244910/)
-- Apr 17 [赤羽長時間もくもく会](https://akabanelab.connpass.com/event/244917/)
+- Apr 27 [【明日から使えるテスト技法勉強会】 #5 ～状態遷移テスト～](https://veriserve-event.connpass.com/event/243294/)
+- Apr 27 [第51回OWASP Sendai ミーティング](https://owaspsendai.connpass.com/event/244331/)
+- Apr 21 [和やかもくもく会｜未経験・学生歓迎！オンライン開催](https://acrovision-mokumoku.connpass.com/event/243581/)
+- Apr 20 [【LT残1枠！】エンジニアの失敗学 LT会](https://rakus.connpass.com/event/241835/)
+- Apr 18 [IT系&誰でも参加OK！もくもく会_朝活_4/18(月)](https://morimori.connpass.com/event/244990/)
 <!-- profile updater end: connpass -->
 
 <!---
