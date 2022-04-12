@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 27 [【明日から使えるテスト技法勉強会】 #5 ～状態遷移テスト～](https://veriserve-event.connpass.com/event/243294/)
-- Apr 27 [第51回OWASP Sendai ミーティング](https://owaspsendai.connpass.com/event/244331/)
-- Apr 21 [和やかもくもく会｜未経験・学生歓迎！オンライン開催](https://acrovision-mokumoku.connpass.com/event/243581/)
-- Apr 20 [【LT残1枠！】エンジニアの失敗学 LT会](https://rakus.connpass.com/event/241835/)
-- Apr 18 [IT系&誰でも参加OK！もくもく会_朝活_4/18(月)](https://morimori.connpass.com/event/244990/)
+- Jun 25 [オープンセミナー2022@広島](https://osh.connpass.com/event/242991/)
+- Jun 7 [JAWS-UG朝会 #34](https://jawsug-asa.connpass.com/event/240121/)
+- Apr 28 [NINNO Tech Fest #5](https://ninno-tech-fest.connpass.com/event/244448/)
+- Apr 27 [すごい広島 with Python[61] オンライン](https://pycon-hiroshima.connpass.com/event/243997/)
+- Apr 25 [OSH実行委員会 2022.04.25](https://osh-staff.connpass.com/event/245139/)
 <!-- profile updater end: connpass -->
 
 <!---
