@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 25 [オープンセミナー2022@広島](https://osh.connpass.com/event/242991/)
-- Jun 7 [JAWS-UG朝会 #34](https://jawsug-asa.connpass.com/event/240121/)
-- Apr 28 [NINNO Tech Fest #5](https://ninno-tech-fest.connpass.com/event/244448/)
-- Apr 27 [すごい広島 with Python[61] オンライン](https://pycon-hiroshima.connpass.com/event/243997/)
-- Apr 25 [OSH実行委員会 2022.04.25](https://osh-staff.connpass.com/event/245139/)
+- May 28 [【静岡県三島市・初心者・子供OK】micro:bit で Python プログラミングを体験しよう](https://neumann.connpass.com/event/245025/)
+- May 26 [アプリケーション開発観点からのTiDB - Java編](https://tug.connpass.com/event/245083/)
+- May 20 [Excel ライクなプロジェクト管理プラットフォーム Smartsheet 無料セミナー](https://xlsoft.connpass.com/event/245267/)
+- May 19 [What is New in TiDB 6.0？！](https://tug.connpass.com/event/245081/)
+- Apr 21 [アプリケーション開発観点からのTiDB - Ruby編](https://tug.connpass.com/event/245076/)
 <!-- profile updater end: connpass -->
 
 <!---
