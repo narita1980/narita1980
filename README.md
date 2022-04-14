@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 28 [【静岡県三島市・初心者・子供OK】micro:bit で Python プログラミングを体験しよう](https://neumann.connpass.com/event/245025/)
-- May 26 [アプリケーション開発観点からのTiDB - Java編](https://tug.connpass.com/event/245083/)
-- May 20 [Excel ライクなプロジェクト管理プラットフォーム Smartsheet 無料セミナー](https://xlsoft.connpass.com/event/245267/)
-- May 19 [What is New in TiDB 6.0？！](https://tug.connpass.com/event/245081/)
-- Apr 21 [アプリケーション開発観点からのTiDB - Ruby編](https://tug.connpass.com/event/245076/)
+- May 19 [kintone Café 帯広 vol.1](https://kintonecafeobihiro.connpass.com/event/245287/)
+- Apr 27 [Engineering Manager Meetup #10 オンライン](https://engineering-manager-meetup.connpass.com/event/239203/)
+- Apr 26 [ラクスの開発組織はどんなところ～若手エンジニアの成長機会～](https://rakus.connpass.com/event/245257/)
+- Apr 25 [急拡大するSaaS開発組織のマネジメント体制と役割](https://rakus.connpass.com/event/245253/)
+- Apr 22 [JDDStudy #8 データサイエンスの現場【オンライン】](https://japan-d2.connpass.com/event/242162/)
 <!-- profile updater end: connpass -->
 
 <!---
