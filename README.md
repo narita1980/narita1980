@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 19 [kintone Café 帯広 vol.1](https://kintonecafeobihiro.connpass.com/event/245287/)
-- Apr 27 [Engineering Manager Meetup #10 オンライン](https://engineering-manager-meetup.connpass.com/event/239203/)
-- Apr 26 [ラクスの開発組織はどんなところ～若手エンジニアの成長機会～](https://rakus.connpass.com/event/245257/)
-- Apr 25 [急拡大するSaaS開発組織のマネジメント体制と役割](https://rakus.connpass.com/event/245253/)
-- Apr 22 [JDDStudy #8 データサイエンスの現場【オンライン】](https://japan-d2.connpass.com/event/242162/)
+- May 13 [NRUG (New Relic User Group) SRE支部 Vol.1](https://nrug-sre.connpass.com/event/242783/)
+- Apr 27 [いまさら聞けない勉強会①　～Microsoft Intune～](https://connpass.com/event/244698/)
+- Apr 25 [DXでSaaSを増やした結果、情シスの仕事増えてないか!?](https://metaps.connpass.com/event/244726/)
+- Apr 22 [Nature Of Order チラ見する会](https://alexander-study.connpass.com/event/244432/)
+- Apr 21 [Kyash TechTalk #3 Mobileチーム - KMM化、宣言的UI、Widget対応](https://kyash.connpass.com/event/245297/)
 <!-- profile updater end: connpass -->
 
 <!---
