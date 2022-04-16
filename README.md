@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- May 14 [【CCNA実機ラボ＠ギークハウス川崎】ネットワーク勉強会5/14(土)10時~](https://cisco.connpass.com/event/245528/)
 - May 13 [NRUG (New Relic User Group) SRE支部 Vol.1](https://nrug-sre.connpass.com/event/242783/)
-- Apr 27 [いまさら聞けない勉強会①　～Microsoft Intune～](https://connpass.com/event/244698/)
-- Apr 25 [DXでSaaSを増やした結果、情シスの仕事増えてないか!?](https://metaps.connpass.com/event/244726/)
-- Apr 22 [Nature Of Order チラ見する会](https://alexander-study.connpass.com/event/244432/)
-- Apr 21 [Kyash TechTalk #3 Mobileチーム - KMM化、宣言的UI、Widget対応](https://kyash.connpass.com/event/245297/)
+- May 12 [Drupal Meetup Tokyo #67 - 05/2022 [オンライン開催]](https://drupal-tokyo.connpass.com/event/240594/)
+- May 3 [英語でOpen！人生の扉 - vol.3 音楽活動も、MBA取得もかなえた女性NY駐在員](https://setk.connpass.com/event/245498/)
+- Apr 29 [英語でOpen！人生の扉 - vol.2 商社勤務►EQ（感情知能）を学ぶため渡米した二児の母](https://setk.connpass.com/event/245316/)
 <!-- profile updater end: connpass -->
 
 <!---
