@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 14 [【CCNA実機ラボ＠ギークハウス川崎】ネットワーク勉強会5/14(土)10時~](https://cisco.connpass.com/event/245528/)
-- May 13 [NRUG (New Relic User Group) SRE支部 Vol.1](https://nrug-sre.connpass.com/event/242783/)
-- May 12 [Drupal Meetup Tokyo #67 - 05/2022 [オンライン開催]](https://drupal-tokyo.connpass.com/event/240594/)
-- May 3 [英語でOpen！人生の扉 - vol.3 音楽活動も、MBA取得もかなえた女性NY駐在員](https://setk.connpass.com/event/245498/)
-- Apr 29 [英語でOpen！人生の扉 - vol.2 商社勤務►EQ（感情知能）を学ぶため渡米した二児の母](https://setk.connpass.com/event/245316/)
+- May 13 [【CROSS Party online 2022 mini 】#1  テーマ：筋トレ](https://cross-party.connpass.com/event/244528/)
+- May 9 [ROS Japan UG #46 LT大会](https://rosjp.connpass.com/event/244199/)
+- Apr 24 [IT系&誰でも参加OK！もくもく会_朝活_4/24(日)](https://morimori.connpass.com/event/245589/)
+- Apr 24 [オンライン早朝活会 #86](https://fledglingdeveloper.connpass.com/event/245587/)
+- Apr 23 [2022年第3回openEHR研究会](https://openehr.connpass.com/event/245592/)
 <!-- profile updater end: connpass -->
 
 <!---
