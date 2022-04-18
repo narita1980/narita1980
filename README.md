@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 13 [【CROSS Party online 2022 mini 】#1  テーマ：筋トレ](https://cross-party.connpass.com/event/244528/)
-- May 9 [ROS Japan UG #46 LT大会](https://rosjp.connpass.com/event/244199/)
-- Apr 24 [IT系&誰でも参加OK！もくもく会_朝活_4/24(日)](https://morimori.connpass.com/event/245589/)
-- Apr 24 [オンライン早朝活会 #86](https://fledglingdeveloper.connpass.com/event/245587/)
-- Apr 23 [2022年第3回openEHR研究会](https://openehr.connpass.com/event/245592/)
+- May 15 [第23回オープンCAE勉強会@関東（構造など）](https://openfem-kanto.connpass.com/event/245421/)
+- May 13 [CAMPFIRE Tech Talk #1 エンジニアチームが取り組んでいる課題とこれから](https://connpass.com/event/245197/)
+- Apr 24 [[YouTube Live]Power BI Weekly News #20](https://pp-weeklynews.connpass.com/event/245622/)
+- Apr 23 [家電改造IoTハンズオン(Alexa対応扇風機を自作しよう)](https://iotlab.connpass.com/event/245638/)
+- Apr 23 [スマートホームハンズオン(Alexa対応赤外線リモコンを作ろう)](https://iotlab.connpass.com/event/244893/)
 <!-- profile updater end: connpass -->
 
 <!---
