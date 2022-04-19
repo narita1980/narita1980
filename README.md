@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 15 [第23回オープンCAE勉強会@関東（構造など）](https://openfem-kanto.connpass.com/event/245421/)
-- May 13 [CAMPFIRE Tech Talk #1 エンジニアチームが取り組んでいる課題とこれから](https://connpass.com/event/245197/)
-- Apr 24 [[YouTube Live]Power BI Weekly News #20](https://pp-weeklynews.connpass.com/event/245622/)
-- Apr 23 [家電改造IoTハンズオン(Alexa対応扇風機を自作しよう)](https://iotlab.connpass.com/event/245638/)
-- Apr 23 [スマートホームハンズオン(Alexa対応赤外線リモコンを作ろう)](https://iotlab.connpass.com/event/244893/)
+- May 13 [Raspberry piユーザー交流会　ようこそラズパイパイセン](https://telab.connpass.com/event/245765/)
+- May 13 [パスワードレス 顧客ID認証とBindIDの勉強会](https://transmitsecurity.connpass.com/event/245462/)
+- May 3 [【３日間１８時間】AI・DSの数学（参加費3,300円）](https://datascienceteam.connpass.com/event/243657/)
+- Apr 29 [第16回 意思決定のためのデータ分析勉強会 Hybrid開催](https://ishikettei.connpass.com/event/243276/)
+- Apr 26 [meet CTOs vol.8 〜 最強の開発組織づくりへの挑戦と壁](https://sun.connpass.com/event/244645/)
 <!-- profile updater end: connpass -->
 
 <!---
