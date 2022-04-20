@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 13 [Raspberry piユーザー交流会　ようこそラズパイパイセン](https://telab.connpass.com/event/245765/)
-- May 13 [パスワードレス 顧客ID認証とBindIDの勉強会](https://transmitsecurity.connpass.com/event/245462/)
-- May 3 [【３日間１８時間】AI・DSの数学（参加費3,300円）](https://datascienceteam.connpass.com/event/243657/)
-- Apr 29 [第16回 意思決定のためのデータ分析勉強会 Hybrid開催](https://ishikettei.connpass.com/event/243276/)
-- Apr 26 [meet CTOs vol.8 〜 最強の開発組織づくりへの挑戦と壁](https://sun.connpass.com/event/244645/)
+- May 14 [【SwiftUI】LazyVGrid / LazyHGridでグリッドデザインに挑戦しよう！！](https://codecandy.connpass.com/event/245804/)
+- Apr 28 [マルチクラウドMeetUP #8 ～AWS、Azure、GCP基礎（ID管理編）～](https://asiaquest.connpass.com/event/245833/)
+- Apr 26 [デジタルツイン空間スキャン！オフィス空間をコピーしてみた](https://connpass.com/event/245488/)
+- Apr 26 [Groonga開発者に聞け！（グルカイ！）](https://groonga.connpass.com/event/245898/)
+- Apr 22 [[オンライン開催] #ReactなんでもLT会 #4](https://ncdc-dev.connpass.com/event/243709/)
 <!-- profile updater end: connpass -->
 
 <!---
