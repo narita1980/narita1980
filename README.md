@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 14 [【SwiftUI】LazyVGrid / LazyHGridでグリッドデザインに挑戦しよう！！](https://codecandy.connpass.com/event/245804/)
-- Apr 28 [マルチクラウドMeetUP #8 ～AWS、Azure、GCP基礎（ID管理編）～](https://asiaquest.connpass.com/event/245833/)
-- Apr 26 [デジタルツイン空間スキャン！オフィス空間をコピーしてみた](https://connpass.com/event/245488/)
-- Apr 26 [Groonga開発者に聞け！（グルカイ！）](https://groonga.connpass.com/event/245898/)
-- Apr 22 [[オンライン開催] #ReactなんでもLT会 #4](https://ncdc-dev.connpass.com/event/243709/)
+- May 21 [【メタバース】フリーテーマ LT 会 C# Tokyo イベント](https://csharp-tokyo.connpass.com/event/245137/)
+- May 14 [運営メンバーによる座談会（#36 第28回 現場改善会議）](https://jpinnova.connpass.com/event/246006/)
+- May 12 [人型AIを解剖する――バーチャルヒューマンエージェントとは何か？](https://vhl.connpass.com/event/245079/)
+- May 4 [福岡XR部 Monthly Meetup #20-2022.5【オンライン】](https://fukuoka-xr-club.connpass.com/event/246007/)
+- Apr 28 [【オンライン】.NET 5 終了目前！ C# Tokyo イベント](https://csharp-tokyo.connpass.com/event/243622/)
 <!-- profile updater end: connpass -->
 
 <!---
