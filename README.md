@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 21 [【メタバース】フリーテーマ LT 会 C# Tokyo イベント](https://csharp-tokyo.connpass.com/event/245137/)
-- May 14 [運営メンバーによる座談会（#36 第28回 現場改善会議）](https://jpinnova.connpass.com/event/246006/)
-- May 12 [人型AIを解剖する――バーチャルヒューマンエージェントとは何か？](https://vhl.connpass.com/event/245079/)
-- May 4 [福岡XR部 Monthly Meetup #20-2022.5【オンライン】](https://fukuoka-xr-club.connpass.com/event/246007/)
-- Apr 28 [【オンライン】.NET 5 終了目前！ C# Tokyo イベント](https://csharp-tokyo.connpass.com/event/243622/)
+- May 27 [PHPerのための「静的解析」を語り合うPHP TechCafe](https://rakus.connpass.com/event/245646/)
+- May 13 [CAMPFIRE Tech Talk #1 エンジニアチームが取り組んでいる課題とこれから](https://connpass.com/event/245197/)
+- May 6 [CuboRex勉強会「テラボ」5月6日](https://telab.connpass.com/event/245769/)
+- Apr 27 [コンテナ共創センター勉強会 #12](https://5cm.connpass.com/event/237095/)
+- Apr 26 [デジタルツイン空間スキャン！オフィス空間をコピーしてみた](https://connpass.com/event/245488/)
 <!-- profile updater end: connpass -->
 
 <!---
