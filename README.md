@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 27 [PHPerのための「静的解析」を語り合うPHP TechCafe](https://rakus.connpass.com/event/245646/)
-- May 13 [CAMPFIRE Tech Talk #1 エンジニアチームが取り組んでいる課題とこれから](https://connpass.com/event/245197/)
-- May 6 [CuboRex勉強会「テラボ」5月6日](https://telab.connpass.com/event/245769/)
-- Apr 27 [コンテナ共創センター勉強会 #12](https://5cm.connpass.com/event/237095/)
-- Apr 26 [デジタルツイン空間スキャン！オフィス空間をコピーしてみた](https://connpass.com/event/245488/)
+- May 26 [【LT残2枠！】サーバーレス LT vol.2 #r_serverlesslt](https://rakus.connpass.com/event/244702/)
+- May 5 [IT系&誰でも参加OK！もくもく会_朝活_5/5(木)](https://morimori.connpass.com/event/246205/)
+- May 2 [IT系&誰でも参加OK！もくもく会_朝活_5/2(月)](https://morimori.connpass.com/event/246203/)
+- Apr 30 [Power Appsで備蓄品管理アプリを作ってみよう](https://youpowerplatform.connpass.com/event/244988/)
+- Apr 24 [IT資格をゲットだぜ](https://elv.connpass.com/event/244256/)
 <!-- profile updater end: connpass -->
 
 <!---
