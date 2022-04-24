@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 26 [【LT残2枠！】サーバーレス LT vol.2 #r_serverlesslt](https://rakus.connpass.com/event/244702/)
-- May 5 [IT系&誰でも参加OK！もくもく会_朝活_5/5(木)](https://morimori.connpass.com/event/246205/)
-- May 2 [IT系&誰でも参加OK！もくもく会_朝活_5/2(月)](https://morimori.connpass.com/event/246203/)
-- Apr 30 [Power Appsで備蓄品管理アプリを作ってみよう](https://youpowerplatform.connpass.com/event/244988/)
-- Apr 24 [IT資格をゲットだぜ](https://elv.connpass.com/event/244256/)
+- Jul 24 [第41回 CoderDojoとよなか（大阪）2022/07/24(Sun)](https://coderdojo-toyonaka.connpass.com/event/246116/)
+- May 21 [第39回 CoderDojoとよなか（大阪）2022/05/21(Sta)](https://coderdojo-toyonaka.connpass.com/event/241088/)
+- May 10 [dbt Tokyo Meetup #3](https://dbt-tokyo.connpass.com/event/246144/)
+- May 8 [【女性限定/オンライン】月刊フィントーク 輪読会](https://fintalk.connpass.com/event/246286/)
+- May 6 [IT系&誰でも参加OK！もくもく会_朝活_5/6(金)](https://morimori.connpass.com/event/246289/)
 <!-- profile updater end: connpass -->
 
 <!---
