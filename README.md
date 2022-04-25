@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 24 [第41回 CoderDojoとよなか（大阪）2022/07/24(Sun)](https://coderdojo-toyonaka.connpass.com/event/246116/)
-- May 21 [第39回 CoderDojoとよなか（大阪）2022/05/21(Sta)](https://coderdojo-toyonaka.connpass.com/event/241088/)
-- May 10 [dbt Tokyo Meetup #3](https://dbt-tokyo.connpass.com/event/246144/)
-- May 8 [【女性限定/オンライン】月刊フィントーク 輪読会](https://fintalk.connpass.com/event/246286/)
-- May 6 [IT系&誰でも参加OK！もくもく会_朝活_5/6(金)](https://morimori.connpass.com/event/246289/)
+- May 26 [【LT残2枠！】サーバーレス LT vol.2 #r_serverlesslt](https://rakus.connpass.com/event/244702/)
+- May 25 [【LT残3枠！】Python Tips LT会 - vol.3 #pythontipslt](https://rakus.connpass.com/event/244680/)
+- May 18 [「フロントエンドの情報収集/学習方法」を語るフロントエンドTechCafe](https://rakus.connpass.com/event/243857/)
+- May 17 [UV Study : フロントエンドLT会#6(Vue.js,TypeScript,CSS等)](https://uniquevision.connpass.com/event/243400/)
+- May 5 [toio Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/245810/)
 <!-- profile updater end: connpass -->
 
 <!---
