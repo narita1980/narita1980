@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 26 [【LT残2枠！】サーバーレス LT vol.2 #r_serverlesslt](https://rakus.connpass.com/event/244702/)
-- May 25 [【LT残3枠！】Python Tips LT会 - vol.3 #pythontipslt](https://rakus.connpass.com/event/244680/)
-- May 18 [「フロントエンドの情報収集/学習方法」を語るフロントエンドTechCafe](https://rakus.connpass.com/event/243857/)
-- May 17 [UV Study : フロントエンドLT会#6(Vue.js,TypeScript,CSS等)](https://uniquevision.connpass.com/event/243400/)
-- May 5 [toio Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/245810/)
+- May 25 [Cloud CIRCUS Meetup #1【2022/5/25（水）】](https://startialab.connpass.com/event/237357/)
+- May 18 [【GMOペパボ×メディアドゥ】VPoEが語るエンジニア組織づくり最前線vol.7](https://findy.connpass.com/event/244705/)
+- May 9 [OSH実行委員会 2022.05.09](https://osh-staff.connpass.com/event/246506/)
+- May 5 [Power BI 勉強会 GW合宿 2022 - 第参夜](https://powerbi.connpass.com/event/246431/)
+- May 4 [Power BI 勉強会 GW合宿 2022 - 第弐夜](https://powerbi.connpass.com/event/246427/)
 <!-- profile updater end: connpass -->
 
 <!---
