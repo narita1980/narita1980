@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 25 [Cloud CIRCUS Meetup #1【2022/5/25（水）】](https://startialab.connpass.com/event/237357/)
-- May 18 [【GMOペパボ×メディアドゥ】VPoEが語るエンジニア組織づくり最前線vol.7](https://findy.connpass.com/event/244705/)
-- May 9 [OSH実行委員会 2022.05.09](https://osh-staff.connpass.com/event/246506/)
-- May 5 [Power BI 勉強会 GW合宿 2022 - 第参夜](https://powerbi.connpass.com/event/246431/)
-- May 4 [Power BI 勉強会 GW合宿 2022 - 第弐夜](https://powerbi.connpass.com/event/246427/)
+- May 26 [第2回 Expert's Talk プロダクトの成長を支える主体的なエンジニア組織の作り方とは](https://libera.connpass.com/event/245444/)
+- May 19 [NFT＊アートに見るWEB3.0ビジネスの事業戦略とは](https://spectrumevent.connpass.com/event/245671/)
+- May 18 [ElixirImp#20：Elixir生誕10周年に合わせリニューアル！お仕事などキャッチーなネタで](https://fukuokaex.connpass.com/event/243791/)
+- May 10 [【補助金 × ECのミニセミナー付！】ショプクリ交流会](https://shopify-meetup.connpass.com/event/246516/)
+- May 6 [AWSの先週ふりかえり #ohayo_aws 2022.05.06](https://ohayo-aws.connpass.com/event/246598/)
 <!-- profile updater end: connpass -->
 
 <!---
