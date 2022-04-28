@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 26 [第2回 Expert's Talk プロダクトの成長を支える主体的なエンジニア組織の作り方とは](https://libera.connpass.com/event/245444/)
-- May 19 [NFT＊アートに見るWEB3.0ビジネスの事業戦略とは](https://spectrumevent.connpass.com/event/245671/)
-- May 18 [ElixirImp#20：Elixir生誕10周年に合わせリニューアル！お仕事などキャッチーなネタで](https://fukuokaex.connpass.com/event/243791/)
-- May 10 [【補助金 × ECのミニセミナー付！】ショプクリ交流会](https://shopify-meetup.connpass.com/event/246516/)
-- May 6 [AWSの先週ふりかえり #ohayo_aws 2022.05.06](https://ohayo-aws.connpass.com/event/246598/)
+- May 31 [【ニジボックス主催】デザインシステムがなぜ必要なのか？](https://business-and-creative.connpass.com/event/244012/)
+- May 28 [#土曜動画もくもく会 + オールジャンルの #もくもく会 #みんコワ vol.52](https://mokuyomokumoku.connpass.com/event/246713/)
+- May 26 [#木曜もくもく会 オンライン #みんコワ  vol.98](https://mokuyomokumoku.connpass.com/event/246711/)
+- May 21 [オンライン #土曜もくもく会  #みんコワ  vol.44](https://mokuyomokumoku.connpass.com/event/246715/)
+- May 19 [#木曜もくもく会 オンライン #みんコワ  vol.97](https://mokuyomokumoku.connpass.com/event/246710/)
 <!-- profile updater end: connpass -->
 
 <!---
