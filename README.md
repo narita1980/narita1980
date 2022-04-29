@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 31 [【ニジボックス主催】デザインシステムがなぜ必要なのか？](https://business-and-creative.connpass.com/event/244012/)
-- May 28 [#土曜動画もくもく会 + オールジャンルの #もくもく会 #みんコワ vol.52](https://mokuyomokumoku.connpass.com/event/246713/)
-- May 26 [#木曜もくもく会 オンライン #みんコワ  vol.98](https://mokuyomokumoku.connpass.com/event/246711/)
-- May 21 [オンライン #土曜もくもく会  #みんコワ  vol.44](https://mokuyomokumoku.connpass.com/event/246715/)
-- May 19 [#木曜もくもく会 オンライン #みんコワ  vol.97](https://mokuyomokumoku.connpass.com/event/246710/)
+- May 28 [つくばチャレンジ2022説明会](https://tsukubachallenge.connpass.com/event/246767/)
+- May 28 [Python Boot Camp in 佐賀](https://pyconjp.connpass.com/event/244411/)
+- May 26 [OpenShift Lounge (#16) - Edge+](https://openshift.connpass.com/event/245039/)
+- May 17 [【kokura.ex】「ElixirドキュメントやTypespecsを書いてみよう！」勉強会 #7](https://fukuokaex.connpass.com/event/246821/)
+- May 11 [最新のITや開発言語Elixirの話をします【kokura.exラジオ】#48](https://fukuokaex.connpass.com/event/246820/)
 <!-- profile updater end: connpass -->
 
 <!---
