@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 28 [つくばチャレンジ2022説明会](https://tsukubachallenge.connpass.com/event/246767/)
-- May 28 [Python Boot Camp in 佐賀](https://pyconjp.connpass.com/event/244411/)
-- May 26 [OpenShift Lounge (#16) - Edge+](https://openshift.connpass.com/event/245039/)
-- May 17 [【kokura.ex】「ElixirドキュメントやTypespecsを書いてみよう！」勉強会 #7](https://fukuokaex.connpass.com/event/246821/)
-- May 11 [最新のITや開発言語Elixirの話をします【kokura.exラジオ】#48](https://fukuokaex.connpass.com/event/246820/)
+- Jul 30 [【第6回】FUN FAN F# | Online](https://fun-fan-fsharp.connpass.com/event/246872/)
+- May 15 [漫画の描き方講座「キャラ作って漫画を描こう！」（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/242243/)
+- May 5 [ドローンプログラミング体験（会場：あけみおSKYドーム・会議室）](https://coderdojo-nago.connpass.com/event/245812/)
+- May 5 [toio Day② （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/245810/)
+- May 5 [toio Day① （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/246858/)
 <!-- profile updater end: connpass -->
 
 <!---
