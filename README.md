@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 30 [【第6回】FUN FAN F# | Online](https://fun-fan-fsharp.connpass.com/event/246872/)
-- May 15 [漫画の描き方講座「キャラ作って漫画を描こう！」（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/242243/)
-- May 5 [ドローンプログラミング体験（会場：あけみおSKYドーム・会議室）](https://coderdojo-nago.connpass.com/event/245812/)
-- May 5 [toio Day② （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/245810/)
-- May 5 [toio Day① （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/246858/)
+- May 18 [【大阪オンライン】XRミーティング 2022/05/18【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/246954/)
+- May 18 [【北海道オンライン会場】XRミーティング 2022/5/18 #XRMTG 【zoom接続】](https://connpass.com/event/246941/)
+- May 18 [【神戸オンライン】XRミーティング 2022/05/18#XRMTG](https://kobe-driven-dev.connpass.com/event/246957/)
+- May 18 [【関東-オンライン開催】XRミーティング 2022/05/18#XRMTG](https://osaka-driven-dev-br-tokyo.connpass.com/event/246956/)
+- May 8 [5/8(日)【第25回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/246955/)
 <!-- profile updater end: connpass -->
 
 <!---
