@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 18 [【大阪オンライン】XRミーティング 2022/05/18【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/246954/)
-- May 18 [【北海道オンライン会場】XRミーティング 2022/5/18 #XRMTG 【zoom接続】](https://connpass.com/event/246941/)
-- May 18 [【神戸オンライン】XRミーティング 2022/05/18#XRMTG](https://kobe-driven-dev.connpass.com/event/246957/)
-- May 18 [【関東-オンライン開催】XRミーティング 2022/05/18#XRMTG](https://osaka-driven-dev-br-tokyo.connpass.com/event/246956/)
-- May 8 [5/8(日)【第25回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/246955/)
+- May 17 [UV Study : フロントエンドLT会#6(Vue.js,TypeScript,CSS等)](https://uniquevision.connpass.com/event/243400/)
+- May 15 [第23回オープンCAE勉強会@関東（構造など）](https://openfem-kanto.connpass.com/event/245421/)
+- May 13 [[オンライン開催] #AWSなんでもLT会 #5](https://ncdc-dev.connpass.com/event/245292/)
+- May 11 [はんなりPython メタバース会 #5](https://hannari-python.connpass.com/event/247017/)
+- May 11 [【LT12名決定！】プロジェクトマネジメント Tips LT会 vol.4](https://rakus.connpass.com/event/243077/)
 <!-- profile updater end: connpass -->
 
 <!---
