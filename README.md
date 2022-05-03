@@ -13,20 +13,20 @@
 # Qiita Articles
 
 <!-- profile updater begin: qiita -->
+- May 3 [15分ルールで学習効果を高める（日本語訳）](https://qiita.com/narita1980/items/d0ad5246344fc6e4380f)
 - Mar 4 [GitHubのプルリクエストでファイルツリーが表示されるようになりました（ベータ版機能）](https://qiita.com/narita1980/items/bee2c5232342a51e0415)
 - Feb 27 [Instagram（インスタ）で1万人を超えたアカウントのフォロアー数、フォロー数を知るためには"?__a=1"を付与する](https://qiita.com/narita1980/items/630b7014fa893461b991)
 - Feb 22 [Simple.cssチートシート](https://qiita.com/narita1980/items/fd2ccf0e91944aab9fd5)
-- Feb 21 [【公式資料】GitLab社で学んだ最高の働き方](https://qiita.com/narita1980/items/d7d142c2bb6312cb9ad6)
 <!-- profile updater end: qiita -->
 
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 17 [UV Study : フロントエンドLT会#6(Vue.js,TypeScript,CSS等)](https://uniquevision.connpass.com/event/243400/)
-- May 15 [第23回オープンCAE勉強会@関東（構造など）](https://openfem-kanto.connpass.com/event/245421/)
-- May 13 [[オンライン開催] #AWSなんでもLT会 #5](https://ncdc-dev.connpass.com/event/245292/)
-- May 11 [はんなりPython メタバース会 #5](https://hannari-python.connpass.com/event/247017/)
-- May 11 [【LT12名決定！】プロジェクトマネジメント Tips LT会 vol.4](https://rakus.connpass.com/event/243077/)
+- Jun 12 [動画で学ぶデータサイエンス(79回目)](https://learning-data-science-from-youtube.connpass.com/event/247155/)
+- Jun 5 [動画で学ぶデータサイエンス(78回目)](https://learning-data-science-from-youtube.connpass.com/event/247154/)
+- May 29 [動画で学ぶデータサイエンス(77回目)](https://learning-data-science-from-youtube.connpass.com/event/247153/)
+- May 22 [動画で学ぶデータサイエンス(76回目)](https://learning-data-science-from-youtube.connpass.com/event/247151/)
+- May 15 [動画で学ぶデータサイエンス(75回目)](https://learning-data-science-from-youtube.connpass.com/event/247149/)
 <!-- profile updater end: connpass -->
 
 <!---
