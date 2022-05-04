@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 12 [動画で学ぶデータサイエンス(79回目)](https://learning-data-science-from-youtube.connpass.com/event/247155/)
-- Jun 5 [動画で学ぶデータサイエンス(78回目)](https://learning-data-science-from-youtube.connpass.com/event/247154/)
-- May 29 [動画で学ぶデータサイエンス(77回目)](https://learning-data-science-from-youtube.connpass.com/event/247153/)
-- May 22 [動画で学ぶデータサイエンス(76回目)](https://learning-data-science-from-youtube.connpass.com/event/247151/)
-- May 15 [動画で学ぶデータサイエンス(75回目)](https://learning-data-science-from-youtube.connpass.com/event/247149/)
+- Jun 12 [目黒もくもく勉強会](https://online-mokumoku.connpass.com/event/247215/)
+- Jun 5 [目黒もくもく勉強会](https://online-mokumoku.connpass.com/event/247214/)
+- May 22 [目黒もくもく勉強会](https://online-mokumoku.connpass.com/event/247213/)
+- May 15 [目黒もくもく勉強会](https://online-mokumoku.connpass.com/event/247212/)
+- May 10 [バーチャル空間で作るテレワーク時代の社内コミュニケーション活性化【実演付き】](https://connpass.com/event/247216/)
 <!-- profile updater end: connpass -->
 
 <!---
