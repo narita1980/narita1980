@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 12 [目黒もくもく勉強会](https://online-mokumoku.connpass.com/event/247215/)
-- Jun 5 [目黒もくもく勉強会](https://online-mokumoku.connpass.com/event/247214/)
-- May 22 [目黒もくもく勉強会](https://online-mokumoku.connpass.com/event/247213/)
-- May 15 [目黒もくもく勉強会](https://online-mokumoku.connpass.com/event/247212/)
-- May 10 [バーチャル空間で作るテレワーク時代の社内コミュニケーション活性化【実演付き】](https://connpass.com/event/247216/)
+- May 23 [2022/5/23(月)　東川口もくもく会【使用言語不問！】](https://connpass.com/event/247222/)
+- May 23 [2022/5/30(月)　東川口もくもく会【使用言語不問！】](https://connpass.com/event/247223/)
+- May 22 [5/22(日)【ゆるもく会！】in 渋谷](https://yulumoku.connpass.com/event/246489/)
+- May 16 [2022/5/16(月)　東川口もくもく会【使用言語不問！】](https://connpass.com/event/247221/)
+- May 9 [2022/5/9(月)東川口もくもく会【使用言語不問！】](https://connpass.com/event/247226/)
 <!-- profile updater end: connpass -->
 
 <!---
