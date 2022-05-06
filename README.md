@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 23 [2022/5/23(月)　東川口もくもく会【使用言語不問！】](https://connpass.com/event/247222/)
-- May 23 [2022/5/30(月)　東川口もくもく会【使用言語不問！】](https://connpass.com/event/247223/)
-- May 22 [5/22(日)【ゆるもく会！】in 渋谷](https://yulumoku.connpass.com/event/246489/)
-- May 16 [2022/5/16(月)　東川口もくもく会【使用言語不問！】](https://connpass.com/event/247221/)
-- May 9 [2022/5/9(月)東川口もくもく会【使用言語不問！】](https://connpass.com/event/247226/)
+- Jun 15 [【LT残5枠！】フロントエンドLT会 - vol.7　#frontendlt](https://rakus.connpass.com/event/245664/)
+- Jun 9 [【LT残5枠！】Git & GitHub LT会](https://rakus.connpass.com/event/245410/)
+- May 28 [Python Boot Camp in 佐賀](https://pyconjp.connpass.com/event/244411/)
+- May 26 [【LT残2枠！】サーバーレス LT vol.2 #r_serverlesslt](https://rakus.connpass.com/event/244702/)
+- May 25 [【LT残3枠！】Python Tips LT会 - vol.3 #pythontipslt](https://rakus.connpass.com/event/244680/)
 <!-- profile updater end: connpass -->
 
 <!---
