@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 15 [【LT残5枠！】フロントエンドLT会 - vol.7　#frontendlt](https://rakus.connpass.com/event/245664/)
-- Jun 9 [【LT残5枠！】Git & GitHub LT会](https://rakus.connpass.com/event/245410/)
-- May 28 [Python Boot Camp in 佐賀](https://pyconjp.connpass.com/event/244411/)
-- May 26 [【LT残2枠！】サーバーレス LT vol.2 #r_serverlesslt](https://rakus.connpass.com/event/244702/)
-- May 25 [【LT残3枠！】Python Tips LT会 - vol.3 #pythontipslt](https://rakus.connpass.com/event/244680/)
+- Jun 29 [SMARTCAMP Tech Talk#2 開発効率を上げるためのエンジニアとデザイナーの共創](https://smartcamp.connpass.com/event/245405/)
+- Jun 5 [Robot Day②※toio、KOOV（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/247309/)
+- Jun 2 [#Obsidian 使っているんでちょっと話します](https://distributed-agile-team.connpass.com/event/247156/)
+- May 28 [.NETラボ 勉強会 2022年5月](https://dotnetlab.connpass.com/event/246279/)
+- May 21 [Unityゆるもく勉強会 in 島根 #22](https://chiikiokoshi-vr.connpass.com/event/247375/)
 <!-- profile updater end: connpass -->
 
 <!---
