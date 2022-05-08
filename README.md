@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 29 [SMARTCAMP Tech Talk#2 開発効率を上げるためのエンジニアとデザイナーの共創](https://smartcamp.connpass.com/event/245405/)
-- Jun 5 [Robot Day②※toio、KOOV（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/247309/)
-- Jun 2 [#Obsidian 使っているんでちょっと話します](https://distributed-agile-team.connpass.com/event/247156/)
-- May 28 [.NETラボ 勉強会 2022年5月](https://dotnetlab.connpass.com/event/246279/)
-- May 21 [Unityゆるもく勉強会 in 島根 #22](https://chiikiokoshi-vr.connpass.com/event/247375/)
+- May 21 [Hack.BAR~Enginner's BAR~ プレオープン](https://connpass.com/event/246875/)
+- May 15 [オンライン早朝活会 #88](https://fledglingdeveloper.connpass.com/event/247463/)
+- May 14 [池袋もくもく会（久々に開催）](https://re-ike-moku.connpass.com/event/246737/)
+- May 13 [IT系&誰でも参加OK！もくもく会_朝活_5/13(金)](https://morimori.connpass.com/event/247462/)
+- May 10 [プロジェクトマネジメントについてLT！ TechDLT Vol.6](https://techdmeetup.connpass.com/event/244418/)
 <!-- profile updater end: connpass -->
 
 <!---
