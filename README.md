@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 21 [Hack.BAR~Enginner's BAR~ プレオープン](https://connpass.com/event/246875/)
-- May 15 [オンライン早朝活会 #88](https://fledglingdeveloper.connpass.com/event/247463/)
-- May 14 [池袋もくもく会（久々に開催）](https://re-ike-moku.connpass.com/event/246737/)
-- May 13 [IT系&誰でも参加OK！もくもく会_朝活_5/13(金)](https://morimori.connpass.com/event/247462/)
-- May 10 [プロジェクトマネジメントについてLT！ TechDLT Vol.6](https://techdmeetup.connpass.com/event/244418/)
+- Jun 15 [【LT残2枠！】フロントエンドLT会 - vol.7　#frontendlt](https://rakus.connpass.com/event/245664/)
+- Jun 2 [初心者対象！ステップで学ぶ、LINE WORKSはじめてのBot開発ハンズオン（2回構成）](https://lwug.connpass.com/event/244494/)
+- May 26 [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#29](https://easy2.connpass.com/event/247539/)
+- May 26 [【LT残1枠！】サーバーレス LT vol.2 #r_serverlesslt](https://rakus.connpass.com/event/244702/)
+- May 19 [エンジニア採用完全網羅。100のワークフローを徹底解説。](https://trackrecords.connpass.com/event/246100/)
 <!-- profile updater end: connpass -->
 
 <!---
