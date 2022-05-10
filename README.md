@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 15 [【LT残2枠！】フロントエンドLT会 - vol.7　#frontendlt](https://rakus.connpass.com/event/245664/)
-- Jun 2 [初心者対象！ステップで学ぶ、LINE WORKSはじめてのBot開発ハンズオン（2回構成）](https://lwug.connpass.com/event/244494/)
-- May 26 [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#29](https://easy2.connpass.com/event/247539/)
-- May 26 [【LT残1枠！】サーバーレス LT vol.2 #r_serverlesslt](https://rakus.connpass.com/event/244702/)
-- May 19 [エンジニア採用完全網羅。100のワークフローを徹底解説。](https://trackrecords.connpass.com/event/246100/)
+- Aug 26 [AWS Startup Community Conference 2022](https://aws-startup-community.connpass.com/event/247548/)
+- Jun 24 [3D都市モデル PLATEAU LT 01](https://asciistartup.connpass.com/event/247073/)
+- May 28 [第66回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/246846/)
+- May 19 [【完全網羅】エンジニア採用ワークフロー解説セミナー](https://trackrecords.connpass.com/event/246100/)
+- May 17 [northernforce #16](https://northernforce.connpass.com/event/245715/)
 <!-- profile updater end: connpass -->
 
 <!---
