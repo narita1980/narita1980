@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 26 [AWS Startup Community Conference 2022](https://aws-startup-community.connpass.com/event/247548/)
-- Jun 24 [3D都市モデル PLATEAU LT 01](https://asciistartup.connpass.com/event/247073/)
-- May 28 [第66回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/246846/)
-- May 19 [【完全網羅】エンジニア採用ワークフロー解説セミナー](https://trackrecords.connpass.com/event/246100/)
-- May 17 [northernforce #16](https://northernforce.connpass.com/event/245715/)
+- Jun 1 [ASP.NET Core環境でActiveReportsを使ってみよう！（.NET 6対応版）](https://grapecity-dev-tools.connpass.com/event/247299/)
+- May 25 [みんなで Adobe XD Trail 2022 #2（全6回）5/25 スタック＆パララックス](https://xdtrail.connpass.com/event/245363/)
+- May 25 [Stockmark Tech Meetup #02](https://stockmark.connpass.com/event/247318/)
+- May 25 [いまさら聞けない勉強会②　～Azure AD～](https://connpass.com/event/247056/)
+- May 22 [初心者歓迎！Blender勉強会#５](https://c-sagyoba-benkyoukai.connpass.com/event/247412/)
 <!-- profile updater end: connpass -->
 
 <!---
