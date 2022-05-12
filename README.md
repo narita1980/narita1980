@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 1 [ASP.NET Core環境でActiveReportsを使ってみよう！（.NET 6対応版）](https://grapecity-dev-tools.connpass.com/event/247299/)
-- May 25 [みんなで Adobe XD Trail 2022 #2（全6回）5/25 スタック＆パララックス](https://xdtrail.connpass.com/event/245363/)
-- May 25 [Stockmark Tech Meetup #02](https://stockmark.connpass.com/event/247318/)
-- May 25 [いまさら聞けない勉強会②　～Azure AD～](https://connpass.com/event/247056/)
-- May 22 [初心者歓迎！Blender勉強会#５](https://c-sagyoba-benkyoukai.connpass.com/event/247412/)
+- Jun 7 [【エンジニア向けハンズオン】Dataikuを使ってみよう！](https://dataiku.connpass.com/event/245013/)
+- May 29 [[Web技術でモバイルアプリをつくる] Ionic Meetup #19 Tokyo](https://ionic-jp.connpass.com/event/245649/)
+- May 25 [新・脆弱性診断スキル習得への一歩を踏み出したい"新たな"初心者向け『オンラインセミナー』#03](https://kabuto.connpass.com/event/247956/)
+- May 25 [最強DB講義  #16 PostgreSQL アーキテクチャの概要 （長田悠吾氏）](https://dblectures.connpass.com/event/247965/)
+- May 20 [NervesJP #25 #kochiex がなんかええもんつくったらしい回](https://nerves-jp.connpass.com/event/247904/)
 <!-- profile updater end: connpass -->
 
 <!---
