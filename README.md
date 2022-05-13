@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 7 [【エンジニア向けハンズオン】Dataikuを使ってみよう！](https://dataiku.connpass.com/event/245013/)
-- May 29 [[Web技術でモバイルアプリをつくる] Ionic Meetup #19 Tokyo](https://ionic-jp.connpass.com/event/245649/)
-- May 25 [新・脆弱性診断スキル習得への一歩を踏み出したい"新たな"初心者向け『オンラインセミナー』#03](https://kabuto.connpass.com/event/247956/)
-- May 25 [最強DB講義  #16 PostgreSQL アーキテクチャの概要 （長田悠吾氏）](https://dblectures.connpass.com/event/247965/)
-- May 20 [NervesJP #25 #kochiex がなんかええもんつくったらしい回](https://nerves-jp.connpass.com/event/247904/)
+- Jun 15 [Plone研究会第75期 #1](https://plonejp.connpass.com/event/248096/)
+- Jun 15 [【LT満員御礼！】フロントエンドLT会 - vol.7　#frontendlt](https://rakus.connpass.com/event/245664/)
+- Jun 7 [組み込みソフトウェア品質向上！新時代の要件にも対応する最新開発ツール](https://apss.connpass.com/event/247575/)
+- May 28 [【神戸】アプリ開発（DX/AI/XR）新規事業開発相談会 2022/05/28](https://kobe-driven-dev.connpass.com/event/248094/)
+- May 27 [Alibaba Cloud Developers Meetup #21](https://alibabacloud.connpass.com/event/247758/)
 <!-- profile updater end: connpass -->
 
 <!---
