@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 15 [Plone研究会第75期 #1](https://plonejp.connpass.com/event/248096/)
-- Jun 15 [【LT満員御礼！】フロントエンドLT会 - vol.7　#frontendlt](https://rakus.connpass.com/event/245664/)
-- Jun 7 [組み込みソフトウェア品質向上！新時代の要件にも対応する最新開発ツール](https://apss.connpass.com/event/247575/)
-- May 28 [【神戸】アプリ開発（DX/AI/XR）新規事業開発相談会 2022/05/28](https://kobe-driven-dev.connpass.com/event/248094/)
-- May 27 [Alibaba Cloud Developers Meetup #21](https://alibabacloud.connpass.com/event/247758/)
+- Jun 11 [Blenderで3DCG作ってみよう（会場：あけみおSKYドーム会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/247903/)
+- Jun 5 [【オンライン開催】LinuC（リナック）レベル2 Version10.0 技術解説無料セミナー](https://connpass.com/event/246027/)
+- May 26 [すぐにでもAIをビジネスに活用したい企業必見！〜2022年抑えておきたいAI最新事例〜](https://connpass.com/event/247999/)
+- May 22 [初心者歓迎！Blender勉強会#５](https://c-sagyoba-benkyoukai.connpass.com/event/247412/)
+- May 21 [◤xR with Anything Meetup #011◢ #xram81 #メタバース](https://xram.connpass.com/event/245856/)
 <!-- profile updater end: connpass -->
 
 <!---
