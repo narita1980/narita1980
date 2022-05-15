@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 11 [Blenderで3DCG作ってみよう（会場：あけみおSKYドーム会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/247903/)
-- Jun 5 [【オンライン開催】LinuC（リナック）レベル2 Version10.0 技術解説無料セミナー](https://connpass.com/event/246027/)
-- May 26 [すぐにでもAIをビジネスに活用したい企業必見！〜2022年抑えておきたいAI最新事例〜](https://connpass.com/event/247999/)
-- May 22 [初心者歓迎！Blender勉強会#５](https://c-sagyoba-benkyoukai.connpass.com/event/247412/)
-- May 21 [◤xR with Anything Meetup #011◢ #xram81 #メタバース](https://xram.connpass.com/event/245856/)
+- Jun 11 [小江戸らぐ 6月のオフな集まり(第239回)](https://koedolug.connpass.com/event/248209/)
+- May 30 [あつまれOutSystems Developer!開発者超会議 2022](https://outsystems-chubu.connpass.com/event/246102/)
+- May 22 [IT系&誰でも参加OK！もくもく会_朝活_5/22(日)](https://morimori.connpass.com/event/248237/)
+- May 22 [5/22(日)【第29回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/248244/)
+- May 21 [「Python実践入門」読書会9](https://yuruora.connpass.com/event/248221/)
 <!-- profile updater end: connpass -->
 
 <!---
