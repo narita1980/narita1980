@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 11 [小江戸らぐ 6月のオフな集まり(第239回)](https://koedolug.connpass.com/event/248209/)
-- May 30 [あつまれOutSystems Developer!開発者超会議 2022](https://outsystems-chubu.connpass.com/event/246102/)
-- May 22 [IT系&誰でも参加OK！もくもく会_朝活_5/22(日)](https://morimori.connpass.com/event/248237/)
-- May 22 [5/22(日)【第29回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/248244/)
-- May 21 [「Python実践入門」読書会9](https://yuruora.connpass.com/event/248221/)
+- Jun 3 [[実務1日から!!エンジニアのつながる会] meta hoop](https://connpass.com/event/248319/)
+- Jun 1 [ASP.NET Core環境でActiveReportsを使ってみよう！（.NET 6対応版）](https://grapecity-dev-tools.connpass.com/event/247299/)
+- May 28 [機械学習の社会実装勉強会第11回](https://machine-learning-workshop.connpass.com/event/246825/)
+- May 27 [Hack Fukuoka May](https://engineercafe.connpass.com/event/240772/)
+- May 27 [Hack Fukuoka May](https://engineercafe.connpass.com/event/248224/)
 <!-- profile updater end: connpass -->
 
 <!---
