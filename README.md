@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 3 [[実務1日から!!エンジニアのつながる会] meta hoop](https://connpass.com/event/248319/)
-- Jun 1 [ASP.NET Core環境でActiveReportsを使ってみよう！（.NET 6対応版）](https://grapecity-dev-tools.connpass.com/event/247299/)
-- May 28 [機械学習の社会実装勉強会第11回](https://machine-learning-workshop.connpass.com/event/246825/)
-- May 27 [Hack Fukuoka May](https://engineercafe.connpass.com/event/240772/)
-- May 27 [Hack Fukuoka May](https://engineercafe.connpass.com/event/248224/)
+- Jun 16 [【LT満員御礼！】アジャイルをゆるく語りたい！](https://rakus.connpass.com/event/246437/)
+- Jun 3 [QA Online #2](https://testonline.connpass.com/event/247088/)
+- May 25 [05月25日開催 JPHACKS2022 スポンサー検討企業様向けオンライン説明会](https://jphacks.connpass.com/event/247779/)
+- May 24 [無料で始める！サーバー構築入門](https://fujitsufjct.connpass.com/event/247667/)
+- May 24 [NIFTY TechTalk スクラム#1 ※Zoomで配信します！](https://nifty.connpass.com/event/246720/)
 <!-- profile updater end: connpass -->
 
 <!---
