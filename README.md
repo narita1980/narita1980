@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 16 [【LT満員御礼！】アジャイルをゆるく語りたい！](https://rakus.connpass.com/event/246437/)
-- Jun 3 [QA Online #2](https://testonline.connpass.com/event/247088/)
-- May 25 [05月25日開催 JPHACKS2022 スポンサー検討企業様向けオンライン説明会](https://jphacks.connpass.com/event/247779/)
-- May 24 [無料で始める！サーバー構築入門](https://fujitsufjct.connpass.com/event/247667/)
-- May 24 [NIFTY TechTalk スクラム#1 ※Zoomで配信します！](https://nifty.connpass.com/event/246720/)
+- Jun 19 [ドローンプログラミング体験（会場：あけみおSKYドーム・会議室）](https://coderdojo-nago.connpass.com/event/247530/)
+- Jun 15 [ビジュアルプログラミングIoTLT vol.11](https://iotlt.connpass.com/event/248321/)
+- Jun 11 [micro:bit Day （会場：あけみおSKYドーム+オンライン）](https://coderdojo-nago.connpass.com/event/247655/)
+- Jun 2 [MIERUNE Meetup mini #03](https://mierune.connpass.com/event/247710/)
+- May 28 [ふくもく会 その88 〜カンヅメ-黙々戦士の逆襲-〜](https://fukumoku.connpass.com/event/248193/)
 <!-- profile updater end: connpass -->
 
 <!---
