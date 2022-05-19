@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 19 [ドローンプログラミング体験（会場：あけみおSKYドーム・会議室）](https://coderdojo-nago.connpass.com/event/247530/)
-- Jun 15 [ビジュアルプログラミングIoTLT vol.11](https://iotlt.connpass.com/event/248321/)
-- Jun 11 [micro:bit Day （会場：あけみおSKYドーム+オンライン）](https://coderdojo-nago.connpass.com/event/247655/)
-- Jun 2 [MIERUNE Meetup mini #03](https://mierune.connpass.com/event/247710/)
-- May 28 [ふくもく会 その88 〜カンヅメ-黙々戦士の逆襲-〜](https://fukumoku.connpass.com/event/248193/)
+- Jun 17 [Qualcomm Tech Day 2022Jun](https://apss.connpass.com/event/248565/)
+- Jun 8 [【LT残1枠！】自動化大好きエンジニアLT会 - vol.7](https://rakus.connpass.com/event/245663/)
+- Jun 7 [BtoB SaaSプロダクトの勘所・アーキテクチャ裏側紹介 | BtoB tech meetup#1](https://btob-tech.connpass.com/event/247407/)
+- May 29 [DX時代のセキュアシステム構築講座1回目：IoTデバイスのセキュリティ設定と対策](https://mgt-college.connpass.com/event/248161/)
+- May 27 [【LT満員御礼！】PHPerのための「静的解析」を語り合うPHP TechCafe](https://rakus.connpass.com/event/245646/)
 <!-- profile updater end: connpass -->
 
 <!---
