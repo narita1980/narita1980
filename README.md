@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 17 [Qualcomm Tech Day 2022Jun](https://apss.connpass.com/event/248565/)
-- Jun 8 [【LT残1枠！】自動化大好きエンジニアLT会 - vol.7](https://rakus.connpass.com/event/245663/)
+- Jul 14 [【質問募集】教えて！テックリード](https://mokuteku.connpass.com/event/247680/)
+- Jun 23 [【LT残4枠！】Web API LT会 - vol.4](https://rakus.connpass.com/event/246057/)
+- Jun 8 [「入社して1年、何をやっていたの？」成長ふりかえりLT会](https://shiftevolve.connpass.com/event/244375/)
 - Jun 7 [BtoB SaaSプロダクトの勘所・アーキテクチャ裏側紹介 | BtoB tech meetup#1](https://btob-tech.connpass.com/event/247407/)
-- May 29 [DX時代のセキュアシステム構築講座1回目：IoTデバイスのセキュリティ設定と対策](https://mgt-college.connpass.com/event/248161/)
-- May 27 [【LT満員御礼！】PHPerのための「静的解析」を語り合うPHP TechCafe](https://rakus.connpass.com/event/245646/)
+- May 31 [PlayCanvasでリリックアプリを作ろうハンズオン！](https://playcanvasjp.connpass.com/event/248120/)
 <!-- profile updater end: connpass -->
 
 <!---
