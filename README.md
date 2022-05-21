@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 14 [【質問募集】教えて！テックリード](https://mokuteku.connpass.com/event/247680/)
-- Jun 23 [【LT残4枠！】Web API LT会 - vol.4](https://rakus.connpass.com/event/246057/)
-- Jun 8 [「入社して1年、何をやっていたの？」成長ふりかえりLT会](https://shiftevolve.connpass.com/event/244375/)
-- Jun 7 [BtoB SaaSプロダクトの勘所・アーキテクチャ裏側紹介 | BtoB tech meetup#1](https://btob-tech.connpass.com/event/247407/)
-- May 31 [PlayCanvasでリリックアプリを作ろうハンズオン！](https://playcanvasjp.connpass.com/event/248120/)
+- Jun 11 [Perl入学式 in千歳(2022) 第2回](https://perl-entrance-chitose.connpass.com/event/248796/)
+- May 31 [EC／D2Cで知っておきたいマーケティングの打ち手と、運営効率化の方法](https://tokyofreelance.connpass.com/event/248555/)
+- May 29 [5/29(日)【第1153回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/248898/)
+- May 29 [イノベーショントーク：ニューノーマル時代の共創空間のあり方を考える](https://hmcn.connpass.com/event/248901/)
+- May 25 [【第17回】朝からもくもく会](https://asa-moku.connpass.com/event/248774/)
 <!-- profile updater end: connpass -->
 
 <!---
