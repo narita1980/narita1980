@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 11 [Perl入学式 in千歳(2022) 第2回](https://perl-entrance-chitose.connpass.com/event/248796/)
-- May 31 [EC／D2Cで知っておきたいマーケティングの打ち手と、運営効率化の方法](https://tokyofreelance.connpass.com/event/248555/)
-- May 29 [5/29(日)【第1153回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/248898/)
-- May 29 [イノベーショントーク：ニューノーマル時代の共創空間のあり方を考える](https://hmcn.connpass.com/event/248901/)
-- May 25 [【第17回】朝からもくもく会](https://asa-moku.connpass.com/event/248774/)
+- Jun 25 [第14回 他の人が知らなさそうな面白いことを紹介する会議](https://agora.connpass.com/event/248960/)
+- Jun 12 [【女性限定/オンライン】月刊フィントーク 輪読会](https://fintalk.connpass.com/event/248963/)
+- May 31 [Mix Leap LT #46 - 注目のITトレンド（メタバース、NFT、Web3）](https://yahoo-osaka.connpass.com/event/247885/)
+- May 30 [5/30(月)【第1154回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/248961/)
+- May 29 [赤羽長時間もくもく会+プログラミング/アプリ開発勉強会](https://akabanelab.connpass.com/event/248968/)
 <!-- profile updater end: connpass -->
 
 <!---
