@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 25 [第14回 他の人が知らなさそうな面白いことを紹介する会議](https://agora.connpass.com/event/248960/)
-- Jun 12 [【女性限定/オンライン】月刊フィントーク 輪読会](https://fintalk.connpass.com/event/248963/)
-- May 31 [Mix Leap LT #46 - 注目のITトレンド（メタバース、NFT、Web3）](https://yahoo-osaka.connpass.com/event/247885/)
-- May 30 [5/30(月)【第1154回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/248961/)
-- May 29 [赤羽長時間もくもく会+プログラミング/アプリ開発勉強会](https://akabanelab.connpass.com/event/248968/)
+- Jun 19 [Sphinx+翻訳 Hack-a-thon 2022.06](https://sphinxjp.connpass.com/event/249029/)
+- Jun 19 [[オン/オフラインハイブリット開催]JAWS-UG千葉・金沢・初心者支部合同ハンズオン](https://jawsug-chiba.connpass.com/event/248245/)
+- Jun 19 [#48 JAWS-UG 千葉・金沢・初心者支部合同ハンズオン](https://jawsug-bgnr.connpass.com/event/248242/)
+- Jun 9 [ISUCON 事前講習2022 ハンズオン（6月9日開催）](https://isucon.connpass.com/event/248336/)
+- Jun 8 [ISUCON 事前講習2022 ハンズオン（6月8日開催）](https://isucon.connpass.com/event/248329/)
 <!-- profile updater end: connpass -->
 
 <!---
