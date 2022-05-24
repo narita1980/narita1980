@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 19 [Sphinx+翻訳 Hack-a-thon 2022.06](https://sphinxjp.connpass.com/event/249029/)
+- Aug 31 [【PTP SE 認定取得コース】Red Hat SE Specialist - Automation](https://redhat-open.connpass.com/event/248710/)
 - Jun 19 [[オン/オフラインハイブリット開催]JAWS-UG千葉・金沢・初心者支部合同ハンズオン](https://jawsug-chiba.connpass.com/event/248245/)
-- Jun 19 [#48 JAWS-UG 千葉・金沢・初心者支部合同ハンズオン](https://jawsug-bgnr.connpass.com/event/248242/)
-- Jun 9 [ISUCON 事前講習2022 ハンズオン（6月9日開催）](https://isucon.connpass.com/event/248336/)
-- Jun 8 [ISUCON 事前講習2022 ハンズオン（6月8日開催）](https://isucon.connpass.com/event/248329/)
+- Jun 8 [B2C Community Growth Night#1](https://b2c-community.connpass.com/event/247434/)
+- Jun 2 [Agile Testing Night #11 「スクフェス新潟 ふりかえりのふりかえり」](https://wingarc1st-spqi.connpass.com/event/248563/)
+- Jun 2 [Office Hours vol.1 - オンライン開催](https://unerry.connpass.com/event/247708/)
 <!-- profile updater end: connpass -->
 
 <!---
