@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 1 [第二回プログラミング教育について話し合う会](https://opt.connpass.com/event/248023/)
-- Jun 16 [QA Test Talk Vol.1](https://test-talk.connpass.com/event/247698/)
-- Jun 15 [【Retty×マネフォ】どう進める？大規模toCサービスのリアーキテクト　〜私たちのアンチパターン〜](https://moneyforward.connpass.com/event/247601/)
-- Jun 7 [BtoB SaaSプロダクトの勘所・アーキテクチャ裏側紹介 | BtoB tech meetup#1](https://btob-tech.connpass.com/event/247407/)
-- Jun 7 [アサメシマエ〜朝から学ぶSQL〜 - CS HACK](https://cshack.connpass.com/event/249262/)
+- Jun 22 [Github＆Gitの使い方基礎](https://connpass.com/event/249372/)
+- Jun 18 [プログラムなしでWebサイト作成：Wix勉強会：入門編【オフライン開催・日野PlanT】](https://connpass.com/event/246021/)
+- Jun 15 [BIT VALLEY -INSIDE- Vol.26](https://bvinside.connpass.com/event/249068/)
+- Jun 11 [DX化でベンダーの価値・課題は何か？（#38 第30回 現場改善会議）](https://jpinnova.connpass.com/event/249370/)
+- Jun 2 [Omotesando.rb #75](https://omotesandorb.connpass.com/event/249373/)
 <!-- profile updater end: connpass -->
 
 <!---
