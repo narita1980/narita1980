@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 22 [Github＆Gitの使い方基礎](https://connpass.com/event/249372/)
-- Jun 18 [プログラムなしでWebサイト作成：Wix勉強会：入門編【オフライン開催・日野PlanT】](https://connpass.com/event/246021/)
-- Jun 15 [BIT VALLEY -INSIDE- Vol.26](https://bvinside.connpass.com/event/249068/)
-- Jun 11 [DX化でベンダーの価値・課題は何か？（#38 第30回 現場改善会議）](https://jpinnova.connpass.com/event/249370/)
-- Jun 2 [Omotesando.rb #75](https://omotesandorb.connpass.com/event/249373/)
+- Jun 25 [第67回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/248308/)
+- Jun 9 [Tableauエンジニア勉強会](https://tech-street.connpass.com/event/248597/)
+- Jun 8 [【LT満員御礼！】自動化大好きエンジニアLT会 - vol.7](https://rakus.connpass.com/event/245663/)
+- Jun 5 [第９回 CoderDojo麹町](https://coderdojo-kojimachi.connpass.com/event/249498/)
+- Jun 2 [MIERUNE Meetup mini #03](https://mierune.connpass.com/event/247710/)
 <!-- profile updater end: connpass -->
 
 <!---
