@@ -22,11 +22,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 25 [第67回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/248308/)
-- Jun 9 [Tableauエンジニア勉強会](https://tech-street.connpass.com/event/248597/)
-- Jun 8 [【LT満員御礼！】自動化大好きエンジニアLT会 - vol.7](https://rakus.connpass.com/event/245663/)
-- Jun 5 [第９回 CoderDojo麹町](https://coderdojo-kojimachi.connpass.com/event/249498/)
-- Jun 2 [MIERUNE Meetup mini #03](https://mierune.connpass.com/event/247710/)
+- Jul 2 [LT会（定期第1回）](https://codebase.connpass.com/event/248196/)
+- Jun 11 [「詳解 システム・パフォーマンス」読書会19](https://yuruora.connpass.com/event/249592/)
+- Jun 10 [【オンライン開催】『Ｐｙｔｈｏｎではじめるベイズ機械学習入門』読書会#1](https://soleildatadojo.connpass.com/event/249591/)
+- Jun 4 [「OSS-DB Silver Ver.2.0対応」読書会4](https://yuruora.connpass.com/event/249593/)
+- Jun 1 [REDMINE JAPAN vol.3 準備ミーティング #2](https://redmine-japan.connpass.com/event/249589/)
 <!-- profile updater end: connpass -->
 
 <!---
