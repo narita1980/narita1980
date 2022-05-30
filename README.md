@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 23 [CoderDojo末広町　第41回](https://coderdojosuehirocho.connpass.com/event/249683/)
-- Jun 5 [医療者が自ら作ってみた事例を発表！ もいせん DEMO DAY vol3](https://moicen-forest.connpass.com/event/247635/)
-- Jun 4 [【LinuC1対策】Virtual Box×CentOS環境構築ハンズオン](https://connpass.com/event/249670/)
-- Jun 4 [IT系&誰でも参加OK！もくもく会_朝活_6/4(土)](https://morimori.connpass.com/event/249681/)
-- Jun 3 [VS Code Meetup #20 - ライトニングトーク大会【初心者大歓迎！】](https://vscode.connpass.com/event/247909/)
+- Jun 28 [プログラミング&ITなんでも勉強部屋（6月第4火曜日）](https://hfs.connpass.com/event/249116/)
+- Jun 27 [AWSの基礎を学ぼう 第八十八回](https://awsbasics.connpass.com/event/249777/)
+- Jun 25 [JAWS-UG横浜 #45 Aurora Serverless v2 LT祭！](https://jawsug-yokohama.connpass.com/event/249571/)
+- Jun 25 [サーバー構築ハンズオン＠オンライン #142](https://svrkcho.connpass.com/event/249785/)
+- Jun 17 [リリース1年半 プロセカを支える技術を大紹介LT](https://cyberagent.connpass.com/event/245783/)
 <!-- profile updater end: connpass -->
 
 <!---
