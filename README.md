@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 28 [プログラミング&ITなんでも勉強部屋（6月第4火曜日）](https://hfs.connpass.com/event/249116/)
-- Jun 27 [AWSの基礎を学ぼう 第八十八回](https://awsbasics.connpass.com/event/249777/)
-- Jun 25 [JAWS-UG横浜 #45 Aurora Serverless v2 LT祭！](https://jawsug-yokohama.connpass.com/event/249571/)
-- Jun 25 [サーバー構築ハンズオン＠オンライン #142](https://svrkcho.connpass.com/event/249785/)
-- Jun 17 [リリース1年半 プロセカを支える技術を大紹介LT](https://cyberagent.connpass.com/event/245783/)
+- Aug 26 [AWS Startup Community Conference 2022](https://aws-startup-community.connpass.com/event/247548/)
+- Jul 13 [エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/249139/)
+- Jun 21 [プロダクトの価値を最速で最大化し続けるために取り組んでいる、SaaSスタートアップのモニタリングLT](https://dinii.connpass.com/event/247726/)
+- Jun 9 [第16回 酒とゲームとインフラとGCP@オンライン 〜梅雨空で飲まないと死ぬぞ〜](https://sake-game.connpass.com/event/247759/)
+- Jun 3 [りんどく.rb #44](https://rindokurb.connpass.com/event/249907/)
 <!-- profile updater end: connpass -->
 
 <!---
