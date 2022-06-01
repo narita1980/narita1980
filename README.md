@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 26 [AWS Startup Community Conference 2022](https://aws-startup-community.connpass.com/event/247548/)
-- Jul 13 [エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/249139/)
-- Jun 21 [プロダクトの価値を最速で最大化し続けるために取り組んでいる、SaaSスタートアップのモニタリングLT](https://dinii.connpass.com/event/247726/)
-- Jun 9 [第16回 酒とゲームとインフラとGCP@オンライン 〜梅雨空で飲まないと死ぬぞ〜](https://sake-game.connpass.com/event/247759/)
-- Jun 3 [りんどく.rb #44](https://rindokurb.connpass.com/event/249907/)
+- Jun 30 [Sendai Startup Group #3](https://wackhack.connpass.com/event/246149/)
+- Jun 30 [MLSE夏合宿2022交流会食事チケット（自宅配送）](https://mlxse.connpass.com/event/249904/)
+- Jun 30 [MLSE夏合宿2022（オンライン開催）](https://mlxse.connpass.com/event/248383/)
+- Jun 29 [Google Cloud Study Jam by GDG Cloud Sendai](https://gcpug-sendai.connpass.com/event/248874/)
+- Jun 28 [【MarkingCloud】ブログで一杯【飲み会枠】](https://markingcloud.connpass.com/event/249966/)
 <!-- profile updater end: connpass -->
 
 <!---
