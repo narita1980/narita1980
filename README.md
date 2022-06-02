@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 30 [Sendai Startup Group #3](https://wackhack.connpass.com/event/246149/)
-- Jun 30 [MLSE夏合宿2022交流会食事チケット（自宅配送）](https://mlxse.connpass.com/event/249904/)
-- Jun 30 [MLSE夏合宿2022（オンライン開催）](https://mlxse.connpass.com/event/248383/)
-- Jun 29 [Google Cloud Study Jam by GDG Cloud Sendai](https://gcpug-sendai.connpass.com/event/248874/)
-- Jun 28 [【MarkingCloud】ブログで一杯【飲み会枠】](https://markingcloud.connpass.com/event/249966/)
+- Jun 25 [Tech Book Talk：技術書なんでもLT（20220625＠OSC北海道）](https://techbooktalk.connpass.com/event/250133/)
+- Jun 16 [QA Test Talk Vol.1](https://test-talk.connpass.com/event/247698/)
+- Jun 15 [ぶらアキバ](https://gaiax.connpass.com/event/249837/)
+- Jun 10 [【ゼロから始めるWeb3.0事業開発】STEPNから学ぶ、成功するNFT/P2Eサービスの3つの法則](https://connpass.com/event/248849/)
+- Jun 9 [【LT残2枠！】Git & GitHub LT会](https://rakus.connpass.com/event/245410/)
 <!-- profile updater end: connpass -->
 
 <!---
