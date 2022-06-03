@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 25 [Tech Book Talk：技術書なんでもLT（20220625＠OSC北海道）](https://techbooktalk.connpass.com/event/250133/)
-- Jun 16 [QA Test Talk Vol.1](https://test-talk.connpass.com/event/247698/)
-- Jun 15 [ぶらアキバ](https://gaiax.connpass.com/event/249837/)
-- Jun 10 [【ゼロから始めるWeb3.0事業開発】STEPNから学ぶ、成功するNFT/P2Eサービスの3つの法則](https://connpass.com/event/248849/)
-- Jun 9 [【LT残2枠！】Git & GitHub LT会](https://rakus.connpass.com/event/245410/)
+- Jun 27 [【オンライン開催】Salesforce Architects Meetup Tokyo＃13](https://sfag.connpass.com/event/250230/)
+- Jun 24 [【web3リテラシーDAO】今さら聞けないweb3。#001](https://web3literacy.connpass.com/event/249181/)
+- Jun 19 [【オンライン】Build 2022 直後！ C# Tokyo イベント](https://csharp-tokyo.connpass.com/event/247353/)
+- Jun 18 [機械学習の社会実装勉強会第12回](https://machine-learning-workshop.connpass.com/event/250263/)
+- Jun 11 [6/11(土)【第1179回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/250242/)
 <!-- profile updater end: connpass -->
 
 <!---
