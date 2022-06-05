@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 22 [ゆんたく勉強会 vol.1](https://yuntaku.connpass.com/event/249447/)
-- Jun 21 [グラレコｘ読書会 vol.1 テーマ「片付け」※読まずに参加もOK](https://setk.connpass.com/event/250327/)
-- Jun 18 [#137 DevMoku（オンライン）](https://sendai-cafemorning.connpass.com/event/249598/)
-- Jun 18 [第２２回CoderDojo Yabuki](https://coderdojoyabuki.connpass.com/event/248220/)
-- Jun 16 [【LT満員御礼！】アジャイルをゆるく語りたい！](https://rakus.connpass.com/event/246437/)
+- Jul 13 [あじゃてく読書会 #10 『 SDGs見るだけノート』](https://agiletechexpo.connpass.com/event/247922/)
+- Jul 9 [課題を解決したいことをLTする会](https://connpass.com/event/250411/)
+- Jun 25 [【#1】WCM in TOKYO with Developers Guild](https://web-creator-meetup-in-kansai.connpass.com/event/250410/)
+- Jun 25 [★6/25（土）午後開催【初心者向け】農業IoT入門1day勉強会](https://soleildatadojo.connpass.com/event/248222/)
+- Jun 15 [ElixirImp#21:kokura.ex／autoracexキリ番＋fukuoka.ex5周年](https://fukuokaex.connpass.com/event/250362/)
 <!-- profile updater end: connpass -->
 
 <!---
