@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 13 [あじゃてく読書会 #10 『 SDGs見るだけノート』](https://agiletechexpo.connpass.com/event/247922/)
-- Jul 9 [課題を解決したいことをLTする会](https://connpass.com/event/250411/)
-- Jun 25 [【#1】WCM in TOKYO with Developers Guild](https://web-creator-meetup-in-kansai.connpass.com/event/250410/)
-- Jun 25 [★6/25（土）午後開催【初心者向け】農業IoT入門1day勉強会](https://soleildatadojo.connpass.com/event/248222/)
-- Jun 15 [ElixirImp#21:kokura.ex／autoracexキリ番＋fukuoka.ex5周年](https://fukuokaex.connpass.com/event/250362/)
+- Jul 13 [【LT残5枠！】エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/249139/)
+- Jun 17 [モバイルアプリのテスト自動化！～実機を使った多端末テストを実現～](https://connpass.com/event/247330/)
+- Jun 16 [100本ノック本やる会 #26](https://connpass.com/event/250506/)
+- Jun 16 [Microsoft Build 2022 Recap Party!!](https://msdevjp.connpass.com/event/248873/)
+- Jun 12 [【学生用】もくもく13:00-18:00 途中入退室OK](https://mokumoku-student.connpass.com/event/250508/)
 <!-- profile updater end: connpass -->
 
 <!---
