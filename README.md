@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 13 [【LT残5枠！】エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/249139/)
-- Jun 17 [モバイルアプリのテスト自動化！～実機を使った多端末テストを実現～](https://connpass.com/event/247330/)
-- Jun 16 [100本ノック本やる会 #26](https://connpass.com/event/250506/)
-- Jun 16 [Microsoft Build 2022 Recap Party!!](https://msdevjp.connpass.com/event/248873/)
-- Jun 12 [【学生用】もくもく13:00-18:00 途中入退室OK](https://mokumoku-student.connpass.com/event/250508/)
+- Jun 22 [【明日から使えるテスト技法勉強会】 #７ ～適切なテスト技法の選び方～](https://veriserve-event.connpass.com/event/249433/)
+- Jun 17 [Server-Side Kotlin Meetup vol.3](https://server-side-kotlin-meetup.connpass.com/event/245443/)
+- Jun 15 [ElixirImp#21:kokura.ex／autoracexキリ番＋fukuoka.ex5周年](https://fukuokaex.connpass.com/event/250362/)
+- Jun 15 [プロダクト開発のデザインプロセス ［DESIGN WAVE vol.04］](https://connpass.com/event/250536/)
+- Jun 14 [ML Study #5「物理空間を扱う機械学習技術」](https://forkwell.connpass.com/event/248611/)
 <!-- profile updater end: connpass -->
 
 <!---
