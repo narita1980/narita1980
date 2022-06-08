@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 22 [【明日から使えるテスト技法勉強会】 #７ ～適切なテスト技法の選び方～](https://veriserve-event.connpass.com/event/249433/)
-- Jun 17 [Server-Side Kotlin Meetup vol.3](https://server-side-kotlin-meetup.connpass.com/event/245443/)
-- Jun 15 [ElixirImp#21:kokura.ex／autoracexキリ番＋fukuoka.ex5周年](https://fukuokaex.connpass.com/event/250362/)
-- Jun 15 [プロダクト開発のデザインプロセス ［DESIGN WAVE vol.04］](https://connpass.com/event/250536/)
-- Jun 14 [ML Study #5「物理空間を扱う機械学習技術」](https://forkwell.connpass.com/event/248611/)
+- Jul 28 [SB Tech Night #8 SoftBank World Special](https://sbtechnight.connpass.com/event/249395/)
+- Jul 8 [カオスエンジニアリング[AWS Fault Injection Simulator](https://mirameet.connpass.com/event/250586/)
+- Jul 7 [ヤフー名古屋 Tech Meetup LT #2「リモートワークで変化した開発スタイル」](https://yahoo-nagoya.connpass.com/event/249852/)
+- Jun 24 [Twilio Developer Meetup in Osaka](https://twilio.connpass.com/event/249383/)
+- Jun 18 [ゆるっとLT](https://yurult.connpass.com/event/245348/)
 <!-- profile updater end: connpass -->
 
 <!---
