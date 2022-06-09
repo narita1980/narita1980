@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 28 [SB Tech Night #8 SoftBank World Special](https://sbtechnight.connpass.com/event/249395/)
-- Jul 8 [カオスエンジニアリング[AWS Fault Injection Simulator](https://mirameet.connpass.com/event/250586/)
-- Jul 7 [ヤフー名古屋 Tech Meetup LT #2「リモートワークで変化した開発スタイル」](https://yahoo-nagoya.connpass.com/event/249852/)
-- Jun 24 [Twilio Developer Meetup in Osaka](https://twilio.connpass.com/event/249383/)
-- Jun 18 [ゆるっとLT](https://yurult.connpass.com/event/245348/)
+- Jul 21 [【NewSQL】TiDB Cloud リリースノートについて](https://tug.connpass.com/event/249783/)
+- Jul 6 [Serverless LT初心者向け LT大会 #23 + 楽しいチーム開発の施策とは？](https://serverlesslt.connpass.com/event/250839/)
+- Jun 29 [これからはじめる勉強会①　～ID管理～](https://connpass.com/event/250027/)
+- Jun 25 [DX化 スクラムマスタを語る　１（#39 第31回 現場改善会議）](https://jpinnova.connpass.com/event/250866/)
+- Jun 24 [PHPerのための「Composer」を語り合うPHP TechCafe](https://rakus.connpass.com/event/248578/)
 <!-- profile updater end: connpass -->
 
 <!---
