@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 21 [【NewSQL】TiDB Cloud リリースノートについて](https://tug.connpass.com/event/249783/)
-- Jul 6 [Serverless LT初心者向け LT大会 #23 + 楽しいチーム開発の施策とは？](https://serverlesslt.connpass.com/event/250839/)
-- Jun 29 [これからはじめる勉強会①　～ID管理～](https://connpass.com/event/250027/)
-- Jun 25 [DX化 スクラムマスタを語る　１（#39 第31回 現場改善会議）](https://jpinnova.connpass.com/event/250866/)
-- Jun 24 [PHPerのための「Composer」を語り合うPHP TechCafe](https://rakus.connpass.com/event/248578/)
+- Jul 7 [CDLE女子会　月例交流会【2022年7月】](https://jdla.connpass.com/event/245668/)
+- Jun 30 [AWSコストダウン 〜ちょっと半分くらいにしてくれる？〜](https://metaps.connpass.com/event/250685/)
+- Jun 29 [新・脆弱性診断スキル習得への一歩を踏み出したい"新たな"初心者向け『オンラインセミナー』#05](https://kabuto.connpass.com/event/249963/)
+- Jun 22 [【ダイジェスト版】脆弱性診断スキル習得のための未経験者／入門者／初心者向け『オンラインセミナー』](https://kabuto.connpass.com/event/250785/)
+- Jun 19 [CoderDojo 光 64回目【会場＆オンライン 併催】 ～子どものためのプログラミング](https://coderdojo-hikari.connpass.com/event/250478/)
 <!-- profile updater end: connpass -->
 
 <!---
