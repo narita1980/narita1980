@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 7 [CDLE女子会　月例交流会【2022年7月】](https://jdla.connpass.com/event/245668/)
-- Jun 30 [AWSコストダウン 〜ちょっと半分くらいにしてくれる？〜](https://metaps.connpass.com/event/250685/)
-- Jun 29 [新・脆弱性診断スキル習得への一歩を踏み出したい"新たな"初心者向け『オンラインセミナー』#05](https://kabuto.connpass.com/event/249963/)
-- Jun 22 [【ダイジェスト版】脆弱性診断スキル習得のための未経験者／入門者／初心者向け『オンラインセミナー』](https://kabuto.connpass.com/event/250785/)
-- Jun 19 [CoderDojo 光 64回目【会場＆オンライン 併催】 ～子どものためのプログラミング](https://coderdojo-hikari.connpass.com/event/250478/)
+- Jul 9 [Python Boot Camp in 広島2nd 懇親会](https://pyconjp.connpass.com/event/248049/)
+- Jun 26 [【オンライン】CAE技術者の為のデータサイエンス勉強会「深層学習3」6/26午後](https://insight.connpass.com/event/249431/)
+- Jun 25 [【オンライン】CAE技術者の為のデータサイエンス勉強会「深層学習2」6/25午後](https://insight.connpass.com/event/249430/)
+- Jun 25 [【オンライン】CAE技術者の為のデータサイエンス勉強会「深層学習1」6/25午前](https://insight.connpass.com/event/249426/)
+- Jun 24 [devblogラジオ vol.44 ～ある意味で年度末～](https://devblog.connpass.com/event/251111/)
 <!-- profile updater end: connpass -->
 
 <!---
