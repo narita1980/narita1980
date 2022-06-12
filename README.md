@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 9 [Python Boot Camp in 広島2nd 懇親会](https://pyconjp.connpass.com/event/248049/)
-- Jun 26 [【オンライン】CAE技術者の為のデータサイエンス勉強会「深層学習3」6/26午後](https://insight.connpass.com/event/249431/)
-- Jun 25 [【オンライン】CAE技術者の為のデータサイエンス勉強会「深層学習2」6/25午後](https://insight.connpass.com/event/249430/)
-- Jun 25 [【オンライン】CAE技術者の為のデータサイエンス勉強会「深層学習1」6/25午前](https://insight.connpass.com/event/249426/)
-- Jun 24 [devblogラジオ vol.44 ～ある意味で年度末～](https://devblog.connpass.com/event/251111/)
+- Jul 10 [第22回 CoderDojo 三島/沼津](https://coderdojo-mn.connpass.com/event/251139/)
+- Jun 26 [【女性限定/オンライン】月刊フィントーク 輪読会](https://fintalk.connpass.com/event/251173/)
+- Jun 25 [Connpass自動化ツールモブプログラミング会第14回](https://cs-reading.connpass.com/event/251189/)
+- Jun 25 [ブールソフトウェアPRISM勉強会](https://connpass.com/event/248533/)
+- Jun 19 [IT系&誰でも参加OK！もくもく会_朝活_6/19(日)](https://morimori.connpass.com/event/251183/)
 <!-- profile updater end: connpass -->
 
 <!---
