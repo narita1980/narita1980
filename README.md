@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 10 [第22回 CoderDojo 三島/沼津](https://coderdojo-mn.connpass.com/event/251139/)
-- Jun 26 [【女性限定/オンライン】月刊フィントーク 輪読会](https://fintalk.connpass.com/event/251173/)
-- Jun 25 [Connpass自動化ツールモブプログラミング会第14回](https://cs-reading.connpass.com/event/251189/)
-- Jun 25 [ブールソフトウェアPRISM勉強会](https://connpass.com/event/248533/)
-- Jun 19 [IT系&誰でも参加OK！もくもく会_朝活_6/19(日)](https://morimori.connpass.com/event/251183/)
+- Jul 23 [【第3回】NAGOYA SE勉強会【もくもく会】](https://connpass.com/event/251252/)
+- Jul 16 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
+- Jul 9 [【第2回】NAGOYA SE勉強会【もくもく会】](https://connpass.com/event/251251/)
+- Jul 2 [第２５回伊勢IT交流会](https://iseit.connpass.com/event/251246/)
+- Jun 29 [【Dataiku MEET-UP】DATA SCIENCE DAY](https://dataiku.connpass.com/event/250297/)
 <!-- profile updater end: connpass -->
 
 <!---
