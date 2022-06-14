@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 23 [【第3回】NAGOYA SE勉強会【もくもく会】](https://connpass.com/event/251252/)
-- Jul 16 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
-- Jul 9 [【第2回】NAGOYA SE勉強会【もくもく会】](https://connpass.com/event/251251/)
+- Oct 8 [【初心者向け】ソフトウェアテスト勉強会 in 佐世保 （ASTER出張セミナー in 佐世保)](https://connpass.com/event/249827/)
+- Jul 14 [のの会(notes knows community) 第41回](https://notesknows.connpass.com/event/251358/)
 - Jul 2 [第２５回伊勢IT交流会](https://iseit.connpass.com/event/251246/)
-- Jun 29 [【Dataiku MEET-UP】DATA SCIENCE DAY](https://dataiku.connpass.com/event/250297/)
+- Jun 26 [実践リーンスタートアップ勉強会（0章〜5章まで）](https://dive-into-code.connpass.com/event/251327/)
+- Jun 25 [【Web系エンジニア・LT会&交流会】ココカラ勉強会 No.10 @大阪](https://kokokara.connpass.com/event/250414/)
 <!-- profile updater end: connpass -->
 
 <!---
