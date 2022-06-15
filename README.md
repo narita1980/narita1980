@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 8 [【初心者向け】ソフトウェアテスト勉強会 in 佐世保 （ASTER出張セミナー in 佐世保)](https://connpass.com/event/249827/)
-- Jul 14 [のの会(notes knows community) 第41回](https://notesknows.connpass.com/event/251358/)
-- Jul 2 [第２５回伊勢IT交流会](https://iseit.connpass.com/event/251246/)
-- Jun 26 [実践リーンスタートアップ勉強会（0章〜5章まで）](https://dive-into-code.connpass.com/event/251327/)
-- Jun 25 [【Web系エンジニア・LT会&交流会】ココカラ勉強会 No.10 @大阪](https://kokokara.connpass.com/event/250414/)
+- Jul 22 [ガントチャートを活用したプロジェクト管理プラットフォーム Smartsheet 無料セミナー](https://connpass.com/event/251461/)
+- Jun 28 [【ゆる募】あの、ブログ一緒に書きませんか？【MarkingCloud】](https://markingcloud.connpass.com/event/251340/)
+- Jun 28 [[オンライン] 第28回ゼロから始めるCTF入門勉強会 (初心者歓迎！)](https://zeroctf.connpass.com/event/251209/)
+- Jun 28 [社員のLTV最大化を目指すSHIFTの人事戦略](https://shiftinc.connpass.com/event/249803/)
+- Jun 23 [Tokyo HoloLens ミートアップ vol.30](https://hololens.connpass.com/event/249363/)
 <!-- profile updater end: connpass -->
 
 <!---
