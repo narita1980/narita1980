@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 22 [ガントチャートを活用したプロジェクト管理プラットフォーム Smartsheet 無料セミナー](https://connpass.com/event/251461/)
-- Jun 28 [【ゆる募】あの、ブログ一緒に書きませんか？【MarkingCloud】](https://markingcloud.connpass.com/event/251340/)
-- Jun 28 [[オンライン] 第28回ゼロから始めるCTF入門勉強会 (初心者歓迎！)](https://zeroctf.connpass.com/event/251209/)
-- Jun 28 [社員のLTV最大化を目指すSHIFTの人事戦略](https://shiftinc.connpass.com/event/249803/)
-- Jun 23 [Tokyo HoloLens ミートアップ vol.30](https://hololens.connpass.com/event/249363/)
+- Jul 28 [PingCAP Education：TiDBでの表設計（1）](https://tug.connpass.com/event/249781/)
+- Jul 7 [ヤフー名古屋 Tech Meetup LT #2「リモートワークで変化した開発スタイル」](https://yahoo-nagoya.connpass.com/event/249852/)
+- Jul 7 [徳島県神山町のサテライトオフィスで働くことのリアル](https://sansan.connpass.com/event/250765/)
+- Jul 7 [Markin' Quality 第9.5回：That's Done!!・4](https://markin-quality.connpass.com/event/245707/)
+- Jun 29 [Laravel.shibuya #final](https://laravel-shibuya.connpass.com/event/250113/)
 <!-- profile updater end: connpass -->
 
 <!---
