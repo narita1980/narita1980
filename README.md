@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 28 [PingCAP Education：TiDBでの表設計（1）](https://tug.connpass.com/event/249781/)
-- Jul 7 [ヤフー名古屋 Tech Meetup LT #2「リモートワークで変化した開発スタイル」](https://yahoo-nagoya.connpass.com/event/249852/)
-- Jul 7 [徳島県神山町のサテライトオフィスで働くことのリアル](https://sansan.connpass.com/event/250765/)
-- Jul 7 [Markin' Quality 第9.5回：That's Done!!・4](https://markin-quality.connpass.com/event/245707/)
-- Jun 29 [Laravel.shibuya #final](https://laravel-shibuya.connpass.com/event/250113/)
+- Aug 3 [デジタルからくり装置作りワークショップ（東京・新宿）](https://igdajp.connpass.com/event/250408/)
+- Jul 16 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
+- Jul 15 [Server-Side Kotlin Meetup vol.4](https://server-side-kotlin-meetup.connpass.com/event/251266/)
+- Jul 6 [Serverless LT初心者向け LT大会 #23 + 楽しいチーム開発の施策とは？](https://serverlesslt.connpass.com/event/250839/)
+- Jul 6 [急成長企業を支えるデータ分析基盤の作り方](https://midastech.connpass.com/event/250789/)
 <!-- profile updater end: connpass -->
 
 <!---
