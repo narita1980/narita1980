@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 3 [デジタルからくり装置作りワークショップ（東京・新宿）](https://igdajp.connpass.com/event/250408/)
-- Jul 16 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
-- Jul 15 [Server-Side Kotlin Meetup vol.4](https://server-side-kotlin-meetup.connpass.com/event/251266/)
-- Jul 6 [Serverless LT初心者向け LT大会 #23 + 楽しいチーム開発の施策とは？](https://serverlesslt.connpass.com/event/250839/)
-- Jul 6 [急成長企業を支えるデータ分析基盤の作り方](https://midastech.connpass.com/event/250789/)
+- Jul 6 [【オンライン開催】Tokyo BISH Bash #07](https://tokyo-bish-bash.connpass.com/event/250812/)
+- Jul 2 [鳥一代　聖地巡礼](https://connpass.com/event/251781/)
+- Jun 19 [第43回CoderDojoあざみ野(横浜青葉)](https://coderdojo-azamino.connpass.com/event/247218/)
+- Jun 19 [【初学者歓迎】だれでももくもく会 06/19 (日)](https://daremoku.connpass.com/event/251779/)
+- Jun 18 [[Flutter入門]ホームページを作ろう](https://engineercafe.connpass.com/event/251043/)
 <!-- profile updater end: connpass -->
 
 <!---
