@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 17 [【女性限定/オンライン】月刊フィントークモーニング その21](https://fintalk.connpass.com/event/251850/)
-- Jul 13 [【WEBマーケティングシリーズ第1弾！！】Webマーケティングを身に着けたいITCと事業者セミナー](https://itc-okinawa.connpass.com/event/251843/)
-- Jul 1 [QUNOG 23 Meeting (宮崎県都城市)](https://qunog.connpass.com/event/245823/)
-- Jun 26 [IT系&誰でも参加OK！もくもく会_朝活_6/26(日)](https://morimori.connpass.com/event/251853/)
-- Jun 25 [スミソニアン博物館の著作権フリー3DモデルをAppleグラス対応?!にする](https://sapporoswift.connpass.com/event/251838/)
+- Jul 9 [【祝1周年】Notion Sapporo Meetup #005(オフライン)](https://notion-sapporo.connpass.com/event/245673/)
+- Jul 9 [[Web技術でモバイルアプリをつくる] Ionic Meetup #22 Tokyo](https://ionic-jp.connpass.com/event/251256/)
+- Jul 6 [Autify community meetup QAチームのオンボーディング事情](https://autifyjapan.connpass.com/event/251528/)
+- Jul 4 [Android Jetpack Compose 超入門 オンラインもくもく会 vol.3](https://teampansaru.connpass.com/event/251825/)
+- Jun 30 [Nreal Air開発者ミートアップ「Nreal Developer Gathering 」](https://ar-japan.connpass.com/event/250070/)
 <!-- profile updater end: connpass -->
 
 <!---
