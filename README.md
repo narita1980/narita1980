@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 9 [【祝1周年】Notion Sapporo Meetup #005(オフライン)](https://notion-sapporo.connpass.com/event/245673/)
+- Jul 22 [#勝手に鹿児島大使 夏の陣](https://katteni-kagoshima.connpass.com/event/252050/)
+- Jul 16 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
 - Jul 9 [[Web技術でモバイルアプリをつくる] Ionic Meetup #22 Tokyo](https://ionic-jp.connpass.com/event/251256/)
-- Jul 6 [Autify community meetup QAチームのオンボーディング事情](https://autifyjapan.connpass.com/event/251528/)
-- Jul 4 [Android Jetpack Compose 超入門 オンラインもくもく会 vol.3](https://teampansaru.connpass.com/event/251825/)
-- Jun 30 [Nreal Air開発者ミートアップ「Nreal Developer Gathering 」](https://ar-japan.connpass.com/event/250070/)
+- Jul 2 [【ｵﾝﾗｲﾝ交流会】ﾌﾛﾝﾄｴﾝﾄﾞｴﾝｼﾞﾆｱLT * ﾋﾞｱﾊﾞｯｼｭ](https://connpass.com/event/249645/)
+- Jun 25 [第67回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/248308/)
 <!-- profile updater end: connpass -->
 
 <!---
