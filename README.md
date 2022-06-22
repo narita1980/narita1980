@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 22 [#勝手に鹿児島大使 夏の陣](https://katteni-kagoshima.connpass.com/event/252050/)
+- Aug 3 [【ニジボックス主催】UXリサーチを組織の文化へ〜理解と共感で繋がる理想のチームづくり〜](https://nijibox.connpass.com/event/251690/)
 - Jul 16 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
-- Jul 9 [[Web技術でモバイルアプリをつくる] Ionic Meetup #22 Tokyo](https://ionic-jp.connpass.com/event/251256/)
-- Jul 2 [【ｵﾝﾗｲﾝ交流会】ﾌﾛﾝﾄｴﾝﾄﾞｴﾝｼﾞﾆｱLT * ﾋﾞｱﾊﾞｯｼｭ](https://connpass.com/event/249645/)
-- Jun 25 [第67回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/248308/)
+- Jun 26 [かごもく #57 木目沢さんにかごんま弁で質問しよう!](https://kagoben.connpass.com/event/250763/)
+- Jun 25 [【新潟】DERTA JAM with BEECL vol.1](https://ddd-ng.connpass.com/event/250664/)
+- Jun 25 [◤xR with Anything Meetup SEOUL #001◢ #xram82](https://xram.connpass.com/event/252156/)
 <!-- profile updater end: connpass -->
 
 <!---
