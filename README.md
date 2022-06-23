@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 3 [【ニジボックス主催】UXリサーチを組織の文化へ〜理解と共感で繋がる理想のチームづくり〜](https://nijibox.connpass.com/event/251690/)
-- Jul 16 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
-- Jun 26 [かごもく #57 木目沢さんにかごんま弁で質問しよう!](https://kagoben.connpass.com/event/250763/)
-- Jun 25 [【新潟】DERTA JAM with BEECL vol.1](https://ddd-ng.connpass.com/event/250664/)
-- Jun 25 [◤xR with Anything Meetup SEOUL #001◢ #xram82](https://xram.connpass.com/event/252156/)
+- Jul 28 [SB Tech Night #8 SoftBank World Special](https://sbtechnight.connpass.com/event/249395/)
+- Jul 23 [KEK公開講座2022「加速器で支える核医学」](https://kek298.connpass.com/event/251692/)
+- Jul 13 [半年で製造業向けAIサービスをリリースした開発チームのノウハウ大公開！](https://caddi.connpass.com/event/251655/)
+- Jul 7 [【LT登壇者募集】  SORACOM Discovery 2022 ONLINE ナイトイベント](https://soracomug-tokyo.connpass.com/event/251575/)
+- Jun 30 [【夕方のハンズオン】Kotlin × NCMBでTodoアプリを作ろう](https://ncmb.connpass.com/event/252261/)
 <!-- profile updater end: connpass -->
 
 <!---
