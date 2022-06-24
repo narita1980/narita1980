@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 28 [SB Tech Night #8 SoftBank World Special](https://sbtechnight.connpass.com/event/249395/)
-- Jul 23 [KEK公開講座2022「加速器で支える核医学」](https://kek298.connpass.com/event/251692/)
-- Jul 13 [半年で製造業向けAIサービスをリリースした開発チームのノウハウ大公開！](https://caddi.connpass.com/event/251655/)
-- Jul 7 [【LT登壇者募集】  SORACOM Discovery 2022 ONLINE ナイトイベント](https://soracomug-tokyo.connpass.com/event/251575/)
-- Jun 30 [【夕方のハンズオン】Kotlin × NCMBでTodoアプリを作ろう](https://ncmb.connpass.com/event/252261/)
+- Jul 31 [「デザイン書道入門」ワークショップ2022](https://connpass.com/event/252269/)
+- Jul 14 [【LT満員御礼！】おすすめの技術書 LT会 - vol.4 #itbookslt](https://rakus.connpass.com/event/249140/)
+- Jul 1 [WebエンジニアによるReact設計入門！ モブ設計配信](https://mofmof001.connpass.com/event/251299/)
+- Jun 29 [あすもの研online 2022/6月度ミートアップ](https://asumono.connpass.com/event/252385/)
+- Jun 28 [りんどく.rb #51](https://rindokurb.connpass.com/event/252384/)
 <!-- profile updater end: connpass -->
 
 <!---
