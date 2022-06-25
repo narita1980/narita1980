@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 31 [「デザイン書道入門」ワークショップ2022](https://connpass.com/event/252269/)
-- Jul 14 [【LT満員御礼！】おすすめの技術書 LT会 - vol.4 #itbookslt](https://rakus.connpass.com/event/249140/)
-- Jul 1 [WebエンジニアによるReact設計入門！ モブ設計配信](https://mofmof001.connpass.com/event/251299/)
-- Jun 29 [あすもの研online 2022/6月度ミートアップ](https://asumono.connpass.com/event/252385/)
-- Jun 28 [りんどく.rb #51](https://rindokurb.connpass.com/event/252384/)
+- Jul 2 [IT系&誰でも参加OK！もくもく会_朝活_7/2(土)](https://morimori.connpass.com/event/252495/)
+- Jul 2 [(コピー)Good Morning! RStudio](https://saturdaymorning.connpass.com/event/252492/)
+- Jun 26 [【オンライン開催】第47回 #hiro_it（6/26開催）](https://hiro-it.connpass.com/event/247907/)
+- Jun 26 [400th Dev Morning](https://devmorning.connpass.com/event/252496/)
+- Jun 25 [ゆるっとLT](https://yurult.connpass.com/event/245348/)
 <!-- profile updater end: connpass -->
 
 <!---
