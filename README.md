@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Jul 8 [devblogラジオ vol.45 ～夏が始まります～](https://devblog.connpass.com/event/252586/)
+- Jul 3 [IT系&誰でも参加OK！もくもく会_朝活_7/3(日)](https://morimori.connpass.com/event/252581/)
 - Jul 2 [IT系&誰でも参加OK！もくもく会_朝活_7/2(土)](https://morimori.connpass.com/event/252495/)
-- Jul 2 [(コピー)Good Morning! RStudio](https://saturdaymorning.connpass.com/event/252492/)
-- Jun 26 [【オンライン開催】第47回 #hiro_it（6/26開催）](https://hiro-it.connpass.com/event/247907/)
-- Jun 26 [400th Dev Morning](https://devmorning.connpass.com/event/252496/)
-- Jun 25 [ゆるっとLT](https://yurult.connpass.com/event/245348/)
+- Jul 1 [IT系&誰でも参加OK！もくもく会_朝活_7/1(金)](https://morimori.connpass.com/event/252382/)
+- Jun 30 [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#30](https://easy2.connpass.com/event/249910/)
 <!-- profile updater end: connpass -->
 
 <!---
