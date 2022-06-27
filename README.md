@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 8 [devblogラジオ vol.45 ～夏が始まります～](https://devblog.connpass.com/event/252586/)
-- Jul 3 [IT系&誰でも参加OK！もくもく会_朝活_7/3(日)](https://morimori.connpass.com/event/252581/)
-- Jul 2 [IT系&誰でも参加OK！もくもく会_朝活_7/2(土)](https://morimori.connpass.com/event/252495/)
-- Jul 1 [IT系&誰でも参加OK！もくもく会_朝活_7/1(金)](https://morimori.connpass.com/event/252382/)
-- Jun 30 [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#30](https://easy2.connpass.com/event/249910/)
+- Jul 29 [【未経験歓迎】 PROGRAMMING BOOTCAMP/長期インターン オンライン説明会](https://baseconnect.connpass.com/event/252698/)
+- Jul 13 [【LT満員御礼！】エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/249139/)
+- Jul 9 [Kokura.rb #4 問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく](https://kokurarb.connpass.com/event/252696/)
+- Jul 7 [【LT残4枠！】デザイナーの勉強法ハックLT](https://rakus.connpass.com/event/248477/)
+- Jul 3 [mockmock.dev #372](https://mockmock.connpass.com/event/252694/)
 <!-- profile updater end: connpass -->
 
 <!---
