@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 29 [【未経験歓迎】 PROGRAMMING BOOTCAMP/長期インターン オンライン説明会](https://baseconnect.connpass.com/event/252698/)
-- Jul 13 [【LT満員御礼！】エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/249139/)
-- Jul 9 [Kokura.rb #4 問題解決のための「アルゴリズム×数学」が基礎からしっかり身につく](https://kokurarb.connpass.com/event/252696/)
-- Jul 7 [【LT残4枠！】デザイナーの勉強法ハックLT](https://rakus.connpass.com/event/248477/)
-- Jul 3 [mockmock.dev #372](https://mockmock.connpass.com/event/252694/)
+- Jul 20 [【Backend LT会】3社が向き合う解きがいのあるイシューとは](https://reiwatravel.connpass.com/event/249487/)
+- Jul 20 [【Backend LT会】3社が向き合う解きがいのあるイシューとは](https://kauche.connpass.com/event/252043/)
+- Jul 13 [KAUCHE TechTalk#1 最速で0→1を乗り越えたエンジニアリングの裏側](https://kauche.connpass.com/event/252243/)
+- Jul 7 [徳島県神山町のサテライトオフィスで働くことのリアル](https://sansan.connpass.com/event/250765/)
+- Jul 1 [【0→1のサービス企画・開発・グロース】エンジニア→起業という選択 サービス開発者のリアルなキャリア](https://buildweekend.connpass.com/event/251363/)
 <!-- profile updater end: connpass -->
 
 <!---
