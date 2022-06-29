@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 20 [【Backend LT会】3社が向き合う解きがいのあるイシューとは](https://reiwatravel.connpass.com/event/249487/)
-- Jul 20 [【Backend LT会】3社が向き合う解きがいのあるイシューとは](https://kauche.connpass.com/event/252043/)
-- Jul 13 [KAUCHE TechTalk#1 最速で0→1を乗り越えたエンジニアリングの裏側](https://kauche.connpass.com/event/252243/)
-- Jul 7 [徳島県神山町のサテライトオフィスで働くことのリアル](https://sansan.connpass.com/event/250765/)
-- Jul 1 [【0→1のサービス企画・開発・グロース】エンジニア→起業という選択 サービス開発者のリアルなキャリア](https://buildweekend.connpass.com/event/251363/)
+- Aug 14 [CoderDojo葉山 第0回](https://coderdojo-hayama.connpass.com/event/252109/)
+- Jul 26 [アジャイルカフェ@オンライン 第16回（※Zoom開催 耳だけOK）](https://agile-studio.connpass.com/event/252955/)
+- Jul 12 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/252960/)
+- Jul 12 [アジャイルカフェ@オンライン 第15回（※Zoom開催 耳だけOK）](https://agile-studio.connpass.com/event/252954/)
+- Jul 8 [はんなりビジネス #1](https://hannari-python.connpass.com/event/250916/)
 <!-- profile updater end: connpass -->
 
 <!---
