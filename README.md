@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 14 [CoderDojo葉山 第0回](https://coderdojo-hayama.connpass.com/event/252109/)
-- Jul 26 [アジャイルカフェ@オンライン 第16回（※Zoom開催 耳だけOK）](https://agile-studio.connpass.com/event/252955/)
-- Jul 12 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/252960/)
-- Jul 12 [アジャイルカフェ@オンライン 第15回（※Zoom開催 耳だけOK）](https://agile-studio.connpass.com/event/252954/)
-- Jul 8 [はんなりビジネス #1](https://hannari-python.connpass.com/event/250916/)
+- Jul 30 [AWSセキュリティハンズオンセミナー：1回目はじめてのAWS　基礎とEC2によるサーバ構築](https://mgt-college.connpass.com/event/252509/)
+- Jul 23 [LOCAL Developer Day Online ’22 /Security](https://local.connpass.com/event/251339/)
+- Jul 15 [【オンライン】はんなりPython #50 「サステナビリティ×データサイエンス」](https://hannari-python.connpass.com/event/252877/)
+- Jul 9 [【ハイブリッド】JBUG広島#10 復活と再会](https://jbug.connpass.com/event/252390/)
+- Jul 6 [Infra Career Lounge #2.1「ネットワークエンジニアのキャリア 延長戦！」](https://forkwell.connpass.com/event/252855/)
 <!-- profile updater end: connpass -->
 
 <!---
