@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 30 [AWSセキュリティハンズオンセミナー：1回目はじめてのAWS　基礎とEC2によるサーバ構築](https://mgt-college.connpass.com/event/252509/)
-- Jul 23 [LOCAL Developer Day Online ’22 /Security](https://local.connpass.com/event/251339/)
-- Jul 15 [【オンライン】はんなりPython #50 「サステナビリティ×データサイエンス」](https://hannari-python.connpass.com/event/252877/)
-- Jul 9 [【ハイブリッド】JBUG広島#10 復活と再会](https://jbug.connpass.com/event/252390/)
-- Jul 6 [Infra Career Lounge #2.1「ネットワークエンジニアのキャリア 延長戦！」](https://forkwell.connpass.com/event/252855/)
+- Jul 20 [【神戸オンライン】XRミーティング 2022/07/20#XRMTG](https://kobe-driven-dev.connpass.com/event/253262/)
+- Jul 20 [【関東-オンライン開催】XRミーティング 2022/07/20#XRMTG](https://osaka-driven-dev-br-tokyo.connpass.com/event/253261/)
+- Jul 16 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
+- Jul 13 [【LT満員御礼！】エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/249139/)
+- Jul 13 [【7/13開催！チャットボット×対話型AIの先進事例ウェビナー】](https://connpass.com/event/253264/)
 <!-- profile updater end: connpass -->
 
 <!---
