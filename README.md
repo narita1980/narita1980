@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 20 [【神戸オンライン】XRミーティング 2022/07/20#XRMTG](https://kobe-driven-dev.connpass.com/event/253262/)
-- Jul 20 [【関東-オンライン開催】XRミーティング 2022/07/20#XRMTG](https://osaka-driven-dev-br-tokyo.connpass.com/event/253261/)
-- Jul 16 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
-- Jul 13 [【LT満員御礼！】エンジニアの勉強法ハックLT- vol.8 #studyhacklt](https://rakus.connpass.com/event/249139/)
-- Jul 13 [【7/13開催！チャットボット×対話型AIの先進事例ウェビナー】](https://connpass.com/event/253264/)
+- Jul 28 [[現地開催予定] Quantum Black Japan ~マッキンゼーのアナリティクス組織とは~](https://quantumblack.connpass.com/event/253391/)
+- Jul 22 [ペライチ創業者が語るユーザーに愛されるサービスの作り方 〜ノーコードサービスのこれまでとこれから〜](https://buildweekend.connpass.com/event/252821/)
+- Jul 22 [ウェブに関する開発者／製作者／運営者／興味がある方・勉強している人の交流会](https://movabletype-kagoshima.connpass.com/event/246667/)
+- Jul 16 [お家で朝活](https://connpass.com/event/250139/)
+- Jul 9 [ARフィルターを作ってみよう！（プログラミング知識不要）](https://inxr.connpass.com/event/250338/)
 <!-- profile updater end: connpass -->
 
 <!---
