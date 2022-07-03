@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 28 [[現地開催予定] Quantum Black Japan ~マッキンゼーのアナリティクス組織とは~](https://quantumblack.connpass.com/event/253391/)
-- Jul 22 [ペライチ創業者が語るユーザーに愛されるサービスの作り方 〜ノーコードサービスのこれまでとこれから〜](https://buildweekend.connpass.com/event/252821/)
-- Jul 22 [ウェブに関する開発者／製作者／運営者／興味がある方・勉強している人の交流会](https://movabletype-kagoshima.connpass.com/event/246667/)
-- Jul 16 [お家で朝活](https://connpass.com/event/250139/)
-- Jul 9 [ARフィルターを作ってみよう！（プログラミング知識不要）](https://inxr.connpass.com/event/250338/)
+- Aug 6 [[Javaでも/それ以外でも] データアクセスについて聞きたい・話したい！](https://javado.connpass.com/event/251865/)
+- Jul 24 [子ども向けプログラミング道場：コーダー道場44回目@泉北和泉](https://coderdojo-sakai.connpass.com/event/253464/)
+- Jul 16 [<無料セミナー> オープンデータ活用アプリ開発](https://iitg.connpass.com/event/252047/)
+- Jul 10 [よちよちAndroid名古屋支部 第209回オフライン開発ミーティング](https://yochiand.connpass.com/event/253463/)
+- Jul 10 [IT系&誰でも参加OK！もくもく朝活+交流会_7/10(日)](https://morimori.connpass.com/event/253462/)
 <!-- profile updater end: connpass -->
 
 <!---
