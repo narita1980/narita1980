@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 6 [[Javaでも/それ以外でも] データアクセスについて聞きたい・話したい！](https://javado.connpass.com/event/251865/)
-- Jul 24 [子ども向けプログラミング道場：コーダー道場44回目@泉北和泉](https://coderdojo-sakai.connpass.com/event/253464/)
+- Aug 21 [Swift文法「定数と変数」をPlaygroundを使って学習しよう！](https://codecandy.connpass.com/event/253475/)
+- Jul 27 [第１回意識醸成セミナー（業務改善）](https://digilab.connpass.com/event/253530/)
+- Jul 23 [【第3回】NAGOYA SE勉強会【もくもく会】](https://connpass.com/event/251252/)
 - Jul 16 [<無料セミナー> オープンデータ活用アプリ開発](https://iitg.connpass.com/event/252047/)
-- Jul 10 [よちよちAndroid名古屋支部 第209回オフライン開発ミーティング](https://yochiand.connpass.com/event/253463/)
-- Jul 10 [IT系&誰でも参加OK！もくもく朝活+交流会_7/10(日)](https://morimori.connpass.com/event/253462/)
+- Jul 15 [ミノ駆動本_読書py[3]](https://pythonista-books.connpass.com/event/253382/)
 <!-- profile updater end: connpass -->
 
 <!---
