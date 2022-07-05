@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 21 [Swift文法「定数と変数」をPlaygroundを使って学習しよう！](https://codecandy.connpass.com/event/253475/)
-- Jul 27 [第１回意識醸成セミナー（業務改善）](https://digilab.connpass.com/event/253530/)
-- Jul 23 [【第3回】NAGOYA SE勉強会【もくもく会】](https://connpass.com/event/251252/)
-- Jul 16 [<無料セミナー> オープンデータ活用アプリ開発](https://iitg.connpass.com/event/252047/)
-- Jul 15 [ミノ駆動本_読書py[3]](https://pythonista-books.connpass.com/event/253382/)
+- Jul 21 [Location Tech Deep Dive【オンライン開催】](https://connpass.com/event/253580/)
+- Jul 20 [Chaos Night #1 - カオスエンジニアリングの夕べ](https://chaos-jp.connpass.com/event/251694/)
+- Jul 16 [Kumamoto HoloLens ミートアップ vol.7](https://hololens.connpass.com/event/252908/)
+- Jul 14 [【LT満員御礼！】おすすめの技術書 LT会 - vol.4 #itbookslt](https://rakus.connpass.com/event/249140/)
+- Jul 13 [ITエンジニアも経営スキルを身につけよう 第2回](https://ibm-developer.connpass.com/event/253658/)
 <!-- profile updater end: connpass -->
 
 <!---
