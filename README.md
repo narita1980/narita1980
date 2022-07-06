@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Jul 30 [第7回　BIM Brasto](https://bim-brasto.connpass.com/event/253563/)
 - Jul 21 [Location Tech Deep Dive【オンライン開催】](https://connpass.com/event/253580/)
-- Jul 20 [Chaos Night #1 - カオスエンジニアリングの夕べ](https://chaos-jp.connpass.com/event/251694/)
-- Jul 16 [Kumamoto HoloLens ミートアップ vol.7](https://hololens.connpass.com/event/252908/)
-- Jul 14 [【LT満員御礼！】おすすめの技術書 LT会 - vol.4 #itbookslt](https://rakus.connpass.com/event/249140/)
-- Jul 13 [ITエンジニアも経営スキルを身につけよう 第2回](https://ibm-developer.connpass.com/event/253658/)
+- Jul 16 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
+- Jul 16 [【CoderDojo奈良】：子どもと大人のプログラミングクラブ（No.62）](https://coderdojo-nara-ikoma.connpass.com/event/253781/)
+- Jul 14 [第07回 Customer系エンジニア座談会](https://customer-x-engineer.connpass.com/event/252995/)
 <!-- profile updater end: connpass -->
 
 <!---
