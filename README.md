@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 30 [第7回　BIM Brasto](https://bim-brasto.connpass.com/event/253563/)
-- Jul 21 [Location Tech Deep Dive【オンライン開催】](https://connpass.com/event/253580/)
-- Jul 16 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
-- Jul 16 [【CoderDojo奈良】：子どもと大人のプログラミングクラブ（No.62）](https://coderdojo-nara-ikoma.connpass.com/event/253781/)
-- Jul 14 [第07回 Customer系エンジニア座談会](https://customer-x-engineer.connpass.com/event/252995/)
+- Aug 9 [JAWS-UGコンテナ支部 入門編 #7 初心者大歓迎LT大会](https://jawsug-container.connpass.com/event/253866/)
+- Aug 4 [WindowsコンテナDojo：第6回 Red Hat OpenShift入門](https://ibm-developer.connpass.com/event/251635/)
+- Jul 28 [大公開！プロダクトグロースを支えるナレッジシェアの仕組みと文化　プロデザ！BYリクルートvol.1](https://recruit-event.connpass.com/event/253149/)
+- Jul 28 [Accenture Technology主催 メディア業界におけるプロジェクト事例紹介セミナー](https://accenture-technology.connpass.com/event/253792/)
+- Jul 28 [【オンライン】CAE技能講習会 （日本機械学会認定）7/28午前(定員到達）](https://insight.connpass.com/event/248893/)
 <!-- profile updater end: connpass -->
 
 <!---
