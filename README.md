@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 9 [JAWS-UGコンテナ支部 入門編 #7 初心者大歓迎LT大会](https://jawsug-container.connpass.com/event/253866/)
-- Aug 4 [WindowsコンテナDojo：第6回 Red Hat OpenShift入門](https://ibm-developer.connpass.com/event/251635/)
-- Jul 28 [大公開！プロダクトグロースを支えるナレッジシェアの仕組みと文化　プロデザ！BYリクルートvol.1](https://recruit-event.connpass.com/event/253149/)
-- Jul 28 [Accenture Technology主催 メディア業界におけるプロジェクト事例紹介セミナー](https://accenture-technology.connpass.com/event/253792/)
-- Jul 28 [【オンライン】CAE技能講習会 （日本機械学会認定）7/28午前(定員到達）](https://insight.connpass.com/event/248893/)
+- Aug 7 [オフラインもくもく会(関西女性エンジニア限定)#1](https://tech-woman-kansai.connpass.com/event/253897/)
+- Aug 7 [ｙｔｖハッカソン2022](https://mashupawards.connpass.com/event/251294/)
+- Jul 30 [第7回　BIM Brasto](https://bim-brasto.connpass.com/event/253563/)
+- Jul 27 [【DevSecOps】事例に学ぶ、アジャイル開発とセキュリティ強化の勘所](https://monstar-lab.connpass.com/event/254043/)
+- Jul 24 [第1回ラズパイ九州](https://raspi-kyushu.connpass.com/event/253162/)
 <!-- profile updater end: connpass -->
 
 <!---
