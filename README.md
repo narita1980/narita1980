@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 7 [オフラインもくもく会(関西女性エンジニア限定)#1](https://tech-woman-kansai.connpass.com/event/253897/)
-- Aug 7 [ｙｔｖハッカソン2022](https://mashupawards.connpass.com/event/251294/)
-- Jul 30 [第7回　BIM Brasto](https://bim-brasto.connpass.com/event/253563/)
-- Jul 27 [【DevSecOps】事例に学ぶ、アジャイル開発とセキュリティ強化の勘所](https://monstar-lab.connpass.com/event/254043/)
-- Jul 24 [第1回ラズパイ九州](https://raspi-kyushu.connpass.com/event/253162/)
+- Sep 17 [【Fortigate】ラボ#3と#4＠0917AM09秋葉原UDX](https://forse.connpass.com/event/254141/)
+- Sep 10 [【Fortigate】ラボ#1と#2＠0910AM09秋葉原UDX](https://forse.connpass.com/event/254139/)
+- Aug 7 [第02回 CoderDojo 八千代](https://coderdojo-yachiyo.connpass.com/event/254142/)
+- Jul 13 [第22回平日夜オンラインもくもく](https://tech-union.connpass.com/event/254144/)
+- Jul 10 [【五反田】もくもく勉強会](https://block-chain.connpass.com/event/253572/)
 <!-- profile updater end: connpass -->
 
 <!---
