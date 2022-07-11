@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 7 [第02回 CoderDojo 八千代](https://coderdojo-yachiyo.connpass.com/event/254142/)
-- Jul 29 [[オンライン] 第29回ゼロから始めるCTF入門勉強会 (初心者歓迎！)](https://zeroctf.connpass.com/event/253895/)
-- Jul 28 [JAWS-UG 初心者支部#49 夏の大LT大会 ～Summer of WonderfuLT～](https://jawsug-bgnr.connpass.com/event/253677/)
-- Jul 23 [サービスデザインの発想法オンラインセミナー](https://haldesignlab.connpass.com/event/254201/)
-- Jul 22 [Power Automate ソリューション対応 フロー ってなに？MVPが解説](https://rpacommunity.connpass.com/event/252585/)
+- Sep 3 [9/3 Open Developers Conference 2022 Online](https://ospn.connpass.com/event/250321/)
+- Jul 31 [ブランディングの科学 ～独自のブランド資産構築篇～](https://marketing-rindoku.connpass.com/event/254269/)
+- Jul 30 [PyLadies Tokyo Meetup #72 オンライン FastAPI ハンズオン](https://pyladies-tokyo.connpass.com/event/254107/)
+- Jul 27 [リーダブルなテストコードについて考えよう](https://veriserve-event.connpass.com/event/243280/)
+- Jul 21 [Looker User Meetup Online #8](https://looker-japan-user-group.connpass.com/event/253923/)
 <!-- profile updater end: connpass -->
 
 <!---
