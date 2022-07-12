@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 3 [9/3 Open Developers Conference 2022 Online](https://ospn.connpass.com/event/250321/)
-- Jul 31 [ブランディングの科学 ～独自のブランド資産構築篇～](https://marketing-rindoku.connpass.com/event/254269/)
-- Jul 30 [PyLadies Tokyo Meetup #72 オンライン FastAPI ハンズオン](https://pyladies-tokyo.connpass.com/event/254107/)
-- Jul 27 [リーダブルなテストコードについて考えよう](https://veriserve-event.connpass.com/event/243280/)
-- Jul 21 [Looker User Meetup Online #8](https://looker-japan-user-group.connpass.com/event/253923/)
+- Aug 21 [かごもく #59 テスト駆動開発体験会 2022.08](https://kagoben.connpass.com/event/254344/)
+- Jul 30 [【エンジニア・LT会&交流会】ココカラ勉強会 No.11 @オンライン](https://kokokara.connpass.com/event/253740/)
+- Jul 27 [Cloud CIRCUS Meetup #2【2022/7/27（水）】](https://startialab.connpass.com/event/250159/)
+- Jul 20 [オンライン「Fin-JAWS × sunabar サマーキャンプ 2022」次世代金融を語りつくそう](https://gmo.connpass.com/event/253089/)
+- Jul 18 [Future Tech Conference 2022](https://future.connpass.com/event/254304/)
 <!-- profile updater end: connpass -->
 
 <!---
