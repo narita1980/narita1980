@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 21 [かごもく #59 テスト駆動開発体験会 2022.08](https://kagoben.connpass.com/event/254344/)
-- Jul 30 [【エンジニア・LT会&交流会】ココカラ勉強会 No.11 @オンライン](https://kokokara.connpass.com/event/253740/)
-- Jul 27 [Cloud CIRCUS Meetup #2【2022/7/27（水）】](https://startialab.connpass.com/event/250159/)
-- Jul 20 [オンライン「Fin-JAWS × sunabar サマーキャンプ 2022」次世代金融を語りつくそう](https://gmo.connpass.com/event/253089/)
-- Jul 18 [Future Tech Conference 2022](https://future.connpass.com/event/254304/)
+- Aug 26 [Vuls祭り#6](https://vuls-jp.connpass.com/event/253558/)
+- Aug 9 [まちのIT相談室 2022年8月号](https://openkawasaki.connpass.com/event/254500/)
+- Aug 6 [2nd Microsoft Data Analytics Day(Online)](https://sqlserver.connpass.com/event/251013/)
+- Aug 2 [アカデミア出身者がビジネスのデータ分析プロジェクトを通じて学んだこと](https://ibm-developer.connpass.com/event/254512/)
+- Jul 20 [【初心者歓迎】GoでTDDをやってみよう! #24](https://yasashii-agile.connpass.com/event/254515/)
 <!-- profile updater end: connpass -->
 
 <!---
