@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 26 [Vuls祭り#6](https://vuls-jp.connpass.com/event/253558/)
-- Aug 9 [まちのIT相談室 2022年8月号](https://openkawasaki.connpass.com/event/254500/)
-- Aug 6 [2nd Microsoft Data Analytics Day(Online)](https://sqlserver.connpass.com/event/251013/)
-- Aug 2 [アカデミア出身者がビジネスのデータ分析プロジェクトを通じて学んだこと](https://ibm-developer.connpass.com/event/254512/)
-- Jul 20 [【初心者歓迎】GoでTDDをやってみよう! #24](https://yasashii-agile.connpass.com/event/254515/)
+- Aug 4 [Engineers in CARTA vol.4 #CTO継承](https://cartaholdings.connpass.com/event/252875/)
+- Jul 28 [Database Services in Oracle Cloud最新情報アップデートと活用Tips](https://oracle-code-tokyo-dev.connpass.com/event/252715/)
+- Jul 27 [nakanoshima.dev #28 改めて学ぶAWS SDKの表と裏](https://nakanoshima-dev.connpass.com/event/252909/)
+- Jul 25 [【オンライン開催】ユーザビリティテスト（UT）の現状と必要性](https://flexy.connpass.com/event/253561/)
+- Jul 22 [かごんま.NET 2022.07 .NET 7 / C#11 を調べてみよう](https://kagoshima-dotnet.connpass.com/event/254672/)
 <!-- profile updater end: connpass -->
 
 <!---
