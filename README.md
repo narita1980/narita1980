@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Aug 26 [【2022夏！感謝祭セミナー #End】ハッカーの手口を知って今すぐに対策できる"守りの"管理者向け](https://kabuto.connpass.com/event/254764/)
+- Aug 17 [【LT残5枠！】エンジニアの失敗学 LT会 - vol.2](https://rakus.connpass.com/event/252055/)
 - Aug 4 [Engineers in CARTA vol.4 #CTO継承](https://cartaholdings.connpass.com/event/252875/)
-- Jul 28 [Database Services in Oracle Cloud最新情報アップデートと活用Tips](https://oracle-code-tokyo-dev.connpass.com/event/252715/)
-- Jul 27 [nakanoshima.dev #28 改めて学ぶAWS SDKの表と裏](https://nakanoshima-dev.connpass.com/event/252909/)
-- Jul 25 [【オンライン開催】ユーザビリティテスト（UT）の現状と必要性](https://flexy.connpass.com/event/253561/)
-- Jul 22 [かごんま.NET 2022.07 .NET 7 / C#11 を調べてみよう](https://kagoshima-dotnet.connpass.com/event/254672/)
+- Aug 3 [★好評につき再配信★【テクバン×ミクシィ×AIQVE ONE】3社共催！テスト自動化事例L](https://tech-quality.connpass.com/event/254756/)
+- Jul 28 [カフェ・ソフトウェアクオリティ第83回勉強会](https://connpass.com/event/251390/)
 <!-- profile updater end: connpass -->
 
 <!---
