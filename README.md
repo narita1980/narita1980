@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 26 [【2022夏！感謝祭セミナー #End】ハッカーの手口を知って今すぐに対策できる"守りの"管理者向け](https://kabuto.connpass.com/event/254764/)
-- Aug 17 [【LT残5枠！】エンジニアの失敗学 LT会 - vol.2](https://rakus.connpass.com/event/252055/)
-- Aug 4 [Engineers in CARTA vol.4 #CTO継承](https://cartaholdings.connpass.com/event/252875/)
-- Aug 3 [★好評につき再配信★【テクバン×ミクシィ×AIQVE ONE】3社共催！テスト自動化事例L](https://tech-quality.connpass.com/event/254756/)
-- Jul 28 [カフェ・ソフトウェアクオリティ第83回勉強会](https://connpass.com/event/251390/)
+- Aug 19 [KyotoLT Online 第27回](https://kyotolt.connpass.com/event/252441/)
+- Aug 19 [【大阪開催】第6回 Jetson Japan User Group オンラインイベント](https://jsjug.connpass.com/event/248848/)
+- Aug 10 [Okta Study Meetup #4 「Auth0で実装する認証と認可」](https://okta.connpass.com/event/253130/)
+- Jul 28 [JBUG Summer 2022](https://jbug.connpass.com/event/252892/)
+- Jul 24 [7/24(日)【第1265回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/254864/)
 <!-- profile updater end: connpass -->
 
 <!---
