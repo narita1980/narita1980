@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 19 [KyotoLT Online 第27回](https://kyotolt.connpass.com/event/252441/)
-- Aug 19 [【大阪開催】第6回 Jetson Japan User Group オンラインイベント](https://jsjug.connpass.com/event/248848/)
-- Aug 10 [Okta Study Meetup #4 「Auth0で実装する認証と認可」](https://okta.connpass.com/event/253130/)
-- Jul 28 [JBUG Summer 2022](https://jbug.connpass.com/event/252892/)
-- Jul 24 [7/24(日)【第1265回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/254864/)
+- Aug 27 [練馬Perlプログラミングクラブ 2022年8月27日(土)](https://nerima-perlclub.connpass.com/event/254916/)
+- Aug 13 [第10回 Software Architecture: The Hard Parts 読書会](https://javaee-study.connpass.com/event/254920/)
+- Jul 30 [CDLE cafe-製造業 - LT会 #2022-July](https://jdla.connpass.com/event/252582/)
+- Jul 25 [7/25(月)【第1267回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/254912/)
+- Jul 25 [7/25(月)【第1266回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/254911/)
 <!-- profile updater end: connpass -->
 
 <!---
