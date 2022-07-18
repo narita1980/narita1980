@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 27 [練馬Perlプログラミングクラブ 2022年8月27日(土)](https://nerima-perlclub.connpass.com/event/254916/)
-- Aug 13 [第10回 Software Architecture: The Hard Parts 読書会](https://javaee-study.connpass.com/event/254920/)
-- Jul 30 [CDLE cafe-製造業 - LT会 #2022-July](https://jdla.connpass.com/event/252582/)
-- Jul 25 [7/25(月)【第1267回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/254912/)
-- Jul 25 [7/25(月)【第1266回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/254911/)
+- Sep 7 [JAWS-UG朝会 #37](https://jawsug-asa.connpass.com/event/245635/)
+- Aug 19 [【リモート】エアテスト駆動飲み会 -Air Test Driven Drinking-【8/19】](https://tddrinking.connpass.com/event/254961/)
+- Aug 3 [AI最新論文読み会2022年8月【オンライン・Zoom配信】](https://deeplearning-b.connpass.com/event/253864/)
+- Jul 29 [ミノ駆動本_読書py[4]](https://pythonista-books.connpass.com/event/254917/)
+- Jul 26 [7/26(火)【第1269回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/254963/)
 <!-- profile updater end: connpass -->
 
 <!---
