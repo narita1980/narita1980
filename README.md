@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 7 [JAWS-UG朝会 #37](https://jawsug-asa.connpass.com/event/245635/)
-- Aug 19 [【リモート】エアテスト駆動飲み会 -Air Test Driven Drinking-【8/19】](https://tddrinking.connpass.com/event/254961/)
-- Aug 3 [AI最新論文読み会2022年8月【オンライン・Zoom配信】](https://deeplearning-b.connpass.com/event/253864/)
-- Jul 29 [ミノ駆動本_読書py[4]](https://pythonista-books.connpass.com/event/254917/)
-- Jul 26 [7/26(火)【第1269回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/254963/)
+- Aug 25 [DESIGN HOOKS #1 / 物理プロダクトのデザインプロセス](https://connpass.com/event/254271/)
+- Aug 17 [【LT残4枠！】エンジニアの失敗学 LT会 - vol.2](https://rakus.connpass.com/event/252055/)
+- Jul 28 [AIを駆使して夏休みの読書感想文を書いちゃおう！？](https://ibm-developer.connpass.com/event/253817/)
+- Jul 27 [テスト自動化ベストプラクティス！CIに自動テストを組み込んだGAテクノロジーズのテスト自動化の軌跡](https://mabl-japan.connpass.com/event/253809/)
+- Jul 27 [アキバでもくもく勉強会！～誰でも参加OK！～](https://mirameet.connpass.com/event/253806/)
 <!-- profile updater end: connpass -->
 
 <!---
