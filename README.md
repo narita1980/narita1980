@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 25 [DESIGN HOOKS #1 / 物理プロダクトのデザインプロセス](https://connpass.com/event/254271/)
-- Aug 17 [【LT残4枠！】エンジニアの失敗学 LT会 - vol.2](https://rakus.connpass.com/event/252055/)
-- Jul 28 [AIを駆使して夏休みの読書感想文を書いちゃおう！？](https://ibm-developer.connpass.com/event/253817/)
-- Jul 27 [テスト自動化ベストプラクティス！CIに自動テストを組み込んだGAテクノロジーズのテスト自動化の軌跡](https://mabl-japan.connpass.com/event/253809/)
-- Jul 27 [アキバでもくもく勉強会！～誰でも参加OK！～](https://mirameet.connpass.com/event/253806/)
+- Aug 26 [【オンライン】.NET 6 移行祭り！ C# Tokyo イベント](https://csharp-tokyo.connpass.com/event/254206/)
+- Aug 18 [はじめてのプログラミング Python 20220818](https://connpass.com/event/255146/)
+- Aug 3 [デジタルからくり装置作りワークショップ（東京・新宿）](https://igdajp.connpass.com/event/250408/)
+- Jul 30 [【エンジニア・LT会&交流会】ココカラ勉強会 No.11 @オンライン](https://kokokara.connpass.com/event/253740/)
+- Jul 29 [IBM Cloud Festa Online 2022 Summer](https://ibm-developer.connpass.com/event/251722/)
 <!-- profile updater end: connpass -->
 
 <!---
