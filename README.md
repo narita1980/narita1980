@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 26 [【オンライン】.NET 6 移行祭り！ C# Tokyo イベント](https://csharp-tokyo.connpass.com/event/254206/)
-- Aug 18 [はじめてのプログラミング Python 20220818](https://connpass.com/event/255146/)
-- Aug 3 [デジタルからくり装置作りワークショップ（東京・新宿）](https://igdajp.connpass.com/event/250408/)
-- Jul 30 [【エンジニア・LT会&交流会】ココカラ勉強会 No.11 @オンライン](https://kokokara.connpass.com/event/253740/)
-- Jul 29 [IBM Cloud Festa Online 2022 Summer](https://ibm-developer.connpass.com/event/251722/)
+- Aug 23 [【体験型ワークショップ】参加者全員で、仕込まれているバグを修正せよ！](https://mercari.connpass.com/event/250147/)
+- Aug 19 [KyotoLT Online 第27回](https://kyotolt.connpass.com/event/252441/)
+- Aug 9 [UXリサーチ実践のリアル【ペルソナ/ジャーニー作成からプロダクト反映まで】](https://popinsight.connpass.com/event/255239/)
+- Aug 5 [【自動化やIT活用ネタ】ライトニングトーク大会 vol.3～初参加者大歓迎～](https://rpacommunity.connpass.com/event/254909/)
+- Jul 30 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
 <!-- profile updater end: connpass -->
 
 <!---
