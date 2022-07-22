@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 23 [【体験型ワークショップ】参加者全員で、仕込まれているバグを修正せよ！](https://mercari.connpass.com/event/250147/)
-- Aug 19 [KyotoLT Online 第27回](https://kyotolt.connpass.com/event/252441/)
-- Aug 9 [UXリサーチ実践のリアル【ペルソナ/ジャーニー作成からプロダクト反映まで】](https://popinsight.connpass.com/event/255239/)
-- Aug 5 [【自動化やIT活用ネタ】ライトニングトーク大会 vol.3～初参加者大歓迎～](https://rpacommunity.connpass.com/event/254909/)
-- Jul 30 [おきなわ空想路線図を作る！ データ活用ワークショップ](https://ool.connpass.com/event/249130/)
+- Sep 15 [K-Ruby#32 LT&雑談会](https://k-ruby.connpass.com/event/255309/)
+- Aug 24 [【LT残5枠！】リーダブルコード LT会 - vol.4 #readablelt](https://rakus.connpass.com/event/253650/)
+- Aug 19 [freee Design Night in Fukuoka](https://connpass.com/event/255107/)
+- Aug 9 [OPTiM TECH NIGHT｜Infra Study - インフラコスト最適化への取り組み -](https://optim.connpass.com/event/254471/)
+- Aug 6 [【第4回】NAGOYA SE勉強会【もくもく会】](https://connpass.com/event/255343/)
 <!-- profile updater end: connpass -->
 
 <!---
