@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 15 [K-Ruby#32 LT&雑談会](https://k-ruby.connpass.com/event/255309/)
-- Aug 24 [【LT残5枠！】リーダブルコード LT会 - vol.4 #readablelt](https://rakus.connpass.com/event/253650/)
-- Aug 19 [freee Design Night in Fukuoka](https://connpass.com/event/255107/)
-- Aug 9 [OPTiM TECH NIGHT｜Infra Study - インフラコスト最適化への取り組み -](https://optim.connpass.com/event/254471/)
-- Aug 6 [【第4回】NAGOYA SE勉強会【もくもく会】](https://connpass.com/event/255343/)
+- Sep 3 [kintone Café 神奈川 Vol.13 & SORACOM UG 東京（リアル/オンライン）](https://kintonecafe-kanagawa.connpass.com/event/254993/)
+- Aug 20 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2022/08/20](https://coderdojo-nisshin.connpass.com/event/255447/)
+- Jul 30 [ショートカット勉強会 Day1（初心者向け）](https://connpass.com/event/255333/)
+- Jul 30 [第2回CPU+コンパイラ自作ワークショップ プログラミングデー](https://cybozu.connpass.com/event/255398/)
+- Jul 29 [SSI / DID](https://fintech-engineer.connpass.com/event/252076/)
 <!-- profile updater end: connpass -->
 
 <!---
