@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 3 [kintone Café 神奈川 Vol.13 & SORACOM UG 東京（リアル/オンライン）](https://kintonecafe-kanagawa.connpass.com/event/254993/)
-- Aug 20 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2022/08/20](https://coderdojo-nisshin.connpass.com/event/255447/)
-- Jul 30 [ショートカット勉強会 Day1（初心者向け）](https://connpass.com/event/255333/)
-- Jul 30 [第2回CPU+コンパイラ自作ワークショップ プログラミングデー](https://cybozu.connpass.com/event/255398/)
-- Jul 29 [SSI / DID](https://fintech-engineer.connpass.com/event/252076/)
+- Aug 27 [第43回横浜Go読書会（オンライン）](https://yokohama-go-reading.connpass.com/event/255499/)
+- Aug 13 [第1回『Go言語による分散サービス』オンライン読書会](https://technical-book-reading-2.connpass.com/event/254275/)
+- Aug 7 [秋葉原ロボット部 第119回勉強会](https://akbrobot.connpass.com/event/254241/)
+- Aug 3 [増田亨さんによる「設計の考え方とやり方」勉強会](https://asken.connpass.com/event/254709/)
+- Jul 30 [Tech Book Talk：技術書なんでもLT（20220730＠OSC京都）](https://techbooktalk.connpass.com/event/252254/)
 <!-- profile updater end: connpass -->
 
 <!---
