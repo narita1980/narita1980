@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 27 [第43回横浜Go読書会（オンライン）](https://yokohama-go-reading.connpass.com/event/255499/)
-- Aug 13 [第1回『Go言語による分散サービス』オンライン読書会](https://technical-book-reading-2.connpass.com/event/254275/)
-- Aug 7 [秋葉原ロボット部 第119回勉強会](https://akbrobot.connpass.com/event/254241/)
-- Aug 3 [増田亨さんによる「設計の考え方とやり方」勉強会](https://asken.connpass.com/event/254709/)
-- Jul 30 [Tech Book Talk：技術書なんでもLT（20220730＠OSC京都）](https://techbooktalk.connpass.com/event/252254/)
+- Aug 27 [SORACOM UG ビギナーズ #8〜パソコンがあればできるIoT体験〜](https://soracomug-tokyo.connpass.com/event/255468/)
+- Aug 17 [【オンライン】飛騨高山Pythonの会 #31](https://hida-python.connpass.com/event/255050/)
+- Aug 9 [OPTiM TECH NIGHT｜インフラコスト最適化への取り組み](https://optim.connpass.com/event/254471/)
+- Aug 7 [CoderDojo熊本 デジタルでものづくりをやってみよう](https://coderdojokumamoto.connpass.com/event/254871/)
+- Aug 2 [NEXTユニコーン×最先端ロボティクス企業の今を語る](https://connpass.com/event/255074/)
 <!-- profile updater end: connpass -->
 
 <!---
