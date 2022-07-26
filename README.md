@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 27 [SORACOM UG ビギナーズ #8〜パソコンがあればできるIoT体験〜](https://soracomug-tokyo.connpass.com/event/255468/)
-- Aug 17 [【オンライン】飛騨高山Pythonの会 #31](https://hida-python.connpass.com/event/255050/)
-- Aug 9 [OPTiM TECH NIGHT｜インフラコスト最適化への取り組み](https://optim.connpass.com/event/254471/)
-- Aug 7 [CoderDojo熊本 デジタルでものづくりをやってみよう](https://coderdojokumamoto.connpass.com/event/254871/)
-- Aug 2 [NEXTユニコーン×最先端ロボティクス企業の今を語る](https://connpass.com/event/255074/)
+- Aug 23 [はじめてのGit & GitHub ハンズオン #1](https://asiaquest.connpass.com/event/255246/)
+- Aug 21 [かごもく #59 テスト駆動開発体験会 2022.08](https://kagoben.connpass.com/event/254344/)
+- Aug 6 [#5 ミートアップ・もくもく会&web3(Solidity)開発ハンズオン](https://buildweekend.connpass.com/event/254444/)
+- Aug 3 [★好評につき再配信★【テクバン×ミクシィ×AIQVE ONE】3社共催！テスト自動化事例L](https://tech-quality.connpass.com/event/254756/)
+- Jul 30 [PyLadies Tokyo Meetup #72 オンライン FastAPI ハンズオン](https://pyladies-tokyo.connpass.com/event/254107/)
 <!-- profile updater end: connpass -->
 
 <!---
