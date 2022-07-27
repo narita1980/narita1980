@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 23 [はじめてのGit & GitHub ハンズオン #1](https://asiaquest.connpass.com/event/255246/)
-- Aug 21 [かごもく #59 テスト駆動開発体験会 2022.08](https://kagoben.connpass.com/event/254344/)
-- Aug 6 [#5 ミートアップ・もくもく会&web3(Solidity)開発ハンズオン](https://buildweekend.connpass.com/event/254444/)
-- Aug 3 [★好評につき再配信★【テクバン×ミクシィ×AIQVE ONE】3社共催！テスト自動化事例L](https://tech-quality.connpass.com/event/254756/)
-- Jul 30 [PyLadies Tokyo Meetup #72 オンライン FastAPI ハンズオン](https://pyladies-tokyo.connpass.com/event/254107/)
+- Aug 30 [[開催延期]【夏休み企画】アカデミア出身者がビジネスのデータ分析プロジェクトを通じて学んだこと](https://ibm-developer.connpass.com/event/254512/)
+- Aug 10 [【MoT x カウシェ】プロダクトを急成長させるiOS開発の爆速化チャレンジ](https://jtx.connpass.com/event/254758/)
+- Aug 7 [第１１回　全日本コンピュータビジョン勉強会(前編)](https://kantocv.connpass.com/event/253622/)
+- Aug 3 [AWSの先週ふりかえり #ohayo_aws 2022.08.03](https://ohayo-aws.connpass.com/event/255876/)
+- Jul 29 [Google Cloudを活用したサービスの紹介（Data,ML開発）/iret tech labo](https://irettechlabo.connpass.com/event/253282/)
 <!-- profile updater end: connpass -->
 
 <!---
