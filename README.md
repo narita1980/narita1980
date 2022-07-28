@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 30 [[開催延期]【夏休み企画】アカデミア出身者がビジネスのデータ分析プロジェクトを通じて学んだこと](https://ibm-developer.connpass.com/event/254512/)
-- Aug 10 [【MoT x カウシェ】プロダクトを急成長させるiOS開発の爆速化チャレンジ](https://jtx.connpass.com/event/254758/)
-- Aug 7 [第１１回　全日本コンピュータビジョン勉強会(前編)](https://kantocv.connpass.com/event/253622/)
-- Aug 3 [AWSの先週ふりかえり #ohayo_aws 2022.08.03](https://ohayo-aws.connpass.com/event/255876/)
-- Jul 29 [Google Cloudを活用したサービスの紹介（Data,ML開発）/iret tech labo](https://irettechlabo.connpass.com/event/253282/)
+- Sep 3 [autoracex #131](https://autoracex.connpass.com/event/256058/)
+- Aug 31 [スマートな「テストの再利用」を支えるテスト資産のデータモデリング](https://veriserve-event.connpass.com/event/253820/)
+- Aug 27 [autoracex #129](https://autoracex.connpass.com/event/256056/)
+- Aug 20 [autoracex #127](https://autoracex.connpass.com/event/256054/)
+- Aug 13 [autoracex #125](https://autoracex.connpass.com/event/256053/)
 <!-- profile updater end: connpass -->
 
 <!---
