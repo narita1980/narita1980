@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 3 [autoracex #131](https://autoracex.connpass.com/event/256058/)
-- Aug 31 [スマートな「テストの再利用」を支えるテスト資産のデータモデリング](https://veriserve-event.connpass.com/event/253820/)
-- Aug 27 [autoracex #129](https://autoracex.connpass.com/event/256056/)
-- Aug 20 [autoracex #127](https://autoracex.connpass.com/event/256054/)
-- Aug 13 [autoracex #125](https://autoracex.connpass.com/event/256053/)
+- Sep 9 [PingCAP Education：TiKV - トランザクション & MVCC](https://tug.connpass.com/event/255885/)
+- Aug 31 [「2022年度上半期トレンド」を語るフロントエンドTechCafe](https://rakus.connpass.com/event/253941/)
+- Aug 31 [【ハンズオン】機械学習入門：動かして学ぶ、機械学習のキソ](https://oracle-code-tokyo-dev.connpass.com/event/252986/)
+- Aug 20 [◤xR with Anything Meetup #014◢ #xram81 #メタバース](https://xram.connpass.com/event/251964/)
+- Aug 13 [【オンライン自習室】Salesforce Saturday 赤坂 #18 【もくもく会】](https://salesforcesaturday-akasaka.connpass.com/event/256156/)
 <!-- profile updater end: connpass -->
 
 <!---
