@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 9 [PingCAP Education：TiKV - トランザクション & MVCC](https://tug.connpass.com/event/255885/)
-- Aug 31 [「2022年度上半期トレンド」を語るフロントエンドTechCafe](https://rakus.connpass.com/event/253941/)
-- Aug 31 [【ハンズオン】機械学習入門：動かして学ぶ、機械学習のキソ](https://oracle-code-tokyo-dev.connpass.com/event/252986/)
-- Aug 20 [◤xR with Anything Meetup #014◢ #xram81 #メタバース](https://xram.connpass.com/event/251964/)
-- Aug 13 [【オンライン自習室】Salesforce Saturday 赤坂 #18 【もくもく会】](https://salesforcesaturday-akasaka.connpass.com/event/256156/)
+- Aug 28 [「大切な人のワクワクをつくるしかけコンテスト」に挑戦しよう！（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/256167/)
+- Aug 26 [NaITE#37 6th長崎QDG参加報告会](https://nagasaki-it-engineers.connpass.com/event/256070/)
+- Aug 21 [micro:bit Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/254982/)
+- Aug 14 [フォトコンテストに挑戦！（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/256073/)
+- Aug 14 [Blenderで3DCG作ってみよう（会場：あけみおSKYドーム会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/254937/)
 <!-- profile updater end: connpass -->
 
 <!---
