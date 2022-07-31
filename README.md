@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 28 [「大切な人のワクワクをつくるしかけコンテスト」に挑戦しよう！（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/256167/)
-- Aug 26 [NaITE#37 6th長崎QDG参加報告会](https://nagasaki-it-engineers.connpass.com/event/256070/)
-- Aug 21 [micro:bit Day （会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/254982/)
-- Aug 14 [フォトコンテストに挑戦！（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/256073/)
-- Aug 14 [Blenderで3DCG作ってみよう（会場：あけみおSKYドーム会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/254937/)
+- Aug 8 [8/8(月)【第1295回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/256294/)
+- Aug 8 [8/8(月)【第1294回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/256293/)
+- Aug 7 [「大切な人のワクワクをつくるしかけコンテスト」に挑戦しよう！　※ロボットプログラミング](https://coderdojo-nago.connpass.com/event/256227/)
+- Aug 6 [【大井町線・池上線】 定例もくもく会@旗の台 #034](https://ay-house01.connpass.com/event/256297/)
+- Aug 6 [【メタバース】夏休みに学ぶ技術を決めよう C# Tokyo イベント（もくもく会）](https://csharp-tokyo.connpass.com/event/252673/)
 <!-- profile updater end: connpass -->
 
 <!---
