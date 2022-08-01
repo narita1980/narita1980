@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 8 [8/8(月)【第1295回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/256294/)
-- Aug 8 [8/8(月)【第1294回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/256293/)
-- Aug 7 [「大切な人のワクワクをつくるしかけコンテスト」に挑戦しよう！　※ロボットプログラミング](https://coderdojo-nago.connpass.com/event/256227/)
-- Aug 6 [【大井町線・池上線】 定例もくもく会@旗の台 #034](https://ay-house01.connpass.com/event/256297/)
-- Aug 6 [【メタバース】夏休みに学ぶ技術を決めよう C# Tokyo イベント（もくもく会）](https://csharp-tokyo.connpass.com/event/252673/)
+- Sep 30 [【会場参加申込用】2022年度 第2回 大阪府病院薬剤師会 第2支部研修会](https://ohp-b2.connpass.com/event/256216/)
+- Sep 30 [【WEB参加申込用】2022年度 第2回 大阪府病院薬剤師会 第2支部研修会](https://ohp-b2.connpass.com/event/256215/)
+- Aug 26 [diddyworksのメンバーとお話しませんか！](https://diddyworks.connpass.com/event/255399/)
+- Aug 16 [UV Study : PostgreSQL LT会 Vol.4](https://uniquevision.connpass.com/event/255393/)
+- Aug 10 [ゆるもく！作業＆質問＆相談会 #03【XR/Unityなど】](https://fukuoka-xr-club.connpass.com/event/255957/)
 <!-- profile updater end: connpass -->
 
 <!---
