@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 30 [【会場参加申込用】2022年度 第2回 大阪府病院薬剤師会 第2支部研修会](https://ohp-b2.connpass.com/event/256216/)
-- Sep 30 [【WEB参加申込用】2022年度 第2回 大阪府病院薬剤師会 第2支部研修会](https://ohp-b2.connpass.com/event/256215/)
-- Aug 26 [diddyworksのメンバーとお話しませんか！](https://diddyworks.connpass.com/event/255399/)
-- Aug 16 [UV Study : PostgreSQL LT会 Vol.4](https://uniquevision.connpass.com/event/255393/)
-- Aug 10 [ゆるもく！作業＆質問＆相談会 #03【XR/Unityなど】](https://fukuoka-xr-club.connpass.com/event/255957/)
+- Sep 14 [自動化大好きエンジニアLT会 - vol.8](https://rakus.connpass.com/event/255781/)
+- Aug 30 [２２回 初心者のためのセキュリティ勉強会（オンライン開催）](https://sfb.connpass.com/event/256452/)
+- Aug 16 [B2Bスタートアップの最先端『beyond SaaS 第2回』](https://connpass.com/event/255307/)
+- Aug 10 [製造業向け新事業の基盤をエンジニア一人のチームでローコードxマネージドで半年で立ち上げた話](https://caddi.connpass.com/event/255158/)
+- Aug 9 [【8/9ウェビナー開催】国内最先端コールセンター組織の作り方！](https://connpass.com/event/255624/)
 <!-- profile updater end: connpass -->
 
 <!---
