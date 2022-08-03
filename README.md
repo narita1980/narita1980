@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 14 [自動化大好きエンジニアLT会 - vol.8](https://rakus.connpass.com/event/255781/)
-- Aug 30 [２２回 初心者のためのセキュリティ勉強会（オンライン開催）](https://sfb.connpass.com/event/256452/)
-- Aug 16 [B2Bスタートアップの最先端『beyond SaaS 第2回』](https://connpass.com/event/255307/)
-- Aug 10 [製造業向け新事業の基盤をエンジニア一人のチームでローコードxマネージドで半年で立ち上げた話](https://caddi.connpass.com/event/255158/)
-- Aug 9 [【8/9ウェビナー開催】国内最先端コールセンター組織の作り方！](https://connpass.com/event/255624/)
+- Aug 31 [第11回　BABOK(R)ガイド読書会　※お試し、耳だけ参加可](https://iiba-japan.connpass.com/event/256580/)
+- Aug 31 [Air ビジネスツールズ担当が30代に向けてリクルートを選んだ理由　プロデザ！BYリクルートvol2](https://recruit-event.connpass.com/event/255937/)
+- Aug 27 [.NETラボ 勉強会 2022年8月](https://dotnetlab.connpass.com/event/254374/)
+- Aug 26 [【WiA 8月勉強会】AWSクラウド知識習得とキャリア](https://wiaj.connpass.com/event/256212/)
+- Aug 23 [【増枠】Design System Build #01 -デザインシステム構築の様々なアプローチ-](https://raksul.connpass.com/event/255844/)
 <!-- profile updater end: connpass -->
 
 <!---
