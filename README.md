@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 31 [第11回　BABOK(R)ガイド読書会　※お試し、耳だけ参加可](https://iiba-japan.connpass.com/event/256580/)
-- Aug 31 [Air ビジネスツールズ担当が30代に向けてリクルートを選んだ理由　プロデザ！BYリクルートvol2](https://recruit-event.connpass.com/event/255937/)
-- Aug 27 [.NETラボ 勉強会 2022年8月](https://dotnetlab.connpass.com/event/254374/)
-- Aug 26 [【WiA 8月勉強会】AWSクラウド知識習得とキャリア](https://wiaj.connpass.com/event/256212/)
-- Aug 23 [【増枠】Design System Build #01 -デザインシステム構築の様々なアプローチ-](https://raksul.connpass.com/event/255844/)
+- Oct 1 [POST Dev | ビジネスを変革するモダンフロントエンドの祭典](https://nijibox.connpass.com/event/256080/)
+- Sep 7 [第182回RITS技術交流会『あなたのカラダの未来が変わる「すごい体操・VIM」』](https://rits-techforum.connpass.com/event/256688/)
+- Sep 7 [無限にスケールできるRDB・TiDBの効果～移行までを考察する](https://tug.connpass.com/event/256689/)
+- Aug 30 [レジリエント・ゼロトラスト・ネットワークアクセスとは](https://connpass.com/event/256611/)
+- Aug 26 [みんなで Adobe XD Trail 2022 #5（全6回）8/26 Photoshop連携](https://xdtrail.connpass.com/event/255758/)
 <!-- profile updater end: connpass -->
 
 <!---
