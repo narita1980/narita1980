@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 1 [POST Dev | ビジネスを変革するモダンフロントエンドの祭典](https://nijibox.connpass.com/event/256080/)
-- Sep 7 [第182回RITS技術交流会『あなたのカラダの未来が変わる「すごい体操・VIM」』](https://rits-techforum.connpass.com/event/256688/)
-- Sep 7 [無限にスケールできるRDB・TiDBの効果～移行までを考察する](https://tug.connpass.com/event/256689/)
-- Aug 30 [レジリエント・ゼロトラスト・ネットワークアクセスとは](https://connpass.com/event/256611/)
-- Aug 26 [みんなで Adobe XD Trail 2022 #5（全6回）8/26 Photoshop連携](https://xdtrail.connpass.com/event/255758/)
+- Sep 7 [Serverless LT初心者向け LT大会 #25](https://serverlesslt.connpass.com/event/256672/)
+- Aug 27 [とっとるびー第４５回 Online](https://tottoruby.connpass.com/event/256799/)
+- Aug 27 [第69回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/255610/)
+- Aug 24 [フロントエンド技術の過去現在未来【オンラインセミナー】 豆寄席](https://mamezou.connpass.com/event/256753/)
+- Aug 19 [freee Design Night in Fukuoka【オンライン開催】](https://freee.connpass.com/event/255107/)
 <!-- profile updater end: connpass -->
 
 <!---
