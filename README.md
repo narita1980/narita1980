@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 7 [Serverless LT初心者向け LT大会 #25](https://serverlesslt.connpass.com/event/256672/)
-- Aug 27 [とっとるびー第４５回 Online](https://tottoruby.connpass.com/event/256799/)
-- Aug 27 [第69回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/255610/)
-- Aug 24 [フロントエンド技術の過去現在未来【オンラインセミナー】 豆寄席](https://mamezou.connpass.com/event/256753/)
-- Aug 19 [freee Design Night in Fukuoka【オンライン開催】](https://freee.connpass.com/event/255107/)
+- Dec 3 [【Cisco】ラボ#1@1203AM0900秋葉原UDX](https://forse.connpass.com/event/256843/)
+- Sep 10 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2022/09/10](https://coderdojo-nisshin.connpass.com/event/256897/)
+- Aug 27 [第39回 CoderDojo岐阜](https://coderdojo-gifu.connpass.com/event/256898/)
+- Aug 21 [【Cisco】ラボ#11-14セット@0821AM9秋葉原UDX](https://forse.connpass.com/event/255725/)
+- Aug 20 [#146 DevMoku（オンライン）](https://sendai-cafemorning.connpass.com/event/255390/)
 <!-- profile updater end: connpass -->
 
 <!---
