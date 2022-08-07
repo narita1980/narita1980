@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 3 [【Cisco】ラボ#1@1203AM0900秋葉原UDX](https://forse.connpass.com/event/256843/)
-- Sep 10 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2022/09/10](https://coderdojo-nisshin.connpass.com/event/256897/)
-- Aug 27 [第39回 CoderDojo岐阜](https://coderdojo-gifu.connpass.com/event/256898/)
-- Aug 21 [【Cisco】ラボ#11-14セット@0821AM9秋葉原UDX](https://forse.connpass.com/event/255725/)
-- Aug 20 [#146 DevMoku（オンライン）](https://sendai-cafemorning.connpass.com/event/255390/)
+- Aug 28 [Robot Day（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/256167/)
+- Aug 20 [【Web系エンジニア・LT会&勉強会】エンジニアの輪 at 東京](https://connpass.com/event/253524/)
+- Aug 15 [8/15(月)【第1309回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/256944/)
+- Aug 15 [8/15(月)【第1308回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/256943/)
+- Aug 13 [AWS入門!EC2でWEBサーバを作るハンズオン](https://zeki-chan-lab.connpass.com/event/256940/)
 <!-- profile updater end: connpass -->
 
 <!---
