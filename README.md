@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 28 [Robot Day（会場：あけみおSKYドーム）](https://coderdojo-nago.connpass.com/event/256167/)
-- Aug 20 [【Web系エンジニア・LT会&勉強会】エンジニアの輪 at 東京](https://connpass.com/event/253524/)
-- Aug 15 [8/15(月)【第1309回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/256944/)
-- Aug 15 [8/15(月)【第1308回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/256943/)
-- Aug 13 [AWS入門!EC2でWEBサーバを作るハンズオン](https://zeki-chan-lab.connpass.com/event/256940/)
+- Oct 18 [Drupal 翻訳もくもく会](https://drupal-tokyo.connpass.com/event/256781/)
+- Sep 6 [まちのIT相談室 2022年9月号](https://openkawasaki.connpass.com/event/257008/)
+- Sep 1 [Drupal Meetup Tokyo #71 - 09/2022 [オンライン開催]](https://drupal-tokyo.connpass.com/event/256779/)
+- Aug 31 [みんながハマったクラウド落とし穴 (AWS/Azure/GCP)](https://cloud-discussion.connpass.com/event/255174/)
+- Aug 29 [AWSの基礎を学ぼう 第九十六回](https://awsbasics.connpass.com/event/257007/)
 <!-- profile updater end: connpass -->
 
 <!---
