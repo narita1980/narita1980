@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 18 [Drupal 翻訳もくもく会](https://drupal-tokyo.connpass.com/event/256781/)
-- Sep 6 [まちのIT相談室 2022年9月号](https://openkawasaki.connpass.com/event/257008/)
-- Sep 1 [Drupal Meetup Tokyo #71 - 09/2022 [オンライン開催]](https://drupal-tokyo.connpass.com/event/256779/)
-- Aug 31 [みんながハマったクラウド落とし穴 (AWS/Azure/GCP)](https://cloud-discussion.connpass.com/event/255174/)
-- Aug 29 [AWSの基礎を学ぼう 第九十六回](https://awsbasics.connpass.com/event/257007/)
+- Oct 5 [iOSDC Japan 2022 After Talk](https://sansan.connpass.com/event/255645/)
+- Sep 23 [【初心者向け】ソフトウェアテスト勉強会 in 佐世保 （ASTER出張セミナー in 佐世保)](https://nagasaki-it-engineers.connpass.com/event/249827/)
+- Aug 31 [いま注目のAI！自然言語処理の実社会活用と未来構想](https://stockmark.connpass.com/event/256536/)
+- Aug 29 [インサイドセールス組織に採用・育成担当を置いてよかったこと、これからやること](https://smarthr.connpass.com/event/255628/)
+- Aug 15 [More Effective Agile チラ見会 -ふりかえり-](https://engineering-floor.connpass.com/event/257121/)
 <!-- profile updater end: connpass -->
 
 <!---
