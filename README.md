@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 5 [iOSDC Japan 2022 After Talk](https://sansan.connpass.com/event/255645/)
-- Sep 23 [【初心者向け】ソフトウェアテスト勉強会 in 佐世保 （ASTER出張セミナー in 佐世保)](https://nagasaki-it-engineers.connpass.com/event/249827/)
-- Aug 31 [いま注目のAI！自然言語処理の実社会活用と未来構想](https://stockmark.connpass.com/event/256536/)
-- Aug 29 [インサイドセールス組織に採用・育成担当を置いてよかったこと、これからやること](https://smarthr.connpass.com/event/255628/)
-- Aug 15 [More Effective Agile チラ見会 -ふりかえり-](https://engineering-floor.connpass.com/event/257121/)
+- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
+- Sep 29 [Rakuten: 大規模クラウドの仕組みと秘密](https://rakuten.connpass.com/event/254762/)
+- Sep 29 [生きたデータ活用に欠かせない「組織文化とマインド」を醸成する方法とは　フェリシモの山下氏に聞く](https://anitya-darsana.connpass.com/event/256962/)
+- Sep 1 [【明日から使えるテスト技法勉強会】S2 - 2 ～ペアワイズテストの基本と応用～](https://veriserve-event.connpass.com/event/256184/)
+- Aug 30 [ITC北海道 勉強会　令和4年度　第1回](https://itc-hokkaidou.connpass.com/event/256635/)
 <!-- profile updater end: connpass -->
 
 <!---
