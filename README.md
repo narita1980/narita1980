@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
-- Sep 29 [Rakuten: 大規模クラウドの仕組みと秘密](https://rakuten.connpass.com/event/254762/)
-- Sep 29 [生きたデータ活用に欠かせない「組織文化とマインド」を醸成する方法とは　フェリシモの山下氏に聞く](https://anitya-darsana.connpass.com/event/256962/)
-- Sep 1 [【明日から使えるテスト技法勉強会】S2 - 2 ～ペアワイズテストの基本と応用～](https://veriserve-event.connpass.com/event/256184/)
-- Aug 30 [ITC北海道 勉強会　令和4年度　第1回](https://itc-hokkaidou.connpass.com/event/256635/)
+- Aug 28 [第49回 PCNひろしまオンラインこどもプログラミング教室](https://pcn-hiroshima.connpass.com/event/257220/)
+- Aug 26 [【オンライン】.NET 6 移行祭り！ C# Tokyo イベント](https://csharp-tokyo.connpass.com/event/254206/)
+- Aug 24 [pandas-datareaderコードリーディング会#2](https://fin-py.connpass.com/event/257357/)
+- Aug 23 [第71回 HTML5とか勉強会](https://html5j.connpass.com/event/255894/)
+- Aug 20 [Container Runtime Meetup #4](https://runtime.connpass.com/event/253798/)
 <!-- profile updater end: connpass -->
 
 <!---
