@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 28 [第49回 PCNひろしまオンラインこどもプログラミング教室](https://pcn-hiroshima.connpass.com/event/257220/)
-- Aug 26 [【オンライン】.NET 6 移行祭り！ C# Tokyo イベント](https://csharp-tokyo.connpass.com/event/254206/)
-- Aug 24 [pandas-datareaderコードリーディング会#2](https://fin-py.connpass.com/event/257357/)
-- Aug 23 [第71回 HTML5とか勉強会](https://html5j.connpass.com/event/255894/)
-- Aug 20 [Container Runtime Meetup #4](https://runtime.connpass.com/event/253798/)
+- Oct 18 [Japan Power Platform Conference 2022](https://powerplatformconf.connpass.com/event/245996/)
+- Aug 26 [【オンライン・登壇者募集中】エンジニアがこだわりのデスクを語る会](https://mofmof001.connpass.com/event/257134/)
+- Aug 25 [Gストラング線形代数勉強会](https://study-data-analysis.connpass.com/event/257417/)
+- Aug 24 [【LT残3枠！】リーダブルコード LT会 - vol.4 #readablelt](https://rakus.connpass.com/event/253650/)
+- Aug 23 [Accenture Tech Talk Vol.16 国家プロジェクト×テクノロジー](https://accenture-technology.connpass.com/event/257415/)
 <!-- profile updater end: connpass -->
 
 <!---
