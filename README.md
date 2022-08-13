@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 18 [Japan Power Platform Conference 2022](https://powerplatformconf.connpass.com/event/245996/)
-- Aug 26 [【オンライン・登壇者募集中】エンジニアがこだわりのデスクを語る会](https://mofmof001.connpass.com/event/257134/)
-- Aug 25 [Gストラング線形代数勉強会](https://study-data-analysis.connpass.com/event/257417/)
-- Aug 24 [【LT残3枠！】リーダブルコード LT会 - vol.4 #readablelt](https://rakus.connpass.com/event/253650/)
-- Aug 23 [Accenture Tech Talk Vol.16 国家プロジェクト×テクノロジー](https://accenture-technology.connpass.com/event/257415/)
+- Sep 11 [就活生必見！LINE×Microsoft CDLE youthオンライン社員交流イベント](https://connpass.com/event/253553/)
+- Aug 27 [#147 DevMoku（オンライン）](https://sendai-cafemorning.connpass.com/event/255391/)
+- Aug 21 [8/21(日)【第1321回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/257499/)
+- Aug 21 [大阪ゲーム制作全般もくもく会 #2](https://osakagamedev.connpass.com/event/255687/)
+- Aug 21 [8/21(日)【第1320回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/257498/)
 <!-- profile updater end: connpass -->
 
 <!---
