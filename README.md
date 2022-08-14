@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 11 [就活生必見！LINE×Microsoft CDLE youthオンライン社員交流イベント](https://connpass.com/event/253553/)
-- Aug 27 [#147 DevMoku（オンライン）](https://sendai-cafemorning.connpass.com/event/255391/)
-- Aug 21 [8/21(日)【第1321回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/257499/)
-- Aug 21 [大阪ゲーム制作全般もくもく会 #2](https://osakagamedev.connpass.com/event/255687/)
-- Aug 21 [8/21(日)【第1320回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/257498/)
+- Oct 1 [XP祭り2022 参加&LT募集！！](https://xpjug.connpass.com/event/255712/)
+- Sep 11 [第23回 CoderDojo 三島/沼津](https://coderdojo-mn.connpass.com/event/257394/)
+- Aug 21 [よちよちサンデープログラミング@名古屋 第215回もくもく会](https://yochiand.connpass.com/event/257562/)
+- Aug 20 [IT系&誰でも参加OK！もくもく会_朝活_8/20(土)](https://morimori.connpass.com/event/257560/)
+- Aug 18 [第4回オンラインポモドーロもくもく会(カメラ・マイク無し)](https://mokmo.connpass.com/event/257558/)
 <!-- profile updater end: connpass -->
 
 <!---
