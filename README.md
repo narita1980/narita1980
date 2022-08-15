@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 1 [XP祭り2022 参加&LT募集！！](https://xpjug.connpass.com/event/255712/)
-- Sep 11 [第23回 CoderDojo 三島/沼津](https://coderdojo-mn.connpass.com/event/257394/)
-- Aug 21 [よちよちサンデープログラミング@名古屋 第215回もくもく会](https://yochiand.connpass.com/event/257562/)
-- Aug 20 [IT系&誰でも参加OK！もくもく会_朝活_8/20(土)](https://morimori.connpass.com/event/257560/)
-- Aug 18 [第4回オンラインポモドーロもくもく会(カメラ・マイク無し)](https://mokmo.connpass.com/event/257558/)
+- Sep 19 [AWSの基礎を学ぼう 第九十九回](https://awsbasics.connpass.com/event/257615/)
+- Sep 15 [【LT残4枠！】設計モデリングLT会 - vol.4 #modelinglt](https://rakus.connpass.com/event/255782/)
+- Sep 11 [就活生必見！LINE×Microsoft CDLE youthオンライン社員交流イベント](https://connpass.com/event/253553/)
+- Sep 5 [AWSの基礎を学ぼう 第九十七回](https://awsbasics.connpass.com/event/257614/)
+- Aug 28 [3D何でも勉強会 #1](https://preferred-networks.connpass.com/event/256382/)
 <!-- profile updater end: connpass -->
 
 <!---
