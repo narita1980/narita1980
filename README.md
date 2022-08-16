@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 19 [AWSの基礎を学ぼう 第九十九回](https://awsbasics.connpass.com/event/257615/)
-- Sep 15 [【LT残4枠！】設計モデリングLT会 - vol.4 #modelinglt](https://rakus.connpass.com/event/255782/)
-- Sep 11 [就活生必見！LINE×Microsoft CDLE youthオンライン社員交流イベント](https://connpass.com/event/253553/)
-- Sep 5 [AWSの基礎を学ぼう 第九十七回](https://awsbasics.connpass.com/event/257614/)
-- Aug 28 [3D何でも勉強会 #1](https://preferred-networks.connpass.com/event/256382/)
+- Jan 31 [プログラミングについて喋りたい、の会](https://kashiwazaki.connpass.com/event/257672/)
+- Oct 15 [Go Conference mini 2022 Autumn IN SENDAI](https://sendaigo.connpass.com/event/256463/)
+- Sep 17 [首都大オフ2022夏](https://connpass.com/event/256587/)
+- Sep 6 [エンジニアリングマネージャーのしごと - Forkwell Library #5](https://forkwell.connpass.com/event/257329/)
+- Sep 3 [Python Boot Camp in 静岡県沼津市 懇親会](https://pyconjp.connpass.com/event/251469/)
 <!-- profile updater end: connpass -->
 
 <!---
