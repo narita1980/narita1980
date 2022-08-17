@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 31 [プログラミングについて喋りたい、の会](https://kashiwazaki.connpass.com/event/257672/)
-- Oct 15 [Go Conference mini 2022 Autumn IN SENDAI](https://sendaigo.connpass.com/event/256463/)
-- Sep 17 [首都大オフ2022夏](https://connpass.com/event/256587/)
-- Sep 6 [エンジニアリングマネージャーのしごと - Forkwell Library #5](https://forkwell.connpass.com/event/257329/)
-- Sep 3 [Python Boot Camp in 静岡県沼津市 懇親会](https://pyconjp.connpass.com/event/251469/)
+- Oct 5 [#ヒーローズリーグ  2022 ゆるアイデアソン vol.2](https://mashupawards.connpass.com/event/253638/)
+- Sep 28 [#ヒーローズリーグ 2022 開発素材LT vol.2](https://mashupawards.connpass.com/event/253636/)
+- Sep 14 [IoT縛りの勉強会! IoTLT vol.91](https://iotlt.connpass.com/event/257817/)
+- Sep 1 [InnerSource Commons Meetup #1 ~OSSの開発スタイルを社内で実践~](https://innersourcecommons.connpass.com/event/257580/)
+- Aug 28 [8/28 Open Source Conference 2022 Online/Yamaguchi](https://ospn.connpass.com/event/255903/)
 <!-- profile updater end: connpass -->
 
 <!---
