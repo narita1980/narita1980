@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 5 [#ヒーローズリーグ  2022 ゆるアイデアソン vol.2](https://mashupawards.connpass.com/event/253638/)
 - Sep 28 [#ヒーローズリーグ 2022 開発素材LT vol.2](https://mashupawards.connpass.com/event/253636/)
-- Sep 14 [IoT縛りの勉強会! IoTLT vol.91](https://iotlt.connpass.com/event/257817/)
-- Sep 1 [InnerSource Commons Meetup #1 ~OSSの開発スタイルを社内で実践~](https://innersourcecommons.connpass.com/event/257580/)
-- Aug 28 [8/28 Open Source Conference 2022 Online/Yamaguchi](https://ospn.connpass.com/event/255903/)
+- Sep 23 [第22回西東京Web勉強会「デザイナーLT大会〜夏の陣〜」](https://westtokyowebstudy.connpass.com/event/255380/)
+- Sep 7 [#ヒーローズリーグ 2022 開発素材LT vol.1](https://mashupawards.connpass.com/event/253635/)
+- Sep 7 [ビットキー x クラウドサイン SRE勉強会〜組織立ち上げ編〜](https://bengo4.connpass.com/event/256454/)
+- Aug 30 [学生起業してみた！ ＜オンラインイベント＞](https://3rdlink.connpass.com/event/257981/)
 <!-- profile updater end: connpass -->
 
 <!---
