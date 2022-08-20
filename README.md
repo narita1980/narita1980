@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 28 [#ヒーローズリーグ 2022 開発素材LT vol.2](https://mashupawards.connpass.com/event/253636/)
-- Sep 23 [第22回西東京Web勉強会「デザイナーLT大会〜夏の陣〜」](https://westtokyowebstudy.connpass.com/event/255380/)
-- Sep 7 [#ヒーローズリーグ 2022 開発素材LT vol.1](https://mashupawards.connpass.com/event/253635/)
-- Sep 7 [ビットキー x クラウドサイン SRE勉強会〜組織立ち上げ編〜](https://bengo4.connpass.com/event/256454/)
-- Aug 30 [学生起業してみた！ ＜オンラインイベント＞](https://3rdlink.connpass.com/event/257981/)
+- Sep 24 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2022/09/24](https://coderdojo-nisshin.connpass.com/event/258114/)
+- Sep 17 [情シスslack 個人的オフ会（2022年秋）](https://connpass.com/event/258115/)
+- Aug 28 [8/28(日)【第1335回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/258105/)
+- Aug 27 [IT系&誰でも参加OK！もくもく会_朝活_8/27(土)](https://morimori.connpass.com/event/258112/)
+- Aug 26 [「情報幾何学の基礎」読書会 4](https://qmlclub.connpass.com/event/258116/)
 <!-- profile updater end: connpass -->
 
 <!---
