@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 24 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2022/09/24](https://coderdojo-nisshin.connpass.com/event/258114/)
-- Sep 17 [情シスslack 個人的オフ会（2022年秋）](https://connpass.com/event/258115/)
-- Aug 28 [8/28(日)【第1335回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/258105/)
-- Aug 27 [IT系&誰でも参加OK！もくもく会_朝活_8/27(土)](https://morimori.connpass.com/event/258112/)
-- Aug 26 [「情報幾何学の基礎」読書会 4](https://qmlclub.connpass.com/event/258116/)
+- Sep 18 [CoderDojo大府(第46回) 子供向けプログラミング道場 2022/09/18](https://coderdojo-obu.connpass.com/event/258180/)
+- Sep 11 [CoderDojo大府(第45回) 子供向けプログラミング道場 2022/09/11](https://coderdojo-obu.connpass.com/event/258179/)
+- Sep 10 [小江戸らぐ 9月のオフな集まり(第242回)](https://koedolug.connpass.com/event/258128/)
+- Sep 4 [テクニックに走らないファシリテーション 輪読会 #10](https://reading-facilitation.connpass.com/event/258171/)
+- Aug 29 [8/29(月)【第1337回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/258177/)
 <!-- profile updater end: connpass -->
 
 <!---
