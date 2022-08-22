@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 18 [CoderDojo大府(第46回) 子供向けプログラミング道場 2022/09/18](https://coderdojo-obu.connpass.com/event/258180/)
-- Sep 11 [CoderDojo大府(第45回) 子供向けプログラミング道場 2022/09/11](https://coderdojo-obu.connpass.com/event/258179/)
-- Sep 10 [小江戸らぐ 9月のオフな集まり(第242回)](https://koedolug.connpass.com/event/258128/)
-- Sep 4 [テクニックに走らないファシリテーション 輪読会 #10](https://reading-facilitation.connpass.com/event/258171/)
-- Aug 29 [8/29(月)【第1337回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/258177/)
+- Oct 5 [#ヒーローズリーグ  2022 ゆるアイデアソン vol.2](https://mashupawards.connpass.com/event/253638/)
+- Sep 14 [#ヒーローズリーグ  2022 ゆるアイデアソン vol.1](https://mashupawards.connpass.com/event/253637/)
+- Sep 5 [セキュアプログラミングの怖い話](https://ibm-developer.connpass.com/event/257887/)
+- Aug 31 [9割に否定された「服を借りる」サービスを400%成長させたマーケティング組織とは？](https://aircloset.connpass.com/event/257636/)
+- Aug 26 [Vuls祭り#6](https://vuls-jp.connpass.com/event/253558/)
 <!-- profile updater end: connpass -->
 
 <!---
