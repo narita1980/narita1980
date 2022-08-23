@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 5 [#ヒーローズリーグ  2022 ゆるアイデアソン vol.2](https://mashupawards.connpass.com/event/253638/)
-- Sep 14 [#ヒーローズリーグ  2022 ゆるアイデアソン vol.1](https://mashupawards.connpass.com/event/253637/)
-- Sep 5 [セキュアプログラミングの怖い話](https://ibm-developer.connpass.com/event/257887/)
-- Aug 31 [9割に否定された「服を借りる」サービスを400%成長させたマーケティング組織とは？](https://aircloset.connpass.com/event/257636/)
-- Aug 26 [Vuls祭り#6](https://vuls-jp.connpass.com/event/253558/)
+- Oct 7 [UX読書会「 ナラティブカンパニー」](https://uxdt.connpass.com/event/258335/)
+- Sep 9 [UX読書会「 買い物する脳―驚くべきニューロマーケティングの世界」](https://uxdt.connpass.com/event/247711/)
+- Sep 3 [初心者歓迎！Unity勉強会#26](https://c-sagyoba-benkyoukai.connpass.com/event/257443/)
+- Aug 31 [nakanoshima.dev #29 LED-2!! (Let’s enjoy データ分析!!)](https://nakanoshima-dev.connpass.com/event/255905/)
+- Aug 31 [第二十九回ケムステVシンポ「論文を書こう！そして…」](https://chemstationvs.connpass.com/event/256244/)
 <!-- profile updater end: connpass -->
 
 <!---
