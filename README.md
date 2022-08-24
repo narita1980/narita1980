@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 7 [UX読書会「 ナラティブカンパニー」](https://uxdt.connpass.com/event/258335/)
-- Sep 9 [UX読書会「 買い物する脳―驚くべきニューロマーケティングの世界」](https://uxdt.connpass.com/event/247711/)
-- Sep 3 [初心者歓迎！Unity勉強会#26](https://c-sagyoba-benkyoukai.connpass.com/event/257443/)
-- Aug 31 [nakanoshima.dev #29 LED-2!! (Let’s enjoy データ分析!!)](https://nakanoshima-dev.connpass.com/event/255905/)
-- Aug 31 [第二十九回ケムステVシンポ「論文を書こう！そして…」](https://chemstationvs.connpass.com/event/256244/)
+- Sep 23 [IISEC Alumni Reunion 2022](https://iisec-alumni.connpass.com/event/256552/)
+- Sep 10 [もくもく会（どんな作業でもOK）](https://design-girls.connpass.com/event/258132/)
+- Sep 7 [【メタバース】メタバース内の操作に慣れよう！ C# Tokyo イベント（もくもく会）](https://csharp-tokyo.connpass.com/event/258213/)
+- Sep 1 [IBM COSMOS＊ 女性エンジニアの活躍について考えよう！](https://ibm-developer.connpass.com/event/256707/)
+- Aug 31 [コンテナ共創センター勉強会 #16](https://5cm.connpass.com/event/237099/)
 <!-- profile updater end: connpass -->
 
 <!---
