@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 23 [IISEC Alumni Reunion 2022](https://iisec-alumni.connpass.com/event/256552/)
-- Sep 10 [もくもく会（どんな作業でもOK）](https://design-girls.connpass.com/event/258132/)
-- Sep 7 [【メタバース】メタバース内の操作に慣れよう！ C# Tokyo イベント（もくもく会）](https://csharp-tokyo.connpass.com/event/258213/)
-- Sep 1 [IBM COSMOS＊ 女性エンジニアの活躍について考えよう！](https://ibm-developer.connpass.com/event/256707/)
-- Aug 31 [コンテナ共創センター勉強会 #16](https://5cm.connpass.com/event/237099/)
+- Sep 29 [Red Hat Partnerワークショップ OpenShift CI/CD 基礎編](https://redhat-open.connpass.com/event/257750/)
+- Sep 8 [Nxバックエンド勉強会#5](https://pelemay.connpass.com/event/258521/)
+- Sep 7 [大手証券会社はなぜAlliの採用を決めたのか？AIチャットボットの比較検証ポイントを徹底解説](https://connpass.com/event/258466/)
+- Aug 31 [nakanoshima.dev #29 LED-2!! (Let’s enjoy データ分析!!)](https://nakanoshima-dev.connpass.com/event/255905/)
+- Aug 30 [第1回 メタバース x AWS](https://aws-metaverse.connpass.com/event/256746/)
 <!-- profile updater end: connpass -->
 
 <!---
