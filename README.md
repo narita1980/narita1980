@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 29 [Red Hat Partnerワークショップ OpenShift CI/CD 基礎編](https://redhat-open.connpass.com/event/257750/)
-- Sep 8 [Nxバックエンド勉強会#5](https://pelemay.connpass.com/event/258521/)
-- Sep 7 [大手証券会社はなぜAlliの採用を決めたのか？AIチャットボットの比較検証ポイントを徹底解説](https://connpass.com/event/258466/)
-- Aug 31 [nakanoshima.dev #29 LED-2!! (Let’s enjoy データ分析!!)](https://nakanoshima-dev.connpass.com/event/255905/)
-- Aug 30 [第1回 メタバース x AWS](https://aws-metaverse.connpass.com/event/256746/)
+- Sep 23 [第22回西東京Web勉強会 デザイナーLT大会](https://westtokyowebstudy.connpass.com/event/255380/)
+- Sep 17 [コンピューターアニメーション勉強会@オンライン香川#3](https://connpass.com/event/258629/)
+- Sep 16 [あなたの会社は大丈夫？ 脆弱性診断結果から見るシステムのセキュリティー対策のポイントとは](https://mind-event.connpass.com/event/258626/)
+- Sep 15 [数百万人規模のアプリリニューアルで実践した 失敗しないテクニック](https://popinsight.connpass.com/event/258556/)
+- Sep 7 [BMXUG Online : UX視点から考える体験向上](https://bmxug.connpass.com/event/258584/)
 <!-- profile updater end: connpass -->
 
 <!---
