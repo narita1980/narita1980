@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 24 [【第6回】プロジェクトマネージャ試験勉強会](https://setk.connpass.com/event/258717/)
-- Sep 17 [第36回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/243477/)
-- Aug 28 [408th Dev Morning](https://devmorning.connpass.com/event/258719/)
-- Aug 27 [NervesJP #28 夏休みにNervesでこんなんやってみましたLT回！！](https://nerves-jp.connpass.com/event/257021/)
-- Aug 27 [Laboratory Automation月例勉強会 / 2022.08](https://laboratoryautomation.connpass.com/event/256324/)
+- Sep 24 [【Linux】ラボ#8＠0924PM13秋葉原UDX](https://forse.connpass.com/event/258801/)
+- Sep 11 [第57回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/258802/)
+- Sep 11 [【赤い羽根助成事業】【オンライン道場】第80回CoderDojo浜松](https://coderdojo-hamamatsu.connpass.com/event/258502/)
+- Sep 4 [統計検定準一級勉強会：日曜版](https://study-data-analysis.connpass.com/event/258800/)
+- Sep 3 [IT系&誰でも参加OK！もくもく会_朝活_9/3(土)](https://morimori.connpass.com/event/258797/)
 <!-- profile updater end: connpass -->
 
 <!---
