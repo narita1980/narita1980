@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 24 [【Linux】ラボ#8＠0924PM13秋葉原UDX](https://forse.connpass.com/event/258801/)
-- Sep 11 [第57回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/258802/)
-- Sep 11 [【赤い羽根助成事業】【オンライン道場】第80回CoderDojo浜松](https://coderdojo-hamamatsu.connpass.com/event/258502/)
-- Sep 4 [統計検定準一級勉強会：日曜版](https://study-data-analysis.connpass.com/event/258800/)
-- Sep 3 [IT系&誰でも参加OK！もくもく会_朝活_9/3(土)](https://morimori.connpass.com/event/258797/)
+- Oct 3 [AWSの基礎を学ぼう 第百回](https://awsbasics.connpass.com/event/258901/)
+- Sep 24 [Kyoto.go remote #35 LT会](https://kyotogo.connpass.com/event/258736/)
+- Sep 16 [組織内のデータを読み解く力を高めよう！](https://ibm-developer.connpass.com/event/257841/)
+- Sep 8 [Alternative Architecture DOJO #7](https://alterbooth.connpass.com/event/257745/)
+- Sep 4 [AWSで冗長構成!EC2×WordPress×ELBハンズオン#7](https://zeki-chan-lab.connpass.com/event/258895/)
 <!-- profile updater end: connpass -->
 
 <!---
