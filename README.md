@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 3 [AWSの基礎を学ぼう 第百回](https://awsbasics.connpass.com/event/258901/)
-- Sep 24 [Kyoto.go remote #35 LT会](https://kyotogo.connpass.com/event/258736/)
-- Sep 16 [組織内のデータを読み解く力を高めよう！](https://ibm-developer.connpass.com/event/257841/)
-- Sep 8 [Alternative Architecture DOJO #7](https://alterbooth.connpass.com/event/257745/)
-- Sep 4 [AWSで冗長構成!EC2×WordPress×ELBハンズオン#7](https://zeki-chan-lab.connpass.com/event/258895/)
+- Sep 30 [DB2 for z/OS テクニカルセミナー2022](https://connpass.com/event/258687/)
+- Sep 29 [Startup Angular #4 オフラインミートアップ！](https://voicy.connpass.com/event/258261/)
+- Sep 14 [ミクシィの脱スプレッドシートへの挑戦！ ～ テスト管理の効率化の取り組みの中で見えてきたこと ～](https://techmatrixft.connpass.com/event/256469/)
+- Sep 8 [MIERUNE Meetup mini #04](https://mierune.connpass.com/event/257222/)
+- Sep 8 [【LT満員御礼！】フロントエンドLT会 - vol.8 #frontendlt](https://rakus.connpass.com/event/255095/)
 <!-- profile updater end: connpass -->
 
 <!---
