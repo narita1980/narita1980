@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 30 [DB2 for z/OS テクニカルセミナー2022](https://connpass.com/event/258687/)
-- Sep 29 [Startup Angular #4 オフラインミートアップ！](https://voicy.connpass.com/event/258261/)
-- Sep 14 [ミクシィの脱スプレッドシートへの挑戦！ ～ テスト管理の効率化の取り組みの中で見えてきたこと ～](https://techmatrixft.connpass.com/event/256469/)
+- Sep 24 [認知症フレンドリーテック 第一回ハッカソン](https://dementia-friendly-tech.connpass.com/event/255954/)
+- Sep 13 [「のどが渇いた」というユーザーに何を出す？](https://popinsight.connpass.com/event/259032/)
+- Sep 10 [広島フロントエンド勉強会 Vol.30](https://hfe.connpass.com/event/258771/)
 - Sep 8 [MIERUNE Meetup mini #04](https://mierune.connpass.com/event/257222/)
-- Sep 8 [【LT満員御礼！】フロントエンドLT会 - vol.8 #frontendlt](https://rakus.connpass.com/event/255095/)
+- Sep 7 [ビットキー x クラウドサイン SRE勉強会〜組織立ち上げ編〜](https://bengo4.connpass.com/event/256454/)
 <!-- profile updater end: connpass -->
 
 <!---
