@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 24 [認知症フレンドリーテック 第一回ハッカソン](https://dementia-friendly-tech.connpass.com/event/255954/)
-- Sep 13 [「のどが渇いた」というユーザーに何を出す？](https://popinsight.connpass.com/event/259032/)
-- Sep 10 [広島フロントエンド勉強会 Vol.30](https://hfe.connpass.com/event/258771/)
-- Sep 8 [MIERUNE Meetup mini #04](https://mierune.connpass.com/event/257222/)
-- Sep 7 [ビットキー x クラウドサイン SRE勉強会〜組織立ち上げ編〜](https://bengo4.connpass.com/event/256454/)
+- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
+- Sep 29 [【 iOS祭り 】ヒットプロダクトを開発！iOSエンジニアが語る自社プロダクト開発の難しさ](https://globee.connpass.com/event/258051/)
+- Sep 22 [ユカイ工学CEO青木俊介氏と語る、エンジニアのキャリア](https://modis.connpass.com/event/258689/)
+- Sep 20 [SOL-TECH Ver.2 静岡のデザイナーさん、あつまれ～！なオンラインイベント](https://connpass.com/event/259150/)
+- Sep 17 [Flutterアプリコンテスト「 #ミライノカイモノ 2022」決勝戦](https://appcon.connpass.com/event/258745/)
 <!-- profile updater end: connpass -->
 
 <!---
