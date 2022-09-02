@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
-- Sep 29 [【 iOS祭り 】ヒットプロダクトを開発！iOSエンジニアが語る自社プロダクト開発の難しさ](https://globee.connpass.com/event/258051/)
-- Sep 22 [ユカイ工学CEO青木俊介氏と語る、エンジニアのキャリア](https://modis.connpass.com/event/258689/)
-- Sep 20 [SOL-TECH Ver.2 静岡のデザイナーさん、あつまれ～！なオンラインイベント](https://connpass.com/event/259150/)
-- Sep 17 [Flutterアプリコンテスト「 #ミライノカイモノ 2022」決勝戦](https://appcon.connpass.com/event/258745/)
+- Sep 24 [第70回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/258738/)
+- Sep 24 [Japan Azure User Group 12周年イベント](https://jazug.connpass.com/event/258347/)
+- Sep 23 [機械学習の社会実装勉強会第15回](https://machine-learning-workshop.connpass.com/event/258733/)
+- Sep 15 [Gストラング線形代数勉強会](https://study-data-analysis.connpass.com/event/259331/)
+- Sep 15 [【LT残3枠！】設計モデリングLT会 - vol.4 #modelinglt](https://rakus.connpass.com/event/255782/)
 <!-- profile updater end: connpass -->
 
 <!---
