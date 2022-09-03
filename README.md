@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 24 [第70回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/258738/)
-- Sep 24 [Japan Azure User Group 12周年イベント](https://jazug.connpass.com/event/258347/)
-- Sep 23 [機械学習の社会実装勉強会第15回](https://machine-learning-workshop.connpass.com/event/258733/)
-- Sep 15 [Gストラング線形代数勉強会](https://study-data-analysis.connpass.com/event/259331/)
-- Sep 15 [【LT残3枠！】設計モデリングLT会 - vol.4 #modelinglt](https://rakus.connpass.com/event/255782/)
+- Oct 16 [第47回CoderDojoあざみ野(横浜青葉)](https://coderdojo-azamino.connpass.com/event/259445/)
+- Sep 17 [第46回CoderDojoあざみ野(横浜青葉)](https://coderdojo-azamino.connpass.com/event/256301/)
+- Sep 17 [Swift文法「データ型」をPlaygroundを使って学習しよう！](https://codecandy.connpass.com/event/259430/)
+- Sep 17 [PLATEAU Hack Challenge 2022 in Engineer Cafe （福岡）](https://asciistartup.connpass.com/event/253998/)
+- Sep 17 [第40回 CoderDojo岐阜](https://coderdojo-gifu.connpass.com/event/258898/)
 <!-- profile updater end: connpass -->
 
 <!---
