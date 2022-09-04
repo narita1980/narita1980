@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 16 [第47回CoderDojoあざみ野(横浜青葉)](https://coderdojo-azamino.connpass.com/event/259445/)
-- Sep 17 [第46回CoderDojoあざみ野(横浜青葉)](https://coderdojo-azamino.connpass.com/event/256301/)
-- Sep 17 [Swift文法「データ型」をPlaygroundを使って学習しよう！](https://codecandy.connpass.com/event/259430/)
-- Sep 17 [PLATEAU Hack Challenge 2022 in Engineer Cafe （福岡）](https://asciistartup.connpass.com/event/253998/)
-- Sep 17 [第40回 CoderDojo岐阜](https://coderdojo-gifu.connpass.com/event/258898/)
+- Oct 2 [Civic Tech Meetup in Chiba 2022](https://connpass.com/event/259435/)
+- Sep 24 [Japan Azure User Group 12周年イベント](https://jazug.connpass.com/event/258347/)
+- Sep 13 [FM-Cafe(FileMaker)2022年9月開催！](https://connpass.com/event/257426/)
+- Sep 12 [9/12(月)【第1365回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/259484/)
+- Sep 12 [9/12(月)【第1364回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/259483/)
 <!-- profile updater end: connpass -->
 
 <!---
