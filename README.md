@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 2 [Civic Tech Meetup in Chiba 2022](https://connpass.com/event/259435/)
-- Sep 24 [Japan Azure User Group 12周年イベント](https://jazug.connpass.com/event/258347/)
-- Sep 13 [FM-Cafe(FileMaker)2022年9月開催！](https://connpass.com/event/257426/)
-- Sep 12 [9/12(月)【第1365回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/259484/)
-- Sep 12 [9/12(月)【第1364回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/259483/)
+- Oct 6 [Drupal Meetup Tokyo #72 - 10/2022 [オンライン開催]](https://drupal-tokyo.connpass.com/event/259273/)
+- Sep 29 [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#33](https://easy2.connpass.com/event/259545/)
+- Sep 28 [Certified Team Coach（CTC）へのジャーニー](https://connpass.com/event/259343/)
+- Sep 28 [Power Query（パワークエリ）を使いこなす！](https://connpass.com/event/258939/)
+- Sep 24 [Kanazawa.js わいわい開発会 #23](https://kanazawajs.connpass.com/event/257719/)
 <!-- profile updater end: connpass -->
 
 <!---
