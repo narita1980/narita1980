@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 6 [Drupal Meetup Tokyo #72 - 10/2022 [オンライン開催]](https://drupal-tokyo.connpass.com/event/259273/)
-- Sep 29 [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#33](https://easy2.connpass.com/event/259545/)
-- Sep 28 [Certified Team Coach（CTC）へのジャーニー](https://connpass.com/event/259343/)
-- Sep 28 [Power Query（パワークエリ）を使いこなす！](https://connpass.com/event/258939/)
-- Sep 24 [Kanazawa.js わいわい開発会 #23](https://kanazawajs.connpass.com/event/257719/)
+- Oct 13 [【初心者限定・オンライン入門講座】Unity１日集中講座（基礎編）](https://unity-fun.connpass.com/event/256790/)
+- Sep 22 [エンジニアのためのDX](https://rakus.connpass.com/event/256501/)
+- Sep 16 [第28回ロボティクス勉強会](https://robosemi.connpass.com/event/242922/)
+- Sep 13 [りんどく.rb #71](https://rindokurb.connpass.com/event/259675/)
+- Sep 13 [IT系&誰でも参加OK！もくもく会_朝活_9/13(火)](https://morimori.connpass.com/event/259679/)
 <!-- profile updater end: connpass -->
 
 <!---
