@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 13 [【初心者限定・オンライン入門講座】Unity１日集中講座（基礎編）](https://unity-fun.connpass.com/event/256790/)
-- Sep 22 [エンジニアのためのDX](https://rakus.connpass.com/event/256501/)
-- Sep 16 [第28回ロボティクス勉強会](https://robosemi.connpass.com/event/242922/)
-- Sep 13 [りんどく.rb #71](https://rindokurb.connpass.com/event/259675/)
-- Sep 13 [IT系&誰でも参加OK！もくもく会_朝活_9/13(火)](https://morimori.connpass.com/event/259679/)
+- Sep 29 [【Google Glass EE】第2回 Glass Hopperコミュニティイベント(オフライン)](https://glasshopper.connpass.com/event/259761/)
+- Sep 28 [第12回　BABOK(R)ガイド読書会　※お試し、耳だけ参加可](https://iiba-japan.connpass.com/event/259798/)
+- Sep 15 [44億円を調達した、ジョーシスの今後のグローバル戦略について](https://raksul.connpass.com/event/258954/)
+- Sep 15 [【GRIデータサイエンスもくもく会#13】](https://gri.connpass.com/event/259287/)
+- Sep 9 [【8/9開催】少人数オフラインRuby交流会 @ 三重 RubyKaigi 2022](https://agileware.connpass.com/event/259763/)
 <!-- profile updater end: connpass -->
 
 <!---
