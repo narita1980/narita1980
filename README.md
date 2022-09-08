@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 29 [【Google Glass EE】第2回 Glass Hopperコミュニティイベント(オフライン)](https://glasshopper.connpass.com/event/259761/)
-- Sep 28 [第12回　BABOK(R)ガイド読書会　※お試し、耳だけ参加可](https://iiba-japan.connpass.com/event/259798/)
-- Sep 15 [44億円を調達した、ジョーシスの今後のグローバル戦略について](https://raksul.connpass.com/event/258954/)
-- Sep 15 [【GRIデータサイエンスもくもく会#13】](https://gri.connpass.com/event/259287/)
-- Sep 9 [【8/9開催】少人数オフラインRuby交流会 @ 三重 RubyKaigi 2022](https://agileware.connpass.com/event/259763/)
+- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
+- Nov 5 [PLATEAU Hack Challenge 2022 in 大和ミュージアム](https://asciistartup.connpass.com/event/256613/)
+- Oct 29 [第71回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/259847/)
+- Oct 24 [ソフトウェアアーキテクチャ概論](https://flexy.connpass.com/event/259853/)
+- Sep 29 [【一休 × 出前館】Frontend Meetup#2](https://ikyu.connpass.com/event/258913/)
 <!-- profile updater end: connpass -->
 
 <!---
