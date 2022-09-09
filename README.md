@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
-- Nov 5 [PLATEAU Hack Challenge 2022 in 大和ミュージアム](https://asciistartup.connpass.com/event/256613/)
-- Oct 29 [第71回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/259847/)
-- Oct 24 [ソフトウェアアーキテクチャ概論](https://flexy.connpass.com/event/259853/)
-- Sep 29 [【一休 × 出前館】Frontend Meetup#2](https://ikyu.connpass.com/event/258913/)
+- Oct 27 [【LT残2枠！】Reactをもっと語りたい！](https://rakus.connpass.com/event/258984/)
+- Oct 16 [第07回 CoderDojo武蔵小杉【レギュラー回】※初めての方歓迎](https://coderdojo-musashikosugi.connpass.com/event/260029/)
+- Sep 28 [#ヒーローズリーグ 2022 開発素材LT vol.2](https://mashupawards.connpass.com/event/253636/)
+- Sep 24 [【オンライン】アプリ開発（DX/AI/XR）新規事業開発相談会 2022/09/24（土）](https://kobe-driven-dev.connpass.com/event/260027/)
+- Sep 21 [【大阪オンライン】XRミーティング 2022/09/21【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/259203/)
 <!-- profile updater end: connpass -->
 
 <!---
