@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 24 [【オンライン】アプリ開発（DX/AI/XR）新規事業開発相談会 2022/09/24（土）](https://kobe-driven-dev.connpass.com/event/260027/)
-- Sep 19 [Streaming Systems 輪読会 - 第7回](https://read-streaming-systems.connpass.com/event/260142/)
-- Sep 17 [町田でモーニングもくもく会](https://connpass.com/event/259771/)
-- Sep 16 [締切りました【満員御礼】｜【リアル開催】スクラム開発とコードレビューについて語る交流会](https://peraichi.connpass.com/event/257001/)
-- Sep 11 [410th Dev Morning](https://devmorning.connpass.com/event/260143/)
+- Oct 28 [さくらじまハウス2022 Day2: 2022-10-28(Fri)](https://connpass.com/event/258147/)
+- Oct 8 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2022/10/08](https://coderdojo-nisshin.connpass.com/event/260206/)
+- Oct 2 [FFFFF Cafe もくもく会 vol.11](https://fffff.connpass.com/event/260203/)
+- Sep 19 [9/19(月)【第1379回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/260205/)
+- Sep 19 [9/19(月)【第1378回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/260204/)
 <!-- profile updater end: connpass -->
 
 <!---
