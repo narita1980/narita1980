@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 28 [さくらじまハウス2022 Day2: 2022-10-28(Fri)](https://connpass.com/event/258147/)
-- Oct 8 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2022/10/08](https://coderdojo-nisshin.connpass.com/event/260206/)
-- Oct 2 [FFFFF Cafe もくもく会 vol.11](https://fffff.connpass.com/event/260203/)
-- Sep 19 [9/19(月)【第1379回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/260205/)
-- Sep 19 [9/19(月)【第1378回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/260204/)
+- Nov 5 [tecHub Meetup #13](https://techub.connpass.com/event/260306/)
+- Oct 12 [【MVPのアンチパターン大公開！】急成長プロダクトの絶対に避けたい3つの失敗談から学ぶMVPの作り方](https://kauche.connpass.com/event/258899/)
+- Oct 7 [Chatwork Product Day 2022](https://chatwork.connpass.com/event/259288/)
+- Sep 28 [アキバでもくもく勉強会！～誰でも参加OK！～](https://mirameet.connpass.com/event/256179/)
+- Sep 28 [初心者必見！E2Eテスト自動化のすすめ](https://techmatrixft.connpass.com/event/257016/)
 <!-- profile updater end: connpass -->
 
 <!---
