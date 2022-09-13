@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 5 [tecHub Meetup #13](https://techub.connpass.com/event/260306/)
-- Oct 12 [【MVPのアンチパターン大公開！】急成長プロダクトの絶対に避けたい3つの失敗談から学ぶMVPの作り方](https://kauche.connpass.com/event/258899/)
-- Oct 7 [Chatwork Product Day 2022](https://chatwork.connpass.com/event/259288/)
-- Sep 28 [アキバでもくもく勉強会！～誰でも参加OK！～](https://mirameet.connpass.com/event/256179/)
-- Sep 28 [初心者必見！E2Eテスト自動化のすすめ](https://techmatrixft.connpass.com/event/257016/)
+- Nov 2 [心を動かすストーリーの基本構造を学ぼう](https://ibm-developer.connpass.com/event/258667/)
+- Oct 27 [【LT残2枠！】Reactをもっと語りたい！](https://rakus.connpass.com/event/258984/)
+- Oct 19 [プロジェクトマネジメント Tips LT会 vol.5](https://rakus.connpass.com/event/258398/)
+- Oct 14 [【第二回】エンジニア交流会＠なんばスカイオ](https://seattleconsulting.connpass.com/event/259957/)
+- Oct 11 [グローバルな開発チームにおいて必要なスキルセットは？](https://findy.connpass.com/event/259734/)
 <!-- profile updater end: connpass -->
 
 <!---
