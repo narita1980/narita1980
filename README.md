@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 2 [心を動かすストーリーの基本構造を学ぼう](https://ibm-developer.connpass.com/event/258667/)
-- Oct 27 [【LT残2枠！】Reactをもっと語りたい！](https://rakus.connpass.com/event/258984/)
-- Oct 19 [プロジェクトマネジメント Tips LT会 vol.5](https://rakus.connpass.com/event/258398/)
-- Oct 14 [【第二回】エンジニア交流会＠なんばスカイオ](https://seattleconsulting.connpass.com/event/259957/)
-- Oct 11 [グローバルな開発チームにおいて必要なスキルセットは？](https://findy.connpass.com/event/259734/)
+- Dec 12 [Blueqat Developers Conference 2022](https://qnn.connpass.com/event/260207/)
+- Nov 12 [DjangoCongress JP 2022](https://django.connpass.com/event/259310/)
+- Oct 11 [まちのIT相談室 2022年10月号](https://openkawasaki.connpass.com/event/260223/)
+- Oct 8 [第61回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/260532/)
+- Oct 8 [岡山開催！2022年度 Web×IoT メイカーズチャレンジ PLUS【講習会 & ハッカソン】](https://webiotmakers.connpass.com/event/259865/)
 <!-- profile updater end: connpass -->
 
 <!---
