@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 12 [Blueqat Developers Conference 2022](https://qnn.connpass.com/event/260207/)
-- Nov 12 [DjangoCongress JP 2022](https://django.connpass.com/event/259310/)
-- Oct 11 [まちのIT相談室 2022年10月号](https://openkawasaki.connpass.com/event/260223/)
-- Oct 8 [第61回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/260532/)
-- Oct 8 [岡山開催！2022年度 Web×IoT メイカーズチャレンジ PLUS【講習会 & ハッカソン】](https://webiotmakers.connpass.com/event/259865/)
+- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
+- Sep 28 [Power Automate や Power Apps の実験端末を作る方法！](https://rpacommunity.connpass.com/event/260629/)
+- Sep 28 [【マケデコ】J-Quants APIで株式分析チュートリアルを動かしてみるデモ](https://mkdeco.connpass.com/event/259946/)
+- Sep 27 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/260641/)
+- Sep 21 [HIGゆるゆる輪読実況会 #1](https://hig-reading-circle.connpass.com/event/259897/)
 <!-- profile updater end: connpass -->
 
 <!---
