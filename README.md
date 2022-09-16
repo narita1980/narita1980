@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
-- Sep 28 [Power Automate や Power Apps の実験端末を作る方法！](https://rpacommunity.connpass.com/event/260629/)
-- Sep 28 [【マケデコ】J-Quants APIで株式分析チュートリアルを動かしてみるデモ](https://mkdeco.connpass.com/event/259946/)
-- Sep 27 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/260641/)
-- Sep 21 [HIGゆるゆる輪読実況会 #1](https://hig-reading-circle.connpass.com/event/259897/)
+- Nov 12 [PLATEAU Hack Challenge 2022 in enspace（仙台）](https://asciistartup.connpass.com/event/256303/)
+- Oct 15 [10月：認知科学から学ぶUI/UXデザイン表現：第2回ナビゲーション表現](https://continue.connpass.com/event/259999/)
+- Oct 7 [PLATEAU Hands-on 03](https://asciistartup.connpass.com/event/256614/)
+- Oct 1 [初心者歓迎！Unity勉強会#27](https://c-sagyoba-benkyoukai.connpass.com/event/260299/)
+- Sep 30 [セキュリティスキル習得への一歩を踏み出したい"新たな"入門者向け　#W1-A-004,005,006](https://kabuto.connpass.com/event/260758/)
 <!-- profile updater end: connpass -->
 
 <!---
