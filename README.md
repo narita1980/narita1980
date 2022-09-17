@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 12 [PLATEAU Hack Challenge 2022 in enspace（仙台）](https://asciistartup.connpass.com/event/256303/)
-- Oct 15 [10月：認知科学から学ぶUI/UXデザイン表現：第2回ナビゲーション表現](https://continue.connpass.com/event/259999/)
-- Oct 7 [PLATEAU Hands-on 03](https://asciistartup.connpass.com/event/256614/)
-- Oct 1 [初心者歓迎！Unity勉強会#27](https://c-sagyoba-benkyoukai.connpass.com/event/260299/)
-- Sep 30 [セキュリティスキル習得への一歩を踏み出したい"新たな"入門者向け　#W1-A-004,005,006](https://kabuto.connpass.com/event/260758/)
+- Oct 16 [Robot Dojo/ロボットプログラミング体験（会場：あけみおSKYドーム・会議室）](https://coderdojo-nago.connpass.com/event/260750/)
+- Oct 1 [【丸森（宮城県）会場】Space Apps Challenge Marumori 2022](https://spaceappsjapan.connpass.com/event/260092/)
+- Sep 27 [mediba Tech Cafe #9.5「medibaのエンジニア解体新書〜1日の過ごし方編・続き](https://mediba-tech-cafe.connpass.com/event/260604/)
+- Sep 24 [DeepLearningTenjin#3](https://engineercafe.connpass.com/event/260473/)
+- Sep 23 [IT系&誰でも参加OK！もくもく会_朝活_9/23(金)](https://morimori.connpass.com/event/260863/)
 <!-- profile updater end: connpass -->
 
 <!---
