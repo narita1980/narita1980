@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 16 [Robot Dojo/ロボットプログラミング体験（会場：あけみおSKYドーム・会議室）](https://coderdojo-nago.connpass.com/event/260750/)
-- Oct 1 [【丸森（宮城県）会場】Space Apps Challenge Marumori 2022](https://spaceappsjapan.connpass.com/event/260092/)
-- Sep 27 [mediba Tech Cafe #9.5「medibaのエンジニア解体新書〜1日の過ごし方編・続き](https://mediba-tech-cafe.connpass.com/event/260604/)
-- Sep 24 [DeepLearningTenjin#3](https://engineercafe.connpass.com/event/260473/)
-- Sep 23 [IT系&誰でも参加OK！もくもく会_朝活_9/23(金)](https://morimori.connpass.com/event/260863/)
+- Oct 22 [THETA360:スマホでAdobe Lightroom](https://enjoy360.connpass.com/event/260843/)
+- Oct 15 [第1回 Data-Oriented Programming 読書会](https://javaee-study.connpass.com/event/260906/)
+- Oct 10 [CoderDojo横浜師岡（準備回）](https://coderdojo-morooka.connpass.com/event/260255/)
+- Oct 5 [第36回 WBA勉強会[オンライン]](https://wba-meetup.connpass.com/event/260911/)
+- Sep 25 [IT系&誰でも参加OK！もくもく会_朝活_9/25(日)](https://morimori.connpass.com/event/260936/)
 <!-- profile updater end: connpass -->
 
 <!---
