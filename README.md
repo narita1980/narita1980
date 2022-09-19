@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 22 [THETA360:スマホでAdobe Lightroom](https://enjoy360.connpass.com/event/260843/)
-- Oct 15 [第1回 Data-Oriented Programming 読書会](https://javaee-study.connpass.com/event/260906/)
-- Oct 10 [CoderDojo横浜師岡（準備回）](https://coderdojo-morooka.connpass.com/event/260255/)
-- Oct 5 [第36回 WBA勉強会[オンライン]](https://wba-meetup.connpass.com/event/260911/)
-- Sep 25 [IT系&誰でも参加OK！もくもく会_朝活_9/25(日)](https://morimori.connpass.com/event/260936/)
+- Nov 26 [WARAI冬の陣2022](https://warai.connpass.com/event/260991/)
+- Oct 24 [AWSの基礎を学ぼう 第百一回](https://awsbasics.connpass.com/event/260999/)
+- Oct 3 [UiPath 基礎を学ぶ～StudioX編／ExcelからWebシステムにデータを転記～](https://rpacommunity.connpass.com/event/260508/)
+- Sep 25 [[YouTube Live] Power BI Weekly News 42](https://pp-weeklynews.connpass.com/event/260979/)
+- Sep 24 [Nagano.rb #11](https://naruby.connpass.com/event/260995/)
 <!-- profile updater end: connpass -->
 
 <!---
