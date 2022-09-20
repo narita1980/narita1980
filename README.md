@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 26 [WARAI冬の陣2022](https://warai.connpass.com/event/260991/)
-- Oct 24 [AWSの基礎を学ぼう 第百一回](https://awsbasics.connpass.com/event/260999/)
-- Oct 3 [UiPath 基礎を学ぶ～StudioX編／ExcelからWebシステムにデータを転記～](https://rpacommunity.connpass.com/event/260508/)
-- Sep 25 [[YouTube Live] Power BI Weekly News 42](https://pp-weeklynews.connpass.com/event/260979/)
-- Sep 24 [Nagano.rb #11](https://naruby.connpass.com/event/260995/)
+- Oct 27 [【LT残2枠！】Reactをもっと語りたい！](https://rakus.connpass.com/event/258984/)
+- Oct 15 [10月：認知科学から学ぶUI/UXデザイン表現：第2回ナビゲーション表現](https://continue.connpass.com/event/259999/)
+- Oct 15 [10月：認知科学から学ぶUI/UXデザイン表現：第1回情報認知のしくみ](https://continue.connpass.com/event/259998/)
+- Oct 13 [Code for Kanazawa Civic Hack Night Vol.77](https://cfk.connpass.com/event/261098/)
+- Oct 5 [Pycamp相談会 - 事前MTG(オンライン)](https://pyconjp-staff.connpass.com/event/261082/)
 <!-- profile updater end: connpass -->
 
 <!---
