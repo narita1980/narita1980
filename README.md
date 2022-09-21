@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 27 [【LT残2枠！】Reactをもっと語りたい！](https://rakus.connpass.com/event/258984/)
-- Oct 15 [10月：認知科学から学ぶUI/UXデザイン表現：第2回ナビゲーション表現](https://continue.connpass.com/event/259999/)
-- Oct 15 [10月：認知科学から学ぶUI/UXデザイン表現：第1回情報認知のしくみ](https://continue.connpass.com/event/259998/)
-- Oct 13 [Code for Kanazawa Civic Hack Night Vol.77](https://cfk.connpass.com/event/261098/)
-- Oct 5 [Pycamp相談会 - 事前MTG(オンライン)](https://pyconjp-staff.connpass.com/event/261082/)
+- Oct 13 [『LaTeXはじめの一歩20221013』](https://connpass.com/event/261158/)
+- Oct 6 [ローコードで誰でもWebアプリを超高速開発：OutSystems Platform 入門](https://studyco.connpass.com/event/260901/)
+- Oct 6 [JAWS-UG CLI専門支部 #275R (中級者向け) SQS基礎 (キュー)](https://jawsug-cli.connpass.com/event/253110/)
+- Oct 2 [第12回 CoderDojo麹町](https://coderdojo-kojimachi.connpass.com/event/261209/)
+- Sep 29 [AWS Startup Tech Meetup 関西 #1](https://aws-startup-community.connpass.com/event/258486/)
 <!-- profile updater end: connpass -->
 
 <!---
