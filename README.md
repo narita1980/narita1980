@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 13 [『LaTeXはじめの一歩20221013』](https://connpass.com/event/261158/)
-- Oct 6 [ローコードで誰でもWebアプリを超高速開発：OutSystems Platform 入門](https://studyco.connpass.com/event/260901/)
-- Oct 6 [JAWS-UG CLI専門支部 #275R (中級者向け) SQS基礎 (キュー)](https://jawsug-cli.connpass.com/event/253110/)
-- Oct 2 [第12回 CoderDojo麹町](https://coderdojo-kojimachi.connpass.com/event/261209/)
-- Sep 29 [AWS Startup Tech Meetup 関西 #1](https://aws-startup-community.connpass.com/event/258486/)
+- Dec 17 [第46回 CoderDojoとよなか（大阪）2022/12/17(Sat)](https://coderdojo-toyonaka.connpass.com/event/261312/)
+- Oct 7 [カフェ・ソフトウェアクオリティ第84回勉強会](https://connpass.com/event/261318/)
+- Oct 5 [福岡XR部 Monthly Meetup #25-2022.10【オンライン】](https://fukuoka-xr-club.connpass.com/event/260796/)
+- Oct 1 [公共職業訓練【市民開発者養成科】報告会＃２](https://jpaug-hiroshima.connpass.com/event/260158/)
+- Sep 30 [NINNO Tech Fest #8](https://ninno-tech-fest.connpass.com/event/255947/)
 <!-- profile updater end: connpass -->
 
 <!---
