@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 17 [第46回 CoderDojoとよなか（大阪）2022/12/17(Sat)](https://coderdojo-toyonaka.connpass.com/event/261312/)
-- Oct 7 [カフェ・ソフトウェアクオリティ第84回勉強会](https://connpass.com/event/261318/)
-- Oct 5 [福岡XR部 Monthly Meetup #25-2022.10【オンライン】](https://fukuoka-xr-club.connpass.com/event/260796/)
-- Oct 1 [公共職業訓練【市民開発者養成科】報告会＃２](https://jpaug-hiroshima.connpass.com/event/260158/)
-- Sep 30 [NINNO Tech Fest #8](https://ninno-tech-fest.connpass.com/event/255947/)
+- Oct 18 [IoT縛りの勉強会! IoTLT vol.92](https://iotlt.connpass.com/event/260685/)
+- Oct 4 [【プロダクトレッドグロースの次を語る！】カスタマーレッドグロースの時代とは](https://pickupon.connpass.com/event/261203/)
+- Oct 1 [10/1(土)【第1403回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/261394/)
+- Oct 1 [10/1(土)【第1402回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/261393/)
+- Sep 29 [AWS Startup Tech Meetup 関西 #1](https://aws-startup-community.connpass.com/event/258486/)
 <!-- profile updater end: connpass -->
 
 <!---
