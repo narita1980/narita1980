@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 8 [電子工作入門ワークショップ(Raspberry Pi Pico編）](https://iotlab.connpass.com/event/260978/)
-- Sep 30 [IT系&誰でも参加OK！もくもく会_朝活_9/30(金)](https://morimori.connpass.com/event/261449/)
-- Sep 28 [[オンライン] 第31回ゼロから始めるCTF入門勉強会 (初心者歓迎！)](https://zeroctf.connpass.com/event/259786/)
-- Sep 26 [HIGゆるゆる輪読実況会 #2](https://hig-reading-circle.connpass.com/event/261356/)
-- Sep 25 [412nd Dev Morning](https://devmorning.connpass.com/event/261448/)
+- Nov 16 [エンタープライズAIとモダンアプリケーション開発の実践~ISID✕Microsoft~ #2](https://dllab.connpass.com/event/259408/)
+- Oct 21 [Webナイト宮崎 Vol.16 〜てげ新しいもの作りたい〜](https://tegehoge.connpass.com/event/260081/)
+- Oct 18 [IoT縛りの勉強会! IoTLT vol.92](https://iotlt.connpass.com/event/260685/)
+- Oct 8 [第3回『Go言語による分散サービス』オンライン読書会](https://technical-book-reading-2.connpass.com/event/260183/)
+- Oct 3 [10/3(月)【第1407回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/261505/)
 <!-- profile updater end: connpass -->
 
 <!---
