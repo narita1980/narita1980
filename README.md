@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 16 [エンタープライズAIとモダンアプリケーション開発の実践~ISID✕Microsoft~ #2](https://dllab.connpass.com/event/259408/)
-- Oct 21 [Webナイト宮崎 Vol.16 〜てげ新しいもの作りたい〜](https://tegehoge.connpass.com/event/260081/)
-- Oct 18 [IoT縛りの勉強会! IoTLT vol.92](https://iotlt.connpass.com/event/260685/)
-- Oct 8 [第3回『Go言語による分散サービス』オンライン読書会](https://technical-book-reading-2.connpass.com/event/260183/)
-- Oct 3 [10/3(月)【第1407回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/261505/)
+- Oct 22 [サーバー構築ハンズオン＠オンライン #145](https://svrkcho.connpass.com/event/261569/)
+- Oct 13 [最近チャレンジしたことをまとめてみた](https://connpass.com/event/260781/)
+- Oct 7 [Ask me anything in マケデコ : よしそさん](https://mkdeco.connpass.com/event/260785/)
+- Oct 3 [ビデオはオフ！寝ぼけまなこでもくもく朝会](https://itmokumoku.connpass.com/event/261566/)
+- Oct 2 [Tech BASE Okinawa for Students](https://codebase.connpass.com/event/260352/)
 <!-- profile updater end: connpass -->
 
 <!---
