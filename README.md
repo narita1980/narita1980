@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 22 [サーバー構築ハンズオン＠オンライン #145](https://svrkcho.connpass.com/event/261569/)
-- Oct 13 [最近チャレンジしたことをまとめてみた](https://connpass.com/event/260781/)
-- Oct 7 [Ask me anything in マケデコ : よしそさん](https://mkdeco.connpass.com/event/260785/)
-- Oct 3 [ビデオはオフ！寝ぼけまなこでもくもく朝会](https://itmokumoku.connpass.com/event/261566/)
-- Oct 2 [Tech BASE Okinawa for Students](https://codebase.connpass.com/event/260352/)
+- Oct 21 [Welcart Online Seminar](https://welcart.connpass.com/event/261135/)
+- Oct 18 [IoT縛りの勉強会! IoTLT vol.92](https://iotlt.connpass.com/event/260685/)
+- Oct 18 [キャリアの幅を広げる"カスタマーサクセス"という選択肢 ～スタートアップ3社が徹底解説～](https://connpass.com/event/260420/)
+- Oct 17 [Streaming Systems 輪読会 - 第8回](https://read-streaming-systems.connpass.com/event/261665/)
+- Oct 13 [モバイルエンジニアが挑戦するプロダクトの裏側](https://rakuten.connpass.com/event/260085/)
 <!-- profile updater end: connpass -->
 
 <!---
