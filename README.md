@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 21 [Welcart Online Seminar](https://welcart.connpass.com/event/261135/)
-- Oct 18 [IoT縛りの勉強会! IoTLT vol.92](https://iotlt.connpass.com/event/260685/)
-- Oct 18 [キャリアの幅を広げる"カスタマーサクセス"という選択肢 ～スタートアップ3社が徹底解説～](https://connpass.com/event/260420/)
-- Oct 17 [Streaming Systems 輪読会 - 第8回](https://read-streaming-systems.connpass.com/event/261665/)
-- Oct 13 [モバイルエンジニアが挑戦するプロダクトの裏側](https://rakuten.connpass.com/event/260085/)
+- Nov 11 [『jqハンドブック必携のJSONパーザ 20221111』](https://connpass.com/event/261769/)
+- Nov 7 [『PythonによるOpenCV入門20221107』](https://connpass.com/event/261768/)
+- Nov 3 [はじめてのプログラミング Python 20221103](https://connpass.com/event/261767/)
+- Oct 25 [明日から使える！チームで使いこなすFigma活用術](https://connpass.com/event/261618/)
+- Oct 21 [Python＋Pillow/PIL 20221021](https://connpass.com/event/261766/)
 <!-- profile updater end: connpass -->
 
 <!---
