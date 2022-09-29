@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 11 [『jqハンドブック必携のJSONパーザ 20221111』](https://connpass.com/event/261769/)
-- Nov 7 [『PythonによるOpenCV入門20221107』](https://connpass.com/event/261768/)
-- Nov 3 [はじめてのプログラミング Python 20221103](https://connpass.com/event/261767/)
-- Oct 25 [明日から使える！チームで使いこなすFigma活用術](https://connpass.com/event/261618/)
-- Oct 21 [Python＋Pillow/PIL 20221021](https://connpass.com/event/261766/)
+- Oct 22 [SORACOM UG Explorer 2022 ＠オンライン 〜秋のハンズオン祭り〜](https://soracomug-tokyo.connpass.com/event/261640/)
+- Oct 17 [【オフライン交流会】となりのゲームUIデザイナー　10/17開催](https://cyberagent.connpass.com/event/259707/)
+- Oct 8 [IT系&誰でも参加OK！もくもく会_朝活_10/8(土)_竹富島から配信](https://morimori.connpass.com/event/261857/)
+- Oct 7 [IT系&誰でも参加OK！もくもく会_朝活_10/7(金)_石垣島から配信](https://morimori.connpass.com/event/261856/)
+- Oct 5 [iOSDC Japan 2022 After Talk](https://sansan.connpass.com/event/255645/)
 <!-- profile updater end: connpass -->
 
 <!---
