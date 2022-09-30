@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 22 [SORACOM UG Explorer 2022 ＠オンライン 〜秋のハンズオン祭り〜](https://soracomug-tokyo.connpass.com/event/261640/)
-- Oct 17 [【オフライン交流会】となりのゲームUIデザイナー　10/17開催](https://cyberagent.connpass.com/event/259707/)
-- Oct 8 [IT系&誰でも参加OK！もくもく会_朝活_10/8(土)_竹富島から配信](https://morimori.connpass.com/event/261857/)
-- Oct 7 [IT系&誰でも参加OK！もくもく会_朝活_10/7(金)_石垣島から配信](https://morimori.connpass.com/event/261856/)
-- Oct 5 [iOSDC Japan 2022 After Talk](https://sansan.connpass.com/event/255645/)
+- Oct 18 [Private Cloud Meetup #1](https://line.connpass.com/event/261350/)
+- Oct 17 [Googleのソフトウェアエンジニアリング チラ見会 第1部](https://engineering-floor.connpass.com/event/260162/)
+- Oct 12 [[リアル開催] 企業課題と社会課題の解決を共に目指すインクルーシブデザインとは](https://connpass.com/event/261950/)
+- Oct 11 [毎月1つずつ新しい何かをやってみる部 #13](https://yattemiru.connpass.com/event/261951/)
+- Oct 1 [BMXUG Online : IBM Cloud x 画像生成AI を使ってNFT素材作り！](https://bmxug.connpass.com/event/260000/)
 <!-- profile updater end: connpass -->
 
 <!---
