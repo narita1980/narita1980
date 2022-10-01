@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 18 [Private Cloud Meetup #1](https://line.connpass.com/event/261350/)
-- Oct 17 [Googleのソフトウェアエンジニアリング チラ見会 第1部](https://engineering-floor.connpass.com/event/260162/)
-- Oct 12 [[リアル開催] 企業課題と社会課題の解決を共に目指すインクルーシブデザインとは](https://connpass.com/event/261950/)
-- Oct 11 [毎月1つずつ新しい何かをやってみる部 #13](https://yattemiru.connpass.com/event/261951/)
-- Oct 1 [BMXUG Online : IBM Cloud x 画像生成AI を使ってNFT素材作り！](https://bmxug.connpass.com/event/260000/)
+- Apr 1 [tenntenn Conference 2023](https://tenntenn.connpass.com/event/261521/)
+- Nov 13 [第48回CoderDojoあざみ野(横浜青葉)](https://coderdojo-azamino.connpass.com/event/262052/)
+- Oct 27 [Accessiブランチ #18](https://accessiblunch.connpass.com/event/261511/)
+- Oct 21 [devblogラジオ vol.52 ～Ignite Recap～](https://devblog.connpass.com/event/262054/)
+- Oct 15 [Fukuoka mrubykaigi 2022](https://mrubyworkshop.connpass.com/event/261953/)
 <!-- profile updater end: connpass -->
 
 <!---
