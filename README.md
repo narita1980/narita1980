@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 1 [tenntenn Conference 2023](https://tenntenn.connpass.com/event/261521/)
-- Nov 13 [第48回CoderDojoあざみ野(横浜青葉)](https://coderdojo-azamino.connpass.com/event/262052/)
-- Oct 27 [Accessiブランチ #18](https://accessiblunch.connpass.com/event/261511/)
-- Oct 21 [devblogラジオ vol.52 ～Ignite Recap～](https://devblog.connpass.com/event/262054/)
-- Oct 15 [Fukuoka mrubykaigi 2022](https://mrubyworkshop.connpass.com/event/261953/)
+- Nov 19 [Python Boot Camp in 香川2nd 懇親会](https://pyconjp.connpass.com/event/261761/)
+- Nov 19 [Python Boot Camp in 香川2nd](https://pyconjp.connpass.com/event/261760/)
+- Oct 31 [みんなどうやって「仕事の単価」決めてる？ #フリーランス大会議](https://giginc.connpass.com/event/260705/)
+- Oct 14 [技育祭2022【秋】ギネス世界記録『PCタッチ』チャレンジ](https://supporterz-seminar.connpass.com/event/262003/)
+- Oct 12 [【第8回】FIX「ITエンジニアとしてのこれからの働き方を考える」ITのプロ46代表 三好 康之 氏](https://fix.connpass.com/event/258430/)
 <!-- profile updater end: connpass -->
 
 <!---
