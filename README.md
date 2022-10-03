@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 19 [Python Boot Camp in 香川2nd 懇親会](https://pyconjp.connpass.com/event/261761/)
-- Nov 19 [Python Boot Camp in 香川2nd](https://pyconjp.connpass.com/event/261760/)
-- Oct 31 [みんなどうやって「仕事の単価」決めてる？ #フリーランス大会議](https://giginc.connpass.com/event/260705/)
-- Oct 14 [技育祭2022【秋】ギネス世界記録『PCタッチ』チャレンジ](https://supporterz-seminar.connpass.com/event/262003/)
-- Oct 12 [【第8回】FIX「ITエンジニアとしてのこれからの働き方を考える」ITのプロ46代表 三好 康之 氏](https://fix.connpass.com/event/258430/)
+- Oct 28 [XR勉強会 by STYLY](https://styly.connpass.com/event/261100/)
+- Oct 26 [【Retty x アカツキゲームス x atama plus】LeSS導入の最前線、リアルとこれから](https://retty.connpass.com/event/260817/)
+- Oct 19 [【CADDi x Retty】エンジニアリング組織の悩み相談](https://caddi.connpass.com/event/260701/)
+- Oct 14 [週1デプロイを都度デプロイに変え、100人の壁に挑戦中のグロービスのエンジニア組織作り](https://findy.connpass.com/event/259968/)
+- Oct 10 [赤羽長時間もくもく会](https://akabanelab.connpass.com/event/262193/)
 <!-- profile updater end: connpass -->
 
 <!---
