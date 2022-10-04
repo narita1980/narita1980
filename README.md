@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 28 [XR勉強会 by STYLY](https://styly.connpass.com/event/261100/)
-- Oct 26 [【Retty x アカツキゲームス x atama plus】LeSS導入の最前線、リアルとこれから](https://retty.connpass.com/event/260817/)
-- Oct 19 [【CADDi x Retty】エンジニアリング組織の悩み相談](https://caddi.connpass.com/event/260701/)
-- Oct 14 [週1デプロイを都度デプロイに変え、100人の壁に挑戦中のグロービスのエンジニア組織作り](https://findy.connpass.com/event/259968/)
-- Oct 10 [赤羽長時間もくもく会](https://akabanelab.connpass.com/event/262193/)
+- Oct 24 [2022年度 第1回 DBSJセミナー](https://dbsjseminar.connpass.com/event/262240/)
+- Oct 14 [「これは非効率だ！自動化したい！」をテーマにIT企業４社がライトニングトーク！](https://rpacommunity.connpass.com/event/262242/)
+- Oct 14 [石川・金沢IoTビジネス共創ラボ 第5回勉強会](https://iotbizlabo.connpass.com/event/261887/)
+- Oct 7 [りんどく.rb #77](https://rindokurb.connpass.com/event/262308/)
+- Oct 4 [【UX基礎 】「リサーチを高速化！無料ツールを使った自社専用のリサーチパネル構築方法」#2](https://ux-caravan.connpass.com/event/260348/)
 <!-- profile updater end: connpass -->
 
 <!---
