@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 24 [2022年度 第1回 DBSJセミナー](https://dbsjseminar.connpass.com/event/262240/)
-- Oct 14 [「これは非効率だ！自動化したい！」をテーマにIT企業４社がライトニングトーク！](https://rpacommunity.connpass.com/event/262242/)
-- Oct 14 [石川・金沢IoTビジネス共創ラボ 第5回勉強会](https://iotbizlabo.connpass.com/event/261887/)
-- Oct 7 [りんどく.rb #77](https://rindokurb.connpass.com/event/262308/)
-- Oct 4 [【UX基礎 】「リサーチを高速化！無料ツールを使った自社専用のリサーチパネル構築方法」#2](https://ux-caravan.connpass.com/event/260348/)
+- Nov 6 [[初参加歓迎] ScalaMatsuri 2023 オンラインスタッフMTG #1](https://jsa.connpass.com/event/262427/)
+- Oct 26 [Hannali DAO](https://hannari-python.connpass.com/event/262428/)
+- Oct 15 [公共職業訓練【市民開発者養成科】報告会＃４](https://jpaug-hiroshima.connpass.com/event/261581/)
+- Oct 11 [React に チャレンジ してみよう！【belong try #8】](https://belong.connpass.com/event/261838/)
+- Oct 10 [プログラマDojo浜松 (ゲーム/マイコン電子工作/AI/教育)](https://progdojo-hmmt.connpass.com/event/262413/)
 <!-- profile updater end: connpass -->
 
 <!---
