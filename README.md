@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 6 [[初参加歓迎] ScalaMatsuri 2023 オンラインスタッフMTG #1](https://jsa.connpass.com/event/262427/)
-- Oct 26 [Hannali DAO](https://hannari-python.connpass.com/event/262428/)
-- Oct 15 [公共職業訓練【市民開発者養成科】報告会＃４](https://jpaug-hiroshima.connpass.com/event/261581/)
-- Oct 11 [React に チャレンジ してみよう！【belong try #8】](https://belong.connpass.com/event/261838/)
-- Oct 10 [プログラマDojo浜松 (ゲーム/マイコン電子工作/AI/教育)](https://progdojo-hmmt.connpass.com/event/262413/)
+- Dec 3 [知財若手の会　実務LT会　第１回](https://chizawaka.connpass.com/event/262067/)
+- Nov 2 [【LT残5枠！】自動化大好きエンジニアLT会 - vol.9](https://rakus.connpass.com/event/259685/)
+- Oct 21 [Webナイト宮崎 Vol.16 〜てげ新しいもの作りたい〜](https://tegehoge.connpass.com/event/260081/)
+- Oct 19 [PWA Night vol.44 ～クリエイティブコーディング〜](https://pwanight.connpass.com/event/262565/)
+- Oct 10 [ISUCON本ゆる輪読会#7](https://tech-residence.connpass.com/event/261481/)
 <!-- profile updater end: connpass -->
 
 <!---
