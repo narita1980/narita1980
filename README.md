@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 3 [知財若手の会　実務LT会　第１回](https://chizawaka.connpass.com/event/262067/)
-- Nov 2 [【LT残5枠！】自動化大好きエンジニアLT会 - vol.9](https://rakus.connpass.com/event/259685/)
-- Oct 21 [Webナイト宮崎 Vol.16 〜てげ新しいもの作りたい〜](https://tegehoge.connpass.com/event/260081/)
-- Oct 19 [PWA Night vol.44 ～クリエイティブコーディング〜](https://pwanight.connpass.com/event/262565/)
-- Oct 10 [ISUCON本ゆる輪読会#7](https://tech-residence.connpass.com/event/261481/)
+- Oct 29 [【福岡】ITエンジニアの為のハロウィン×ライトニングトーク│お一人様大歓迎♪](https://fukuoka-it-engineer.connpass.com/event/262402/)
+- Oct 28 [あじゃてくフレンズ #3 - あじゃてくの心理的安全性を対話しよう](https://agiletechexpo.connpass.com/event/258098/)
+- Oct 22 [SORACOM UG Explorer 2022 @UG九州 〜秋のハンズオン祭り〜](https://soracomug-tokyo.connpass.com/event/261638/)
+- Oct 22 [SORACOM UG Explorer 2022 @UG四国 〜秋のハンズオン祭り〜](https://soracomug-tokyo.connpass.com/event/261636/)
+- Oct 22 [SORACOM UG Explorer 2022 @UG東京 〜秋のハンズオン祭り〜](https://soracomug-tokyo.connpass.com/event/262105/)
 <!-- profile updater end: connpass -->
 
 <!---
