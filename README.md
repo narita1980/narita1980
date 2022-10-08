@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 29 [【福岡】ITエンジニアの為のハロウィン×ライトニングトーク│お一人様大歓迎♪](https://fukuoka-it-engineer.connpass.com/event/262402/)
-- Oct 28 [あじゃてくフレンズ #3 - あじゃてくの心理的安全性を対話しよう](https://agiletechexpo.connpass.com/event/258098/)
-- Oct 22 [SORACOM UG Explorer 2022 @UG九州 〜秋のハンズオン祭り〜](https://soracomug-tokyo.connpass.com/event/261638/)
-- Oct 22 [SORACOM UG Explorer 2022 @UG四国 〜秋のハンズオン祭り〜](https://soracomug-tokyo.connpass.com/event/261636/)
-- Oct 22 [SORACOM UG Explorer 2022 @UG東京 〜秋のハンズオン祭り〜](https://soracomug-tokyo.connpass.com/event/262105/)
+- Oct 24 [第142回オープンソースサロン](https://shimane-oss.connpass.com/event/261710/)
+- Oct 22 [第57回 コンピュータビジョン勉強会＠関東](https://kantocv.connpass.com/event/260132/)
+- Oct 19 [持続可能性のデザイン vol.1](https://3rdlink.connpass.com/event/262751/)
+- Oct 15 [朝からもくもく会](https://connpass.com/event/262779/)
+- Oct 15 [朝からもくもく会](https://barcelona.connpass.com/event/262775/)
 <!-- profile updater end: connpass -->
 
 <!---
