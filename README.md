@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 24 [第142回オープンソースサロン](https://shimane-oss.connpass.com/event/261710/)
-- Oct 22 [第57回 コンピュータビジョン勉強会＠関東](https://kantocv.connpass.com/event/260132/)
-- Oct 19 [持続可能性のデザイン vol.1](https://3rdlink.connpass.com/event/262751/)
-- Oct 15 [朝からもくもく会](https://connpass.com/event/262779/)
-- Oct 15 [朝からもくもく会](https://barcelona.connpass.com/event/262775/)
+- Oct 23 [新宿もくもく会 10/23(日)【in Cafe】](https://shinjuku-realize0707.connpass.com/event/262839/)
+- Oct 22 [【NoMaps連携事業】Notion Sapporo Meetup #006(オフライン)](https://notion-sapporo.connpass.com/event/262590/)
+- Oct 21 [【オンライン】はんなりPython #52 ゆるいLT会](https://hannari-python.connpass.com/event/261223/)
+- Oct 15 [#9 もくもく会&Web3アプリにStripeサブスクリプション決済を導入するハンズオン](https://buildweekend.connpass.com/event/260655/)
+- Oct 12 [K8s@home #1](https://k8shome.connpass.com/event/259491/)
 <!-- profile updater end: connpass -->
 
 <!---
