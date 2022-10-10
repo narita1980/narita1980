@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 23 [新宿もくもく会 10/23(日)【in Cafe】](https://shinjuku-realize0707.connpass.com/event/262839/)
-- Oct 22 [【NoMaps連携事業】Notion Sapporo Meetup #006(オフライン)](https://notion-sapporo.connpass.com/event/262590/)
-- Oct 21 [【オンライン】はんなりPython #52 ゆるいLT会](https://hannari-python.connpass.com/event/261223/)
-- Oct 15 [#9 もくもく会&Web3アプリにStripeサブスクリプション決済を導入するハンズオン](https://buildweekend.connpass.com/event/260655/)
-- Oct 12 [K8s@home #1](https://k8shome.connpass.com/event/259491/)
+- Nov 26 [第38回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/250237/)
+- Nov 12 [kintoneCafé女子会 Vol.1](https://kintone-cafe-girls.connpass.com/event/262063/)
+- Nov 10 [DevOps 第1原則「顧客中心の活動」を斬る！](https://dasa.connpass.com/event/262384/)
+- Nov 2 [toruby 187th](https://toruby.connpass.com/event/262895/)
+- Oct 22 [NeRFやってみた発表会 10/22](https://iwakenlab.connpass.com/event/262444/)
 <!-- profile updater end: connpass -->
 
 <!---
