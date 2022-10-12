@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 12 [OSC2022 Nagaoka 懇親会](https://noss.connpass.com/event/262827/)
-- Nov 12 [11/12 Open Source Conference 2022 Online/Nagaoka](https://ospn.connpass.com/event/261361/)
-- Nov 8 [まちのIT相談室 2022年11月号](https://openkawasaki.connpass.com/event/262965/)
-- Nov 3 [出張もくもく会](https://kazamori.connpass.com/event/262898/)
-- Oct 27 [【オンライン】エンジニア達の「〇〇完全に理解した」Talk　#34](https://easy2.connpass.com/event/262975/)
+- Dec 7 [ISWC2022サーベイ会](https://kg-wakate.connpass.com/event/259300/)
+- Oct 22 [LINE API開発者向けカンファレンス「REV UP 2022」](https://linedevelopercommunity.connpass.com/event/260460/)
+- Oct 17 [WinActorのAPI連携を徹底的に学ぶ](https://rpacommunity.connpass.com/event/262309/)
+- Oct 14 [【オフライン】JBUG 高知 #2 仕事やイベントをうまく回すためのプロジェクトマネジメントを学ぼう](https://jbug.connpass.com/event/262066/)
+- Oct 14 [PyCon JP 2022 カンファレンス](https://pyconjp.connpass.com/event/255827/)
 <!-- profile updater end: connpass -->
 
 <!---
