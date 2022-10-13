@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 7 [ISWC2022サーベイ会](https://kg-wakate.connpass.com/event/259300/)
-- Oct 22 [LINE API開発者向けカンファレンス「REV UP 2022」](https://linedevelopercommunity.connpass.com/event/260460/)
-- Oct 17 [WinActorのAPI連携を徹底的に学ぶ](https://rpacommunity.connpass.com/event/262309/)
-- Oct 14 [【オフライン】JBUG 高知 #2 仕事やイベントをうまく回すためのプロジェクトマネジメントを学ぼう](https://jbug.connpass.com/event/262066/)
-- Oct 14 [PyCon JP 2022 カンファレンス](https://pyconjp.connpass.com/event/255827/)
+- Nov 10 [【参加無料】野村総合研究所 城田 真琴氏と探る「業界を変えるエンベデッド・ファイナンス」](https://gmo.connpass.com/event/263157/)
+- Oct 30 [フロントエンド雑談会](https://frontend-fanclub.connpass.com/event/263210/)
+- Oct 20 [かごんま.NET 2022.10 デリゲートとかラムダ式とか...](https://kagoshima-dotnet.connpass.com/event/263230/)
+- Oct 19 [【特別企画】『活きたマニュアル』作成・整備のコツ～業務の棚卸しを実演します～](https://rpacommunity.connpass.com/event/263117/)
+- Oct 19 [【LT残2枠！】プロジェクトマネジメント Tips LT会 vol.5](https://rakus.connpass.com/event/258398/)
 <!-- profile updater end: connpass -->
 
 <!---
