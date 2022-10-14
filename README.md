@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 10 [【参加無料】野村総合研究所 城田 真琴氏と探る「業界を変えるエンベデッド・ファイナンス」](https://gmo.connpass.com/event/263157/)
-- Oct 30 [フロントエンド雑談会](https://frontend-fanclub.connpass.com/event/263210/)
-- Oct 20 [かごんま.NET 2022.10 デリゲートとかラムダ式とか...](https://kagoshima-dotnet.connpass.com/event/263230/)
-- Oct 19 [【特別企画】『活きたマニュアル』作成・整備のコツ～業務の棚卸しを実演します～](https://rpacommunity.connpass.com/event/263117/)
-- Oct 19 [【LT残2枠！】プロジェクトマネジメント Tips LT会 vol.5](https://rakus.connpass.com/event/258398/)
+- Nov 13 [第59回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/261469/)
+- Nov 10 [Nxバックエンド勉強会#7](https://pelemay.connpass.com/event/263304/)
+- Oct 27 [クラウドの作り方 (使い方じゃないよ) - NTT Com Open TechLunch #2](https://nttcom.connpass.com/event/263134/)
+- Oct 21 [熊谷さんのやさしいSwift勉強会 #172 #YUMEMI.grow](https://yumemi.connpass.com/event/263019/)
+- Oct 19 [エンタープライズAIとモダンアプリケーション開発の実践 ~ISID✕Microsoft~#1](https://dllab.connpass.com/event/253887/)
 <!-- profile updater end: connpass -->
 
 <!---
