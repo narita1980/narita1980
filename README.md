@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 13 [第59回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/261469/)
-- Nov 10 [Nxバックエンド勉強会#7](https://pelemay.connpass.com/event/263304/)
-- Oct 27 [クラウドの作り方 (使い方じゃないよ) - NTT Com Open TechLunch #2](https://nttcom.connpass.com/event/263134/)
-- Oct 21 [熊谷さんのやさしいSwift勉強会 #172 #YUMEMI.grow](https://yumemi.connpass.com/event/263019/)
-- Oct 19 [エンタープライズAIとモダンアプリケーション開発の実践 ~ISID✕Microsoft~#1](https://dllab.connpass.com/event/253887/)
+- Dec 3 [メタバース法律セミナー・相談会](https://kittenlawoffice.connpass.com/event/263417/)
+- Nov 12 [11/12(土)【もくもく会 @ 新宿】Developers Guild](https://devguil.connpass.com/event/263305/)
+- Oct 29 [コンピューターアニメーション勉強会@オンライン香川#5](https://connpass.com/event/263422/)
+- Oct 29 [朝からもくもく会](https://barcelona.connpass.com/event/263424/)
+- Oct 27 [【輪読会】作って学ぶコンピュータアーキテクチャ　第二回](https://kobe-processor-architecture.connpass.com/event/262150/)
 <!-- profile updater end: connpass -->
 
 <!---
