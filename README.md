@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 3 [メタバース法律セミナー・相談会](https://kittenlawoffice.connpass.com/event/263417/)
-- Nov 12 [11/12(土)【もくもく会 @ 新宿】Developers Guild](https://devguil.connpass.com/event/263305/)
-- Oct 29 [コンピューターアニメーション勉強会@オンライン香川#5](https://connpass.com/event/263422/)
-- Oct 29 [朝からもくもく会](https://barcelona.connpass.com/event/263424/)
-- Oct 27 [【輪読会】作って学ぶコンピュータアーキテクチャ　第二回](https://kobe-processor-architecture.connpass.com/event/262150/)
+- Dec 10 [12.10 ◤ VR Kyougi 2022 ◢ #vrk5 #メタバース](https://xram.connpass.com/event/261514/)
+- Nov 20 [CoderDojo横浜師岡（第2回）](https://coderdojo-morooka.connpass.com/event/262913/)
+- Nov 13 [第09回 CoderDojo武蔵小杉【レギュラー回】※初めての方歓迎](https://coderdojo-musashikosugi.connpass.com/event/263551/)
+- Nov 12 [◤xR with Anything Meetup #017◢ #xram81 #メタバース](https://xram.connpass.com/event/256700/)
+- Oct 27 [【オンラインもくもく会】みんなのPython勉強会 in 名古屋#39](https://startpython.connpass.com/event/263428/)
 <!-- profile updater end: connpass -->
 
 <!---
