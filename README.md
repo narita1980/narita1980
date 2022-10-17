@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 10 [12.10 ◤ VR Kyougi 2022 ◢ #vrk5 #メタバース](https://xram.connpass.com/event/261514/)
-- Nov 20 [CoderDojo横浜師岡（第2回）](https://coderdojo-morooka.connpass.com/event/262913/)
-- Nov 13 [第09回 CoderDojo武蔵小杉【レギュラー回】※初めての方歓迎](https://coderdojo-musashikosugi.connpass.com/event/263551/)
-- Nov 12 [◤xR with Anything Meetup #017◢ #xram81 #メタバース](https://xram.connpass.com/event/256700/)
-- Oct 27 [【オンラインもくもく会】みんなのPython勉強会 in 名古屋#39](https://startpython.connpass.com/event/263428/)
+- Nov 12 [CoderDojo飯田#3](https://coderdojoiida.connpass.com/event/263624/)
+- Nov 8 [リアル開催！BtoB×SaaS×CS LT#11](https://btob-cs.connpass.com/event/263151/)
+- Nov 7 [【CDLE主催】CDLE Startup「オンライン名刺交換会」](https://jdla.connpass.com/event/261348/)
+- Oct 25 [LiveView JP#11：はじめてのLiveView…フロントSPAをElixirで作ってみよう](https://liveviewjp.connpass.com/event/262072/)
+- Oct 20 [Future Questions SESSIONS〜未来を作るファッション〜](https://yj-meetup.connpass.com/event/262619/)
 <!-- profile updater end: connpass -->
 
 <!---
