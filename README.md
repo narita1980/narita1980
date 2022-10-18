@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 12 [CoderDojo飯田#3](https://coderdojoiida.connpass.com/event/263624/)
-- Nov 8 [リアル開催！BtoB×SaaS×CS LT#11](https://btob-cs.connpass.com/event/263151/)
-- Nov 7 [【CDLE主催】CDLE Startup「オンライン名刺交換会」](https://jdla.connpass.com/event/261348/)
-- Oct 25 [LiveView JP#11：はじめてのLiveView…フロントSPAをElixirで作ってみよう](https://liveviewjp.connpass.com/event/262072/)
-- Oct 20 [Future Questions SESSIONS〜未来を作るファッション〜](https://yj-meetup.connpass.com/event/262619/)
+- Nov 3 [第1回 AIロボット入門講習会](https://introduction-to-ai-robot.connpass.com/event/263545/)
+- Nov 1 [モーニングLT#3](https://drill-dev.connpass.com/event/263731/)
+- Oct 25 [Cookpad DESIGN BOWL VOL.1 デザイナーがリードする事業デザイン](https://cookpad.connpass.com/event/262010/)
+- Oct 24 [ふりかえり Kaigi on Rails 2022](https://hey.connpass.com/event/263127/)
+- Oct 22 [初心者歓迎！フォトグラメトリ 勉強会#21](https://c-sagyoba-benkyoukai.connpass.com/event/262204/)
 <!-- profile updater end: connpass -->
 
 <!---
