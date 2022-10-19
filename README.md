@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 3 [第1回 AIロボット入門講習会](https://introduction-to-ai-robot.connpass.com/event/263545/)
-- Nov 1 [モーニングLT#3](https://drill-dev.connpass.com/event/263731/)
-- Oct 25 [Cookpad DESIGN BOWL VOL.1 デザイナーがリードする事業デザイン](https://cookpad.connpass.com/event/262010/)
-- Oct 24 [ふりかえり Kaigi on Rails 2022](https://hey.connpass.com/event/263127/)
-- Oct 22 [初心者歓迎！フォトグラメトリ 勉強会#21](https://c-sagyoba-benkyoukai.connpass.com/event/262204/)
+- Nov 19 [鹿児島フリーランス座談会 -1年目の悩み解消回-](https://kagoshima-mk.connpass.com/event/263520/)
+- Nov 11 [TDNOG6.0 Meeting（帯広）](https://tdnog.connpass.com/event/260478/)
+- Oct 26 [ng-japan OnAir #58 Monthly Angular 10月号](https://ngjapan.connpass.com/event/263290/)
+- Oct 26 [【WinActor】みんなで学ぼう！新たなブラウザ拡張機能](https://rpacommunity.connpass.com/event/263834/)
+- Oct 25 [テンソルネットワークQFT](https://qnn.connpass.com/event/263851/)
 <!-- profile updater end: connpass -->
 
 <!---
