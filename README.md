@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 19 [鹿児島フリーランス座談会 -1年目の悩み解消回-](https://kagoshima-mk.connpass.com/event/263520/)
-- Nov 11 [TDNOG6.0 Meeting（帯広）](https://tdnog.connpass.com/event/260478/)
-- Oct 26 [ng-japan OnAir #58 Monthly Angular 10月号](https://ngjapan.connpass.com/event/263290/)
-- Oct 26 [【WinActor】みんなで学ぼう！新たなブラウザ拡張機能](https://rpacommunity.connpass.com/event/263834/)
-- Oct 25 [テンソルネットワークQFT](https://qnn.connpass.com/event/263851/)
+- Nov 18 [(ISC)² Japan Chapter Annual Conference 2022](https://isc2japanchapter.connpass.com/event/263662/)
+- Nov 17 [【24卒就活生/既卒/社会人の方必見】Web&SI トークナイト Vol.4 ONLINE](https://cyberagent.connpass.com/event/263575/)
+- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
+- Nov 12 [JP_Stripes in 岡山 Vol.3 × 岡山Ruby, Ruby on Rails勉強会](https://jpstripes.connpass.com/event/263685/)
+- Oct 30 [【大学祭/ハイブリッド】 #hiro_it（10/30開催）](https://hiro-it.connpass.com/event/255530/)
 <!-- profile updater end: connpass -->
 
 <!---
