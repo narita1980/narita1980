@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 18 [(ISC)² Japan Chapter Annual Conference 2022](https://isc2japanchapter.connpass.com/event/263662/)
-- Nov 17 [【24卒就活生/既卒/社会人の方必見】Web&SI トークナイト Vol.4 ONLINE](https://cyberagent.connpass.com/event/263575/)
-- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
-- Nov 12 [JP_Stripes in 岡山 Vol.3 × 岡山Ruby, Ruby on Rails勉強会](https://jpstripes.connpass.com/event/263685/)
-- Oct 30 [【大学祭/ハイブリッド】 #hiro_it（10/30開催）](https://hiro-it.connpass.com/event/255530/)
+- Dec 8 [Red Hat Partner ワークショップ OpenShift 基礎編【PTP認定取得コース】](https://redhat-open.connpass.com/event/262958/)
+- Dec 2 [NW-JAWS 勉強会#9](https://jawsug-nw.connpass.com/event/259495/)
+- Nov 22 [【11/22(火)】NIFTY Tech Day 2022](https://nifty.connpass.com/event/259941/)
+- Oct 28 [熊谷さんのやさしいSwift勉強会 #175 #YUMEMI.grow](https://yumemi.connpass.com/event/263022/)
+- Oct 26 [Hannali DAO](https://hannari-python.connpass.com/event/262428/)
 <!-- profile updater end: connpass -->
 
 <!---
