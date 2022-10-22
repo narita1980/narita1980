@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 8 [Red Hat Partner ワークショップ OpenShift 基礎編【PTP認定取得コース】](https://redhat-open.connpass.com/event/262958/)
-- Dec 2 [NW-JAWS 勉強会#9](https://jawsug-nw.connpass.com/event/259495/)
-- Nov 22 [【11/22(火)】NIFTY Tech Day 2022](https://nifty.connpass.com/event/259941/)
-- Oct 28 [熊谷さんのやさしいSwift勉強会 #175 #YUMEMI.grow](https://yumemi.connpass.com/event/263022/)
-- Oct 26 [Hannali DAO](https://hannari-python.connpass.com/event/262428/)
+- Nov 18 [コミュニティ運営ミートアップ](https://hannari-python.connpass.com/event/264141/)
+- Nov 17 [量子コンピュータ＆量子暗号勉強会 #7](https://dev-roku.connpass.com/event/262495/)
+- Nov 1 [量子コンピュータで為替アービトラージ計算（エッジベース）](https://qnn.connpass.com/event/264144/)
+- Oct 30 [【第1回】SE時事ラジオ](https://setk.connpass.com/event/264140/)
+- Oct 29 [IT系&誰でも参加OK！もくもく会_朝活_10/29(土)](https://morimori.connpass.com/event/264142/)
 <!-- profile updater end: connpass -->
 
 <!---
