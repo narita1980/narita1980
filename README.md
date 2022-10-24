@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 26 [第46回横浜Go読書会（オンライン）](https://yokohama-go-reading.connpass.com/event/264218/)
-- Nov 20 [CoderDojo横浜師岡（第2回）](https://coderdojo-morooka.connpass.com/event/262913/)
-- Nov 12 [CoderDojo横浜師岡（第1回）](https://coderdojo-morooka.connpass.com/event/262785/)
-- Oct 30 [Golang Cafe #113](https://gdgchugoku.connpass.com/event/263566/)
-- Oct 29 [MS Tech Camp 2周年記念イベント@Microsoft Base 代官山＋Youtube](https://mspjp.connpass.com/event/260855/)
+- Nov 17 [第41回 Tokyo Jazug Night](https://jazug.connpass.com/event/264143/)
+- Nov 10 [STORES × クラウドサイン ~Vue Fes アフターナイト~](https://bengo4.connpass.com/event/264092/)
+- Nov 8 [ノンプログラミングPlatoで楽々始めるIoT in 福岡](https://mrubyworkshop.connpass.com/event/262431/)
+- Oct 28 [ML Career Lounge #1 「ML エンジニアのこれまでとこれから」](https://forkwell.connpass.com/event/261617/)
+- Oct 28 [【特別イベント】データ活用ってなに？一緒に体験型で学びましょう](https://rpacommunity.connpass.com/event/263976/)
 <!-- profile updater end: connpass -->
 
 <!---
