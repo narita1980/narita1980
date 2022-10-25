@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 17 [第41回 Tokyo Jazug Night](https://jazug.connpass.com/event/264143/)
-- Nov 10 [STORES × クラウドサイン ~Vue Fes アフターナイト~](https://bengo4.connpass.com/event/264092/)
-- Nov 8 [ノンプログラミングPlatoで楽々始めるIoT in 福岡](https://mrubyworkshop.connpass.com/event/262431/)
-- Oct 28 [ML Career Lounge #1 「ML エンジニアのこれまでとこれから」](https://forkwell.connpass.com/event/261617/)
-- Oct 28 [【特別イベント】データ活用ってなに？一緒に体験型で学びましょう](https://rpacommunity.connpass.com/event/263976/)
+- Dec 2 [NW-JAWS 勉強会#9](https://jawsug-nw.connpass.com/event/259495/)
+- Dec 1 [Akamai Meetup #2](https://akamai-meetup.connpass.com/event/264259/)
+- Nov 29 [カスタマーサクセスとカスタマーサポートの違い～カスタマーサクセス組織の立ち上げ経験者が本音でトーク～](https://connpass.com/event/264354/)
+- Nov 19 [[Fukuoka]Rakuten Technology Conference 2022](https://rakuten-tech-fukuoka.connpass.com/event/263380/)
+- Nov 4 [スナックねこぐるま](https://telab.connpass.com/event/264377/)
 <!-- profile updater end: connpass -->
 
 <!---
