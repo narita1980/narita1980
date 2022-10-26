@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 2 [NW-JAWS 勉強会#9](https://jawsug-nw.connpass.com/event/259495/)
-- Dec 1 [Akamai Meetup #2](https://akamai-meetup.connpass.com/event/264259/)
-- Nov 29 [カスタマーサクセスとカスタマーサポートの違い～カスタマーサクセス組織の立ち上げ経験者が本音でトーク～](https://connpass.com/event/264354/)
-- Nov 19 [[Fukuoka]Rakuten Technology Conference 2022](https://rakuten-tech-fukuoka.connpass.com/event/263380/)
-- Nov 4 [スナックねこぐるま](https://telab.connpass.com/event/264377/)
+- Jan 18 [Serverless Meetup Japan Virtual #24](https://serverless.connpass.com/event/263830/)
+- Nov 19 [[Sapporo] Rakuten Technology Conference 2022](https://rakuten-sapporo.connpass.com/event/263579/)
+- Nov 16 [デジタルバンクのデザイナーは、どんなキャリアなの？](https://minna-no-ginko-design.connpass.com/event/263243/)
+- Nov 8 [毎週火曜にやってる！プログラミング&ITなんでも勉強部屋（11月第2）](https://hfs.connpass.com/event/264436/)
+- Nov 8 [React にチャレンジしてみよう！UI 基礎編③【belong try #10】](https://belong.connpass.com/event/264477/)
 <!-- profile updater end: connpass -->
 
 <!---
