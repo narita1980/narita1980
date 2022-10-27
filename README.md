@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 18 [Serverless Meetup Japan Virtual #24](https://serverless.connpass.com/event/263830/)
-- Nov 19 [[Sapporo] Rakuten Technology Conference 2022](https://rakuten-sapporo.connpass.com/event/263579/)
-- Nov 16 [デジタルバンクのデザイナーは、どんなキャリアなの？](https://minna-no-ginko-design.connpass.com/event/263243/)
-- Nov 8 [毎週火曜にやってる！プログラミング&ITなんでも勉強部屋（11月第2）](https://hfs.connpass.com/event/264436/)
-- Nov 8 [React にチャレンジしてみよう！UI 基礎編③【belong try #10】](https://belong.connpass.com/event/264477/)
+- Nov 16 [デジタルバンクのデザイナーは、どんなキャリアを歩んできたの？](https://minna-no-ginko-design.connpass.com/event/263243/)
+- Nov 16 [ElixirImp#26：「Elixir生誕10周年」を締めくくる大LT会（お仕事系もOK）](https://fukuokaex.connpass.com/event/263738/)
+- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
+- Nov 12 [鹿児島観光ハッカソン](https://uhuru.connpass.com/event/260684/)
+- Oct 27 [世界一わかりみの深いクラウドネイティブ on Azure 第22回〜VSCodeでのコンテナ活用〜](https://tech-lab.connpass.com/event/262745/)
 <!-- profile updater end: connpass -->
 
 <!---
