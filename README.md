@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 16 [デジタルバンクのデザイナーは、どんなキャリアを歩んできたの？](https://minna-no-ginko-design.connpass.com/event/263243/)
-- Nov 16 [ElixirImp#26：「Elixir生誕10周年」を締めくくる大LT会（お仕事系もOK）](https://fukuokaex.connpass.com/event/263738/)
-- Nov 16 [Lychee Fun Basket 2022〜今さら聞けない！プロジェクトの走り出し方〜](https://lychee.connpass.com/event/256758/)
-- Nov 12 [鹿児島観光ハッカソン](https://uhuru.connpass.com/event/260684/)
-- Oct 27 [世界一わかりみの深いクラウドネイティブ on Azure 第22回〜VSCodeでのコンテナ活用〜](https://tech-lab.connpass.com/event/262745/)
+- Nov 30 [コンテナ共創センター勉強会 #19](https://5cm.connpass.com/event/237103/)
+- Nov 19 [[Osaka] Rakuten Technology Conference 2022](https://rakuten.connpass.com/event/263184/)
+- Nov 18 [クライアントワークにおけるプロダクトマネージャ (PdM) 思考ｘ開発 Meetup](https://client-work-pdm.connpass.com/event/264540/)
+- Nov 11 [ChuNOG 0 Meeting（岐阜県大垣市）](https://chunog.connpass.com/event/262029/)
+- Nov 3 [ビデオはオフ！寝ぼけまなこでもくもく朝会](https://itmokumoku.connpass.com/event/264704/)
 <!-- profile updater end: connpass -->
 
 <!---
