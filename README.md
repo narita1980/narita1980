@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 30 [コンテナ共創センター勉強会 #19](https://5cm.connpass.com/event/237103/)
-- Nov 19 [[Osaka] Rakuten Technology Conference 2022](https://rakuten.connpass.com/event/263184/)
-- Nov 18 [クライアントワークにおけるプロダクトマネージャ (PdM) 思考ｘ開発 Meetup](https://client-work-pdm.connpass.com/event/264540/)
-- Nov 11 [ChuNOG 0 Meeting（岐阜県大垣市）](https://chunog.connpass.com/event/262029/)
-- Nov 3 [ビデオはオフ！寝ぼけまなこでもくもく朝会](https://itmokumoku.connpass.com/event/264704/)
+- Dec 2 [【学生限定】DDD Challenge 2022](https://chatwork.connpass.com/event/263334/)
+- Nov 26 [第72回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/263605/)
+- Nov 17 [【NIKKEI Tech Talk #1】メディア企業のSRE　～日経のSREの取り組み～](https://nikkei.connpass.com/event/263767/)
+- Nov 11 [秋のDojo祭り[11/7-18]いまさら聞けないObservability入門](https://ibm-developer.connpass.com/event/264800/)
+- Nov 7 [IT系&誰でも参加OK！もくもく会_朝活_11/7(月)](https://morimori.connpass.com/event/264839/)
 <!-- profile updater end: connpass -->
 
 <!---
