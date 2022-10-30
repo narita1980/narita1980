@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 2 [【学生限定】DDD Challenge 2022](https://chatwork.connpass.com/event/263334/)
-- Nov 26 [第72回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/263605/)
 - Nov 17 [【NIKKEI Tech Talk #1】メディア企業のSRE　～日経のSREの取り組み～](https://nikkei.connpass.com/event/263767/)
-- Nov 11 [秋のDojo祭り[11/7-18]いまさら聞けないObservability入門](https://ibm-developer.connpass.com/event/264800/)
-- Nov 7 [IT系&誰でも参加OK！もくもく会_朝活_11/7(月)](https://morimori.connpass.com/event/264839/)
+- Nov 7 [11/7(月)【第1477回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/264906/)
+- Nov 7 [11/7(月)【第1476回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/264905/)
+- Nov 6 [11/6(日)【第81回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/264911/)
+- Nov 5 [tecHub Meetup #13](https://techub.connpass.com/event/260306/)
 <!-- profile updater end: connpass -->
 
 <!---
