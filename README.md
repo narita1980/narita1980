@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 17 [【NIKKEI Tech Talk #1】メディア企業のSRE　～日経のSREの取り組み～](https://nikkei.connpass.com/event/263767/)
-- Nov 7 [11/7(月)【第1477回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/264906/)
-- Nov 7 [11/7(月)【第1476回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/264905/)
-- Nov 6 [11/6(日)【第81回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/264911/)
-- Nov 5 [tecHub Meetup #13](https://techub.connpass.com/event/260306/)
+- Nov 19 [[Sapporo] Rakuten Technology Conference 2022](https://rakuten-sapporo.connpass.com/event/263579/)
+- Nov 9 [【苦悶式】私だって欲しいITパスポート 第1回【Returns】](https://elv.connpass.com/event/264969/)
+- Nov 9 [CI/CDはじめの一歩 ～CIツール編～](https://asiaquest.connpass.com/event/263704/)
+- Nov 5 [第2回創作＋機械学習LT会](https://connpass.com/event/262846/)
+- Oct 31 [２４回 初心者のためのセキュリティ勉強会（オンライン開催）](https://sfb.connpass.com/event/262561/)
 <!-- profile updater end: connpass -->
 
 <!---
