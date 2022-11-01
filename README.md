@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 19 [[Sapporo] Rakuten Technology Conference 2022](https://rakuten-sapporo.connpass.com/event/263579/)
-- Nov 9 [【苦悶式】私だって欲しいITパスポート 第1回【Returns】](https://elv.connpass.com/event/264969/)
-- Nov 9 [CI/CDはじめの一歩 ～CIツール編～](https://asiaquest.connpass.com/event/263704/)
-- Nov 5 [第2回創作＋機械学習LT会](https://connpass.com/event/262846/)
-- Oct 31 [２４回 初心者のためのセキュリティ勉強会（オンライン開催）](https://sfb.connpass.com/event/262561/)
+- Dec 10 [みんなのITもくもく会@オンライン](https://itmokumoku.connpass.com/event/265137/)
+- Dec 3 [#Twilioハッカソン 2022](https://mashupawards.connpass.com/event/264896/)
+- Nov 25 [【エンジニアLT＆交流会】お寿司を食べながらTypeScriptについて語りましょう！](https://anotherworks.connpass.com/event/264315/)
+- Nov 14 [再・セキュリティスキル習得への一歩を踏み出したい"新たな"入門者向け　#W1-B-004～006](https://kabuto.connpass.com/event/265124/)
+- Nov 12 [Designship 2022](https://designship.connpass.com/event/264661/)
 <!-- profile updater end: connpass -->
 
 <!---
