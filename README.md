@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 10 [みんなのITもくもく会@オンライン](https://itmokumoku.connpass.com/event/265137/)
-- Dec 3 [#Twilioハッカソン 2022](https://mashupawards.connpass.com/event/264896/)
-- Nov 25 [【エンジニアLT＆交流会】お寿司を食べながらTypeScriptについて語りましょう！](https://anotherworks.connpass.com/event/264315/)
-- Nov 14 [再・セキュリティスキル習得への一歩を踏み出したい"新たな"入門者向け　#W1-B-004～006](https://kabuto.connpass.com/event/265124/)
-- Nov 12 [Designship 2022](https://designship.connpass.com/event/264661/)
+- Nov 11 [BeCrazyな個の可能性を開放し続け「なべぶた型組織」で成長をめざすちゅらデータの挑戦ってなんだ？](https://churadata.connpass.com/event/263973/)
+- Nov 5 [第2回創作＋機械学習LT会](https://connpass.com/event/262846/)
+- Sep 21 [【開発責任者登壇／昼開催】3万人が使う自社プロダクトをアジャイル開発したら残業がなくなった話をします](https://town.connpass.com/event/259610/)
+- Jul 7 [Microsoft Build Catchup for LINE API Developers!!](https://linedevelopercommunity.connpass.com/event/251427/)
+- Jun 23 [【LINE API総復習シリーズ】Messaging API編【LINE API Expert出演】](https://linedevelopercommunity.connpass.com/event/249965/)
 <!-- profile updater end: connpass -->
 
 <!---
