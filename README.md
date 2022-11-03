@@ -17,17 +17,17 @@
 - Mar 4, **3 LGTM** [GitHubのプルリクエストでファイルツリーが表示されるようになりました（ベータ版機能）](https://qiita.com/narita1980/items/bee2c5232342a51e0415)
 - Feb 27 [Instagram（インスタ）で1万人を超えたアカウントのフォロアー数、フォロー数を知るためには"?__a=1"を付与する](https://qiita.com/narita1980/items/630b7014fa893461b991)
 - Feb 22 [Simple.cssチートシート](https://qiita.com/narita1980/items/fd2ccf0e91944aab9fd5)
-- Feb 21, **23 LGTM** [【公式資料】GitLab社で学んだ最高の働き方](https://qiita.com/narita1980/items/d7d142c2bb6312cb9ad6)
+- Feb 21, **24 LGTM** [【公式資料】GitLab社で学んだ最高の働き方](https://qiita.com/narita1980/items/d7d142c2bb6312cb9ad6)
 <!-- profile updater end: qiita -->
 
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 11 [BeCrazyな個の可能性を開放し続け「なべぶた型組織」で成長をめざすちゅらデータの挑戦ってなんだ？](https://churadata.connpass.com/event/263973/)
-- Nov 5 [第2回創作＋機械学習LT会](https://connpass.com/event/262846/)
-- Sep 21 [【開発責任者登壇／昼開催】3万人が使う自社プロダクトをアジャイル開発したら残業がなくなった話をします](https://town.connpass.com/event/259610/)
-- Jul 7 [Microsoft Build Catchup for LINE API Developers!!](https://linedevelopercommunity.connpass.com/event/251427/)
-- Jun 23 [【LINE API総復習シリーズ】Messaging API編【LINE API Expert出演】](https://linedevelopercommunity.connpass.com/event/249965/)
+- Nov 20 [ドローン体験（会場：あけみおSKYドーム・会議室）](https://coderdojo-nago.connpass.com/event/260501/)
+- Nov 16 [組み込みの未来を語る会（ET飲み会）](https://connpass.com/event/265324/)
+- Nov 11 [11/11(金)【第1485回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/265397/)
+- Nov 11 [11/11(金)【第1484回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/265396/)
+- Nov 10 [【オンライン】11/10(木)5時〜7時：Flutter好きが集まる朝もく会（第300回）](https://flutter-asamoku.connpass.com/event/265179/)
 <!-- profile updater end: connpass -->
 
 <!---
