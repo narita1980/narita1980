@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 20 [ドローン体験（会場：あけみおSKYドーム・会議室）](https://coderdojo-nago.connpass.com/event/260501/)
-- Nov 16 [組み込みの未来を語る会（ET飲み会）](https://connpass.com/event/265324/)
-- Nov 11 [11/11(金)【第1485回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/265397/)
-- Nov 11 [11/11(金)【第1484回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/265396/)
-- Nov 10 [【オンライン】11/10(木)5時〜7時：Flutter好きが集まる朝もく会（第300回）](https://flutter-asamoku.connpass.com/event/265179/)
+- Nov 25 [Microsoft Ignite 2022 ミニふりかえり JAZUG TOHOKU](https://jazug.connpass.com/event/262516/)
+- Nov 19 [[Sapporo] Rakuten Technology Conference 2022](https://rakuten-sapporo.connpass.com/event/263579/)
+- Nov 17 [AWS Startup Tech Meetup 福岡 #2 ~ いくぜ！サーバーレス！~](https://aws-startup-community.connpass.com/event/262874/)
+- Nov 12 [鹿児島観光ハッカソン](https://uhuru.connpass.com/event/260684/)
+- Nov 10 [STORES × クラウドサイン ~Vue Fes アフターナイト~](https://bengo4.connpass.com/event/264092/)
 <!-- profile updater end: connpass -->
 
 <!---
