@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 25 [Microsoft Ignite 2022 ミニふりかえり JAZUG TOHOKU](https://jazug.connpass.com/event/262516/)
-- Nov 19 [[Sapporo] Rakuten Technology Conference 2022](https://rakuten-sapporo.connpass.com/event/263579/)
-- Nov 17 [AWS Startup Tech Meetup 福岡 #2 ~ いくぜ！サーバーレス！~](https://aws-startup-community.connpass.com/event/262874/)
-- Nov 12 [鹿児島観光ハッカソン](https://uhuru.connpass.com/event/260684/)
-- Nov 10 [STORES × クラウドサイン ~Vue Fes アフターナイト~](https://bengo4.connpass.com/event/264092/)
+- Dec 4 [OMMF2022 AIラジコンカー 12/4(日)自動運転RCカー募集](https://donkeycar-nagoya.connpass.com/event/264680/)
+- Dec 3 [OMMF2022 AIラジコンカー 12/3(土)自動運転RCカー募集](https://donkeycar-nagoya.connpass.com/event/264273/)
+- Nov 19 [Redmineパッチ会オンライン #27](https://redmine-patch.connpass.com/event/265634/)
+- Nov 12 [11/12(土)【もくもく会 @ 新宿】Developers Guild](https://devguil.connpass.com/event/263305/)
+- Nov 11 [NervesJP #31 Code BEAM America 2022に行ってきた回](https://nerves-jp.connpass.com/event/265627/)
 <!-- profile updater end: connpass -->
 
 <!---
