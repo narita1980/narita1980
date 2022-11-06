@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 4 [OMMF2022 AIラジコンカー 12/4(日)自動運転RCカー募集](https://donkeycar-nagoya.connpass.com/event/264680/)
-- Dec 3 [OMMF2022 AIラジコンカー 12/3(土)自動運転RCカー募集](https://donkeycar-nagoya.connpass.com/event/264273/)
-- Nov 19 [Redmineパッチ会オンライン #27](https://redmine-patch.connpass.com/event/265634/)
-- Nov 12 [11/12(土)【もくもく会 @ 新宿】Developers Guild](https://devguil.connpass.com/event/263305/)
-- Nov 11 [NervesJP #31 Code BEAM America 2022に行ってきた回](https://nerves-jp.connpass.com/event/265627/)
+- Nov 30 [DXにおけるPython活用入門 in 浜松市！](https://chomoku.connpass.com/event/265702/)
+- Nov 30 [企業におけるデータ利活用入門 in 浜松市！](https://chomoku.connpass.com/event/265705/)
+- Nov 22 [Dreamforce 2022 Global Gathering in Osaka](https://terakoyaforce.connpass.com/event/265343/)
+- Nov 19 [#0 双方向入門勉強会【数学研究者⇄哲学研究者】](https://connpass.com/event/264876/)
+- Nov 18 [devblogラジオ vol.54 ～.NET Conf 2022 Recap!～](https://devblog.connpass.com/event/265704/)
 <!-- profile updater end: connpass -->
 
 <!---
