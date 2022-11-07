@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 30 [DXにおけるPython活用入門 in 浜松市！](https://chomoku.connpass.com/event/265702/)
-- Nov 30 [企業におけるデータ利活用入門 in 浜松市！](https://chomoku.connpass.com/event/265705/)
-- Nov 22 [Dreamforce 2022 Global Gathering in Osaka](https://terakoyaforce.connpass.com/event/265343/)
-- Nov 19 [#0 双方向入門勉強会【数学研究者⇄哲学研究者】](https://connpass.com/event/264876/)
-- Nov 18 [devblogラジオ vol.54 ～.NET Conf 2022 Recap!～](https://devblog.connpass.com/event/265704/)
+- Dec 10 [第3回 北陸合同 WordPress Meetup @ 金沢市](https://connpass.com/event/265203/)
+- Dec 7 [AI最新論文読み会2022年12月【オンライン配信】](https://deeplearning-b.connpass.com/event/265345/)
+- Nov 27 [【無料】CoderDojo瀬戸(第93回) 子供向けプログラミング道場](https://coderdojo-seto.connpass.com/event/265777/)
+- Nov 26 [【Python】効率よく情報収集！はじめてのスクレイピング](https://kumamoto-analytica.connpass.com/event/264390/)
+- Nov 24 [8社合同！ゲームQA技術研究報告会](https://gree.connpass.com/event/257637/)
 <!-- profile updater end: connpass -->
 
 <!---
