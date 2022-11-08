@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 10 [第3回 北陸合同 WordPress Meetup @ 金沢市](https://connpass.com/event/265203/)
-- Dec 7 [AI最新論文読み会2022年12月【オンライン配信】](https://deeplearning-b.connpass.com/event/265345/)
-- Nov 27 [【無料】CoderDojo瀬戸(第93回) 子供向けプログラミング道場](https://coderdojo-seto.connpass.com/event/265777/)
-- Nov 26 [【Python】効率よく情報収集！はじめてのスクレイピング](https://kumamoto-analytica.connpass.com/event/264390/)
-- Nov 24 [8社合同！ゲームQA技術研究報告会](https://gree.connpass.com/event/257637/)
+- Dec 17 [【オフライン】先輩エンジニアとAPIに触れてみよう！＠駒沢大学前](https://alchemy.connpass.com/event/265079/)
+- Dec 7 [【Qiita×HITACHI】Social Tech Talk #04](https://increments.connpass.com/event/263179/)
+- Nov 25 [Unity公式チュートリアルUnity Learnで学ぶC#プログラミング](https://mikan-study.connpass.com/event/263773/)
+- Nov 19 [[Fukuoka]Rakuten Technology Conference 2022](https://rakuten-tech-fukuoka.connpass.com/event/263380/)
+- Nov 19 [[Osaka] Rakuten Technology Conference 2022](https://rakuten.connpass.com/event/263184/)
 <!-- profile updater end: connpass -->
 
 <!---
