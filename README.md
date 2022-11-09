@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 17 [【オフライン】先輩エンジニアとAPIに触れてみよう！＠駒沢大学前](https://alchemy.connpass.com/event/265079/)
-- Dec 7 [【Qiita×HITACHI】Social Tech Talk #04](https://increments.connpass.com/event/263179/)
-- Nov 25 [Unity公式チュートリアルUnity Learnで学ぶC#プログラミング](https://mikan-study.connpass.com/event/263773/)
+- Nov 30 [[オンライン] 第33回ゼロから始めるCTF入門勉強会 (初心者歓迎！)](https://zeroctf.connpass.com/event/265714/)
+- Nov 24 [ネットワークセキュリティ再入門](https://fujitsufjct.connpass.com/event/265330/)
+- Nov 22 [モバイルエンジニアの今後とキャリアとは〜有山さんと松館さんから学ぶ 〜](https://findy.connpass.com/event/265145/)
 - Nov 19 [[Fukuoka]Rakuten Technology Conference 2022](https://rakuten-tech-fukuoka.connpass.com/event/263380/)
-- Nov 19 [[Osaka] Rakuten Technology Conference 2022](https://rakuten.connpass.com/event/263184/)
+- Nov 16 [第四回ワイワイもくもく会](https://waimokukai.connpass.com/event/266032/)
 <!-- profile updater end: connpass -->
 
 <!---
