@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 8 [JAWS-UG朝会 #40](https://jawsug-asa.connpass.com/event/255875/)
-- Nov 29 [第2回　Cloud Native Data Engineer Community](https://mcdec.connpass.com/event/264851/)
-- Nov 26 [【挑戦者求ム】CCNA対策　まさるの挑戦状　20221126](https://connpass.com/event/265338/)
-- Nov 24 [【苦悶式】私だって欲しいITパスポート 第2回【Returns】](https://elv.connpass.com/event/266171/)
-- Nov 16 [nakanoshima.dev #32 デジタルツインに触れてみよう](https://nakanoshima-dev.connpass.com/event/263967/)
+- Dec 15 [color is クラウドLT大会vol.2「大型アップデート祭り」](https://saison-coloris.connpass.com/event/265589/)
+- Dec 9 [【エンジニア交流会】＠WeWork なんばスカイオ](https://hikalab-kansai.connpass.com/event/265969/)
+- Dec 8 [Nxバックエンド勉強会#8](https://pelemay.connpass.com/event/264838/)
+- Nov 24 [【ハイブリッド開催】社会課題をAIで解決する？！これからの地域社会を考える](https://civic-hack-night-okinawa.connpass.com/event/266123/)
+- Nov 17 [第3回【エンジニア転職したい】ITもくもく勉強会](https://connpass.com/event/266284/)
 <!-- profile updater end: connpass -->
 
 <!---
