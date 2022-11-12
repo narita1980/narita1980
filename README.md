@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 15 [color is クラウドLT大会vol.2「大型アップデート祭り」](https://saison-coloris.connpass.com/event/265589/)
-- Dec 9 [【エンジニア交流会】＠WeWork なんばスカイオ](https://hikalab-kansai.connpass.com/event/265969/)
-- Dec 8 [Nxバックエンド勉強会#8](https://pelemay.connpass.com/event/264838/)
-- Nov 24 [【ハイブリッド開催】社会課題をAIで解決する？！これからの地域社会を考える](https://civic-hack-night-okinawa.connpass.com/event/266123/)
-- Nov 17 [第3回【エンジニア転職したい】ITもくもく勉強会](https://connpass.com/event/266284/)
+- Dec 3 [第43回 CoderDojo岐阜](https://coderdojo-gifu.connpass.com/event/266405/)
+- Nov 21 [再・セキュリティスキル習得への一歩を踏み出したい"新たな"入門者向け【W1-B-007～009】](https://kabuto.connpass.com/event/266027/)
+- Nov 19 [(仮)仕事は現場で動いてるのに企業のパーパスとかいるの？／ディレクター談義#17](https://director.connpass.com/event/266265/)
+- Nov 18 [3次元CADモデリング能力アップのリアル勉強会　「脳内3Ｄ科」第2回目](https://nounai3d.connpass.com/event/260386/)
+- Nov 16 [再・キャリアプランに脆弱性診断を追加したい"未来の"初級者向け【W2-A-004～006】](https://kabuto.connpass.com/event/266201/)
 <!-- profile updater end: connpass -->
 
 <!---
