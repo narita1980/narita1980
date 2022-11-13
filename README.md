@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 3 [第43回 CoderDojo岐阜](https://coderdojo-gifu.connpass.com/event/266405/)
-- Nov 21 [再・セキュリティスキル習得への一歩を踏み出したい"新たな"入門者向け【W1-B-007～009】](https://kabuto.connpass.com/event/266027/)
-- Nov 19 [(仮)仕事は現場で動いてるのに企業のパーパスとかいるの？／ディレクター談義#17](https://director.connpass.com/event/266265/)
-- Nov 18 [3次元CADモデリング能力アップのリアル勉強会　「脳内3Ｄ科」第2回目](https://nounai3d.connpass.com/event/260386/)
-- Nov 16 [再・キャリアプランに脆弱性診断を追加したい"未来の"初級者向け【W2-A-004～006】](https://kabuto.connpass.com/event/266201/)
+- Dec 3 [浜松ITコミュニティ忘年会2022](https://hamamatsu-it.connpass.com/event/264985/)
+- Dec 1 [Akamai Meetup #2 Linodeでk8s, Terraformを使った負荷試験](https://akamai-meetup.connpass.com/event/264259/)
+- Nov 20 [第3回 なごや個人開発者の集い](https://758indies.connpass.com/event/266467/)
+- Nov 20 [【もくもく会】朝活もくもく会で一日をスタートしよう](https://zeki-chan-lab.connpass.com/event/266466/)
+- Nov 20 [11/20(日)【第85回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/266464/)
 <!-- profile updater end: connpass -->
 
 <!---
