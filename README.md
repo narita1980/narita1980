@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 3 [浜松ITコミュニティ忘年会2022](https://hamamatsu-it.connpass.com/event/264985/)
-- Dec 1 [Akamai Meetup #2 Linodeでk8s, Terraformを使った負荷試験](https://akamai-meetup.connpass.com/event/264259/)
-- Nov 20 [第3回 なごや個人開発者の集い](https://758indies.connpass.com/event/266467/)
-- Nov 20 [【もくもく会】朝活もくもく会で一日をスタートしよう](https://zeki-chan-lab.connpass.com/event/266466/)
-- Nov 20 [11/20(日)【第85回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/266464/)
+- Dec 9 [【ハイブリッド】フィンテックトレンド2023〜未来ノ洞察ヲ融合セヨ！〜](https://fintech-engineer.connpass.com/event/266497/)
+- Dec 3 [第10回 脆弱性対応勉強会(X.1060の概要と使い所)](https://zeijyakuseitaioukenkyukai.connpass.com/event/266469/)
+- Dec 1 [CI/CDはじめの一歩 ～構成管理編～](https://asiaquest.connpass.com/event/265839/)
+- Nov 30 [すごい広島 with Python[68] オンライン](https://pycon-hiroshima.connpass.com/event/266535/)
+- Nov 26 [Laboratory Automation月例勉強会 / 2022.11](https://laboratoryautomation.connpass.com/event/265336/)
 <!-- profile updater end: connpass -->
 
 <!---
