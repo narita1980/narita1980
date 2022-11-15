@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 9 [【ハイブリッド】フィンテックトレンド2023〜未来ノ洞察ヲ融合セヨ！〜](https://fintech-engineer.connpass.com/event/266497/)
-- Dec 3 [第10回 脆弱性対応勉強会(X.1060の概要と使い所)](https://zeijyakuseitaioukenkyukai.connpass.com/event/266469/)
-- Dec 1 [CI/CDはじめの一歩 ～構成管理編～](https://asiaquest.connpass.com/event/265839/)
-- Nov 30 [すごい広島 with Python[68] オンライン](https://pycon-hiroshima.connpass.com/event/266535/)
-- Nov 26 [Laboratory Automation月例勉強会 / 2022.11](https://laboratoryautomation.connpass.com/event/265336/)
+- Dec 10 [リアルもくもく会（オンライン参加もOK）@五反田](https://design-girls.connpass.com/event/266625/)
+- Dec 10 [FY23 Power BI 入門(L100) ～ハンズオン付き](https://sqlserver.connpass.com/event/266579/)
+- Dec 9 [【AWS社SA様登壇！】丸暗記では終わらない！資格を業務・キャリアへ活かすための私たちの取り組み](https://btc.connpass.com/event/266083/)
+- Nov 29 [Tech Night Recap Sapporo - Ignite & .NET Conf -](https://connpass.com/event/265779/)
+- Nov 26 [IFC 勉強会 #1](https://taec-ifc.connpass.com/event/264892/)
 <!-- profile updater end: connpass -->
 
 <!---
