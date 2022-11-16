@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 10 [リアルもくもく会（オンライン参加もOK）@五反田](https://design-girls.connpass.com/event/266625/)
-- Dec 10 [FY23 Power BI 入門(L100) ～ハンズオン付き](https://sqlserver.connpass.com/event/266579/)
-- Dec 9 [【AWS社SA様登壇！】丸暗記では終わらない！資格を業務・キャリアへ活かすための私たちの取り組み](https://btc.connpass.com/event/266083/)
-- Nov 29 [Tech Night Recap Sapporo - Ignite & .NET Conf -](https://connpass.com/event/265779/)
-- Nov 26 [IFC 勉強会 #1](https://taec-ifc.connpass.com/event/264892/)
+- Dec 10 [12.10 ◤ VR Kyougi 2022 ◢ #vrk5 #メタバース](https://xram.connpass.com/event/261514/)
+- Dec 1 [Google/TwitterのUXデザイナーが教える “想定外”から分かる真のインサイト](https://popinsight.connpass.com/event/266590/)
+- Nov 29 [「データベースシステム自作入門」勉強会#7](https://develop-transaction-system.connpass.com/event/266777/)
+- Nov 28 [テスト設計コンテスト体験記～２連覇までの道のり～【オンラインセミナー】豆寄席](https://mamezou.connpass.com/event/266732/)
+- Nov 26 [Modis UiPathスキルセミナー](https://modis.connpass.com/event/266775/)
 <!-- profile updater end: connpass -->
 
 <!---
