@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 10 [12.10 ◤ VR Kyougi 2022 ◢ #vrk5 #メタバース](https://xram.connpass.com/event/261514/)
-- Dec 1 [Google/TwitterのUXデザイナーが教える “想定外”から分かる真のインサイト](https://popinsight.connpass.com/event/266590/)
-- Nov 29 [「データベースシステム自作入門」勉強会#7](https://develop-transaction-system.connpass.com/event/266777/)
-- Nov 28 [テスト設計コンテスト体験記～２連覇までの道のり～【オンラインセミナー】豆寄席](https://mamezou.connpass.com/event/266732/)
-- Nov 26 [Modis UiPathスキルセミナー](https://modis.connpass.com/event/266775/)
+- Jan 7 [おこしやす 京も 京とて キューブ会 第３回](https://connpass.com/event/266929/)
+- Dec 15 [【Flutter大学コラボ】受託案件にて利用したFlutterの技術事例を語る会](https://docodoor.connpass.com/event/263871/)
+- Nov 30 [ココを見る！リクルートが欠かさないデザインレビューのポイント～プロデザ！ BYリクルートvol.5～](https://recruit-event.connpass.com/event/263818/)
+- Nov 26 [【第25回】Shopify開発者向け勉強会](https://shopify-meet.connpass.com/event/266927/)
+- Nov 26 [第72回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/263605/)
 <!-- profile updater end: connpass -->
 
 <!---
