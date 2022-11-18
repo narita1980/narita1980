@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 7 [おこしやす 京も 京とて キューブ会 第３回](https://connpass.com/event/266929/)
-- Dec 15 [【Flutter大学コラボ】受託案件にて利用したFlutterの技術事例を語る会](https://docodoor.connpass.com/event/263871/)
-- Nov 30 [ココを見る！リクルートが欠かさないデザインレビューのポイント～プロデザ！ BYリクルートvol.5～](https://recruit-event.connpass.com/event/263818/)
-- Nov 26 [【第25回】Shopify開発者向け勉強会](https://shopify-meet.connpass.com/event/266927/)
-- Nov 26 [第72回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/263605/)
+- Dec 14 [心理学と行動経済学を活かした”伸びる“プロダクトデザインとは～プロデザ！ BY リクルートvol.6](https://recruit-event.connpass.com/event/266928/)
+- Dec 12 [JAWS-UG CLI専門支部 #296L CFn AWS::SNS::TopicPolicy](https://jawsug-cli.connpass.com/event/266263/)
+- Dec 5 [令和4年度 第3回ネットワーク委員会（視察事業）](https://jcta-shinetsu-network-group.connpass.com/event/263118/)
+- Dec 3 [第43回 CoderDojo岐阜](https://coderdojo-gifu.connpass.com/event/266405/)
+- Nov 30 [テスト駆動Python 第2版 読書会#1](https://fin-py.connpass.com/event/266898/)
 <!-- profile updater end: connpass -->
 
 <!---
