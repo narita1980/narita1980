@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 14 [心理学と行動経済学を活かした”伸びる“プロダクトデザインとは～プロデザ！ BY リクルートvol.6](https://recruit-event.connpass.com/event/266928/)
-- Dec 12 [JAWS-UG CLI専門支部 #296L CFn AWS::SNS::TopicPolicy](https://jawsug-cli.connpass.com/event/266263/)
-- Dec 5 [令和4年度 第3回ネットワーク委員会（視察事業）](https://jcta-shinetsu-network-group.connpass.com/event/263118/)
-- Dec 3 [第43回 CoderDojo岐阜](https://coderdojo-gifu.connpass.com/event/266405/)
-- Nov 30 [テスト駆動Python 第2版 読書会#1](https://fin-py.connpass.com/event/266898/)
+- Dec 13 [コミュニケーションAI最前線：AIの社会実装で変化するコミュニケーション ～人と機械が創る新しい価値](https://techwith.connpass.com/event/267058/)
+- Dec 2 [NW-JAWS 勉強会#9](https://jawsug-nw.connpass.com/event/259495/)
+- Nov 27 [第3778よちよちAndroidオフライン開発ミーティング in 虎ノ門](https://yochiand.connpass.com/event/267165/)
+- Nov 26 [IT系&誰でも参加OK！もくもく会_朝活_11/26(土)](https://morimori.connpass.com/event/267163/)
+- Nov 19 [気ままに勉強会 #特別回](https://kimamani.connpass.com/event/266403/)
 <!-- profile updater end: connpass -->
 
 <!---
