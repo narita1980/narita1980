@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 13 [コミュニケーションAI最前線：AIの社会実装で変化するコミュニケーション ～人と機械が創る新しい価値](https://techwith.connpass.com/event/267058/)
-- Dec 2 [NW-JAWS 勉強会#9](https://jawsug-nw.connpass.com/event/259495/)
-- Nov 27 [第3778よちよちAndroidオフライン開発ミーティング in 虎ノ門](https://yochiand.connpass.com/event/267165/)
-- Nov 26 [IT系&誰でも参加OK！もくもく会_朝活_11/26(土)](https://morimori.connpass.com/event/267163/)
-- Nov 19 [気ままに勉強会 #特別回](https://kimamani.connpass.com/event/266403/)
+- Mar 4 [【Linux】ラボ#12と#13@0304AM09秋葉原UDX](https://forse.connpass.com/event/267060/)
+- Feb 25 [【Linux】ラボ#9~#11@0225AM09秋葉原UDX](https://forse.connpass.com/event/267061/)
+- Feb 18 [【Linux】ラボ#7と#8@0218AM09秋葉原UDX](https://forse.connpass.com/event/267059/)
+- Feb 11 [【Linux】ラボ#4~#6@0211AM09秋葉原UDX](https://forse.connpass.com/event/267055/)
+- Feb 4 [【Linux】ラボ#1~#3@0204AM09秋葉原UDX](https://forse.connpass.com/event/267053/)
 <!-- profile updater end: connpass -->
 
 <!---
