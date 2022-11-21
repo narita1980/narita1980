@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 4 [【Linux】ラボ#12と#13@0304AM09秋葉原UDX](https://forse.connpass.com/event/267060/)
-- Feb 25 [【Linux】ラボ#9~#11@0225AM09秋葉原UDX](https://forse.connpass.com/event/267061/)
-- Feb 18 [【Linux】ラボ#7と#8@0218AM09秋葉原UDX](https://forse.connpass.com/event/267059/)
-- Feb 11 [【Linux】ラボ#4~#6@0211AM09秋葉原UDX](https://forse.connpass.com/event/267055/)
-- Feb 4 [【Linux】ラボ#1~#3@0204AM09秋葉原UDX](https://forse.connpass.com/event/267053/)
+- Dec 16 [DevFest & Android Dev Summit Japan 2022](https://gdg-tokyo.connpass.com/event/266648/)
+- Dec 14 [カスタマーサクセス天下一武闘会2022 Presented by Helpfeel](https://cshack.connpass.com/event/263268/)
+- Dec 10 [量子コンピューティング技術シンポジウム2022](https://mitoutg.connpass.com/event/263857/)
+- Dec 7 [Saitama.js vol.4【初心者歓迎 JavaScript LT会】](https://saitamajs.connpass.com/event/263599/)
+- Dec 4 [医療者が自ら作ってみた事例を発表！ もいせん3期 DEMO DAY](https://moicen-forest.connpass.com/event/263700/)
 <!-- profile updater end: connpass -->
 
 <!---
