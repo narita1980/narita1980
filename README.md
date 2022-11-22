@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 16 [DevFest & Android Dev Summit Japan 2022](https://gdg-tokyo.connpass.com/event/266648/)
-- Dec 14 [カスタマーサクセス天下一武闘会2022 Presented by Helpfeel](https://cshack.connpass.com/event/263268/)
-- Dec 10 [量子コンピューティング技術シンポジウム2022](https://mitoutg.connpass.com/event/263857/)
+- Dec 18 [「リンカ・ローダ実践開発テクニック」読書会(9)](https://linker-loader.connpass.com/event/267443/)
 - Dec 7 [Saitama.js vol.4【初心者歓迎 JavaScript LT会】](https://saitamajs.connpass.com/event/263599/)
-- Dec 4 [医療者が自ら作ってみた事例を発表！ もいせん3期 DEMO DAY](https://moicen-forest.connpass.com/event/263700/)
+- Dec 6 [HR×Tech最前線　未踏の地に挑戦するデータサイエンティストがつくる「未来の働く」とは](https://lmi.connpass.com/event/266831/)
+- Dec 6 [【CTO登壇！】BASE/Cake.jp合同コネヒトマルシェ〜三社三様の事業とPHPの向き合い方〜](https://connehito.connpass.com/event/266703/)
+- Dec 2 [NINNO Tech Fest #9（一周年）](https://ninno-tech-fest.connpass.com/event/266341/)
 <!-- profile updater end: connpass -->
 
 <!---
