@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 18 [「リンカ・ローダ実践開発テクニック」読書会(9)](https://linker-loader.connpass.com/event/267443/)
-- Dec 7 [Saitama.js vol.4【初心者歓迎 JavaScript LT会】](https://saitamajs.connpass.com/event/263599/)
-- Dec 6 [HR×Tech最前線　未踏の地に挑戦するデータサイエンティストがつくる「未来の働く」とは](https://lmi.connpass.com/event/266831/)
-- Dec 6 [【CTO登壇！】BASE/Cake.jp合同コネヒトマルシェ〜三社三様の事業とPHPの向き合い方〜](https://connehito.connpass.com/event/266703/)
-- Dec 2 [NINNO Tech Fest #9（一周年）](https://ninno-tech-fest.connpass.com/event/266341/)
+- Sep 15 [7th長崎QDG](https://nagasaki-it-engineers.connpass.com/event/263690/)
+- Dec 25 [Blenderで3DCG作ってみよう（会場：あけみおSKYドーム・会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/267276/)
+- Nov 30 [【オンライン】11/30(水)5時〜7時：Flutter好きが集まる朝もく会（第313回）](https://flutter-asamoku.connpass.com/event/267326/)
+- Nov 29 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/267593/)
+- Nov 29 [IT系&誰でも参加OK！もくもく会_朝活_11/29(火)](https://morimori.connpass.com/event/267594/)
 <!-- profile updater end: connpass -->
 
 <!---
