@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 15 [7th長崎QDG](https://nagasaki-it-engineers.connpass.com/event/263690/)
-- Dec 25 [Blenderで3DCG作ってみよう（会場：あけみおSKYドーム・会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/267276/)
-- Nov 30 [【オンライン】11/30(水)5時〜7時：Flutter好きが集まる朝もく会（第313回）](https://flutter-asamoku.connpass.com/event/267326/)
-- Nov 29 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/267593/)
-- Nov 29 [IT系&誰でも参加OK！もくもく会_朝活_11/29(火)](https://morimori.connpass.com/event/267594/)
+- Dec 16 [Qiita Night～プロダクトマネジメント～](https://increments.connpass.com/event/267415/)
+- Dec 13 [【第1回】MySQLアプリ開発者の必修5科目～不要なトラブルに困らないためのRDB基礎知識](https://sosl.connpass.com/event/267385/)
+- Dec 9 [Qiita Night～AWS～](https://increments.connpass.com/event/266692/)
+- Dec 6 [React にチャレンジしてみよう！インタラクティブ編②【belong try #12】](https://belong.connpass.com/event/267667/)
+- Nov 27 [mockmock.dev #394](https://mockmock.connpass.com/event/267669/)
 <!-- profile updater end: connpass -->
 
 <!---
