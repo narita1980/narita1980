@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 16 [Qiita Night～プロダクトマネジメント～](https://increments.connpass.com/event/267415/)
-- Dec 13 [【第1回】MySQLアプリ開発者の必修5科目～不要なトラブルに困らないためのRDB基礎知識](https://sosl.connpass.com/event/267385/)
-- Dec 9 [Qiita Night～AWS～](https://increments.connpass.com/event/266692/)
-- Dec 6 [React にチャレンジしてみよう！インタラクティブ編②【belong try #12】](https://belong.connpass.com/event/267667/)
-- Nov 27 [mockmock.dev #394](https://mockmock.connpass.com/event/267669/)
+- Dec 19 [BigData-JAWS 勉強会 #22](https://jawsug-bigdata.connpass.com/event/267494/)
+- Dec 15 [Partner Hour - もっと知ろう！OpenShift](https://redhat-open.connpass.com/event/267543/)
+- Dec 10 [量子コンピューティング技術シンポジウム2022](https://mitoutg.connpass.com/event/263857/)
+- Dec 5 [第40回Software Design (2022年12月号)輪読＆座談会](https://softwaredesign.connpass.com/event/265602/)
+- Nov 30 [コンテナ共創センター勉強会 #19](https://5cm.connpass.com/event/237103/)
 <!-- profile updater end: connpass -->
 
 <!---
