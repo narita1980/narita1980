@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 19 [BigData-JAWS 勉強会 #22](https://jawsug-bigdata.connpass.com/event/267494/)
-- Dec 15 [Partner Hour - もっと知ろう！OpenShift](https://redhat-open.connpass.com/event/267543/)
-- Dec 10 [量子コンピューティング技術シンポジウム2022](https://mitoutg.connpass.com/event/263857/)
-- Dec 5 [第40回Software Design (2022年12月号)輪読＆座談会](https://softwaredesign.connpass.com/event/265602/)
-- Nov 30 [コンテナ共創センター勉強会 #19](https://5cm.connpass.com/event/237103/)
+- Dec 10 [12.10 ◤ VR Kyougi 2022 ◢ #vrk5 #メタバース](https://xram.connpass.com/event/261514/)
+- Dec 9 [【オンライン】【誰でも参加OK】ゆるりと朝活♪早起きチャレンジ 12/9](https://yuruasa.connpass.com/event/267844/)
+- Dec 8 [【オンライン】【誰でも参加OK】ゆるりと朝活♪早起きチャレンジ 12/8](https://yuruasa.connpass.com/event/267847/)
+- Dec 6 [yukioの”Power”な朝活 #000](https://yukio-morning-study.connpass.com/event/267816/)
+- Dec 4 [12/4(日)【第1531回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/267849/)
 <!-- profile updater end: connpass -->
 
 <!---
