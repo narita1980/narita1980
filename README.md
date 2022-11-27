@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 10 [12.10 ◤ VR Kyougi 2022 ◢ #vrk5 #メタバース](https://xram.connpass.com/event/261514/)
-- Dec 9 [【オンライン】【誰でも参加OK】ゆるりと朝活♪早起きチャレンジ 12/9](https://yuruasa.connpass.com/event/267844/)
-- Dec 8 [【オンライン】【誰でも参加OK】ゆるりと朝活♪早起きチャレンジ 12/8](https://yuruasa.connpass.com/event/267847/)
-- Dec 6 [yukioの”Power”な朝活 #000](https://yukio-morning-study.connpass.com/event/267816/)
-- Dec 4 [12/4(日)【第1531回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/267849/)
+- Jan 7 [2023 新年もくもく会](https://nekosaba.connpass.com/event/267912/)
+- Dec 25 [10:30開催【無料】CoderDojo瀬戸(第94回) 子供向けプログラミング道場](https://coderdojo-seto.connpass.com/event/267916/)
+- Dec 17 [ServerlessDays Tokyo 2022 Virtual](https://serverless.connpass.com/event/267806/)
+- Dec 8 [XR信州 座談会 #8 2022/12/08](https://xr-shinshu.connpass.com/event/267889/)
+- Dec 4 [よちよちサンデープログラミング@名古屋 第230回もくもく会](https://yochiand.connpass.com/event/267915/)
 <!-- profile updater end: connpass -->
 
 <!---
