@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 7 [2023 新年もくもく会](https://nekosaba.connpass.com/event/267912/)
-- Dec 25 [10:30開催【無料】CoderDojo瀬戸(第94回) 子供向けプログラミング道場](https://coderdojo-seto.connpass.com/event/267916/)
-- Dec 17 [ServerlessDays Tokyo 2022 Virtual](https://serverless.connpass.com/event/267806/)
-- Dec 8 [XR信州 座談会 #8 2022/12/08](https://xr-shinshu.connpass.com/event/267889/)
-- Dec 4 [よちよちサンデープログラミング@名古屋 第230回もくもく会](https://yochiand.connpass.com/event/267915/)
+- Jan 28 [Japan Dreamin' 2023](https://japandreamin.connpass.com/event/267815/)
+- Dec 17 [【現地開催：オフライン・配信なし】JBUG広島#11 続・みんなどうやって仕事してるの（2年ぶり）](https://jbug.connpass.com/event/267529/)
+- Dec 15 [デザインだけがUXじゃない！文章におけるUXのお話](https://tengineer.connpass.com/event/267982/)
+- Dec 13 [プロダクトマネージャー 忘年会！](https://pm-netabooks.connpass.com/event/267135/)
+- Dec 2 [【約3年ぶりオフライン会場有り！】LINE Developer Community忘年LT大会](https://linedevelopercommunity.connpass.com/event/265942/)
 <!-- profile updater end: connpass -->
 
 <!---
