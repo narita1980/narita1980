@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 28 [Japan Dreamin' 2023](https://japandreamin.connpass.com/event/267815/)
-- Dec 17 [【現地開催：オフライン・配信なし】JBUG広島#11 続・みんなどうやって仕事してるの（2年ぶり）](https://jbug.connpass.com/event/267529/)
-- Dec 15 [デザインだけがUXじゃない！文章におけるUXのお話](https://tengineer.connpass.com/event/267982/)
-- Dec 13 [プロダクトマネージャー 忘年会！](https://pm-netabooks.connpass.com/event/267135/)
-- Dec 2 [【約3年ぶりオフライン会場有り！】LINE Developer Community忘年LT大会](https://linedevelopercommunity.connpass.com/event/265942/)
+- Dec 24 [Salesforce Saturday Japan Xmas 【オフライン】](https://salesforcesaturday-shift.connpass.com/event/267298/)
+- Dec 21 [風音屋TechTalk #2 『処方箋』著者がBigQueryとSnowflakeを徹底比較](https://kazaneya.connpass.com/event/265755/)
+- Dec 20 [2023年の展望予測！ DX内製化の立ち上げ期～拡大期でぶつかる壁と乗り越え方 ～](https://connpass.com/event/267778/)
+- Dec 15 [【Flutter大学コラボ】受託案件にて利用したFlutterの技術事例を語る会](https://docodoor.connpass.com/event/263871/)
+- Dec 6 [ATN#14 Agile Testing Days 2022 をLean Coffeeでふりかえる夜](https://wingarc1st-spqi.connpass.com/event/267983/)
 <!-- profile updater end: connpass -->
 
 <!---
