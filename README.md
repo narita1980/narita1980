@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 24 [Salesforce Saturday Japan Xmas 【オフライン】](https://salesforcesaturday-shift.connpass.com/event/267298/)
-- Dec 21 [風音屋TechTalk #2 『処方箋』著者がBigQueryとSnowflakeを徹底比較](https://kazaneya.connpass.com/event/265755/)
-- Dec 20 [2023年の展望予測！ DX内製化の立ち上げ期～拡大期でぶつかる壁と乗り越え方 ～](https://connpass.com/event/267778/)
-- Dec 15 [【Flutter大学コラボ】受託案件にて利用したFlutterの技術事例を語る会](https://docodoor.connpass.com/event/263871/)
-- Dec 6 [ATN#14 Agile Testing Days 2022 をLean Coffeeでふりかえる夜](https://wingarc1st-spqi.connpass.com/event/267983/)
+- Dec 15 [MIERUNE Meetup mini #05](https://mierune.connpass.com/event/266903/)
+- Dec 13 [モーニングLT#6](https://drill-dev.connpass.com/event/268045/)
+- Dec 12 [『Pythonプログラミング完全入門』刮目せよ！ノンプログラマーが 今の時代を生き残るための最重要書](https://metavasti.connpass.com/event/268222/)
+- Dec 10 [YUMeeTech2022 -tokiwa campus & online-](https://csse-it-study.connpass.com/event/266435/)
+- Dec 8 [のの会 第46回(大忘年会 及び 裏 DominoHub 2022)](https://notesknows.connpass.com/event/261131/)
 <!-- profile updater end: connpass -->
 
 <!---
