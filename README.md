@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 15 [MIERUNE Meetup mini #05](https://mierune.connpass.com/event/266903/)
-- Dec 13 [モーニングLT#6](https://drill-dev.connpass.com/event/268045/)
-- Dec 12 [『Pythonプログラミング完全入門』刮目せよ！ノンプログラマーが 今の時代を生き残るための最重要書](https://metavasti.connpass.com/event/268222/)
-- Dec 10 [YUMeeTech2022 -tokiwa campus & online-](https://csse-it-study.connpass.com/event/266435/)
-- Dec 8 [のの会 第46回(大忘年会 及び 裏 DominoHub 2022)](https://notesknows.connpass.com/event/261131/)
+- Feb 18 [PLATEAU AWARD 2022 最終審査会・表彰式](https://connpass.com/event/267801/)
+- Jan 13 [ISMIR 2022 読み会（オンライン）](https://jamir.connpass.com/event/259459/)
+- Jan 10 [[ハイブリッド開催] OpenID BizDay #15](https://openid.connpass.com/event/266730/)
+- Dec 21 [【大阪オンライン】XRミーティング 2022/12/21【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/268388/)
+- Dec 21 [【神戸オンライン】XRミーティング 2022/12/21#XRMTG](https://kobe-driven-dev.connpass.com/event/268390/)
 <!-- profile updater end: connpass -->
 
 <!---
