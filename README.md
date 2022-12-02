@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 18 [PLATEAU AWARD 2022 最終審査会・表彰式](https://connpass.com/event/267801/)
-- Jan 13 [ISMIR 2022 読み会（オンライン）](https://jamir.connpass.com/event/259459/)
-- Jan 10 [[ハイブリッド開催] OpenID BizDay #15](https://openid.connpass.com/event/266730/)
-- Dec 21 [【大阪オンライン】XRミーティング 2022/12/21【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/268388/)
-- Dec 21 [【神戸オンライン】XRミーティング 2022/12/21#XRMTG](https://kobe-driven-dev.connpass.com/event/268390/)
+- Dec 13 [『Pythonプログラミング完全入門』刮目せよ！ノンプログラマーが 今の時代を生き残るための最重要書](https://metavasti.connpass.com/event/268491/)
+- Dec 13 [PHPerのための「PHP8.2のリリース」を祝い合うPHP TechCafe](https://rakus.connpass.com/event/267406/)
+- Dec 9 [IT系&誰でも参加OK！もくもく会_朝活_12/9(金)](https://morimori.connpass.com/event/268512/)
+- Dec 9 [【オンライン】12/9(金)5時〜7時：Flutter好きが集まる朝もく会（第320回）](https://flutter-asamoku.connpass.com/event/267991/)
+- Dec 7 [毎月1つずつ新しい何かをやってみる部 #16](https://yattemiru.connpass.com/event/268387/)
 <!-- profile updater end: connpass -->
 
 <!---
