@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 13 [『Pythonプログラミング完全入門』刮目せよ！ノンプログラマーが 今の時代を生き残るための最重要書](https://metavasti.connpass.com/event/268491/)
-- Dec 13 [PHPerのための「PHP8.2のリリース」を祝い合うPHP TechCafe](https://rakus.connpass.com/event/267406/)
-- Dec 9 [IT系&誰でも参加OK！もくもく会_朝活_12/9(金)](https://morimori.connpass.com/event/268512/)
-- Dec 9 [【オンライン】12/9(金)5時〜7時：Flutter好きが集まる朝もく会（第320回）](https://flutter-asamoku.connpass.com/event/267991/)
-- Dec 7 [毎月1つずつ新しい何かをやってみる部 #16](https://yattemiru.connpass.com/event/268387/)
+- Jan 23 [コーチングわいわい会](https://coaching-community.connpass.com/event/268604/)
+- Dec 14 [IT系の濃ゆい話をする会](https://connpass.com/event/268265/)
+- Dec 11 [12/11(日)【第1545回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/268617/)
+- Dec 11 [12/11(日)【第1544回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/268615/)
+- Dec 8 [solidity-jp TECH NIGHT #3](https://solidity-jp.connpass.com/event/267615/)
 <!-- profile updater end: connpass -->
 
 <!---
