@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 23 [コーチングわいわい会](https://coaching-community.connpass.com/event/268604/)
-- Dec 14 [IT系の濃ゆい話をする会](https://connpass.com/event/268265/)
-- Dec 11 [12/11(日)【第1545回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/268617/)
-- Dec 11 [12/11(日)【第1544回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/268615/)
-- Dec 8 [solidity-jp TECH NIGHT #3](https://solidity-jp.connpass.com/event/267615/)
+- Dec 18 [第53回 PCNひろしま こどもプログラミング教室](https://pcn-hiroshima.connpass.com/event/268426/)
+- Dec 12 [12/12(月)【第1547回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/268696/)
+- Dec 12 [12/12(月)【第1546回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/268695/)
+- Dec 11 [【有料】Gopher塾 #2 - Goらしいコードの書き方 - DAY 1](https://tenntenn.connpass.com/event/267564/)
+- Dec 11 [統計検定準一級勉強会：日曜版](https://study-data-analysis.connpass.com/event/268694/)
 <!-- profile updater end: connpass -->
 
 <!---
