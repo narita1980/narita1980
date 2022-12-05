@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 18 [第53回 PCNひろしま こどもプログラミング教室](https://pcn-hiroshima.connpass.com/event/268426/)
-- Dec 12 [12/12(月)【第1547回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/268696/)
-- Dec 12 [12/12(月)【第1546回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/268695/)
-- Dec 11 [【有料】Gopher塾 #2 - Goらしいコードの書き方 - DAY 1](https://tenntenn.connpass.com/event/267564/)
-- Dec 11 [統計検定準一級勉強会：日曜版](https://study-data-analysis.connpass.com/event/268694/)
+- Dec 20 [２６回 初心者のためのセキュリティ勉強会（オンライン開催）](https://sfb.connpass.com/event/268767/)
+- Dec 17 [.NETラボ 勉強会 2022年12月](https://dotnetlab.connpass.com/event/267854/)
+- Dec 17 [Linux基板設計勉強会 #1 イントロダクション](https://zli.connpass.com/event/268176/)
+- Dec 11 [[YouTube Live] Power BI Weekly News 53](https://pp-weeklynews.connpass.com/event/268752/)
+- Dec 11 [IT系&誰でも参加OK！もくもく会_朝活_12/11(日)](https://morimori.connpass.com/event/268769/)
 <!-- profile updater end: connpass -->
 
 <!---
