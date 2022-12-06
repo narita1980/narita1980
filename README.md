@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 20 [２６回 初心者のためのセキュリティ勉強会（オンライン開催）](https://sfb.connpass.com/event/268767/)
+- Dec 22 [第二回『ゾンビスクラムサバイバルガイド』読書会 京都アジャイル勉強会 #103](https://kyoaja.connpass.com/event/268881/)
+- Dec 20 [iPhone Dev Sapporo勉強会オンライン Dec, 2022](https://devsap.connpass.com/event/268827/)
+- Dec 20 [ときめきリファクタリング（物）vol3](https://connpass.com/event/268873/)
+- Dec 17 [エフスタ!!＆いわき情報技術研究会 「福島LT大会2022」](https://efsta.connpass.com/event/268797/)
 - Dec 17 [.NETラボ 勉強会 2022年12月](https://dotnetlab.connpass.com/event/267854/)
-- Dec 17 [Linux基板設計勉強会 #1 イントロダクション](https://zli.connpass.com/event/268176/)
-- Dec 11 [[YouTube Live] Power BI Weekly News 53](https://pp-weeklynews.connpass.com/event/268752/)
-- Dec 11 [IT系&誰でも参加OK！もくもく会_朝活_12/11(日)](https://morimori.connpass.com/event/268769/)
 <!-- profile updater end: connpass -->
 
 <!---
