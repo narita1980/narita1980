@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 22 [第二回『ゾンビスクラムサバイバルガイド』読書会 京都アジャイル勉強会 #103](https://kyoaja.connpass.com/event/268881/)
-- Dec 20 [iPhone Dev Sapporo勉強会オンライン Dec, 2022](https://devsap.connpass.com/event/268827/)
-- Dec 20 [ときめきリファクタリング（物）vol3](https://connpass.com/event/268873/)
-- Dec 17 [エフスタ!!＆いわき情報技術研究会 「福島LT大会2022」](https://efsta.connpass.com/event/268797/)
-- Dec 17 [.NETラボ 勉強会 2022年12月](https://dotnetlab.connpass.com/event/267854/)
+- Jan 21 [データを使って知る。自社の市場環境の変化。その方法。](https://chomoku.connpass.com/event/268993/)
+- Dec 23 [Yumemi.grow 【大忘年会】](https://yumemi.connpass.com/event/268228/)
+- Dec 20 [【Dataiku MEET-UP】Data Science Pioneer 映画上映会&パネルトーク](https://dataiku.connpass.com/event/267807/)
+- Dec 16 [キャリアプランに脆弱性診断を追加したい"未来の"初級者向け【W2-A-213,214,215】](https://kabuto.connpass.com/event/268990/)
+- Dec 14 [兎にも角にも、機械学習させていろんな画像を分類してみた](https://ibm-developer.connpass.com/event/268058/)
 <!-- profile updater end: connpass -->
 
 <!---
