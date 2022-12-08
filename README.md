@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 21 [データを使って知る。自社の市場環境の変化。その方法。](https://chomoku.connpass.com/event/268993/)
-- Dec 23 [Yumemi.grow 【大忘年会】](https://yumemi.connpass.com/event/268228/)
-- Dec 20 [【Dataiku MEET-UP】Data Science Pioneer 映画上映会&パネルトーク](https://dataiku.connpass.com/event/267807/)
-- Dec 16 [キャリアプランに脆弱性診断を追加したい"未来の"初級者向け【W2-A-213,214,215】](https://kabuto.connpass.com/event/268990/)
-- Dec 14 [兎にも角にも、機械学習させていろんな画像を分類してみた](https://ibm-developer.connpass.com/event/268058/)
+- Jan 22 [【内容未定！！】富山IT勉強会](https://toyama-it.connpass.com/event/268361/)
+- Dec 15 [IT系&誰でも参加OK！もくもく会_朝活_12/15(木)](https://morimori.connpass.com/event/269085/)
+- Dec 15 [【オンライン】12/15(木)5時〜7時：Flutter好きが集まる朝もく会（第324回）](https://flutter-asamoku.connpass.com/event/268782/)
+- Dec 14 [第91回 Code for Niigata 定例会](https://c4ngt.connpass.com/event/268386/)
+- Dec 12 [【第4回】機械学習勉強会](https://connpass.com/event/269078/)
 <!-- profile updater end: connpass -->
 
 <!---
