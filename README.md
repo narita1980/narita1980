@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 22 [【内容未定！！】富山IT勉強会](https://toyama-it.connpass.com/event/268361/)
-- Dec 15 [IT系&誰でも参加OK！もくもく会_朝活_12/15(木)](https://morimori.connpass.com/event/269085/)
-- Dec 15 [【オンライン】12/15(木)5時〜7時：Flutter好きが集まる朝もく会（第324回）](https://flutter-asamoku.connpass.com/event/268782/)
-- Dec 14 [第91回 Code for Niigata 定例会](https://c4ngt.connpass.com/event/268386/)
-- Dec 12 [【第4回】機械学習勉強会](https://connpass.com/event/269078/)
+- Dec 15 [XR勉強会＆最新デバイス体験会 - 日本未発売のあれが来る!! -](https://fukuoka-xr-club.connpass.com/event/267999/)
+- Oct 10 [【オンライン開催】LinuC（リナック）レベル2 Version10.0 技術解説無料セミナー](https://lpijapan.connpass.com/event/221804/)
+- Sep 11 [【オンライン開催】LinuC（リナック）レベル1 Version10.0 技術解説無料セミナー](https://lpijapan.connpass.com/event/218783/)
+- Jul 15 [Linux研修【ハンズオン】ネットワークの基礎を学ぼう！](https://lpijapan.connpass.com/event/216691/)
+- Jul 11 [【オンライン開催】HTML5(CSS3) レベル1試験 技術解説無料セミナー](https://lpijapan.connpass.com/event/214405/)
 <!-- profile updater end: connpass -->
 
 <!---
