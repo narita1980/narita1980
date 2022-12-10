@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 15 [XR勉強会＆最新デバイス体験会 - 日本未発売のあれが来る!! -](https://fukuoka-xr-club.connpass.com/event/267999/)
-- Oct 10 [【オンライン開催】LinuC（リナック）レベル2 Version10.0 技術解説無料セミナー](https://lpijapan.connpass.com/event/221804/)
-- Sep 11 [【オンライン開催】LinuC（リナック）レベル1 Version10.0 技術解説無料セミナー](https://lpijapan.connpass.com/event/218783/)
-- Jul 15 [Linux研修【ハンズオン】ネットワークの基礎を学ぼう！](https://lpijapan.connpass.com/event/216691/)
-- Jul 11 [【オンライン開催】HTML5(CSS3) レベル1試験 技術解説無料セミナー](https://lpijapan.connpass.com/event/214405/)
+- Jan 14 [第40回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/254156/)
+- Dec 23 [【エンジニア交流会】おいしいお酒を飲みながら交流しよう！](https://kansai-engineer.connpass.com/event/269252/)
+- Dec 18 [12/18(日)【第1559回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/269301/)
+- Dec 18 [12/18(日)【第1558回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/269300/)
+- Dec 11 [【第4回】SE時事ラジオ](https://setk.connpass.com/event/267953/)
 <!-- profile updater end: connpass -->
 
 <!---
