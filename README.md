@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 14 [第40回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/254156/)
-- Dec 23 [【エンジニア交流会】おいしいお酒を飲みながら交流しよう！](https://kansai-engineer.connpass.com/event/269252/)
-- Dec 18 [12/18(日)【第1559回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/269301/)
-- Dec 18 [12/18(日)【第1558回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/269300/)
-- Dec 11 [【第4回】SE時事ラジオ](https://setk.connpass.com/event/267953/)
+- Jan 15 [第25回 CoderDojo 三島/沼津](https://coderdojo-mn.connpass.com/event/269348/)
+- Dec 24 [CoderDojo日進 子供向けプログラミング道場(ドローン体験・光るクリスマスカード作り)](https://coderdojo-nisshin.connpass.com/event/269005/)
+- Dec 18 [IT系&誰でも参加OK！もくもく会_朝活_12/18(日)](https://morimori.connpass.com/event/269367/)
+- Dec 17 [スタック・オーバーフロー正式版1周年記念 MeetUp](https://soja.connpass.com/event/266740/)
+- Dec 17 [ServerlessDays Tokyo 2022 Virtual](https://serverless.connpass.com/event/267806/)
 <!-- profile updater end: connpass -->
 
 <!---
