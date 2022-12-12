@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 15 [第25回 CoderDojo 三島/沼津](https://coderdojo-mn.connpass.com/event/269348/)
-- Dec 24 [CoderDojo日進 子供向けプログラミング道場(ドローン体験・光るクリスマスカード作り)](https://coderdojo-nisshin.connpass.com/event/269005/)
-- Dec 18 [IT系&誰でも参加OK！もくもく会_朝活_12/18(日)](https://morimori.connpass.com/event/269367/)
-- Dec 17 [スタック・オーバーフロー正式版1周年記念 MeetUp](https://soja.connpass.com/event/266740/)
-- Dec 17 [ServerlessDays Tokyo 2022 Virtual](https://serverless.connpass.com/event/267806/)
+- Jan 28 [Japan Dreamin' 2023](https://japandreamin.connpass.com/event/267815/)
+- Jan 20 [超実践ハンズオン！AWSとGoogle Cloudで爆速サービス構築！](https://mirameet.connpass.com/event/259714/)
+- Jan 14 [Perl入学式 in大阪 2022 第4回 〜サブルーチン/リファレンス　編〜](https://perl-entrance.connpass.com/event/269290/)
+- Dec 23 [ゆるクリスマス会　IN OSAKA](https://sangaku-lab.connpass.com/event/269398/)
+- Dec 19 [情報セキュリティ対策自主研修](https://academist-reading.connpass.com/event/269375/)
 <!-- profile updater end: connpass -->
 
 <!---
