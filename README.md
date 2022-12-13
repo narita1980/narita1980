@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 28 [Japan Dreamin' 2023](https://japandreamin.connpass.com/event/267815/)
-- Jan 20 [超実践ハンズオン！AWSとGoogle Cloudで爆速サービス構築！](https://mirameet.connpass.com/event/259714/)
-- Jan 14 [Perl入学式 in大阪 2022 第4回 〜サブルーチン/リファレンス　編〜](https://perl-entrance.connpass.com/event/269290/)
-- Dec 23 [ゆるクリスマス会　IN OSAKA](https://sangaku-lab.connpass.com/event/269398/)
-- Dec 19 [情報セキュリティ対策自主研修](https://academist-reading.connpass.com/event/269375/)
+- Feb 4 [【第8回】サイバーセキュリティ勉強会2023 in 塩尻](https://shiojiri-cyber.connpass.com/event/265052/)
+- Jan 31 [【1/31開催】電話の歴史から基本機能まで 電話システム(PBX)を徹底解説！](https://mind-event.connpass.com/event/269519/)
+- Jan 24 [【1/24開催】電話の歴史から基本機能まで 電話システム(PBX)を徹底解説！](https://mind-event.connpass.com/event/269518/)
+- Jan 17 [【1/17開催】電話の歴史から基本機能まで 電話システム(PBX)を徹底解説！](https://mind-event.connpass.com/event/269517/)
+- Jan 10 [【1/10開催】電話の歴史から基本機能まで 電話システム(PBX)を徹底解説！](https://mind-event.connpass.com/event/269516/)
 <!-- profile updater end: connpass -->
 
 <!---
