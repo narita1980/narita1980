@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 4 [【第8回】サイバーセキュリティ勉強会2023 in 塩尻](https://shiojiri-cyber.connpass.com/event/265052/)
-- Jan 31 [【1/31開催】電話の歴史から基本機能まで 電話システム(PBX)を徹底解説！](https://mind-event.connpass.com/event/269519/)
-- Jan 24 [【1/24開催】電話の歴史から基本機能まで 電話システム(PBX)を徹底解説！](https://mind-event.connpass.com/event/269518/)
-- Jan 17 [【1/17開催】電話の歴史から基本機能まで 電話システム(PBX)を徹底解説！](https://mind-event.connpass.com/event/269517/)
-- Jan 10 [【1/10開催】電話の歴史から基本機能まで 電話システム(PBX)を徹底解説！](https://mind-event.connpass.com/event/269516/)
+- Jan 15 [Robot Day（会場：名護市産業支援センター・５階会議室２）](https://coderdojo-nago.connpass.com/event/269612/)
+- Dec 21 [最強DB講義  #21 計算機の進歩とデータベース技術の進化（宮崎純先生）](https://dblectures.connpass.com/event/269610/)
+- Dec 21 [IT系&誰でも参加OK！もくもく会_朝活_12/21(水)](https://morimori.connpass.com/event/269611/)
+- Dec 21 [【オンライン】12/21(水)5時〜7時：Flutter好きが集まる朝もく会（第328回）](https://flutter-asamoku.connpass.com/event/269540/)
+- Dec 20 [[大阪開催] nakanoshima.dev #33 - LT Night !](https://nakanoshima-dev.connpass.com/event/268708/)
 <!-- profile updater end: connpass -->
 
 <!---
