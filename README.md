@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 15 [Robot Day（会場：名護市産業支援センター・５階会議室２）](https://coderdojo-nago.connpass.com/event/269612/)
-- Dec 21 [最強DB講義  #21 計算機の進歩とデータベース技術の進化（宮崎純先生）](https://dblectures.connpass.com/event/269610/)
-- Dec 21 [IT系&誰でも参加OK！もくもく会_朝活_12/21(水)](https://morimori.connpass.com/event/269611/)
-- Dec 21 [【オンライン】12/21(水)5時〜7時：Flutter好きが集まる朝もく会（第328回）](https://flutter-asamoku.connpass.com/event/269540/)
-- Dec 20 [[大阪開催] nakanoshima.dev #33 - LT Night !](https://nakanoshima-dev.connpass.com/event/268708/)
+- Jan 26 [【NIKKEI Tech Talk #3】メディア企業のWebフロントエンド～多様な開発と技術選定～](https://nikkei.connpass.com/event/268793/)
+- Dec 22 [IT系&誰でも参加OK！もくもく会_朝活_12/22(木)](https://morimori.connpass.com/event/269736/)
+- Dec 21 [ノーコードAI開発ツールのプロダクトマネジメントの面白さと難しさ - Open TechLunch](https://nttcom.connpass.com/event/268770/)
+- Dec 19 [「手軽でも効果抜群！IoTで業務改善コンテスト2022」表彰式](https://cybozu.connpass.com/event/268919/)
+- Dec 17 [JAWS-UG 新潟 #13](https://jawsug-niigata.connpass.com/event/265175/)
 <!-- profile updater end: connpass -->
 
 <!---
