@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 26 [【NIKKEI Tech Talk #3】メディア企業のWebフロントエンド～多様な開発と技術選定～](https://nikkei.connpass.com/event/268793/)
-- Dec 22 [IT系&誰でも参加OK！もくもく会_朝活_12/22(木)](https://morimori.connpass.com/event/269736/)
-- Dec 21 [ノーコードAI開発ツールのプロダクトマネジメントの面白さと難しさ - Open TechLunch](https://nttcom.connpass.com/event/268770/)
-- Dec 19 [「手軽でも効果抜群！IoTで業務改善コンテスト2022」表彰式](https://cybozu.connpass.com/event/268919/)
-- Dec 17 [JAWS-UG 新潟 #13](https://jawsug-niigata.connpass.com/event/265175/)
+- Jan 19 [ビジュアルプログラミングIoTLT vol.13](https://iotlt.connpass.com/event/267993/)
+- Jan 14 [第21回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/269554/)
+- Jan 13 [Meetup 2023-01: Study HashiCorp Products](https://rakuten-sapporo.connpass.com/event/268472/)
+- Dec 23 [【オンライン】12/23(金)5時〜7時：Flutter好きが集まる朝もく会（第330回）](https://flutter-asamoku.connpass.com/event/269542/)
+- Dec 22 [【音声のみ】第50回プログラミング・web初学者もくもく勉強会](https://beginner-front.connpass.com/event/269806/)
 <!-- profile updater end: connpass -->
 
 <!---
