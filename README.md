@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 19 [ビジュアルプログラミングIoTLT vol.13](https://iotlt.connpass.com/event/267993/)
-- Jan 14 [第21回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/269554/)
-- Jan 13 [Meetup 2023-01: Study HashiCorp Products](https://rakuten-sapporo.connpass.com/event/268472/)
-- Dec 23 [【オンライン】12/23(金)5時〜7時：Flutter好きが集まる朝もく会（第330回）](https://flutter-asamoku.connpass.com/event/269542/)
-- Dec 22 [【音声のみ】第50回プログラミング・web初学者もくもく勉強会](https://beginner-front.connpass.com/event/269806/)
+- Jan 21 [◤xR with Anything Meetup #018◢ #xram81 #メタバース](https://xram.connpass.com/event/269584/)
+- Jan 17 [JAWS-UG AI/ML #15](https://jawsug-ai.connpass.com/event/263957/)
+- Dec 30 [「情報幾何学の基礎」読書会 16](https://qmlclub.connpass.com/event/269882/)
+- Dec 24 [【第116回】もくもく会　朝活　～1歩確実に進むもくもく会～](https://mecha-mote-se.connpass.com/event/265070/)
+- Dec 23 [【音声のみ】第52回プログラミング・web初学者もくもく勉強会](https://beginner-front.connpass.com/event/269849/)
 <!-- profile updater end: connpass -->
 
 <!---
