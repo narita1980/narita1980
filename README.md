@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 21 [◤xR with Anything Meetup #018◢ #xram81 #メタバース](https://xram.connpass.com/event/269584/)
-- Jan 17 [JAWS-UG AI/ML #15](https://jawsug-ai.connpass.com/event/263957/)
-- Dec 30 [「情報幾何学の基礎」読書会 16](https://qmlclub.connpass.com/event/269882/)
-- Dec 24 [【第116回】もくもく会　朝活　～1歩確実に進むもくもく会～](https://mecha-mote-se.connpass.com/event/265070/)
-- Dec 23 [【音声のみ】第52回プログラミング・web初学者もくもく勉強会](https://beginner-front.connpass.com/event/269849/)
+- Jan 21 [BuriKaigi2023](https://toyama-eng.connpass.com/event/265774/)
+- Jan 18 [【第９回】FIX「OSSのノーコード・ローコード開発ツール「プリザンター」による業務アプリ開発」](https://fix.connpass.com/event/269801/)
+- Dec 26 [12/26(月)【第1575回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/269926/)
+- Dec 26 [12/26(月)【第1574回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/269924/)
+- Dec 25 [12/25(日)【第1573回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/269925/)
 <!-- profile updater end: connpass -->
 
 <!---
