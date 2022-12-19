@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 21 [BuriKaigi2023](https://toyama-eng.connpass.com/event/265774/)
-- Jan 18 [【第９回】FIX「OSSのノーコード・ローコード開発ツール「プリザンター」による業務アプリ開発」](https://fix.connpass.com/event/269801/)
-- Dec 26 [12/26(月)【第1575回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/269926/)
-- Dec 26 [12/26(月)【第1574回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/269924/)
-- Dec 25 [12/25(日)【第1573回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/269925/)
+- Jan 10 [#4 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/269636/)
+- Dec 29 [12/29(木)9:30～オフラインもくもく会](https://mokumoku-offline.connpass.com/event/269908/)
+- Dec 26 [12/26(月) 「誰でもオンラインもくもく会」でゆったり作業しませんか？途中入退室OK](https://enjoy-mokumoku.connpass.com/event/270000/)
+- Dec 25 [[YouTube Live] Power BI Weekly News 55](https://pp-weeklynews.connpass.com/event/269973/)
+- Dec 25 [DNS入門ハンズオン！AWS_Route53を利用しドメインを勉強しよう！](https://zeki-chan-lab.connpass.com/event/269998/)
 <!-- profile updater end: connpass -->
 
 <!---
