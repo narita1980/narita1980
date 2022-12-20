@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 10 [#4 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/269636/)
-- Dec 29 [12/29(木)9:30～オフラインもくもく会](https://mokumoku-offline.connpass.com/event/269908/)
-- Dec 26 [12/26(月) 「誰でもオンラインもくもく会」でゆったり作業しませんか？途中入退室OK](https://enjoy-mokumoku.connpass.com/event/270000/)
-- Dec 25 [[YouTube Live] Power BI Weekly News 55](https://pp-weeklynews.connpass.com/event/269973/)
-- Dec 25 [DNS入門ハンズオン！AWS_Route53を利用しドメインを勉強しよう！](https://zeki-chan-lab.connpass.com/event/269998/)
+- Dec 28 [12/28(水)【第1579回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270092/)
+- Dec 26 [【音声のみ】第55回プログラミング・web初学者もくもく勉強会](https://beginner-front.connpass.com/event/270079/)
+- Dec 25 [【5年後から50年後まで】Futurist（フューチャリスト）トークをします@クリスマス](https://futurist.connpass.com/event/269755/)
+- Dec 24 [自分用のwindows イメージの作成方法](https://connpass.com/event/270093/)
+- Dec 21 [第49回 アジャイルひよこクラブ年末LT大会！](https://agile-hiyoko-club.connpass.com/event/262753/)
 <!-- profile updater end: connpass -->
 
 <!---
