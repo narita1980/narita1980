@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 28 [12/28(水)【第1579回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270092/)
-- Dec 26 [【音声のみ】第55回プログラミング・web初学者もくもく勉強会](https://beginner-front.connpass.com/event/270079/)
-- Dec 25 [【5年後から50年後まで】Futurist（フューチャリスト）トークをします@クリスマス](https://futurist.connpass.com/event/269755/)
-- Dec 24 [自分用のwindows イメージの作成方法](https://connpass.com/event/270093/)
-- Dec 21 [第49回 アジャイルひよこクラブ年末LT大会！](https://agile-hiyoko-club.connpass.com/event/262753/)
+- Feb 15 [JAWS-UG朝会 #42](https://jawsug-asa.connpass.com/event/266888/)
+- Dec 28 [ゆるもく！作業＆質問＆相談会 #09【XR/Unityなど】](https://fukuoka-xr-club.connpass.com/event/270195/)
+- Dec 28 [IT系&誰でも参加OK！もくもく会_朝活_12/28(水)](https://morimori.connpass.com/event/270196/)
+- Dec 22 [組み込みソフトウェア基礎-現場ノウハウを知ろう[テスト駆動開発の魅力を語る]](https://k-abe.connpass.com/event/270175/)
+- Dec 22 [第42回 Tokyo Jazug Night](https://jazug.connpass.com/event/267017/)
 <!-- profile updater end: connpass -->
 
 <!---
