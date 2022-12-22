@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 15 [JAWS-UG朝会 #42](https://jawsug-asa.connpass.com/event/266888/)
-- Dec 28 [ゆるもく！作業＆質問＆相談会 #09【XR/Unityなど】](https://fukuoka-xr-club.connpass.com/event/270195/)
-- Dec 28 [IT系&誰でも参加OK！もくもく会_朝活_12/28(水)](https://morimori.connpass.com/event/270196/)
-- Dec 22 [組み込みソフトウェア基礎-現場ノウハウを知ろう[テスト駆動開発の魅力を語る]](https://k-abe.connpass.com/event/270175/)
-- Dec 22 [第42回 Tokyo Jazug Night](https://jazug.connpass.com/event/267017/)
+- Feb 4 [【第8回】サイバーセキュリティ勉強会2023 in 塩尻](https://shiojiri-cyber.connpass.com/event/265052/)
+- Jan 22 [Minecraft Day※マイクラで世界のランドマークを作ってみよう！（会場：名護市国際交流会館）](https://coderdojo-nago.connpass.com/event/268641/)
+- Jan 18 [★増枠しました★【EM・テックリード必見！】ドメインにディープダイブするプロダクト開発の裏側](https://yojo.connpass.com/event/269237/)
+- Jan 12 [第二回『ゾンビスクラムサバイバルガイド』読書会 京都アジャイル勉強会 #103](https://kyoaja.connpass.com/event/268881/)
+- Jan 11 [20分で分かる業務可視化!Arkプロセスマイニング製品セミナー](https://connpass.com/event/270310/)
 <!-- profile updater end: connpass -->
 
 <!---
