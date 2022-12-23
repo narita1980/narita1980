@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 4 [【第8回】サイバーセキュリティ勉強会2023 in 塩尻](https://shiojiri-cyber.connpass.com/event/265052/)
-- Jan 22 [Minecraft Day※マイクラで世界のランドマークを作ってみよう！（会場：名護市国際交流会館）](https://coderdojo-nago.connpass.com/event/268641/)
-- Jan 18 [★増枠しました★【EM・テックリード必見！】ドメインにディープダイブするプロダクト開発の裏側](https://yojo.connpass.com/event/269237/)
-- Jan 12 [第二回『ゾンビスクラムサバイバルガイド』読書会 京都アジャイル勉強会 #103](https://kyoaja.connpass.com/event/268881/)
-- Jan 11 [20分で分かる業務可視化!Arkプロセスマイニング製品セミナー](https://connpass.com/event/270310/)
+- Feb 22 [Node-RED UG Enterprise「企業でのNode-RED事例紹介 第5回」](https://node-red.connpass.com/event/270340/)
+- Jan 28 [2023年一発目！【オンライン】とにかくほめる！マウントなしのLT会](https://tonihome.connpass.com/event/267894/)
+- Jan 15 [Progateでプログラミングもくもく会（会場：名護市産業支援センター・５階会議室２+オンライン）](https://coderdojo-nago.connpass.com/event/269605/)
+- Dec 29 [【音声のみ】第60回プログラミング・web初学者もくもく勉強会](https://beginner-front.connpass.com/event/270383/)
+- Dec 29 [【音声のみ】第59回プログラミング・web初学者もくもく勉強会（日中）](https://beginner-front.connpass.com/event/270380/)
 <!-- profile updater end: connpass -->
 
 <!---
