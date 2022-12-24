@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 22 [Node-RED UG Enterprise「企業でのNode-RED事例紹介 第5回」](https://node-red.connpass.com/event/270340/)
-- Jan 28 [2023年一発目！【オンライン】とにかくほめる！マウントなしのLT会](https://tonihome.connpass.com/event/267894/)
-- Jan 15 [Progateでプログラミングもくもく会（会場：名護市産業支援センター・５階会議室２+オンライン）](https://coderdojo-nago.connpass.com/event/269605/)
-- Dec 29 [【音声のみ】第60回プログラミング・web初学者もくもく勉強会](https://beginner-front.connpass.com/event/270383/)
-- Dec 29 [【音声のみ】第59回プログラミング・web初学者もくもく勉強会（日中）](https://beginner-front.connpass.com/event/270380/)
+- Mar 13 [【M&Aクラウド】PHPerKaigi2023（勝手に）リジェクトカンファレンス](https://macloud.connpass.com/event/269577/)
+- Jan 21 [◤xR with Anything Meetup #018◢ #xram81 #メタバース](https://xram.connpass.com/event/269584/)
+- Jan 21 [第12回　関西DB勉強会](https://kansaidbstudy.connpass.com/event/268133/)
+- Jan 1 [1/1(日)【第1587回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270487/)
+- Jan 1 [1/1(日)【第1586回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270486/)
 <!-- profile updater end: connpass -->
 
 <!---
