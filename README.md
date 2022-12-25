@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 13 [【M&Aクラウド】PHPerKaigi2023（勝手に）リジェクトカンファレンス](https://macloud.connpass.com/event/269577/)
-- Jan 21 [◤xR with Anything Meetup #018◢ #xram81 #メタバース](https://xram.connpass.com/event/269584/)
-- Jan 21 [第12回　関西DB勉強会](https://kansaidbstudy.connpass.com/event/268133/)
-- Jan 1 [1/1(日)【第1587回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270487/)
-- Jan 1 [1/1(日)【第1586回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270486/)
+- Mar 4 [マッピングパーティーin泉大津](https://connpass.com/event/270507/)
+- Jan 28 [プログラミング言語勉強会](https://shinriseevent.connpass.com/event/270228/)
+- Jan 27 [プログラミング言語勉強会](https://shinriseevent.connpass.com/event/270231/)
+- Jan 22 [ROS Japan UG #49 LT大会](https://rosjp.connpass.com/event/270188/)
+- Jan 14 [プログラミング言語勉強会](https://shinriseevent.connpass.com/event/270223/)
 <!-- profile updater end: connpass -->
 
 <!---
