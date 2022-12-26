@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 4 [マッピングパーティーin泉大津](https://connpass.com/event/270507/)
-- Jan 28 [プログラミング言語勉強会](https://shinriseevent.connpass.com/event/270228/)
-- Jan 27 [プログラミング言語勉強会](https://shinriseevent.connpass.com/event/270231/)
-- Jan 22 [ROS Japan UG #49 LT大会](https://rosjp.connpass.com/event/270188/)
-- Jan 14 [プログラミング言語勉強会](https://shinriseevent.connpass.com/event/270223/)
+- Jan 21 [【第６回】エンジニアもくもく会inNAGOYA](https://mokumoku758.connpass.com/event/270446/)
+- Jan 15 [プログラミング体験会（会場：名護市産業支援センター・５階会議室２）](https://coderdojo-nago.connpass.com/event/269605/)
+- Jan 8 [[YouTube Live] Power BI Weekly News 56](https://pp-weeklynews.connpass.com/event/270570/)
+- Jan 5 [Power BI もくもく・わくわく会 1](https://powerbi.connpass.com/event/270474/)
+- Jan 3 [1/3(火)【第1591回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270598/)
 <!-- profile updater end: connpass -->
 
 <!---
