@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 21 [【第６回】エンジニアもくもく会inNAGOYA](https://mokumoku758.connpass.com/event/270446/)
-- Jan 15 [プログラミング体験会（会場：名護市産業支援センター・５階会議室２）](https://coderdojo-nago.connpass.com/event/269605/)
-- Jan 8 [[YouTube Live] Power BI Weekly News 56](https://pp-weeklynews.connpass.com/event/270570/)
-- Jan 5 [Power BI もくもく・わくわく会 1](https://powerbi.connpass.com/event/270474/)
-- Jan 3 [1/3(火)【第1591回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270598/)
+- Mar 15 [JAWS-UG朝会 #43](https://jawsug-asa.connpass.com/event/266889/)
+- Jan 28 [62th Microsoft Data Platform Day (Hybrid)](https://sqlserver.connpass.com/event/267886/)
+- Jan 16 [ゼロから始める業務DX入門セミナー](https://connpass.com/event/270675/)
+- Jan 7 [高専キャリア 新春オンラインLT大会2023](https://kosen-career.connpass.com/event/270584/)
+- Jan 7 [IT系&誰でも参加OK！もくもく会_朝活_1/7(土)](https://morimori.connpass.com/event/270679/)
 <!-- profile updater end: connpass -->
 
 <!---
