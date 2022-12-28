@@ -24,10 +24,10 @@
 
 <!-- profile updater begin: connpass -->
 - Mar 15 [JAWS-UG朝会 #43](https://jawsug-asa.connpass.com/event/266889/)
-- Jan 28 [62th Microsoft Data Platform Day (Hybrid)](https://sqlserver.connpass.com/event/267886/)
-- Jan 16 [ゼロから始める業務DX入門セミナー](https://connpass.com/event/270675/)
-- Jan 7 [高専キャリア 新春オンラインLT大会2023](https://kosen-career.connpass.com/event/270584/)
-- Jan 7 [IT系&誰でも参加OK！もくもく会_朝活_1/7(土)](https://morimori.connpass.com/event/270679/)
+- Feb 11 [[オンライン]UOZUゲームジャム2023](https://uozu.connpass.com/event/268048/)
+- Jan 21 [NGK2023S](https://ngk2022s.connpass.com/event/265837/)
+- Jan 5 [1/5(木)【第1595回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270771/)
+- Jan 5 [1/5(木)【第1594回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270770/)
 <!-- profile updater end: connpass -->
 
 <!---
