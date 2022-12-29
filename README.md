@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 15 [JAWS-UG朝会 #43](https://jawsug-asa.connpass.com/event/266889/)
-- Feb 11 [[オンライン]UOZUゲームジャム2023](https://uozu.connpass.com/event/268048/)
-- Jan 21 [NGK2023S](https://ngk2022s.connpass.com/event/265837/)
-- Jan 5 [1/5(木)【第1595回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270771/)
-- Jan 5 [1/5(木)【第1594回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270770/)
+- Jan 18 [輪読会『独学プログラマー』第2回](https://metavasti.connpass.com/event/270901/)
+- Jan 17 [輪読会『コンピュータはなぜ動くのか 第２版』第2回](https://metavasti.connpass.com/event/270900/)
+- Jan 14 [【LT会&勉強会】エンジニアの輪 at 東京（第６回）](https://connpass.com/event/268981/)
+- Jan 12 [輪読会『作って楽しむプログラミング iPhone アプリ 超入門』第1回](https://metavasti.connpass.com/event/270589/)
+- Jan 8 [IT系&誰でも参加OK！もくもく会_朝活_1/8(日)](https://morimori.connpass.com/event/270898/)
 <!-- profile updater end: connpass -->
 
 <!---
