@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 18 [輪読会『独学プログラマー』第2回](https://metavasti.connpass.com/event/270901/)
-- Jan 17 [輪読会『コンピュータはなぜ動くのか 第２版』第2回](https://metavasti.connpass.com/event/270900/)
-- Jan 14 [【LT会&勉強会】エンジニアの輪 at 東京（第６回）](https://connpass.com/event/268981/)
-- Jan 12 [輪読会『作って楽しむプログラミング iPhone アプリ 超入門』第1回](https://metavasti.connpass.com/event/270589/)
-- Jan 8 [IT系&誰でも参加OK！もくもく会_朝活_1/8(日)](https://morimori.connpass.com/event/270898/)
+- Jan 24 [0→1システム開発のPMが経験してきた"PJの進め方"を聞いてみよう【開発PM勉強会vol.17】](https://peer-quest.connpass.com/event/268824/)
+- Jan 7 [1/7(土)【第1599回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270941/)
+- Jan 7 [第9回 Try English LT! for engineers](https://try-english-lt.connpass.com/event/267720/)
+- Jan 7 [1/7(土)【第1598回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270940/)
+- Jan 4 [【音声のみ】第72回プログラミング初学者歓迎もくもく会＋交流会](https://beginner-front.connpass.com/event/270929/)
 <!-- profile updater end: connpass -->
 
 <!---
