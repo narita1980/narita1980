@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 24 [0→1システム開発のPMが経験してきた"PJの進め方"を聞いてみよう【開発PM勉強会vol.17】](https://peer-quest.connpass.com/event/268824/)
-- Jan 7 [1/7(土)【第1599回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270941/)
-- Jan 7 [第9回 Try English LT! for engineers](https://try-english-lt.connpass.com/event/267720/)
-- Jan 7 [1/7(土)【第1598回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270940/)
-- Jan 4 [【音声のみ】第72回プログラミング初学者歓迎もくもく会＋交流会](https://beginner-front.connpass.com/event/270929/)
+- Jan 21 [VS Code Conference Japan 2022 - 2023](https://vscode.connpass.com/event/263206/)
+- Jan 10 [IT系&誰でも参加OK！もくもく会_朝活_1/10(火)](https://morimori.connpass.com/event/270978/)
+- Jan 9 [IT系&誰でも参加OK！もくもく会_朝活_1/9(月)](https://morimori.connpass.com/event/270972/)
+- Jan 8 [1/8(日)【第1601回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270976/)
+- Jan 8 [IT系&誰でも参加OK！もくもく会_朝活_1/8(日)](https://morimori.connpass.com/event/270898/)
 <!-- profile updater end: connpass -->
 
 <!---
