@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 21 [VS Code Conference Japan 2022 - 2023](https://vscode.connpass.com/event/263206/)
-- Jan 10 [IT系&誰でも参加OK！もくもく会_朝活_1/10(火)](https://morimori.connpass.com/event/270978/)
-- Jan 9 [IT系&誰でも参加OK！もくもく会_朝活_1/9(月)](https://morimori.connpass.com/event/270972/)
-- Jan 8 [1/8(日)【第1601回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/270976/)
-- Jan 8 [IT系&誰でも参加OK！もくもく会_朝活_1/8(日)](https://morimori.connpass.com/event/270898/)
+- Jan 28 [Multibodyライブラリ入門講座1 & 第38回 Modelicaライブラリ勉強会](https://modelica-library.connpass.com/event/270935/)
+- Jan 19 [2023 新春LT大会(仮) ～亀田さんをお招きして](https://thankskamedasan.connpass.com/event/270942/)
+- Jan 18 [【神戸オンライン】XRミーティング 2023/01/18#XRMTG](https://kobe-driven-dev.connpass.com/event/271017/)
+- Jan 18 [【関東-オンライン開催】XRミーティング 2023/01/18#XRMTG](https://osaka-driven-dev-br-tokyo.connpass.com/event/271016/)
+- Jan 18 [【大阪オンライン】XRミーティング 2023/01/18【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/271015/)
 <!-- profile updater end: connpass -->
 
 <!---
