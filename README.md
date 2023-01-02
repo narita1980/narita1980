@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 28 [Multibodyライブラリ入門講座1 & 第38回 Modelicaライブラリ勉強会](https://modelica-library.connpass.com/event/270935/)
-- Jan 19 [2023 新春LT大会(仮) ～亀田さんをお招きして](https://thankskamedasan.connpass.com/event/270942/)
-- Jan 18 [【神戸オンライン】XRミーティング 2023/01/18#XRMTG](https://kobe-driven-dev.connpass.com/event/271017/)
-- Jan 18 [【関東-オンライン開催】XRミーティング 2023/01/18#XRMTG](https://osaka-driven-dev-br-tokyo.connpass.com/event/271016/)
-- Jan 18 [【大阪オンライン】XRミーティング 2023/01/18【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/271015/)
+- Jan 18 [JAWS-UG初心者支部#53 新年LTスペシャル会](https://jawsug-bgnr.connpass.com/event/270825/)
+- Jan 15 [Fusion360 Rhinoceros Grasshopper 勉強会](https://connpass.com/event/270004/)
+- Jan 10 [1/10(火)【第1605回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271040/)
+- Jan 10 [1/10(火)【第1604回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271039/)
+- Jan 8 [【音声のみ】第79回プログラミング・web初学者もくもく勉強会（日中）](https://beginner-front.connpass.com/event/271030/)
 <!-- profile updater end: connpass -->
 
 <!---
