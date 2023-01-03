@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 18 [JAWS-UG初心者支部#53 新年LTスペシャル会](https://jawsug-bgnr.connpass.com/event/270825/)
-- Jan 15 [Fusion360 Rhinoceros Grasshopper 勉強会](https://connpass.com/event/270004/)
-- Jan 10 [1/10(火)【第1605回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271040/)
-- Jan 10 [1/10(火)【第1604回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271039/)
-- Jan 8 [【音声のみ】第79回プログラミング・web初学者もくもく勉強会（日中）](https://beginner-front.connpass.com/event/271030/)
+- Jan 11 [1/11(水)【第1607回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271082/)
+- Jan 11 [1/11(水)【第1606回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271081/)
+- Jan 9 [【音声のみ】第82回プログラミング・web初学者もくもく勉強会](https://beginner-front.connpass.com/event/271079/)
+- Jan 9 [【音声のみ】第81回プログラミング・web初学者もくもく勉強会（日中）](https://beginner-front.connpass.com/event/271078/)
+- Jan 7 [統計的因果推論 輪読会#1(1/7)](https://team-ml.connpass.com/event/268650/)
 <!-- profile updater end: connpass -->
 
 <!---
