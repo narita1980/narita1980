@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 11 [1/11(水)【第1607回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271082/)
-- Jan 11 [1/11(水)【第1606回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271081/)
-- Jan 9 [【音声のみ】第82回プログラミング・web初学者もくもく勉強会](https://beginner-front.connpass.com/event/271079/)
-- Jan 9 [【音声のみ】第81回プログラミング・web初学者もくもく勉強会（日中）](https://beginner-front.connpass.com/event/271078/)
-- Jan 7 [統計的因果推論 輪読会#1(1/7)](https://team-ml.connpass.com/event/268650/)
+- Mar 4 [AUGM 大阪 March 2023 懇親会](https://augmosaka.connpass.com/event/270652/)
+- Mar 4 [AUGM 大阪 March 2023 本会](https://augmosaka.connpass.com/event/270647/)
+- Jan 22 [第31回 CoderDojo厚木](https://coderdojo-atsugi.connpass.com/event/271041/)
+- Jan 21 [つながる勉強会 #20](https://tsunagaru-kobe.connpass.com/event/271077/)
+- Jan 21 [第12回　関西DB勉強会](https://kansaidbstudy.connpass.com/event/268133/)
 <!-- profile updater end: connpass -->
 
 <!---
