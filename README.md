@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 4 [AUGM 大阪 March 2023 懇親会](https://augmosaka.connpass.com/event/270652/)
-- Mar 4 [AUGM 大阪 March 2023 本会](https://augmosaka.connpass.com/event/270647/)
-- Jan 22 [第31回 CoderDojo厚木](https://coderdojo-atsugi.connpass.com/event/271041/)
-- Jan 21 [つながる勉強会 #20](https://tsunagaru-kobe.connpass.com/event/271077/)
-- Jan 21 [第12回　関西DB勉強会](https://kansaidbstudy.connpass.com/event/268133/)
+- Jan 18 [【明日から使えるテスト技法勉強会】S2 - ５ ～CFD法って何？～](https://veriserve-event.connpass.com/event/268513/)
+- Jan 13 [Microsoft Learnで学ぶDynamics 365 Business Central #1](https://dynamics.connpass.com/event/271209/)
+- Jan 13 [GCPUG Shonan vol.85 さとるDay](https://gcpug-shonan.connpass.com/event/271253/)
+- Jan 12 [ビデオはオフ！寝ぼけまなこでもくもく朝会](https://itmokumoku.connpass.com/event/271258/)
+- Jan 12 [IT系&誰でも参加OK！もくもく会_朝活_1/12(木)](https://morimori.connpass.com/event/271257/)
 <!-- profile updater end: connpass -->
 
 <!---
