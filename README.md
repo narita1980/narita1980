@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 18 [【明日から使えるテスト技法勉強会】S2 - ５ ～CFD法って何？～](https://veriserve-event.connpass.com/event/268513/)
-- Jan 13 [Microsoft Learnで学ぶDynamics 365 Business Central #1](https://dynamics.connpass.com/event/271209/)
-- Jan 13 [GCPUG Shonan vol.85 さとるDay](https://gcpug-shonan.connpass.com/event/271253/)
-- Jan 12 [ビデオはオフ！寝ぼけまなこでもくもく朝会](https://itmokumoku.connpass.com/event/271258/)
-- Jan 12 [IT系&誰でも参加OK！もくもく会_朝活_1/12(木)](https://morimori.connpass.com/event/271257/)
+- Feb 17 [JADOG12.0 - 2月17日(金) 15:00-18:00](https://jadog.connpass.com/event/270006/)
+- Feb 2 [Power BI もくもく・わくわく会 2](https://powerbi.connpass.com/event/271339/)
+- Jan 28 [広島におけるXR最新動向 ～ 3D都市モデル・VRの活用事例　～](https://connpass.com/event/270443/)
+- Jan 26 [メタバースの第一歩「アバター勤務」の現状と課題](https://metaverse.connpass.com/event/270966/)
+- Jan 21 [【第118回】もくもく会　朝活　～1歩確実に進むもくもく会～](https://mecha-mote-se.connpass.com/event/271347/)
 <!-- profile updater end: connpass -->
 
 <!---
