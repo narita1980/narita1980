@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 17 [JADOG12.0 - 2月17日(金) 15:00-18:00](https://jadog.connpass.com/event/270006/)
-- Feb 2 [Power BI もくもく・わくわく会 2](https://powerbi.connpass.com/event/271339/)
-- Jan 28 [広島におけるXR最新動向 ～ 3D都市モデル・VRの活用事例　～](https://connpass.com/event/270443/)
-- Jan 26 [メタバースの第一歩「アバター勤務」の現状と課題](https://metaverse.connpass.com/event/270966/)
-- Jan 21 [【第118回】もくもく会　朝活　～1歩確実に進むもくもく会～](https://mecha-mote-se.connpass.com/event/271347/)
+- Jan 28 [Japan Dreamin' 2023](https://japandreamin.connpass.com/event/267815/)
+- Jan 21 [【座談会@名古屋】未経験から最速でITエンジニアになる学習方法とは？](https://flutteruniv.connpass.com/event/271303/)
+- Jan 15 [1/15(日)【第1615回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271453/)
+- Jan 15 [Web3エンジニア新年会](https://solidity-jp.connpass.com/event/270882/)
+- Jan 15 [1/15(日)【第1614回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271452/)
 <!-- profile updater end: connpass -->
 
 <!---
