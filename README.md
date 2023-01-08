@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 28 [Japan Dreamin' 2023](https://japandreamin.connpass.com/event/267815/)
-- Jan 21 [【座談会@名古屋】未経験から最速でITエンジニアになる学習方法とは？](https://flutteruniv.connpass.com/event/271303/)
-- Jan 15 [1/15(日)【第1615回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271453/)
-- Jan 15 [Web3エンジニア新年会](https://solidity-jp.connpass.com/event/270882/)
-- Jan 15 [1/15(日)【第1614回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271452/)
+- Jan 28 [1/28(土)【LT&交流会 @渋谷予定】Developers Guild](https://devguil.connpass.com/event/266910/)
+- Jan 28 [【オンライン参加者用】Japan Dreamin' 2023](https://japandreamin.connpass.com/event/271473/)
+- Jan 25 [[オンライン] 第34回ゼロから始めるCTF入門勉強会 (初心者歓迎！)](https://zeroctf.connpass.com/event/271523/)
+- Jan 15 [【第6回】SE時事ラジオ](https://setk.connpass.com/event/271531/)
+- Jan 15 [IT系&誰でも参加OK！もくもく会_朝活_1/15(日)](https://morimori.connpass.com/event/271532/)
 <!-- profile updater end: connpass -->
 
 <!---
