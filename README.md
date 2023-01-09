@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 28 [1/28(土)【LT&交流会 @渋谷予定】Developers Guild](https://devguil.connpass.com/event/266910/)
-- Jan 28 [【オンライン参加者用】Japan Dreamin' 2023](https://japandreamin.connpass.com/event/271473/)
-- Jan 25 [[オンライン] 第34回ゼロから始めるCTF入門勉強会 (初心者歓迎！)](https://zeroctf.connpass.com/event/271523/)
-- Jan 15 [【第6回】SE時事ラジオ](https://setk.connpass.com/event/271531/)
-- Jan 15 [IT系&誰でも参加OK！もくもく会_朝活_1/15(日)](https://morimori.connpass.com/event/271532/)
+- Feb 11 [JAWS-UG 東海道 ”SORACOM Button ハンズオン”](https://jaws-ug-tokaido.connpass.com/event/271449/)
+- Jan 22 [JISTA関東支部　月例会【2023年1月22日】](https://jista-kanto.connpass.com/event/269944/)
+- Jan 17 [1/17(火)【第1619回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271587/)
+- Jan 17 [1/17(火)【第1618回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271586/)
+- Jan 16 [IT系&誰でも参加OK！もくもく会_朝活_1/16(月)](https://morimori.connpass.com/event/271591/)
 <!-- profile updater end: connpass -->
 
 <!---
