@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 11 [JAWS-UG 東海道 ”SORACOM Button ハンズオン”](https://jaws-ug-tokaido.connpass.com/event/271449/)
-- Jan 22 [JISTA関東支部　月例会【2023年1月22日】](https://jista-kanto.connpass.com/event/269944/)
-- Jan 17 [1/17(火)【第1619回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271587/)
-- Jan 17 [1/17(火)【第1618回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/271586/)
-- Jan 16 [IT系&誰でも参加OK！もくもく会_朝活_1/16(月)](https://morimori.connpass.com/event/271591/)
+- Feb 3 [とうきょうからきゅうしゅう.1](https://connpass.com/event/270691/)
+- Feb 2 [【となりのゲームUIデザイナー】2/2（木） 19：30開催](https://cyberagent.connpass.com/event/269147/)
+- Jan 21 [初心者歓迎！フォトグラメトリ 勉強会 #23](https://c-sagyoba-benkyoukai.connpass.com/event/271579/)
+- Jan 18 [CI/CD はじめの一歩 ～IaC編～](https://asiaquest.connpass.com/event/269762/)
+- Jan 17 [輪読会『コンピュータはなぜ動くのか 第２版』第2回](https://metavasti.connpass.com/event/270900/)
 <!-- profile updater end: connpass -->
 
 <!---
