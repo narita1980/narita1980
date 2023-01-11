@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 3 [とうきょうからきゅうしゅう.1](https://connpass.com/event/270691/)
-- Feb 2 [【となりのゲームUIデザイナー】2/2（木） 19：30開催](https://cyberagent.connpass.com/event/269147/)
-- Jan 21 [初心者歓迎！フォトグラメトリ 勉強会 #23](https://c-sagyoba-benkyoukai.connpass.com/event/271579/)
-- Jan 18 [CI/CD はじめの一歩 ～IaC編～](https://asiaquest.connpass.com/event/269762/)
-- Jan 17 [輪読会『コンピュータはなぜ動くのか 第２版』第2回](https://metavasti.connpass.com/event/270900/)
+- Feb 26 [Kratom Dizziness - Does Kratom Make You Dizzy?](https://connpass.com/event/271838/)
+- Feb 6 [シン・メイカーズのエコシステムをざっくばらんに語るMake/ニコ技な夜](https://itzakkubaran.connpass.com/event/271361/)
+- Jan 31 [CTOの理想像とは？エンジニア出身エンジェル投資家とVCの本音トーク【登壇者とのQAタイムあり】](https://cto-a.connpass.com/event/270032/)
+- Jan 31 [［無料］2023年最新！見えてきた、WebRTCの課題と対策](https://vcube-agora.connpass.com/event/271744/)
+- Jan 29 [プログラミング体験会（会場：沖縄科学技術大学院大学 OIST ミーティングルーム１）](https://coderdojo-nago.connpass.com/event/268765/)
 <!-- profile updater end: connpass -->
 
 <!---
