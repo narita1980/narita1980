@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 26 [Kratom Dizziness - Does Kratom Make You Dizzy?](https://connpass.com/event/271838/)
-- Feb 6 [シン・メイカーズのエコシステムをざっくばらんに語るMake/ニコ技な夜](https://itzakkubaran.connpass.com/event/271361/)
-- Jan 31 [CTOの理想像とは？エンジニア出身エンジェル投資家とVCの本音トーク【登壇者とのQAタイムあり】](https://cto-a.connpass.com/event/270032/)
-- Jan 31 [［無料］2023年最新！見えてきた、WebRTCの課題と対策](https://vcube-agora.connpass.com/event/271744/)
+- Feb 11 [ゴリラ.vim #25 ~ ゆるーりとモクモク会](https://gorillavim.connpass.com/event/271951/)
+- Feb 10 [第６回EMS勉強会](https://ems-meeting.connpass.com/event/267259/)
+- Feb 4 [電子工作入門ワークショップ(Raspberry Pi Pico編）](https://iotlab.connpass.com/event/267877/)
 - Jan 29 [プログラミング体験会（会場：沖縄科学技術大学院大学 OIST ミーティングルーム１）](https://coderdojo-nago.connpass.com/event/268765/)
+- Jan 21 [【オンライン参加可】1月のゆるもく会](https://sanuki-gamen.connpass.com/event/271594/)
 <!-- profile updater end: connpass -->
 
 <!---
