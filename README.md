@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 11 [ゴリラ.vim #25 ~ ゆるーりとモクモク会](https://gorillavim.connpass.com/event/271951/)
-- Feb 10 [第６回EMS勉強会](https://ems-meeting.connpass.com/event/267259/)
-- Feb 4 [電子工作入門ワークショップ(Raspberry Pi Pico編）](https://iotlab.connpass.com/event/267877/)
+- Feb 18 [第22回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/271922/)
 - Jan 29 [プログラミング体験会（会場：沖縄科学技術大学院大学 OIST ミーティングルーム１）](https://coderdojo-nago.connpass.com/event/268765/)
-- Jan 21 [【オンライン参加可】1月のゆるもく会](https://sanuki-gamen.connpass.com/event/271594/)
+- Jan 22 [第７９回 CoderDojo Mito](https://coderdojo-mito.connpass.com/event/272062/)
+- Jan 21 [1/21(土)【第1627回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272068/)
+- Jan 21 [Business Technology Conference Japan 2023](https://btajp.connpass.com/event/263703/)
 <!-- profile updater end: connpass -->
 
 <!---
