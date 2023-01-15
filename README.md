@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 11 [【NFT/Solidity】ERC721でNFTを開発してみよう（初心者歓迎、ハンズオン）](https://ruck-study.connpass.com/event/272011/)
-- Jan 24 [【事例/ミニアプリ/作り方】API Expert多数登壇！LINEDC新年LT会【オフライン会場有】](https://linedevelopercommunity.connpass.com/event/271707/)
-- Jan 23 [WinActorライトニングトーク大会](https://rpacommunity.connpass.com/event/271850/)
-- Jan 21 [AIコンペティション「ブルーカーボン・ダイナミクスを可視化せよ！」キックオフイベント](https://stair.connpass.com/event/269118/)
-- Jan 21 [IT系&誰でも参加OK！もくもく会_朝活_1/21(土)](https://morimori.connpass.com/event/272154/)
+- Feb 26 [【Cisco】ラボ#13と#14@0226AM0900秋葉原UDX](https://forse.connpass.com/event/270418/)
+- Feb 25 [【Cisco】ラボ#8と#9@0225AM1100秋葉原UDX](https://forse.connpass.com/event/272229/)
+- Feb 23 [【Cisco】ラボ#7@0223AM1100秋葉原UDX](https://forse.connpass.com/event/272228/)
+- Feb 23 [【Cisco】ラボ#6@0223AM0900秋葉原UDX](https://forse.connpass.com/event/272227/)
+- Feb 19 [【Cisco】ラボ#1@0219AM0900秋葉原UDX](https://forse.connpass.com/event/272226/)
 <!-- profile updater end: connpass -->
 
 <!---
