@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 26 [【Cisco】ラボ#13と#14@0226AM0900秋葉原UDX](https://forse.connpass.com/event/270418/)
-- Feb 25 [【Cisco】ラボ#8と#9@0225AM1100秋葉原UDX](https://forse.connpass.com/event/272229/)
-- Feb 23 [【Cisco】ラボ#7@0223AM1100秋葉原UDX](https://forse.connpass.com/event/272228/)
-- Feb 23 [【Cisco】ラボ#6@0223AM0900秋葉原UDX](https://forse.connpass.com/event/272227/)
-- Feb 19 [【Cisco】ラボ#1@0219AM0900秋葉原UDX](https://forse.connpass.com/event/272226/)
+- Mar 17 [Meetup 2023-03: Empowered by Kubernetes](https://rakuten-sapporo.connpass.com/event/270338/)
+- Jan 31 [#7 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/271952/)
+- Jan 29 [勉強会・コミュニティを愛する人々のわいわい交流会](https://setk.connpass.com/event/272258/)
+- Jan 28 [NAGOYA SE勉強会【もくもく会】](https://nagoya-se.connpass.com/event/272298/)
+- Jan 26 [【GIHOZはこんなツールです！】デモ付き製品紹介セミナー](https://veriserve-event.connpass.com/event/271734/)
 <!-- profile updater end: connpass -->
 
 <!---
