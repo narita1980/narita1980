@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 17 [Meetup 2023-03: Empowered by Kubernetes](https://rakuten-sapporo.connpass.com/event/270338/)
-- Jan 31 [#7 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/271952/)
-- Jan 29 [勉強会・コミュニティを愛する人々のわいわい交流会](https://setk.connpass.com/event/272258/)
-- Jan 28 [NAGOYA SE勉強会【もくもく会】](https://nagoya-se.connpass.com/event/272298/)
-- Jan 26 [【GIHOZはこんなツールです！】デモ付き製品紹介セミナー](https://veriserve-event.connpass.com/event/271734/)
+- Feb 15 [Serverless LT初心者向け LT大会 #30](https://serverlesslt.connpass.com/event/272417/)
+- Jan 28 [第73回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/269868/)
+- Jan 25 [1/25(水)【第1635回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272426/)
+- Jan 24 [1/24(火)【第1633回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272425/)
+- Jan 23 [1/23(月)【第1631回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272424/)
 <!-- profile updater end: connpass -->
 
 <!---
