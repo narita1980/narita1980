@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 15 [Serverless LT初心者向け LT大会 #30](https://serverlesslt.connpass.com/event/272417/)
-- Jan 28 [第73回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/269868/)
-- Jan 25 [1/25(水)【第1635回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272426/)
-- Jan 24 [1/24(火)【第1633回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272425/)
-- Jan 23 [1/23(月)【第1631回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272424/)
+- Feb 22 [【猫の日特別企画】猫好き集まれ！にゃんTech Dojo](https://ibm-developer.connpass.com/event/272043/)
+- Feb 11 [第65回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/272554/)
+- Feb 10 [[GDG Osaka] 勉強会始め in 2023](https://gdgosaka.connpass.com/event/270408/)
+- Jan 31 [東北大学教授 大関真之と語る：大学発スタートアップの会社作りとは？：Sigma-i Lab #10](https://sigma-i.connpass.com/event/270685/)
+- Jan 30 [長期インターン始めようぜ会](https://connpass.com/event/271433/)
 <!-- profile updater end: connpass -->
 
 <!---
