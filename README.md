@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 22 [【猫の日特別企画】猫好き集まれ！にゃんTech Dojo](https://ibm-developer.connpass.com/event/272043/)
-- Feb 11 [第65回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/272554/)
-- Feb 10 [[GDG Osaka] 勉強会始め in 2023](https://gdgosaka.connpass.com/event/270408/)
-- Jan 31 [東北大学教授 大関真之と語る：大学発スタートアップの会社作りとは？：Sigma-i Lab #10](https://sigma-i.connpass.com/event/270685/)
-- Jan 30 [長期インターン始めようぜ会](https://connpass.com/event/271433/)
+- Mar 15 [JAWS-UG朝会 #43](https://jawsug-asa.connpass.com/event/266889/)
+- Mar 8 [あじゃてく読書会 #18 『Fearless Change』](https://agiletechexpo.connpass.com/event/272658/)
+- Feb 23 [Laboratory Automation月例勉強会 / 2023.02](https://laboratoryautomation.connpass.com/event/270568/)
+- Feb 18 [【もくもく】ハイライト読書 & ..【もくもく】](https://novalectio.connpass.com/event/271038/)
+- Feb 10 [第６回EMS勉強会](https://ems-meeting.connpass.com/event/267259/)
 <!-- profile updater end: connpass -->
 
 <!---
