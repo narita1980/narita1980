@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 15 [JAWS-UG朝会 #43](https://jawsug-asa.connpass.com/event/266889/)
-- Mar 8 [あじゃてく読書会 #18 『Fearless Change』](https://agiletechexpo.connpass.com/event/272658/)
-- Feb 23 [Laboratory Automation月例勉強会 / 2023.02](https://laboratoryautomation.connpass.com/event/270568/)
-- Feb 18 [【もくもく】ハイライト読書 & ..【もくもく】](https://novalectio.connpass.com/event/271038/)
-- Feb 10 [第６回EMS勉強会](https://ems-meeting.connpass.com/event/267259/)
+- Feb 27 [『ドローン工学入門』読み会#0](https://majime-ni-study.connpass.com/event/272171/)
+- Feb 18 [Osaka MR Hackathon 2023 チームビルド #MRHack](https://osaka-driven-dev.connpass.com/event/272583/)
+- Feb 17 [Osaka MR Hackathon 2023 前夜祭！ Think Reality A3 体験会](https://osaka-driven-dev.connpass.com/event/272760/)
+- Feb 11 [【信州会場】Babylon.jsではじめるHoloLens 2/Meta Quest対応WebXR](https://xr-shinshu.connpass.com/event/272780/)
+- Jan 28 [1/28(土)【第1641回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272787/)
 <!-- profile updater end: connpass -->
 
 <!---
