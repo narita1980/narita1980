@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 27 [『ドローン工学入門』読み会#0](https://majime-ni-study.connpass.com/event/272171/)
-- Feb 18 [Osaka MR Hackathon 2023 チームビルド #MRHack](https://osaka-driven-dev.connpass.com/event/272583/)
-- Feb 17 [Osaka MR Hackathon 2023 前夜祭！ Think Reality A3 体験会](https://osaka-driven-dev.connpass.com/event/272760/)
-- Feb 11 [【信州会場】Babylon.jsではじめるHoloLens 2/Meta Quest対応WebXR](https://xr-shinshu.connpass.com/event/272780/)
-- Jan 28 [1/28(土)【第1641回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272787/)
+- Mar 23 [要件定義についてLT！ TechDLT Vol.9](https://techdmeetup.connpass.com/event/272797/)
+- Feb 21 [ReactについてLT！ TechDLT Vol.8](https://techdmeetup.connpass.com/event/272796/)
+- Jan 29 [1/29(日)【第1643回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272899/)
+- Jan 28 [IT系&誰でも参加OK！もくもく会_朝活_1/28(土)](https://morimori.connpass.com/event/272902/)
+- Jan 25 [mabl Skills Certificationリリース！使い倒せmabl University！](https://mabl-japan.connpass.com/event/269878/)
 <!-- profile updater end: connpass -->
 
 <!---
