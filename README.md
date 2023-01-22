@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 23 [要件定義についてLT！ TechDLT Vol.9](https://techdmeetup.connpass.com/event/272797/)
-- Feb 21 [ReactについてLT！ TechDLT Vol.8](https://techdmeetup.connpass.com/event/272796/)
-- Jan 29 [1/29(日)【第1643回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272899/)
-- Jan 28 [IT系&誰でも参加OK！もくもく会_朝活_1/28(土)](https://morimori.connpass.com/event/272902/)
-- Jan 25 [mabl Skills Certificationリリース！使い倒せmabl University！](https://mabl-japan.connpass.com/event/269878/)
+- Feb 22 [Node-RED UG Enterprise「企業でのNode-RED事例紹介 第5回」](https://node-red.connpass.com/event/270340/)
+- Feb 4 [闇のもくもく会 #8](https://dark-mokumoku.connpass.com/event/272959/)
+- Jan 30 [1/30(月)【第1645回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272961/)
+- Jan 30 [1/30(月)【第1644回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272960/)
+- Jan 29 [IT系&誰でも参加OK！もくもく会_朝活_1/29(日)](https://morimori.connpass.com/event/272966/)
 <!-- profile updater end: connpass -->
 
 <!---
