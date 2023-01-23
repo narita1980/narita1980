@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 22 [Node-RED UG Enterprise「企業でのNode-RED事例紹介 第5回」](https://node-red.connpass.com/event/270340/)
-- Feb 4 [闇のもくもく会 #8](https://dark-mokumoku.connpass.com/event/272959/)
-- Jan 30 [1/30(月)【第1645回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272961/)
-- Jan 30 [1/30(月)【第1644回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/272960/)
-- Jan 29 [IT系&誰でも参加OK！もくもく会_朝活_1/29(日)](https://morimori.connpass.com/event/272966/)
+- Feb 25 [【2/25（土）】初めてでも大丈夫！スクラッチジュニアで学ぶ！親子のプログラミング体験！](https://accenture-technology.connpass.com/event/272803/)
+- Feb 18 [ハイライト読書 & ..](https://novalectio.connpass.com/event/271038/)
+- Feb 15 [JAWS-UG朝会 #42](https://jawsug-asa.connpass.com/event/266888/)
+- Feb 7 [#8 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/271953/)
+- Feb 1 [テスト&セキュリティの新トレンド　エンジニア起業家が創るソフトウェア開発の未来 in 2023](https://trident-qa.connpass.com/event/271381/)
 <!-- profile updater end: connpass -->
 
 <!---
