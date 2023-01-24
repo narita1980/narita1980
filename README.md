@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 25 [【2/25（土）】初めてでも大丈夫！スクラッチジュニアで学ぶ！親子のプログラミング体験！](https://accenture-technology.connpass.com/event/272803/)
+- Mar 17 [Amplify Boost Up #02](https://aws-amplify-jp.connpass.com/event/273121/)
 - Feb 18 [ハイライト読書 & ..](https://novalectio.connpass.com/event/271038/)
-- Feb 15 [JAWS-UG朝会 #42](https://jawsug-asa.connpass.com/event/266888/)
-- Feb 7 [#8 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/271953/)
-- Feb 1 [テスト&セキュリティの新トレンド　エンジニア起業家が創るソフトウェア開発の未来 in 2023](https://trident-qa.connpass.com/event/271381/)
+- Feb 15 [【2/15（水）大阪】サーバーレスLT大会 in 肥後橋](https://classmethod.connpass.com/event/273097/)
+- Feb 11 [Unity勉強会#30（初心者歓迎！）](https://c-sagyoba-benkyoukai.connpass.com/event/271578/)
+- Feb 8 [第16回Goの標準ライブラリのコードを見てみよう(オフライン)](https://sendaigo.connpass.com/event/272951/)
 <!-- profile updater end: connpass -->
 
 <!---
