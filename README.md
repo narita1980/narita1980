@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 17 [Amplify Boost Up #02](https://aws-amplify-jp.connpass.com/event/273121/)
-- Feb 18 [ハイライト読書 & ..](https://novalectio.connpass.com/event/271038/)
-- Feb 15 [【2/15（水）大阪】サーバーレスLT大会 in 肥後橋](https://classmethod.connpass.com/event/273097/)
-- Feb 11 [Unity勉強会#30（初心者歓迎！）](https://c-sagyoba-benkyoukai.connpass.com/event/271578/)
-- Feb 8 [第16回Goの標準ライブラリのコードを見てみよう(オフライン)](https://sendaigo.connpass.com/event/272951/)
+- Feb 21 [Go 1.20 リリースパーティ](https://gocon.connpass.com/event/273096/)
+- Feb 16 [AI駆動開発 LT会  - AI活用で開発を爆速にしよう！](https://aidriven.connpass.com/event/273240/)
+- Feb 9 [金融に活かすデータの開拓と利活用（Biz編）](https://fintech-engineer.connpass.com/event/273026/)
+- Feb 2 [2/2(木)【第1651回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/273244/)
+- Feb 2 [2/2(木)【第1650回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/273243/)
 <!-- profile updater end: connpass -->
 
 <!---
