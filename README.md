@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 24 [【限定配信】Unity × Blender World Creation Fest (LT会)](https://biosbootcamp.connpass.com/event/273153/)
-- Feb 23 [楽しいネットワーク勉強会in大阪](https://connpass.com/event/273311/)
-- Feb 21 [Go 1.20 リリースパーティ](https://gocon.connpass.com/event/273096/)
-- Feb 17 [Miroが拓いたデジタルホワイトボードの可能性 #cross2022](https://connpass.com/event/269220/)
-- Feb 1 [【第1弾/3回】データ分析のための統計勉強会～初級者向け～](https://theroom4d.connpass.com/event/273355/)
+- Feb 19 [第64回 GTUGGirls もくもく会](https://gtuggirls.connpass.com/event/273502/)
+- Feb 16 [【NIKKEI Tech Talk #4】メディア企業のバックエンド開発　～API開発事例～](https://nikkei.connpass.com/event/272705/)
+- Feb 11 [第112回 いわき情報技術研究会](https://iitg.connpass.com/event/273234/)
+- Feb 10 [OSCP勉強会](https://off-sec-lab.connpass.com/event/270480/)
+- Feb 3 [Nature Of Order チラ見会 - p.241 〜 p.320 ふりかえり-](https://alexander-study.connpass.com/event/273374/)
 <!-- profile updater end: connpass -->
 
 <!---
