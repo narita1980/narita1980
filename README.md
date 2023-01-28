@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 19 [第64回 GTUGGirls もくもく会](https://gtuggirls.connpass.com/event/273502/)
-- Feb 16 [【NIKKEI Tech Talk #4】メディア企業のバックエンド開発　～API開発事例～](https://nikkei.connpass.com/event/272705/)
-- Feb 11 [第112回 いわき情報技術研究会](https://iitg.connpass.com/event/273234/)
-- Feb 10 [OSCP勉強会](https://off-sec-lab.connpass.com/event/270480/)
-- Feb 3 [Nature Of Order チラ見会 - p.241 〜 p.320 ふりかえり-](https://alexander-study.connpass.com/event/273374/)
+- Mar 18 [第1回『ピープルウェア第3版』オンライン読書会](https://technical-book-reading.connpass.com/event/273601/)
+- Feb 23 [ChatGPT(OpenAI) ハンズオン 鹿児島.mk × BridgeSpace](https://bridgespace.connpass.com/event/273352/)
+- Feb 16 [メタバース焚火会 #4 メタバース月報会【VR機器不要】](https://bridgespace.connpass.com/event/273584/)
+- Feb 16 [Accessible Design in Japan｜A11y Tokyo Meetup](https://a11ytyo.connpass.com/event/273333/)
+- Feb 5 [2/5(日)【第1657回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/273598/)
 <!-- profile updater end: connpass -->
 
 <!---
