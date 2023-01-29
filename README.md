@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 18 [第1回『ピープルウェア第3版』オンライン読書会](https://technical-book-reading.connpass.com/event/273601/)
-- Feb 23 [ChatGPT(OpenAI) ハンズオン 鹿児島.mk × BridgeSpace](https://bridgespace.connpass.com/event/273352/)
-- Feb 16 [メタバース焚火会 #4 メタバース月報会【VR機器不要】](https://bridgespace.connpass.com/event/273584/)
-- Feb 16 [Accessible Design in Japan｜A11y Tokyo Meetup](https://a11ytyo.connpass.com/event/273333/)
-- Feb 5 [2/5(日)【第1657回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/273598/)
+- Mar 22 [Cloudflare Meetup Sendai(仮) Kick Off!](https://cfm-cts.connpass.com/event/273663/)
+- Feb 28 [toukon-ex #18](https://autoracex.connpass.com/event/271820/)
+- Feb 24 [特別編・バグバウンティのバグレポート読解セミナー](https://kabuto.connpass.com/event/273727/)
+- Feb 24 [autoracex #180](https://autoracex.connpass.com/event/271828/)
+- Feb 12 [第389回よちよちAndroidオフライン開発ミーティングin虎ノ門](https://yochiand.connpass.com/event/273723/)
 <!-- profile updater end: connpass -->
 
 <!---
