@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 22 [Cloudflare Meetup Sendai(仮) Kick Off!](https://cfm-cts.connpass.com/event/273663/)
-- Feb 28 [toukon-ex #18](https://autoracex.connpass.com/event/271820/)
-- Feb 24 [特別編・バグバウンティのバグレポート読解セミナー](https://kabuto.connpass.com/event/273727/)
-- Feb 24 [autoracex #180](https://autoracex.connpass.com/event/271828/)
-- Feb 12 [第389回よちよちAndroidオフライン開発ミーティングin虎ノ門](https://yochiand.connpass.com/event/273723/)
+- Feb 20 [第28回 MLOps 勉強会](https://mlops.connpass.com/event/273455/)
+- Feb 19 [釧路もくもく会 vol.1](https://connpass.com/event/273751/)
+- Feb 18 [【第5回】Tokushima Cyber Security Meetup](https://tokushima-cyber-security-meetup.connpass.com/event/273221/)
+- Feb 14 [#9 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/271956/)
+- Feb 11 [闇のもくもく会 #9](https://dark-mokumoku.connpass.com/event/273796/)
 <!-- profile updater end: connpass -->
 
 <!---
