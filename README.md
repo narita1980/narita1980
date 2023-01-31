@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 20 [第28回 MLOps 勉強会](https://mlops.connpass.com/event/273455/)
-- Feb 19 [釧路もくもく会 vol.1](https://connpass.com/event/273751/)
-- Feb 18 [【第5回】Tokushima Cyber Security Meetup](https://tokushima-cyber-security-meetup.connpass.com/event/273221/)
-- Feb 14 [#9 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/271956/)
-- Feb 11 [闇のもくもく会 #9](https://dark-mokumoku.connpass.com/event/273796/)
+- Mar 23 [帰ってきた！第4回制作物天下一武道会 -Mix Leap 5周年記念-](https://yahoo-osaka.connpass.com/event/273022/)
+- Mar 15 [OWASP Sendai #55](https://owaspsendai.connpass.com/event/273917/)
+- Mar 2 [【社内コンテンツ特別公開！】社会を変える「体験」を作り出す これからの時代のUXデザインとは？](https://recruit-event.connpass.com/event/273055/)
+- Feb 18 [ThinkReality A3 体験会【ARグラス】](https://fukuoka-xr-club.connpass.com/event/272873/)
+- Dec 7 [OWASP Sendai #54 (Fukuokaと同時開催)](https://owaspsendai.connpass.com/event/264056/)
 <!-- profile updater end: connpass -->
 
 <!---
