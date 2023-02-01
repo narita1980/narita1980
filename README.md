@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 23 [帰ってきた！第4回制作物天下一武道会 -Mix Leap 5周年記念-](https://yahoo-osaka.connpass.com/event/273022/)
-- Mar 15 [OWASP Sendai #55](https://owaspsendai.connpass.com/event/273917/)
+- Mar 23 [要件定義についてLT！ TechDLT Vol.9](https://techdmeetup.connpass.com/event/272797/)
+- Mar 21 [Saitama.js vol.5【埼玉県大宮開催！初心者歓迎 JavaScript LT会】](https://saitamajs.connpass.com/event/272660/)
+- Mar 9 [Node-RED Flow 大喜利 in 大阪](https://node-red.connpass.com/event/273939/)
 - Mar 2 [【社内コンテンツ特別公開！】社会を変える「体験」を作り出す これからの時代のUXデザインとは？](https://recruit-event.connpass.com/event/273055/)
-- Feb 18 [ThinkReality A3 体験会【ARグラス】](https://fukuoka-xr-club.connpass.com/event/272873/)
-- Dec 7 [OWASP Sendai #54 (Fukuokaと同時開催)](https://owaspsendai.connpass.com/event/264056/)
+- Mar 2 [急成長企業のCTO/VPoEが語る攻めと守りのバランス akippa tech park #1](https://akippa-tech-park.connpass.com/event/273102/)
 <!-- profile updater end: connpass -->
 
 <!---
