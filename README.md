@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 23 [要件定義についてLT！ TechDLT Vol.9](https://techdmeetup.connpass.com/event/272797/)
-- Mar 21 [Saitama.js vol.5【埼玉県大宮開催！初心者歓迎 JavaScript LT会】](https://saitamajs.connpass.com/event/272660/)
-- Mar 9 [Node-RED Flow 大喜利 in 大阪](https://node-red.connpass.com/event/273939/)
-- Mar 2 [【社内コンテンツ特別公開！】社会を変える「体験」を作り出す これからの時代のUXデザインとは？](https://recruit-event.connpass.com/event/273055/)
-- Mar 2 [急成長企業のCTO/VPoEが語る攻めと守りのバランス akippa tech park #1](https://akippa-tech-park.connpass.com/event/273102/)
+- Mar 25 [人にやさしい組織マネジメント・フェスタ #01](https://management30.connpass.com/event/270284/)
+- Feb 21 [【会場＆オンライン同時開催】FinTech Journalと考える「組込型金融のさらなる一手」](https://gmo.connpass.com/event/273043/)
+- Feb 18 [機械学習の社会実装勉強会第20回](https://machine-learning-workshop.connpass.com/event/273951/)
+- Feb 5 [第14回「オンラインITもくもく会」でゆったり作業しませんか？途中入退室OK](https://serverless-dev.connpass.com/event/274165/)
+- Feb 5 [Blenderで3DCG作ってみよう（会場：名護市産業支援センター・2階中会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/272386/)
 <!-- profile updater end: connpass -->
 
 <!---
