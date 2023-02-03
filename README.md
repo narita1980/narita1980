@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 25 [人にやさしい組織マネジメント・フェスタ #01](https://management30.connpass.com/event/270284/)
-- Feb 21 [【会場＆オンライン同時開催】FinTech Journalと考える「組込型金融のさらなる一手」](https://gmo.connpass.com/event/273043/)
-- Feb 18 [機械学習の社会実装勉強会第20回](https://machine-learning-workshop.connpass.com/event/273951/)
-- Feb 5 [第14回「オンラインITもくもく会」でゆったり作業しませんか？途中入退室OK](https://serverless-dev.connpass.com/event/274165/)
-- Feb 5 [Blenderで3DCG作ってみよう（会場：名護市産業支援センター・2階中会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/272386/)
+- Mar 2 [Drupal Meetup Tokyo #77 - 3/2023 [オンライン開催]](https://drupal-tokyo.connpass.com/event/274255/)
+- Feb 26 [第18回 CoderDojo武蔵小杉【自習回】※過去1回以上参加した方向け](https://coderdojo-musashikosugi.connpass.com/event/274288/)
+- Feb 21 [Re:Earthハンズオン Re:Earth×空間ID 3次元空間でボクセルを扱ってみよう](https://reearth.connpass.com/event/274287/)
+- Feb 16 [エンジニア採用一年目の教科書〜年間20名を採用する採用担当になるまでのストーリー〜](https://lapras.connpass.com/event/274072/)
+- Feb 15 [ATN#15 「探索的テスト＆ペアテストでアジャイルテストを味わってみる」夜](https://wingarc1st-spqi.connpass.com/event/273087/)
 <!-- profile updater end: connpass -->
 
 <!---
