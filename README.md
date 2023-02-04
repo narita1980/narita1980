@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 2 [Drupal Meetup Tokyo #77 - 3/2023 [オンライン開催]](https://drupal-tokyo.connpass.com/event/274255/)
-- Feb 26 [第18回 CoderDojo武蔵小杉【自習回】※過去1回以上参加した方向け](https://coderdojo-musashikosugi.connpass.com/event/274288/)
-- Feb 21 [Re:Earthハンズオン Re:Earth×空間ID 3次元空間でボクセルを扱ってみよう](https://reearth.connpass.com/event/274287/)
-- Feb 16 [エンジニア採用一年目の教科書〜年間20名を採用する採用担当になるまでのストーリー〜](https://lapras.connpass.com/event/274072/)
-- Feb 15 [ATN#15 「探索的テスト＆ペアテストでアジャイルテストを味わってみる」夜](https://wingarc1st-spqi.connpass.com/event/273087/)
+- Mar 18 [Windows Server ＆ Cloud User Group Japan 第34回 勉強会](https://scugj.connpass.com/event/274271/)
+- Feb 26 [CoderDojo Nago（会場：沖縄科学技術大学院大学 OIST Seaside house）](https://coderdojo-nago.connpass.com/event/274114/)
+- Feb 13 [レビューワーク07～製品・サービスリスクに着目したレビュー観点導出をやってみよう！](https://softwarereview-studygroup.connpass.com/event/274385/)
+- Feb 12 [2/12(日)【第1671回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/274383/)
+- Feb 12 [2/12(日)【第1670回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/274382/)
 <!-- profile updater end: connpass -->
 
 <!---
