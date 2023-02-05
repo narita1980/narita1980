@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 18 [Windows Server ＆ Cloud User Group Japan 第34回 勉強会](https://scugj.connpass.com/event/274271/)
-- Feb 26 [CoderDojo Nago（会場：沖縄科学技術大学院大学 OIST Seaside house）](https://coderdojo-nago.connpass.com/event/274114/)
-- Feb 13 [レビューワーク07～製品・サービスリスクに着目したレビュー観点導出をやってみよう！](https://softwarereview-studygroup.connpass.com/event/274385/)
-- Feb 12 [2/12(日)【第1671回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/274383/)
-- Feb 12 [2/12(日)【第1670回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/274382/)
+- Feb 13 [2/13(月)【第1673回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/274448/)
+- Feb 13 [2/13(月)【第1672回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/274447/)
+- Feb 12 [2/12(日)【第108回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/274456/)
+- Feb 11 [2/11(土)【第107回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/274455/)
+- Feb 9 [データ人材としてのキャリアを確立し、活躍の幅を広げるために「実務で身につけるべきこと」とは](https://anitya-darsana.connpass.com/event/272096/)
 <!-- profile updater end: connpass -->
 
 <!---
