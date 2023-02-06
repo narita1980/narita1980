@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 13 [2/13(月)【第1673回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/274448/)
-- Feb 13 [2/13(月)【第1672回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/274447/)
-- Feb 12 [2/12(日)【第108回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/274456/)
-- Feb 11 [2/11(土)【第107回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/274455/)
-- Feb 9 [データ人材としてのキャリアを確立し、活躍の幅を広げるために「実務で身につけるべきこと」とは](https://anitya-darsana.connpass.com/event/272096/)
+- Mar 3 [Microsoft Data Analytics Day(Online) 夜のLT会](https://sqlserver.connpass.com/event/274282/)
+- Feb 18 [#1 thirdweb meetup](https://solidity-jp.connpass.com/event/273902/)
+- Feb 17 [はんなりノーコード　ChatGPTワイワイ会](https://hannari-python.connpass.com/event/274244/)
+- Feb 16 [競プロゆんたく会・はじめるよ〜〜！](https://kyopro-yuntaku.connpass.com/event/274517/)
+- Feb 12 [[YouTube Live] Power BI Weekly News 61](https://pp-weeklynews.connpass.com/event/274509/)
 <!-- profile updater end: connpass -->
 
 <!---
