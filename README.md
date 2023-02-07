@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 3 [Microsoft Data Analytics Day(Online) 夜のLT会](https://sqlserver.connpass.com/event/274282/)
-- Feb 18 [#1 thirdweb meetup](https://solidity-jp.connpass.com/event/273902/)
-- Feb 17 [はんなりノーコード　ChatGPTワイワイ会](https://hannari-python.connpass.com/event/274244/)
-- Feb 16 [競プロゆんたく会・はじめるよ〜〜！](https://kyopro-yuntaku.connpass.com/event/274517/)
-- Feb 12 [[YouTube Live] Power BI Weekly News 61](https://pp-weeklynews.connpass.com/event/274509/)
+- Mar 25 [人にやさしい組織マネジメント・フェスタ #01](https://management30.connpass.com/event/270284/)
+- Mar 18 [柏の葉IoTビジネス共創ラボ第7回勉強会 x IDEACTIVEエントリーイベント “もくもく会”](https://iotbizlabo.connpass.com/event/274535/)
+- Feb 28 [UB Tech vol.6 「全員採用で強い開発組織を作る！そのノウハウを大公開！」](https://uzabase-tech.connpass.com/event/273434/)
+- Feb 24 [Japan VMUG UserCon 2023](https://vmug-jp.connpass.com/event/274177/)
+- Feb 21 [Zabbix超入門](https://fujitsufjct.connpass.com/event/274610/)
 <!-- profile updater end: connpass -->
 
 <!---
