@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 25 [人にやさしい組織マネジメント・フェスタ #01](https://management30.connpass.com/event/270284/)
-- Mar 18 [柏の葉IoTビジネス共創ラボ第7回勉強会 x IDEACTIVEエントリーイベント “もくもく会”](https://iotbizlabo.connpass.com/event/274535/)
-- Feb 28 [UB Tech vol.6 「全員採用で強い開発組織を作る！そのノウハウを大公開！」](https://uzabase-tech.connpass.com/event/273434/)
-- Feb 24 [Japan VMUG UserCon 2023](https://vmug-jp.connpass.com/event/274177/)
-- Feb 21 [Zabbix超入門](https://fujitsufjct.connpass.com/event/274610/)
+- Mar 11 [誰でもWelcome LT](https://serverless-dev.connpass.com/event/274795/)
+- Mar 11 [データ利活用やってみよう！ハッカソン 発表会〜アプリのフィードバックをもらおう〜](https://connpass.com/event/265169/)
+- Mar 8 [【ハイブリット開催】OCI Cloud Native 2023](https://ochacafe.connpass.com/event/270024/)
+- Feb 25 [[第1回] ML女子部 JAX入門](https://women-ml.connpass.com/event/271900/)
+- Feb 21 [角谷さんと考える「アジャイルってなんだっけ？」](https://tebiki.connpass.com/event/273057/)
 <!-- profile updater end: connpass -->
 
 <!---
