@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 11 [誰でもWelcome LT](https://serverless-dev.connpass.com/event/274795/)
-- Mar 11 [データ利活用やってみよう！ハッカソン 発表会〜アプリのフィードバックをもらおう〜](https://connpass.com/event/265169/)
-- Mar 8 [【ハイブリット開催】OCI Cloud Native 2023](https://ochacafe.connpass.com/event/270024/)
-- Feb 25 [[第1回] ML女子部 JAX入門](https://women-ml.connpass.com/event/271900/)
-- Feb 21 [角谷さんと考える「アジャイルってなんだっけ？」](https://tebiki.connpass.com/event/273057/)
+- Mar 7 [Mobile勉強会 Wantedly × チームラボ #8](https://teamlab.connpass.com/event/274800/)
+- Feb 22 [金融に活かすデータの開拓と利活用（技術編）](https://fintech-engineer.connpass.com/event/273747/)
+- Feb 22 [【オンライン】ノーコードでワークフロー！30分プリザンター濃縮トレーニング⑥](https://reedex.connpass.com/event/274532/)
+- Feb 19 [日本Androidの会浜松支部 第139回ミーティング](https://jaghama.connpass.com/event/274913/)
+- Feb 18 [#1 thirdweb meetup](https://solidity-jp.connpass.com/event/273902/)
 <!-- profile updater end: connpass -->
 
 <!---
