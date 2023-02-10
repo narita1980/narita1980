@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 7 [Mobile勉強会 Wantedly × チームラボ #8](https://teamlab.connpass.com/event/274800/)
-- Feb 22 [金融に活かすデータの開拓と利活用（技術編）](https://fintech-engineer.connpass.com/event/273747/)
-- Feb 22 [【オンライン】ノーコードでワークフロー！30分プリザンター濃縮トレーニング⑥](https://reedex.connpass.com/event/274532/)
-- Feb 19 [日本Androidの会浜松支部 第139回ミーティング](https://jaghama.connpass.com/event/274913/)
-- Feb 18 [#1 thirdweb meetup](https://solidity-jp.connpass.com/event/273902/)
+- Mar 14 [【楽天出店者 友の会】九州カンファレンス2023](https://connpass.com/event/274623/)
+- Mar 2 [システム開発者様向けアジャイルリーダーシップトレーニングManagement 3.0説明会10名限定](https://management-30-hirolabo.connpass.com/event/274334/)
+- Mar 1 [今こそアジャイルを学びなおそう！AgileShimane再始動！](https://agile-shimane.connpass.com/event/274999/)
+- Feb 24 [徹底攻略！HTML5プロフェッショナル認定試験 レベル1Ver2.5刊行記念・受験対策セミナー](https://sebook.connpass.com/event/274073/)
+- Feb 22 [【2/22（水）】ネコの日！第14回 Alteryx User Group in Tokyo](https://alteryx-ug.connpass.com/event/271916/)
 <!-- profile updater end: connpass -->
 
 <!---
