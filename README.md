@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 14 [【楽天出店者 友の会】九州カンファレンス2023](https://connpass.com/event/274623/)
-- Mar 2 [システム開発者様向けアジャイルリーダーシップトレーニングManagement 3.0説明会10名限定](https://management-30-hirolabo.connpass.com/event/274334/)
-- Mar 1 [今こそアジャイルを学びなおそう！AgileShimane再始動！](https://agile-shimane.connpass.com/event/274999/)
-- Feb 24 [徹底攻略！HTML5プロフェッショナル認定試験 レベル1Ver2.5刊行記念・受験対策セミナー](https://sebook.connpass.com/event/274073/)
-- Feb 22 [【2/22（水）】ネコの日！第14回 Alteryx User Group in Tokyo](https://alteryx-ug.connpass.com/event/271916/)
+- Dec 1 [データベース、SQL](https://beginner-waiwai.connpass.com/event/273400/)
+- Mar 18 [NSEG フリーテーマプレゼン大会](https://nseg.connpass.com/event/275100/)
+- Mar 4 [◤xR with Anything Meetup #019◢ #xram81 #メタバース](https://xram.connpass.com/event/275092/)
+- Feb 19 [【第8回】SE時事ラジオ](https://setk.connpass.com/event/275094/)
+- Feb 19 [サウンドミニハッカソン＃21 「Max/MSPとかサウンド技術」](https://effectorhack.connpass.com/event/275098/)
 <!-- profile updater end: connpass -->
 
 <!---
