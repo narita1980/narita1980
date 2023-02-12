@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 1 [データベース、SQL](https://beginner-waiwai.connpass.com/event/273400/)
 - Mar 18 [NSEG フリーテーマプレゼン大会](https://nseg.connpass.com/event/275100/)
+- Mar 9 [第29回 MLOps 勉強会](https://mlops.connpass.com/event/275049/)
 - Mar 4 [◤xR with Anything Meetup #019◢ #xram81 #メタバース](https://xram.connpass.com/event/275092/)
-- Feb 19 [【第8回】SE時事ラジオ](https://setk.connpass.com/event/275094/)
-- Feb 19 [サウンドミニハッカソン＃21 「Max/MSPとかサウンド技術」](https://effectorhack.connpass.com/event/275098/)
+- Feb 26 [IT系&誰でも参加OK！もくもく会_朝活_2/26(日)](https://morimori.connpass.com/event/275161/)
+- Feb 19 [第29回「オンラインITもくもく会」でゆったり作業しませんか？途中入退室OK](https://serverless-dev.connpass.com/event/275164/)
 <!-- profile updater end: connpass -->
 
 <!---
