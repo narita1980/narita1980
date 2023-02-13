@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 18 [NSEG フリーテーマプレゼン大会](https://nseg.connpass.com/event/275100/)
-- Mar 9 [第29回 MLOps 勉強会](https://mlops.connpass.com/event/275049/)
-- Mar 4 [◤xR with Anything Meetup #019◢ #xram81 #メタバース](https://xram.connpass.com/event/275092/)
-- Feb 26 [IT系&誰でも参加OK！もくもく会_朝活_2/26(日)](https://morimori.connpass.com/event/275161/)
-- Feb 19 [第29回「オンラインITもくもく会」でゆったり作業しませんか？途中入退室OK](https://serverless-dev.connpass.com/event/275164/)
+- Mar 5 [3/5 (日) 13:00【データサイエンスの祭典】WiDS HIROSHIMA シンポジウム](https://widshiroshima.connpass.com/event/274098/)
+- Feb 28 [React Tech Night TOKYO #3](https://anotherworks.connpass.com/event/272585/)
+- Feb 28 [トヨタ ガジェット研究所 Vol.2](https://enebular.connpass.com/event/273117/)
+- Feb 21 [【近畿大学 山縣ゼミフェア】2022年度価値創造デザインプロジェクト成果報告会](https://yahoo-osaka.connpass.com/event/273060/)
+- Feb 19 [ゆるーくISUCON勉強会＃１](https://connpass.com/event/275242/)
 <!-- profile updater end: connpass -->
 
 <!---
