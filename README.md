@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 5 [3/5 (日) 13:00【データサイエンスの祭典】WiDS HIROSHIMA シンポジウム](https://widshiroshima.connpass.com/event/274098/)
-- Feb 28 [React Tech Night TOKYO #3](https://anotherworks.connpass.com/event/272585/)
-- Feb 28 [トヨタ ガジェット研究所 Vol.2](https://enebular.connpass.com/event/273117/)
-- Feb 21 [【近畿大学 山縣ゼミフェア】2022年度価値創造デザインプロジェクト成果報告会](https://yahoo-osaka.connpass.com/event/273060/)
-- Feb 19 [ゆるーくISUCON勉強会＃１](https://connpass.com/event/275242/)
+- Mar 18 [Salesforce Saturday Japan 高知 #2 【オフライン&オンライン同時開催】](https://salesforcesaturday-kochi.connpass.com/event/275365/)
+- Mar 15 [JAWS-UG朝会 #43](https://jawsug-asa.connpass.com/event/266889/)
+- Feb 25 [.NETラボ 勉強会 2023年2月](https://dotnetlab.connpass.com/event/274420/)
+- Feb 22 [AWSの先週ふりかえり  水曜朝9時  #ohayo_aws 2023.02.22](https://ohayo-aws.connpass.com/event/275366/)
+- Feb 21 [Zabbix超入門](https://fujitsufjct.connpass.com/event/274610/)
 <!-- profile updater end: connpass -->
 
 <!---
