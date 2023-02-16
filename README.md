@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 5 [OAuth Numa (Immersion) Workshop 2023](https://connpass.com/event/275302/)
-- Mar 19 [JIFAプログラミング教室（＋インドネシア文化交流）](https://jifa.connpass.com/event/275397/)
-- Mar 15 [エンジニアだからこそできる社会に役立つ「プロダクト開発」とは？](https://yojo.connpass.com/event/273949/)
-- Feb 24 [オフライン開催！【Progate Path Meetup キャリア編 #01】](https://progate.connpass.com/event/274569/)
-- Feb 22 [IT系&誰でも参加OK！もくもく会_朝活_2/22(水)](https://morimori.connpass.com/event/275486/)
+- Mar 26 [おすすめの技術書やツールについてのLT会(関西女性エンジニア限定)#6](https://tech-woman-kansai.connpass.com/event/275448/)
+- Mar 4 [【仙台開催】データ分析系勉強会サテライトビューイング#05 〜Tokyo.R第104回観戦〜](https://satellite-study.connpass.com/event/275198/)
+- Mar 2 [SWET Online @ DeNA TechCon 2023](https://testonline.connpass.com/event/274937/)
+- Mar 2 [エンジニア向け勉強会 〜スキーマ駆動開発の理想の構成〜](https://divx.connpass.com/event/275412/)
+- Feb 27 [小さな会社こそのAI活用法！人手不足でもビジネスが伸びる、誰でも使えるから早いもの勝ち](https://itc-okinawa.connpass.com/event/275563/)
 <!-- profile updater end: connpass -->
 
 <!---
