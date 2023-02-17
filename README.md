@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Mar 28 [【ハンズオン】LINEミニアプリ × microCMSでサロン向けアプリを作ろう！](https://linedevelopercommunity.connpass.com/event/275270/)
 - Mar 26 [おすすめの技術書やツールについてのLT会(関西女性エンジニア限定)#6](https://tech-woman-kansai.connpass.com/event/275448/)
-- Mar 4 [【仙台開催】データ分析系勉強会サテライトビューイング#05 〜Tokyo.R第104回観戦〜](https://satellite-study.connpass.com/event/275198/)
-- Mar 2 [SWET Online @ DeNA TechCon 2023](https://testonline.connpass.com/event/274937/)
-- Mar 2 [エンジニア向け勉強会 〜スキーマ駆動開発の理想の構成〜](https://divx.connpass.com/event/275412/)
-- Feb 27 [小さな会社こそのAI活用法！人手不足でもビジネスが伸びる、誰でも使えるから早いもの勝ち](https://itc-okinawa.connpass.com/event/275563/)
+- Mar 25 [人にやさしい組織マネジメント・フェスタ #01](https://management30.connpass.com/event/270284/)
+- Mar 21 [福岡.dart](https://flutteruniv.connpass.com/event/275584/)
+- Mar 16 [第3回 DX推進「実行力」の勉強会【参加無料】](https://fitco.connpass.com/event/275698/)
 <!-- profile updater end: connpass -->
 
 <!---
