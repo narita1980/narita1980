@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 25 [DeepLearningTenjin#5](https://engineercafe.connpass.com/event/275800/)
-- Mar 18 [Windows Server ＆ Cloud User Group Japan 第34回 勉強会](https://scugj.connpass.com/event/274271/)
-- Mar 9 [Platform Engineering Meetup #1](https://platformengineering.connpass.com/event/275718/)
-- Mar 4 [AUGM 大阪 March 2023 懇親会](https://augmosaka.connpass.com/event/270652/)
-- Feb 19 [【渋谷】ITもくもく・交流会](https://asulever.connpass.com/event/275203/)
+- Mar 19 [CoderDojo横浜師岡（第6回）](https://coderdojo-morooka.connpass.com/event/275881/)
+- Mar 11 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2023/03/11](https://coderdojo-nisshin.connpass.com/event/275884/)
+- Mar 4 [天下一キーボードわいわい会 Vol.4](https://tenkey.connpass.com/event/273910/)
+- Feb 28 [[オンライン] 第35回ゼロから始めるCTF入門勉強会 (初心者歓迎！)](https://zeroctf.connpass.com/event/274516/)
+- Feb 27 [2/27(月)【第1701回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/275879/)
 <!-- profile updater end: connpass -->
 
 <!---
