@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 19 [CoderDojo横浜師岡（第6回）](https://coderdojo-morooka.connpass.com/event/275881/)
-- Mar 11 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2023/03/11](https://coderdojo-nisshin.connpass.com/event/275884/)
-- Mar 4 [天下一キーボードわいわい会 Vol.4](https://tenkey.connpass.com/event/273910/)
-- Feb 28 [[オンライン] 第35回ゼロから始めるCTF入門勉強会 (初心者歓迎！)](https://zeroctf.connpass.com/event/274516/)
-- Feb 27 [2/27(月)【第1701回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/275879/)
+- Mar 24 [TiFlashの紹介](https://tug.connpass.com/event/275620/)
+- Mar 19 [第46回 CoderDojo池袋@ユニーク・アイネット](https://coderdojo-ikebukuro.connpass.com/event/275822/)
+- Mar 18 [ACRiルーム・ハンズオン：初心者限定FPGA入門セミナー](https://acri.connpass.com/event/275905/)
+- Mar 18 [【懇親会あり】#18 ミートアップ&もくもく会&ノーコードでNFT mintサイト開発ハンズオン](https://buildweekend.connpass.com/event/275253/)
+- Mar 2 [Monitoring Night Panel vol.1 #blastengine](https://blastengine.connpass.com/event/275791/)
 <!-- profile updater end: connpass -->
 
 <!---
