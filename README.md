@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 24 [TiFlashの紹介](https://tug.connpass.com/event/275620/)
-- Mar 19 [第46回 CoderDojo池袋@ユニーク・アイネット](https://coderdojo-ikebukuro.connpass.com/event/275822/)
-- Mar 18 [ACRiルーム・ハンズオン：初心者限定FPGA入門セミナー](https://acri.connpass.com/event/275905/)
-- Mar 18 [【懇親会あり】#18 ミートアップ&もくもく会&ノーコードでNFT mintサイト開発ハンズオン](https://buildweekend.connpass.com/event/275253/)
-- Mar 2 [Monitoring Night Panel vol.1 #blastengine](https://blastengine.connpass.com/event/275791/)
+- Mar 18 [ものづくりハッカソン 2023 in 石川](https://connpass.com/event/266166/)
+- Mar 15 [Merpay Tech Talk〜PM、Backendエンジニアによるメルカードの開発舞台裏大公開〜](https://mercari.connpass.com/event/275305/)
+- Mar 11 [kintone Café 帯広 vol.2](https://kintonecafeobihiro.connpass.com/event/271270/)
+- Mar 9 [Platform Engineering Meetup #1](https://platformengineering.connpass.com/event/275718/)
+- Mar 2 [Cogbot Meetup Online #39 - Azure OpenAI GA キャッチアップ](https://cogbot.connpass.com/event/275719/)
 <!-- profile updater end: connpass -->
 
 <!---
