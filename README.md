@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 18 [ものづくりハッカソン 2023 in 石川](https://connpass.com/event/266166/)
-- Mar 15 [Merpay Tech Talk〜PM、Backendエンジニアによるメルカードの開発舞台裏大公開〜](https://mercari.connpass.com/event/275305/)
-- Mar 11 [kintone Café 帯広 vol.2](https://kintonecafeobihiro.connpass.com/event/271270/)
-- Mar 9 [Platform Engineering Meetup #1](https://platformengineering.connpass.com/event/275718/)
-- Mar 2 [Cogbot Meetup Online #39 - Azure OpenAI GA キャッチアップ](https://cogbot.connpass.com/event/275719/)
+- Mar 22 [Serverless LT初心者向け LT大会 #31](https://serverlesslt.connpass.com/event/276058/)
+- Mar 17 [第2回eAIプロジェクトシンポジウム（オンライン）](https://engineerableai.connpass.com/event/276184/)
+- Mar 17 [日本LSI復興支援 FPGA入門ハンズオン](https://osscons-embedded.connpass.com/event/272350/)
+- Mar 8 [クリエイターが知っておくべき営業と契約の話](https://connpass.com/event/275323/)
+- Mar 4 [◤xR with Anything Meetup #019◢ #xram81 #メタバース](https://xram.connpass.com/event/275092/)
 <!-- profile updater end: connpass -->
 
 <!---
