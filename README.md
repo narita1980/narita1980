@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 22 [Serverless LT初心者向け LT大会 #31](https://serverlesslt.connpass.com/event/276058/)
-- Mar 17 [第2回eAIプロジェクトシンポジウム（オンライン）](https://engineerableai.connpass.com/event/276184/)
-- Mar 17 [日本LSI復興支援 FPGA入門ハンズオン](https://osscons-embedded.connpass.com/event/272350/)
-- Mar 8 [クリエイターが知っておくべき営業と契約の話](https://connpass.com/event/275323/)
 - Mar 4 [◤xR with Anything Meetup #019◢ #xram81 #メタバース](https://xram.connpass.com/event/275092/)
+- Mar 4 [ゲームメーカーズ　スクランブル内イベント「初心者歓迎！UE5&Blenderハンズオン」（抽選）](https://connpass.com/event/273814/)
+- Mar 3 [3/3(金)【第1709回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/276285/)
+- Mar 3 [建築情報学会Week2023 前夜祭](https://ais-j.connpass.com/event/275267/)
+- Mar 3 [3/3(金)【第1708回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/276284/)
 <!-- profile updater end: connpass -->
 
 <!---
