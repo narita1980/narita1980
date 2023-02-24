@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 4 [◤xR with Anything Meetup #019◢ #xram81 #メタバース](https://xram.connpass.com/event/275092/)
-- Mar 4 [ゲームメーカーズ　スクランブル内イベント「初心者歓迎！UE5&Blenderハンズオン」（抽選）](https://connpass.com/event/273814/)
-- Mar 3 [3/3(金)【第1709回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/276285/)
-- Mar 3 [建築情報学会Week2023 前夜祭](https://ais-j.connpass.com/event/275267/)
-- Mar 3 [3/3(金)【第1708回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/276284/)
+- Mar 15 [Bio"Pack"athon 2023 #3](https://biopackathon.connpass.com/event/270456/)
+- Mar 11 [競プロゆんたく会 #2 in 琉大地創棟](https://kyopro-yuntaku.connpass.com/event/276346/)
+- Mar 11 [データ利活用やってみよう！ハッカソン 発表会〜アプリのフィードバックをもらおう〜](https://connpass.com/event/265169/)
+- Mar 11 [AI推進企業に成長戦略を！CDLE AI QUEST 2.0  チーム別提案発表会【CDLE主催】](https://jdla.connpass.com/event/275896/)
+- Mar 9 [UbieとSmartHRが語る プロダクトデザイナーのリアル【オフライン開催・増枠】](https://smarthr.connpass.com/event/274689/)
 <!-- profile updater end: connpass -->
 
 <!---
