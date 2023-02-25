@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 15 [Bio"Pack"athon 2023 #3](https://biopackathon.connpass.com/event/270456/)
-- Mar 11 [競プロゆんたく会 #2 in 琉大地創棟](https://kyopro-yuntaku.connpass.com/event/276346/)
-- Mar 11 [データ利活用やってみよう！ハッカソン 発表会〜アプリのフィードバックをもらおう〜](https://connpass.com/event/265169/)
-- Mar 11 [AI推進企業に成長戦略を！CDLE AI QUEST 2.0  チーム別提案発表会【CDLE主催】](https://jdla.connpass.com/event/275896/)
-- Mar 9 [UbieとSmartHRが語る プロダクトデザイナーのリアル【オフライン開催・増枠】](https://smarthr.connpass.com/event/274689/)
+- Apr 6 [Up-And-Comer Showcase: LINE API Tips【事例/マネタイズ】](https://linedevelopercommunity.connpass.com/event/275767/)
+- Mar 25 [【オンライン】アプリ開発（DX/AI/XR）新規事業開発相談会 2023/03/25](https://kobe-driven-dev.connpass.com/event/276440/)
+- Mar 18 [【懇親会あり】#18 ミートアップ&もくもく会&ノーコードでNFT mintサイト開発ハンズオン](https://buildweekend.connpass.com/event/275253/)
+- Mar 5 [IT系&誰でも参加OK！もくもく会_朝活_3/5(日)](https://morimori.connpass.com/event/276438/)
+- Feb 25 [.NETラボ 勉強会 2023年2月](https://dotnetlab.connpass.com/event/274420/)
 <!-- profile updater end: connpass -->
 
 <!---
