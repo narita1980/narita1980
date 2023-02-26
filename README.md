@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 6 [Up-And-Comer Showcase: LINE API Tips【事例/マネタイズ】](https://linedevelopercommunity.connpass.com/event/275767/)
-- Mar 25 [【オンライン】アプリ開発（DX/AI/XR）新規事業開発相談会 2023/03/25](https://kobe-driven-dev.connpass.com/event/276440/)
-- Mar 18 [【懇親会あり】#18 ミートアップ&もくもく会&ノーコードでNFT mintサイト開発ハンズオン](https://buildweekend.connpass.com/event/275253/)
-- Mar 5 [IT系&誰でも参加OK！もくもく会_朝活_3/5(日)](https://morimori.connpass.com/event/276438/)
-- Feb 25 [.NETラボ 勉強会 2023年2月](https://dotnetlab.connpass.com/event/274420/)
+- Mar 23 [要件定義についてLT！ TechDLT Vol.9](https://techdmeetup.connpass.com/event/272797/)
+- Mar 15 [「アジャイル式」健康カイゼンガイド読書会 第8回（Discord開催）](https://agileprocess.connpass.com/event/276489/)
+- Mar 10 [Hack.BAR 福岡](https://hackbar.connpass.com/event/274812/)
+- Mar 1 [NPOのDX推進の現在地｜本音で語ります](https://florence.connpass.com/event/276221/)
+- Feb 26 [FuraIT.fuel #48ハイブリッドもくもく会（スプラもやろ！）](https://furait.connpass.com/event/275466/)
 <!-- profile updater end: connpass -->
 
 <!---
