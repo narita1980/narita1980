@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 23 [要件定義についてLT！ TechDLT Vol.9](https://techdmeetup.connpass.com/event/272797/)
-- Mar 15 [「アジャイル式」健康カイゼンガイド読書会 第8回（Discord開催）](https://agileprocess.connpass.com/event/276489/)
-- Mar 10 [Hack.BAR 福岡](https://hackbar.connpass.com/event/274812/)
-- Mar 1 [NPOのDX推進の現在地｜本音で語ります](https://florence.connpass.com/event/276221/)
-- Feb 26 [FuraIT.fuel #48ハイブリッドもくもく会（スプラもやろ！）](https://furait.connpass.com/event/275466/)
+- May 10 [CivicTechRadio Vol.16](https://civictechlt.connpass.com/event/276032/)
+- Mar 25 [サーバー構築ハンズオン＠オンライン #149](https://svrkcho.connpass.com/event/276571/)
+- Mar 17 [第2回eAIプロジェクトシンポジウム（オンライン）](https://engineerableai.connpass.com/event/276184/)
+- Mar 16 [第3回 DX推進「実行力」の勉強会【参加無料】](https://fitco.connpass.com/event/275698/)
+- Mar 15 [Let's Go Talk #8 (GoのLT会)](https://connehito.connpass.com/event/276353/)
 <!-- profile updater end: connpass -->
 
 <!---
