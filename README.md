@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 10 [CivicTechRadio Vol.16](https://civictechlt.connpass.com/event/276032/)
-- Mar 25 [サーバー構築ハンズオン＠オンライン #149](https://svrkcho.connpass.com/event/276571/)
-- Mar 17 [第2回eAIプロジェクトシンポジウム（オンライン）](https://engineerableai.connpass.com/event/276184/)
-- Mar 16 [第3回 DX推進「実行力」の勉強会【参加無料】](https://fitco.connpass.com/event/275698/)
-- Mar 15 [Let's Go Talk #8 (GoのLT会)](https://connehito.connpass.com/event/276353/)
+- Apr 21 [第2回「Matlantis User Conference」](https://pfcc.connpass.com/event/276618/)
+- Apr 9 [6/6回 Cosmic Model 愛好会 in Kansai 6/6回 テンセグリティ](https://tensegrity-model-kansai.connpass.com/event/274813/)
+- Mar 16 [スカウト媒体初導入から1ヶ月半で内定獲得したロカオプ事例から学ぶ](https://lapras.connpass.com/event/276363/)
+- Mar 9 [マネーフォワード×ナレッジワーク 『ビジネス課題をGoで解決する 』](https://knowledgework.connpass.com/event/274690/)
+- Mar 8 [【朝活】外資ITサバイバル英語 - Vol.50　＊通勤中・耳だけ参加もOK＊](https://setk.connpass.com/event/276067/)
 <!-- profile updater end: connpass -->
 
 <!---
