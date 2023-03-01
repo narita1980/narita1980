@@ -13,21 +13,21 @@
 # Qiita Articles
 
 <!-- profile updater begin: qiita -->
+- Feb 28 [初めてのReact「入門編」導入から基本まで〜TODOアプリを作ってみよう〜](https://qiita.com/narita1980/items/49df43425ba2400bd0c2)
 - May 3, **1 LGTM** [15分ルールで学習効果を高める（日本語訳）](https://qiita.com/narita1980/items/d0ad5246344fc6e4380f)
 - Mar 4, **3 LGTM** [GitHubのプルリクエストでファイルツリーが表示されるようになりました（ベータ版機能）](https://qiita.com/narita1980/items/bee2c5232342a51e0415)
 - Feb 27 [Instagram（インスタ）で1万人を超えたアカウントのフォロアー数、フォロー数を知るためには"?__a=1"を付与する](https://qiita.com/narita1980/items/630b7014fa893461b991)
 - Feb 22 [Simple.cssチートシート](https://qiita.com/narita1980/items/fd2ccf0e91944aab9fd5)
-- Feb 21, **24 LGTM** [【公式資料】GitLab社で学んだ最高の働き方](https://qiita.com/narita1980/items/d7d142c2bb6312cb9ad6)
 <!-- profile updater end: qiita -->
 
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 21 [第2回「Matlantis User Conference」](https://pfcc.connpass.com/event/276618/)
-- Apr 9 [6/6回 Cosmic Model 愛好会 in Kansai 6/6回 テンセグリティ](https://tensegrity-model-kansai.connpass.com/event/274813/)
-- Mar 16 [スカウト媒体初導入から1ヶ月半で内定獲得したロカオプ事例から学ぶ](https://lapras.connpass.com/event/276363/)
-- Mar 9 [マネーフォワード×ナレッジワーク 『ビジネス課題をGoで解決する 』](https://knowledgework.connpass.com/event/274690/)
-- Mar 8 [【朝活】外資ITサバイバル英語 - Vol.50　＊通勤中・耳だけ参加もOK＊](https://setk.connpass.com/event/276067/)
+- Jun 29 [SEC道後2023「WEST-SEC CTF」](https://west-sec.connpass.com/event/276805/)
+- Apr 14 [eAI Symposium on Digital Humanism](https://engineerableai.connpass.com/event/276056/)
+- Mar 14 [キャリアプランに脆弱性診断を追加したい"未来の"初級者向け【W2-505】](https://kabuto.connpass.com/event/276808/)
+- Mar 11 [朝霞IT勉強会 #33 〜Remote でもくもく〜](https://asaka-it.connpass.com/event/271593/)
+- Mar 11 [KUMAMOTO OPEN HACKATHON 2023](https://tech-fusion-studio.connpass.com/event/276759/)
 <!-- profile updater end: connpass -->
 
 <!---
