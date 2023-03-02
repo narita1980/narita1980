@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 29 [SEC道後2023「WEST-SEC CTF」](https://west-sec.connpass.com/event/276805/)
-- Apr 14 [eAI Symposium on Digital Humanism](https://engineerableai.connpass.com/event/276056/)
-- Mar 14 [キャリアプランに脆弱性診断を追加したい"未来の"初級者向け【W2-505】](https://kabuto.connpass.com/event/276808/)
-- Mar 11 [朝霞IT勉強会 #33 〜Remote でもくもく〜](https://asaka-it.connpass.com/event/271593/)
-- Mar 11 [KUMAMOTO OPEN HACKATHON 2023](https://tech-fusion-studio.connpass.com/event/276759/)
+- Mar 29 [【CPO×CTO対談】BtoB 請求管理×SaaSプロダクト開発の裏側](https://cloudpayment-sys.connpass.com/event/276383/)
+- Mar 25 [.NETラボ 勉強会 2023年3月](https://dotnetlab.connpass.com/event/275838/)
+- Mar 23 [【マケデコ】JQunats APIリリース直前イベント](https://mkdeco.connpass.com/event/273256/)
+- Mar 16 [[オフライン]すくすくスクラム仙台 Meetup (2023.3)](https://suku3rum-sendai.connpass.com/event/276581/)
+- Mar 15 [テスト駆動Python 第2版 読書会#7](https://fin-py.connpass.com/event/276923/)
 <!-- profile updater end: connpass -->
 
 <!---
