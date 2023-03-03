@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 29 [【CPO×CTO対談】BtoB 請求管理×SaaSプロダクト開発の裏側](https://cloudpayment-sys.connpass.com/event/276383/)
-- Mar 25 [.NETラボ 勉強会 2023年3月](https://dotnetlab.connpass.com/event/275838/)
-- Mar 23 [【マケデコ】JQunats APIリリース直前イベント](https://mkdeco.connpass.com/event/273256/)
-- Mar 16 [[オフライン]すくすくスクラム仙台 Meetup (2023.3)](https://suku3rum-sendai.connpass.com/event/276581/)
-- Mar 15 [テスト駆動Python 第2版 読書会#7](https://fin-py.connpass.com/event/276923/)
+- Mar 25 [人にやさしい組織マネジメント・フェスタ #01](https://management30.connpass.com/event/270284/)
+- Mar 9 [【Online】LINE Technical Writing Meetup vol. 22](https://line.connpass.com/event/276934/)
+- Mar 9 [Web TECH FORUM 2023 Winter](https://grapecity-dev-tools.connpass.com/event/274310/)
+- Mar 7 [Winnyとは何だったのか v2.0b7.1](https://hackers.connpass.com/event/275585/)
+- Mar 6 [Learning Commons for Power Platform # 0](https://kuro.connpass.com/event/276824/)
 <!-- profile updater end: connpass -->
 
 <!---
