@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 25 [人にやさしい組織マネジメント・フェスタ #01](https://management30.connpass.com/event/270284/)
-- Mar 9 [【Online】LINE Technical Writing Meetup vol. 22](https://line.connpass.com/event/276934/)
-- Mar 9 [Web TECH FORUM 2023 Winter](https://grapecity-dev-tools.connpass.com/event/274310/)
-- Mar 7 [Winnyとは何だったのか v2.0b7.1](https://hackers.connpass.com/event/275585/)
-- Mar 6 [Learning Commons for Power Platform # 0](https://kuro.connpass.com/event/276824/)
+- Mar 26 [3/26無料の子どもプログラミングサークル【第44回CoderDojo溝口】(川崎市,初心者歓迎)](https://coderdojo-mizonokuchi.connpass.com/event/275937/)
+- Mar 24 [OSCP勉強会 #2](https://off-sec-lab.connpass.com/event/276425/)
+- Mar 16 [【CDLE主催】CDLE女子会　月例交流会【2023年3月】](https://jdla.connpass.com/event/277086/)
+- Mar 12 [3/12(日)【第1727回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/277116/)
+- Mar 12 [3/12(日)【第1726回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/277115/)
 <!-- profile updater end: connpass -->
 
 <!---
