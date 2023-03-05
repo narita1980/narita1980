@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 26 [3/26無料の子どもプログラミングサークル【第44回CoderDojo溝口】(川崎市,初心者歓迎)](https://coderdojo-mizonokuchi.connpass.com/event/275937/)
-- Mar 24 [OSCP勉強会 #2](https://off-sec-lab.connpass.com/event/276425/)
-- Mar 16 [【CDLE主催】CDLE女子会　月例交流会【2023年3月】](https://jdla.connpass.com/event/277086/)
-- Mar 12 [3/12(日)【第1727回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/277116/)
-- Mar 12 [3/12(日)【第1726回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/277115/)
+- Mar 26 [JuliaTokai #14](https://juliatokai.connpass.com/event/277144/)
+- Mar 26 [第33回 Raspberry pi もくもく会@オンライン](https://raspberry-pi-moku.connpass.com/event/277186/)
+- Mar 25 [Flutter茶論(さろん) 第１回](https://fluttersalon.connpass.com/event/277159/)
+- Mar 18 [CCIE8冠が語る！ネットワークエンジニアのキャリアアップ理論！](https://connpass.com/event/276670/)
+- Mar 18 [第52回CoderDojoあざみ野(横浜青葉)](https://coderdojo-azamino.connpass.com/event/274390/)
 <!-- profile updater end: connpass -->
 
 <!---
