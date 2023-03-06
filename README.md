@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 26 [JuliaTokai #14](https://juliatokai.connpass.com/event/277144/)
-- Mar 26 [第33回 Raspberry pi もくもく会@オンライン](https://raspberry-pi-moku.connpass.com/event/277186/)
-- Mar 25 [Flutter茶論(さろん) 第１回](https://fluttersalon.connpass.com/event/277159/)
-- Mar 18 [CCIE8冠が語る！ネットワークエンジニアのキャリアアップ理論！](https://connpass.com/event/276670/)
-- Mar 18 [第52回CoderDojoあざみ野(横浜青葉)](https://coderdojo-azamino.connpass.com/event/274390/)
+- Apr 26 [【エンジニアトーク・オフライン開催】エンジニア座談会！（参加費無料）](https://mirameet.connpass.com/event/276382/)
+- Mar 17 [flamingoリニューアル特別説明会 顧客体験を最大化するUIモダナイゼーションツール](https://connpass.com/event/277042/)
+- Mar 17 [マイクロサービスの開発・テストを効率化！サービス仮想化を活用しよう！](https://techmatrixft.connpass.com/event/276188/)
+- Mar 15 [★増枠しました★エンジニアだからこそできる社会に役立つ「プロダクト開発」とは？](https://yojo.connpass.com/event/273949/)
+- Mar 15 [中堅・中小企業等におけるDXの実践およびDX認定制度について](https://itc-okinawa.connpass.com/event/277117/)
 <!-- profile updater end: connpass -->
 
 <!---
