@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 26 [【エンジニアトーク・オフライン開催】エンジニア座談会！（参加費無料）](https://mirameet.connpass.com/event/276382/)
-- Mar 17 [flamingoリニューアル特別説明会 顧客体験を最大化するUIモダナイゼーションツール](https://connpass.com/event/277042/)
-- Mar 17 [マイクロサービスの開発・テストを効率化！サービス仮想化を活用しよう！](https://techmatrixft.connpass.com/event/276188/)
-- Mar 15 [★増枠しました★エンジニアだからこそできる社会に役立つ「プロダクト開発」とは？](https://yojo.connpass.com/event/273949/)
-- Mar 15 [中堅・中小企業等におけるDXの実践およびDX認定制度について](https://itc-okinawa.connpass.com/event/277117/)
+- Mar 25 [JBUG静岡 #2「プロジェクトマネジメントの天国？地獄？」（オフライン）](https://jbug.connpass.com/event/277076/)
+- Mar 24 [Encraft #1 フロントエンド × 設計](https://knowledgework.connpass.com/event/277296/)
+- Mar 22 [次世代管理ツールあつまれーの巻](https://umekitaforce.connpass.com/event/277271/)
+- Mar 20 [新産業革命到来！？ChatGPT APIのビジネス活用法相談セミナー](https://connpass.com/event/277288/)
+- Mar 18 [Salesforce Saturday Japan 高知 #2 【オフライン&オンライン同時開催】](https://salesforcesaturday-kochi.connpass.com/event/275365/)
 <!-- profile updater end: connpass -->
 
 <!---
