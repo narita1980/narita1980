@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 25 [JBUG静岡 #2「プロジェクトマネジメントの天国？地獄？」（オフライン）](https://jbug.connpass.com/event/277076/)
-- Mar 24 [Encraft #1 フロントエンド × 設計](https://knowledgework.connpass.com/event/277296/)
-- Mar 22 [次世代管理ツールあつまれーの巻](https://umekitaforce.connpass.com/event/277271/)
-- Mar 20 [新産業革命到来！？ChatGPT APIのビジネス活用法相談セミナー](https://connpass.com/event/277288/)
-- Mar 18 [Salesforce Saturday Japan 高知 #2 【オフライン&オンライン同時開催】](https://salesforcesaturday-kochi.connpass.com/event/275365/)
+- Apr 8 [出張もくもく会](https://kazamori.connpass.com/event/277481/)
+- Mar 29 [60分でわかる！VSTePを使ったテスト分析のやり方](https://veriserve-event.connpass.com/event/274081/)
+- Mar 27 [61 PM Night 【BASE・SmartHR・CloudSign】](https://bengo4.connpass.com/event/275993/)
+- Mar 24 [OpenShift Lounge+ もくもく会@3月開催](https://openshift.connpass.com/event/277039/)
+- Mar 23 [小さな一歩。LT会](https://1smallstep.connpass.com/event/274763/)
 <!-- profile updater end: connpass -->
 
 <!---
