@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 8 [出張もくもく会](https://kazamori.connpass.com/event/277481/)
+- Apr 15 [Rails Girls Nagasaki](https://nagasakirb.connpass.com/event/276354/)
+- Apr 11 [4/11（火）新オフィス初イベント！「DevelopersIO Day One」](https://classmethod.connpass.com/event/276869/)
 - Mar 29 [60分でわかる！VSTePを使ったテスト分析のやり方](https://veriserve-event.connpass.com/event/274081/)
-- Mar 27 [61 PM Night 【BASE・SmartHR・CloudSign】](https://bengo4.connpass.com/event/275993/)
-- Mar 24 [OpenShift Lounge+ もくもく会@3月開催](https://openshift.connpass.com/event/277039/)
-- Mar 23 [小さな一歩。LT会](https://1smallstep.connpass.com/event/274763/)
+- Mar 28 [第15回 Customer系エンジニア座談会](https://customer-x-engineer.connpass.com/event/277624/)
+- Mar 28 [【金融業界向けセミナー】DX人材育成の実態調査から読み解くあるべき姿とは](https://connpass.com/event/277467/)
 <!-- profile updater end: connpass -->
 
 <!---
