@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 15 [Rails Girls Nagasaki](https://nagasakirb.connpass.com/event/276354/)
-- Apr 11 [4/11（火）新オフィス初イベント！「DevelopersIO Day One」](https://classmethod.connpass.com/event/276869/)
-- Mar 29 [60分でわかる！VSTePを使ったテスト分析のやり方](https://veriserve-event.connpass.com/event/274081/)
-- Mar 28 [第15回 Customer系エンジニア座談会](https://customer-x-engineer.connpass.com/event/277624/)
-- Mar 28 [【金融業界向けセミナー】DX人材育成の実態調査から読み解くあるべき姿とは](https://connpass.com/event/277467/)
+- Sep 25 [JSTQB カンファレンス in 2023 Autumn](https://connpass.com/event/276463/)
+- Apr 8 [第43回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/268754/)
+- Mar 18 [第23回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/275096/)
+- Mar 10 [3/10-11 Open Source Conference 2023 Online/Spring](https://ospn.connpass.com/event/267866/)
+- Mar 8 [MySQL リリースノートでわいわい言う勉強会 8.0.32](https://mysql.connpass.com/event/276885/)
 <!-- profile updater end: connpass -->
 
 <!---
