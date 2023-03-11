@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 25 [JSTQB カンファレンス in 2023 Autumn](https://connpass.com/event/276463/)
-- Apr 8 [第43回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/268754/)
-- Mar 18 [第23回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/275096/)
-- Mar 10 [3/10-11 Open Source Conference 2023 Online/Spring](https://ospn.connpass.com/event/267866/)
-- Mar 8 [MySQL リリースノートでわいわい言う勉強会 8.0.32](https://mysql.connpass.com/event/276885/)
+- Apr 8 [◤xR with Anything Meetup #020◢ #xram81 #メタバース](https://xram.connpass.com/event/276827/)
+- Apr 1 [X1 Exhibition #002 (VR)](https://xrgomesu.connpass.com/event/262417/)
+- Mar 26 [CA × 東海地方学生コラボイベント](https://connpass.com/event/277719/)
+- Mar 24 [CryptoGames Web3 勉強会](https://cryptogames.connpass.com/event/277513/)
+- Mar 24 [さらなる実力を身につけて実務に活かしたい"攻めの"中級者向け【W3-004】](https://kabuto.connpass.com/event/277825/)
 <!-- profile updater end: connpass -->
 
 <!---
