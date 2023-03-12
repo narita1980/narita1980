@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 8 [◤xR with Anything Meetup #020◢ #xram81 #メタバース](https://xram.connpass.com/event/276827/)
-- Apr 1 [X1 Exhibition #002 (VR)](https://xrgomesu.connpass.com/event/262417/)
-- Mar 26 [CA × 東海地方学生コラボイベント](https://connpass.com/event/277719/)
-- Mar 24 [CryptoGames Web3 勉強会](https://cryptogames.connpass.com/event/277513/)
-- Mar 24 [さらなる実力を身につけて実務に活かしたい"攻めの"中級者向け【W3-004】](https://kabuto.connpass.com/event/277825/)
+- Mar 26 [第57回CoderDojo戸部](https://coderdojo-tobe.connpass.com/event/277876/)
+- Mar 17 [AI Builder を使って領収書をデータ化～ライブコーディング～](https://rpacommunity.connpass.com/event/277207/)
+- Mar 8 [ふらっと純喫茶 #013](https://flali.connpass.com/event/277591/)
+- Feb 27 [ふらっと純喫茶 #012](https://flali.connpass.com/event/276586/)
+- Feb 25 [ふらっと純喫茶 #011](https://flali.connpass.com/event/276441/)
 <!-- profile updater end: connpass -->
 
 <!---
