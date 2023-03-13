@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 26 [第57回CoderDojo戸部](https://coderdojo-tobe.connpass.com/event/277876/)
-- Mar 17 [AI Builder を使って領収書をデータ化～ライブコーディング～](https://rpacommunity.connpass.com/event/277207/)
-- Mar 8 [ふらっと純喫茶 #013](https://flali.connpass.com/event/277591/)
-- Feb 27 [ふらっと純喫茶 #012](https://flali.connpass.com/event/276586/)
-- Feb 25 [ふらっと純喫茶 #011](https://flali.connpass.com/event/276441/)
+- Apr 28 [Cloudflare Meetup Okinawa Kick Off!](https://cfm-cts.connpass.com/event/277590/)
+- Apr 17 [ノーコード×コードで爆速MVP開発勉強会](https://gaiax.connpass.com/event/277686/)
+- Apr 6 [JAWS-UG CLI専門支部 #309 AWS CLI入門 (入門者向け)](https://jawsug-cli.connpass.com/event/277936/)
+- Apr 3 [JAWS-UG CLI専門支部 #308 AWS CLI環境構築(Cloud9)入門 (入門者向け)](https://jawsug-cli.connpass.com/event/277935/)
+- Mar 27 [JAWS-UG CLI専門支部 #307 CloudWatch入門 (入門者向け)](https://jawsug-cli.connpass.com/event/262676/)
 <!-- profile updater end: connpass -->
 
 <!---
