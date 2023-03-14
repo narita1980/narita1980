@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 28 [Cloudflare Meetup Okinawa Kick Off!](https://cfm-cts.connpass.com/event/277590/)
-- Apr 17 [ノーコード×コードで爆速MVP開発勉強会](https://gaiax.connpass.com/event/277686/)
-- Apr 6 [JAWS-UG CLI専門支部 #309 AWS CLI入門 (入門者向け)](https://jawsug-cli.connpass.com/event/277936/)
-- Apr 3 [JAWS-UG CLI専門支部 #308 AWS CLI環境構築(Cloud9)入門 (入門者向け)](https://jawsug-cli.connpass.com/event/277935/)
-- Mar 27 [JAWS-UG CLI専門支部 #307 CloudWatch入門 (入門者向け)](https://jawsug-cli.connpass.com/event/262676/)
+- Apr 8 [第67回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/278033/)
+- Apr 1 [Babylon.js 勉強会 vol.2 ~Babylon.js v6 リリース記念~](https://babylonjs.connpass.com/event/276698/)
+- Mar 29 [★再配信★アクセシビリティテストとは。そのやり方をご紹介！](https://tech-quality.connpass.com/event/278029/)
+- Mar 25 [.NETラボ 勉強会 2023年3月](https://dotnetlab.connpass.com/event/275838/)
+- Mar 25 [Laboratory Automation月例勉強会 / 2023.03](https://laboratoryautomation.connpass.com/event/270571/)
 <!-- profile updater end: connpass -->
 
 <!---
