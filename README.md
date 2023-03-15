@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 8 [第67回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/278033/)
+- Apr 8 [恵比寿エンジニア交流会【2023/4/8(土)14～16時】](https://connpass.com/event/278129/)
 - Apr 1 [Babylon.js 勉強会 vol.2 ~Babylon.js v6 リリース記念~](https://babylonjs.connpass.com/event/276698/)
-- Mar 29 [★再配信★アクセシビリティテストとは。そのやり方をご紹介！](https://tech-quality.connpass.com/event/278029/)
+- Mar 28 [データサイエンティストによるエクストリームプログラミングのススメ - UB Tech vol.7](https://uzabase-tech.connpass.com/event/277950/)
+- Mar 25 [神田もくもく会](https://kanda-mokumoku.connpass.com/event/278128/)
 - Mar 25 [.NETラボ 勉強会 2023年3月](https://dotnetlab.connpass.com/event/275838/)
-- Mar 25 [Laboratory Automation月例勉強会 / 2023.03](https://laboratoryautomation.connpass.com/event/270571/)
 <!-- profile updater end: connpass -->
 
 <!---
