@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 8 [恵比寿エンジニア交流会【2023/4/8(土)14～16時】](https://connpass.com/event/278129/)
-- Apr 1 [Babylon.js 勉強会 vol.2 ~Babylon.js v6 リリース記念~](https://babylonjs.connpass.com/event/276698/)
-- Mar 28 [データサイエンティストによるエクストリームプログラミングのススメ - UB Tech vol.7](https://uzabase-tech.connpass.com/event/277950/)
-- Mar 25 [神田もくもく会](https://kanda-mokumoku.connpass.com/event/278128/)
-- Mar 25 [.NETラボ 勉強会 2023年3月](https://dotnetlab.connpass.com/event/275838/)
+- Apr 27 [【増枠】いまからでも遅くない！WebAPI超入門 座学編](https://ibm-developer.connpass.com/event/278083/)
+- Apr 21 [第2回「Matlantis User Conference」](https://pfcc.connpass.com/event/276618/)
+- Apr 5 [【増枠】いまからでも遅くない！サイバーセキュリティ超入門（前編）](https://ibm-developer.connpass.com/event/278190/)
+- Mar 31 [【増枠】いまからでも遅くない！ネットワーク超入門 座学編](https://ibm-developer.connpass.com/event/276619/)
+- Mar 30 [PyCamp スタッフMTG](https://pyconjp-staff.connpass.com/event/278199/)
 <!-- profile updater end: connpass -->
 
 <!---
