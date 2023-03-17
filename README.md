@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 27 [【増枠】いまからでも遅くない！WebAPI超入門 座学編](https://ibm-developer.connpass.com/event/278083/)
-- Apr 21 [第2回「Matlantis User Conference」](https://pfcc.connpass.com/event/276618/)
-- Apr 5 [【増枠】いまからでも遅くない！サイバーセキュリティ超入門（前編）](https://ibm-developer.connpass.com/event/278190/)
-- Mar 31 [【増枠】いまからでも遅くない！ネットワーク超入門 座学編](https://ibm-developer.connpass.com/event/276619/)
-- Mar 30 [PyCamp スタッフMTG](https://pyconjp-staff.connpass.com/event/278199/)
+- Apr 20 [第十回材料シミュレーションもくもく会（オンライン）](https://m3aterial.connpass.com/event/278311/)
+- Apr 13 [ChatGPTを使い倒す会〜その質問、ChatGPTに通じてる？〜](https://bridgespace.connpass.com/event/278320/)
+- Apr 8 [第24回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/277450/)
+- Mar 27 [海外のトップエンジニアが「Reactアプリがどのようにハッキングされるか」をリアルでお見せします](https://divx.connpass.com/event/278139/)
+- Mar 26 [【NFTの仕組み】web3エンジニアが徹底解剖！！（これからweb3エンジニアを目指す方向け）](https://ruck-study.connpass.com/event/278153/)
 <!-- profile updater end: connpass -->
 
 <!---
