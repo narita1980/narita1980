@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 20 [第十回材料シミュレーションもくもく会（オンライン）](https://m3aterial.connpass.com/event/278311/)
-- Apr 13 [ChatGPTを使い倒す会〜その質問、ChatGPTに通じてる？〜](https://bridgespace.connpass.com/event/278320/)
-- Apr 8 [第24回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/277450/)
-- Mar 27 [海外のトップエンジニアが「Reactアプリがどのようにハッキングされるか」をリアルでお見せします](https://divx.connpass.com/event/278139/)
-- Mar 26 [【NFTの仕組み】web3エンジニアが徹底解剖！！（これからweb3エンジニアを目指す方向け）](https://ruck-study.connpass.com/event/278153/)
+- May 27 [NervesJP #41 Build a Weather Station を読む会 9回目](https://nerves-jp.connpass.com/event/278453/)
+- May 13 [NervesJP #40 Build a Weather Station を読む会 8回目](https://nerves-jp.connpass.com/event/278452/)
+- Apr 29 [NervesJP #39 Build a Weather Station を読む会 7回目](https://nerves-jp.connpass.com/event/278454/)
+- Apr 11 [副業PMが大集合！PMとして副業を始めて2ヶ月、できたこと・難しいこと](https://lbose.connpass.com/event/277855/)
+- Apr 10 [【オンライン】4/10(月)5時〜7時：Flutter好きが集まる朝もく会（第345回）](https://flutter-asamoku.connpass.com/event/278037/)
 <!-- profile updater end: connpass -->
 
 <!---
