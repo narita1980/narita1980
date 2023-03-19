@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 27 [NervesJP #41 Build a Weather Station を読む会 9回目](https://nerves-jp.connpass.com/event/278453/)
-- May 13 [NervesJP #40 Build a Weather Station を読む会 8回目](https://nerves-jp.connpass.com/event/278452/)
-- Apr 29 [NervesJP #39 Build a Weather Station を読む会 7回目](https://nerves-jp.connpass.com/event/278454/)
-- Apr 11 [副業PMが大集合！PMとして副業を始めて2ヶ月、できたこと・難しいこと](https://lbose.connpass.com/event/277855/)
-- Apr 10 [【オンライン】4/10(月)5時〜7時：Flutter好きが集まる朝もく会（第345回）](https://flutter-asamoku.connpass.com/event/278037/)
+- Apr 16 [CoderDojo横浜師岡（第7回）](https://coderdojo-morooka.connpass.com/event/278520/)
+- Apr 15 [第2回『ピープルウェア第3版』オンライン読書会](https://technical-book-reading.connpass.com/event/278526/)
+- Mar 25 [プロのデザイナーってなにやってるの？〜多様化するデザイナー像と、身につけるべき勘所〜](https://connpass.com/event/276339/)
+- Mar 25 [和歌山デジもく会 #58　(和歌山デジタル工作もくもく会)](https://wakayama-dezimoku.connpass.com/event/278528/)
+- Mar 25 [もくもくRuby勉強会@和歌山 #111](https://wakayama-rb.connpass.com/event/278527/)
 <!-- profile updater end: connpass -->
 
 <!---
