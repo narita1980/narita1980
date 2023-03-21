@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 16 [CoderDojo横浜師岡（第7回）](https://coderdojo-morooka.connpass.com/event/278520/)
-- Apr 15 [第2回『ピープルウェア第3版』オンライン読書会](https://technical-book-reading.connpass.com/event/278526/)
-- Mar 25 [プロのデザイナーってなにやってるの？〜多様化するデザイナー像と、身につけるべき勘所〜](https://connpass.com/event/276339/)
-- Mar 25 [和歌山デジもく会 #58　(和歌山デジタル工作もくもく会)](https://wakayama-dezimoku.connpass.com/event/278528/)
-- Mar 25 [もくもくRuby勉強会@和歌山 #111](https://wakayama-rb.connpass.com/event/278527/)
+- Apr 19 [Partner Hour - もっと知ろう！OpenShift #3](https://redhat-open.connpass.com/event/277953/)
+- Apr 6 [HireRoo TechTalk #1 〜アーキテクチャとエンジニア組織〜](https://hireroo.connpass.com/event/277814/)
+- Apr 3 [【特別編】Power Automate × ChatGPT／GPT-4 × LINE ライブデモ](https://rpacommunity.connpass.com/event/278639/)
+- Mar 29 [3/29(水)【第1761回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/278716/)
+- Mar 28 [3/28(火)【第1759回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/278715/)
 <!-- profile updater end: connpass -->
 
 <!---
