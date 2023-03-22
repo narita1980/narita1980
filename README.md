@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 19 [Partner Hour - もっと知ろう！OpenShift #3](https://redhat-open.connpass.com/event/277953/)
-- Apr 6 [HireRoo TechTalk #1 〜アーキテクチャとエンジニア組織〜](https://hireroo.connpass.com/event/277814/)
+- Apr 6 [テストケースの管理単位について考えよう](https://veriserve-event.connpass.com/event/277398/)
+- Apr 6 [「DDDもスクラムも当たり前」な開発組織をどうやって作るか](https://loglass-tech.connpass.com/event/278067/)
 - Apr 3 [【特別編】Power Automate × ChatGPT／GPT-4 × LINE ライブデモ](https://rpacommunity.connpass.com/event/278639/)
-- Mar 29 [3/29(水)【第1761回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/278716/)
-- Mar 28 [3/28(火)【第1759回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/278715/)
+- Apr 1 [神田もくもく会](https://kanda-mokumoku.connpass.com/event/278775/)
+- Apr 1 [闇のもくもく会 #15](https://dark-mokumoku.connpass.com/event/278774/)
 <!-- profile updater end: connpass -->
 
 <!---
