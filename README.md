@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 6 [テストケースの管理単位について考えよう](https://veriserve-event.connpass.com/event/277398/)
-- Apr 6 [「DDDもスクラムも当たり前」な開発組織をどうやって作るか](https://loglass-tech.connpass.com/event/278067/)
-- Apr 3 [【特別編】Power Automate × ChatGPT／GPT-4 × LINE ライブデモ](https://rpacommunity.connpass.com/event/278639/)
-- Apr 1 [神田もくもく会](https://kanda-mokumoku.connpass.com/event/278775/)
-- Apr 1 [闇のもくもく会 #15](https://dark-mokumoku.connpass.com/event/278774/)
+- Apr 24 [JAWS-UG コンテナ支部 #23 春のFinch特集](https://jawsug-container.connpass.com/event/278191/)
+- Apr 16 [第十四回 CoderDojo西那須野](https://coder-dojo-nishinasuno.connpass.com/event/278888/)
+- Apr 6 [Omotesando.rb #85](https://omotesandorb.connpass.com/event/278892/)
+- Apr 6 [HireRoo TechTalk #1 〜アーキテクチャとエンジニア組織〜](https://hireroo.connpass.com/event/277814/)
+- Apr 5 [ChatGPT IN ACTION 実践で使う大規模言語モデル](https://rector.connpass.com/event/278495/)
 <!-- profile updater end: connpass -->
 
 <!---
