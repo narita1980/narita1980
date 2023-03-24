@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 24 [JAWS-UG コンテナ支部 #23 春のFinch特集](https://jawsug-container.connpass.com/event/278191/)
-- Apr 16 [第十四回 CoderDojo西那須野](https://coder-dojo-nishinasuno.connpass.com/event/278888/)
-- Apr 6 [Omotesando.rb #85](https://omotesandorb.connpass.com/event/278892/)
-- Apr 6 [HireRoo TechTalk #1 〜アーキテクチャとエンジニア組織〜](https://hireroo.connpass.com/event/277814/)
-- Apr 5 [ChatGPT IN ACTION 実践で使う大規模言語モデル](https://rector.connpass.com/event/278495/)
+- Apr 29 [メディカルハッカソン by ものづくり医療センター](https://moicen-forest.connpass.com/event/277791/)
+- Apr 20 [【NIKKEI Tech Talk #6】日経のBtoB SaaS開発の裏側とデータ利活用](https://nikkei.connpass.com/event/278034/)
+- Apr 11 [4プロジェクト合同説明会](https://connpass.com/event/278682/)
+- Apr 7 [初学者向け Solidity-> コントラクト勉強会【ETH Global開催記念】](https://cryptogames.connpass.com/event/277903/)
+- Mar 31 [IT系&誰でも参加OK！もくもく会_朝活_3/31(金)](https://morimori.connpass.com/event/278987/)
 <!-- profile updater end: connpass -->
 
 <!---
