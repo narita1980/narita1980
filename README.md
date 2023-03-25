@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 29 [メディカルハッカソン by ものづくり医療センター](https://moicen-forest.connpass.com/event/277791/)
-- Apr 20 [【NIKKEI Tech Talk #6】日経のBtoB SaaS開発の裏側とデータ利活用](https://nikkei.connpass.com/event/278034/)
-- Apr 11 [4プロジェクト合同説明会](https://connpass.com/event/278682/)
-- Apr 7 [初学者向け Solidity-> コントラクト勉強会【ETH Global開催記念】](https://cryptogames.connpass.com/event/277903/)
-- Mar 31 [IT系&誰でも参加OK！もくもく会_朝活_3/31(金)](https://morimori.connpass.com/event/278987/)
+- Jun 14 [紹介・オフライン依存の営業から脱却して『オンラインで商売をする方法&ネット集客7大ツール』攻略方法](https://konohaya.connpass.com/event/279088/)
+- Jun 7 [自作(DIY)で内製化する『ランディングページの作り方&ウェブセールスコピーライティング』攻略方法](https://konohaya.connpass.com/event/279087/)
+- May 24 [知識をノウハウ化・コンテンツ化して『労働集約型から脱却する方法&知識集約型ビジネスモデル』攻略方法](https://konohaya.connpass.com/event/279086/)
+- May 10 [労務・数量・人数に限界が無い『デジタルコンテンツの作り方 & オンライン講座』攻略方法](https://konohaya.connpass.com/event/279085/)
+- May 3 [人数や場所、会場費の制約が無い『オンラインセミナーの始め方 & セミナー営業』攻略方法](https://konohaya.connpass.com/event/279084/)
 <!-- profile updater end: connpass -->
 
 <!---
