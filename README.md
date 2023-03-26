@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 14 [紹介・オフライン依存の営業から脱却して『オンラインで商売をする方法&ネット集客7大ツール』攻略方法](https://konohaya.connpass.com/event/279088/)
-- Jun 7 [自作(DIY)で内製化する『ランディングページの作り方&ウェブセールスコピーライティング』攻略方法](https://konohaya.connpass.com/event/279087/)
-- May 24 [知識をノウハウ化・コンテンツ化して『労働集約型から脱却する方法&知識集約型ビジネスモデル』攻略方法](https://konohaya.connpass.com/event/279086/)
-- May 10 [労務・数量・人数に限界が無い『デジタルコンテンツの作り方 & オンライン講座』攻略方法](https://konohaya.connpass.com/event/279085/)
-- May 3 [人数や場所、会場費の制約が無い『オンラインセミナーの始め方 & セミナー営業』攻略方法](https://konohaya.connpass.com/event/279084/)
+- Apr 25 [LLM(GPT, PaLM等) with MLOps LT大会!!!](https://mlops.connpass.com/event/279156/)
+- Apr 16 [【懇親会あり】#19 ChatGPT APIアイデアソン・ハッカソン（ハンズオンもあり）](https://buildweekend.connpass.com/event/278643/)
+- Apr 7 [【innovatty】サウナっかそん #2セット目 【アイデアソン x ???シリーズ第?弾】](https://innovatty.connpass.com/event/277328/)
+- Apr 5 [福岡XR部 Monthly Meetup #31-2023.4【オンライン】](https://fukuoka-xr-club.connpass.com/event/279159/)
+- Apr 2 [第21回 なごや個人開発者の集い](https://758indies.connpass.com/event/279160/)
 <!-- profile updater end: connpass -->
 
 <!---
