@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 25 [LLM(GPT, PaLM等) with MLOps LT大会!!!](https://mlops.connpass.com/event/279156/)
-- Apr 16 [【懇親会あり】#19 ChatGPT APIアイデアソン・ハッカソン（ハンズオンもあり）](https://buildweekend.connpass.com/event/278643/)
-- Apr 7 [【innovatty】サウナっかそん #2セット目 【アイデアソン x ???シリーズ第?弾】](https://innovatty.connpass.com/event/277328/)
-- Apr 5 [福岡XR部 Monthly Meetup #31-2023.4【オンライン】](https://fukuoka-xr-club.connpass.com/event/279159/)
-- Apr 2 [第21回 なごや個人開発者の集い](https://758indies.connpass.com/event/279160/)
+- May 28 [CoderDojoまちだ　第４７回](https://coderdojo-machida.connpass.com/event/279247/)
+- Apr 23 [CoderDojo Nago（OIST ・沖縄科学技術大学院大学ミーティングルーム棟）](https://coderdojo-nago.connpass.com/event/278554/)
+- Apr 22 [アプリを作ってみたい人　作りたい人　新社会人/業界未経験/業界3年未満対象 @大阪](https://connpass.com/event/277187/)
+- Apr 15 [【環境構築】スマートコントラクトの開発準備をしよう！](https://ruck-study.connpass.com/event/279234/)
+- Apr 7 [ミノ駆動本_読書py[15]](https://pythonista-books.connpass.com/event/277121/)
 <!-- profile updater end: connpass -->
 
 <!---
