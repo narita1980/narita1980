@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 28 [CoderDojoまちだ　第４７回](https://coderdojo-machida.connpass.com/event/279247/)
-- Apr 23 [CoderDojo Nago（OIST ・沖縄科学技術大学院大学ミーティングルーム棟）](https://coderdojo-nago.connpass.com/event/278554/)
-- Apr 22 [アプリを作ってみたい人　作りたい人　新社会人/業界未経験/業界3年未満対象 @大阪](https://connpass.com/event/277187/)
-- Apr 15 [【環境構築】スマートコントラクトの開発準備をしよう！](https://ruck-study.connpass.com/event/279234/)
-- Apr 7 [ミノ駆動本_読書py[15]](https://pythonista-books.connpass.com/event/277121/)
+- Apr 12 [人事ごった煮会vol.46 リアル開催予定（テーマ：マネジメント育成ってどうしてる？）](https://jinji-gottani.connpass.com/event/277161/)
+- Apr 6 [突撃！隣のデータ設計・活用勉強会 vol.1](https://stafes.connpass.com/event/273805/)
+- Apr 5 [4/5(水)【第1775回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279347/)
+- Apr 5 [4/5(水)【第1774回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279346/)
+- Apr 4 [#15 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/274038/)
 <!-- profile updater end: connpass -->
 
 <!---
