@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 12 [人事ごった煮会vol.46 リアル開催予定（テーマ：マネジメント育成ってどうしてる？）](https://jinji-gottani.connpass.com/event/277161/)
-- Apr 6 [突撃！隣のデータ設計・活用勉強会 vol.1](https://stafes.connpass.com/event/273805/)
-- Apr 5 [4/5(水)【第1775回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279347/)
-- Apr 5 [4/5(水)【第1774回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279346/)
-- Apr 4 [#15 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/274038/)
+- Apr 20 [それってPM業務？みんなの組織のPM担当範囲を聞いてみよう【開発PM勉強会 vol.19】](https://peer-quest.connpass.com/event/278275/)
+- Apr 19 [【大阪-オンライン開催】XRミーティング 2023/04/19【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/279462/)
+- Apr 18 [Front-End Deep Dive](https://anotherworks.connpass.com/event/278310/)
+- Apr 8 [SQL Server 2022 Master Data Services (Online)](https://sqlserver.connpass.com/event/279461/)
+- Apr 5 [AWS Startup Meetup 福岡 #3 ~ あつまれ  アーリースタートアップの森 ~](https://aws-startup-community.connpass.com/event/275922/)
 <!-- profile updater end: connpass -->
 
 <!---
