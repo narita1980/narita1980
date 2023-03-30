@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 20 [それってPM業務？みんなの組織のPM担当範囲を聞いてみよう【開発PM勉強会 vol.19】](https://peer-quest.connpass.com/event/278275/)
-- Apr 19 [【大阪-オンライン開催】XRミーティング 2023/04/19【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/279462/)
-- Apr 18 [Front-End Deep Dive](https://anotherworks.connpass.com/event/278310/)
-- Apr 8 [SQL Server 2022 Master Data Services (Online)](https://sqlserver.connpass.com/event/279461/)
-- Apr 5 [AWS Startup Meetup 福岡 #3 ~ あつまれ  アーリースタートアップの森 ~](https://aws-startup-community.connpass.com/event/275922/)
+- Jun 28 [低コスト運用するための『Facebook広告の始め方 & Instagram広告』攻略方法](https://konohaya.connpass.com/event/279089/)
+- Apr 10 [月曜からもくもく会 #08](https://spumoni.connpass.com/event/279538/)
+- Apr 9 [みんなで Swift 復習会 44th @ HarborS 表参道](https://cswift.connpass.com/event/279535/)
+- Apr 7 [4/7(金)【第1779回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279537/)
+- Apr 7 [4/7(金)【第1778回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279536/)
 <!-- profile updater end: connpass -->
 
 <!---
