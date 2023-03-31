@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 28 [低コスト運用するための『Facebook広告の始め方 & Instagram広告』攻略方法](https://konohaya.connpass.com/event/279089/)
-- Apr 10 [月曜からもくもく会 #08](https://spumoni.connpass.com/event/279538/)
-- Apr 9 [みんなで Swift 復習会 44th @ HarborS 表参道](https://cswift.connpass.com/event/279535/)
-- Apr 7 [4/7(金)【第1779回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279537/)
-- Apr 7 [4/7(金)【第1778回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279536/)
+- Apr 27 [デザインの仕事ってなに？デザインの制作プロセスから学ぶデザイン思考セミナー](https://bibit.connpass.com/event/278796/)
+- Apr 22 [【大阪】#ChatGPT #もくもく会 with カプセルコーヒー 2023/04/22](https://osaka-driven-dev.connpass.com/event/279651/)
+- Apr 8 [4/8(土)【第1781回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279656/)
+- Apr 8 [4/8(土)【第1780回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279655/)
+- Apr 1 [左門至峰によるネットワークスペシャリスト試験対策セミナー2023](https://nespe.connpass.com/event/278440/)
 <!-- profile updater end: connpass -->
 
 <!---
