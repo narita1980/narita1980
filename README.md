@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 27 [デザインの仕事ってなに？デザインの制作プロセスから学ぶデザイン思考セミナー](https://bibit.connpass.com/event/278796/)
-- Apr 22 [【大阪】#ChatGPT #もくもく会 with カプセルコーヒー 2023/04/22](https://osaka-driven-dev.connpass.com/event/279651/)
-- Apr 8 [4/8(土)【第1781回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279656/)
-- Apr 8 [4/8(土)【第1780回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279655/)
-- Apr 1 [左門至峰によるネットワークスペシャリスト試験対策セミナー2023](https://nespe.connpass.com/event/278440/)
+- May 19 [第13回 opensource COBOL活用セミナー](https://osscons-cobol.connpass.com/event/277987/)
+- May 4 [OSCP勉強会 in 秋葉原オフ会](https://off-sec-lab.connpass.com/event/279745/)
+- Apr 26 [特別編・バグバウンティでのWordPressサイトへのアプローチ方法](https://kabuto.connpass.com/event/279741/)
+- Apr 22 [CREATIVE MEETING  Vol.3](https://cremee.connpass.com/event/276495/)
+- Apr 16 [海外協力隊のお話 from ボツワナ](https://setk.connpass.com/event/279760/)
 <!-- profile updater end: connpass -->
 
 <!---
