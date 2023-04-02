@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 19 [第13回 opensource COBOL活用セミナー](https://osscons-cobol.connpass.com/event/277987/)
-- May 4 [OSCP勉強会 in 秋葉原オフ会](https://off-sec-lab.connpass.com/event/279745/)
-- Apr 26 [特別編・バグバウンティでのWordPressサイトへのアプローチ方法](https://kabuto.connpass.com/event/279741/)
-- Apr 22 [CREATIVE MEETING  Vol.3](https://cremee.connpass.com/event/276495/)
-- Apr 16 [海外協力隊のお話 from ボツワナ](https://setk.connpass.com/event/279760/)
+- May 2 [M5 Japan Tour 2023 Spring 広島](https://m5stack.connpass.com/event/279631/)
+- Apr 14 [JANOG51.5 Interim meeting](https://janog.connpass.com/event/277129/)
+- Apr 9 [IT系&誰でも参加OK！もくもく会_朝活_4/9(日)](https://morimori.connpass.com/event/279824/)
+- Apr 9 [4/9(日)【第124回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/279823/)
+- Apr 8 [◤xR with Anything Meetup #020◢ #xram81 #メタバース](https://xram.connpass.com/event/276827/)
 <!-- profile updater end: connpass -->
 
 <!---
