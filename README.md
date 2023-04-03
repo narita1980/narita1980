@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 2 [M5 Japan Tour 2023 Spring 広島](https://m5stack.connpass.com/event/279631/)
-- Apr 14 [JANOG51.5 Interim meeting](https://janog.connpass.com/event/277129/)
-- Apr 9 [IT系&誰でも参加OK！もくもく会_朝活_4/9(日)](https://morimori.connpass.com/event/279824/)
-- Apr 9 [4/9(日)【第124回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/279823/)
-- Apr 8 [◤xR with Anything Meetup #020◢ #xram81 #メタバース](https://xram.connpass.com/event/276827/)
+- May 25 [【ニジボックス主催】Generative AI時代のUXデザイン](https://nijibox.connpass.com/event/279573/)
+- Apr 25 [【明日から使えるテスト技法勉強会】S2 - 7～適切なテスト技法の選び方～](https://veriserve-event.connpass.com/event/279302/)
+- Apr 24 [日本ディープラーニング協会主催 AIキャリア勉強会 #1](https://jdla.connpass.com/event/279281/)
+- Apr 11 [4/11(火)【第1787回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279874/)
+- Apr 11 [4/11(火)【第1786回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279873/)
 <!-- profile updater end: connpass -->
 
 <!---
