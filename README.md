@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 25 [【ニジボックス主催】Generative AI時代のUXデザイン](https://nijibox.connpass.com/event/279573/)
-- Apr 25 [【明日から使えるテスト技法勉強会】S2 - 7～適切なテスト技法の選び方～](https://veriserve-event.connpass.com/event/279302/)
-- Apr 24 [日本ディープラーニング協会主催 AIキャリア勉強会 #1](https://jdla.connpass.com/event/279281/)
-- Apr 11 [4/11(火)【第1787回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279874/)
-- Apr 11 [4/11(火)【第1786回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/279873/)
+- Jun 9 [Node-RED UG Enterprise「企業でのNode-RED事例紹介 第6回」](https://node-red.connpass.com/event/279744/)
+- May 19 [第13回 opensource COBOL活用セミナー](https://osscons-cobol.connpass.com/event/277987/)
+- May 4 [M5 Japan Tour 2023 Spring 東京１](https://m5stack.connpass.com/event/279899/)
+- Apr 29 [国際的なセキュリティ資格「CISSP」取得を目指せ！ Kerberos認証の仕組み](https://future-tech-association.connpass.com/event/280015/)
+- Apr 27 [【少人数制×オフラインミートアップ】コンパウンドスタートアップにおける事業の作り方](https://plaidtech.connpass.com/event/279958/)
 <!-- profile updater end: connpass -->
 
 <!---
