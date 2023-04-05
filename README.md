@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 9 [Node-RED UG Enterprise「企業でのNode-RED事例紹介 第6回」](https://node-red.connpass.com/event/279744/)
-- May 19 [第13回 opensource COBOL活用セミナー](https://osscons-cobol.connpass.com/event/277987/)
-- May 4 [M5 Japan Tour 2023 Spring 東京１](https://m5stack.connpass.com/event/279899/)
-- Apr 29 [国際的なセキュリティ資格「CISSP」取得を目指せ！ Kerberos認証の仕組み](https://future-tech-association.connpass.com/event/280015/)
-- Apr 27 [【少人数制×オフラインミートアップ】コンパウンドスタートアップにおける事業の作り方](https://plaidtech.connpass.com/event/279958/)
+- Apr 26 [東北大学教授 大関真之と語る：量子技術を扱う会社の事業開発・組織開発：Sigma-i Lab #11](https://sigma-i.connpass.com/event/279843/)
+- Apr 25 [Data Analyst Career Study #2｜データアナリストのキャリア戦略を考察する](https://dacs.connpass.com/event/279476/)
+- Apr 25 [『フロントエンド開発のためのセキュリティ入門』著者と考える～より安全なスクラムの対策と実践～](https://tebiki.connpass.com/event/279261/)
+- Apr 21 [JAPAN VMUG LEGEND MEETING with NVIDIA](https://vmug-jp.connpass.com/event/279336/)
+- Apr 20 [アジャイル談話室「SAAってなに!?IT業界未経験者が社内アジャイル研修の講師になるまで」](https://shiftevolve.connpass.com/event/277800/)
 <!-- profile updater end: connpass -->
 
 <!---
