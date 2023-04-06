@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 26 [東北大学教授 大関真之と語る：量子技術を扱う会社の事業開発・組織開発：Sigma-i Lab #11](https://sigma-i.connpass.com/event/279843/)
-- Apr 25 [Data Analyst Career Study #2｜データアナリストのキャリア戦略を考察する](https://dacs.connpass.com/event/279476/)
-- Apr 25 [『フロントエンド開発のためのセキュリティ入門』著者と考える～より安全なスクラムの対策と実践～](https://tebiki.connpass.com/event/279261/)
-- Apr 21 [JAPAN VMUG LEGEND MEETING with NVIDIA](https://vmug-jp.connpass.com/event/279336/)
-- Apr 20 [アジャイル談話室「SAAってなに!?IT業界未経験者が社内アジャイル研修の講師になるまで」](https://shiftevolve.connpass.com/event/277800/)
+- May 11 [【CDLE主催】CDLE女子会　月例交流会【2023年5月】](https://jdla.connpass.com/event/277088/)
+- May 3 [第65回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/278906/)
+- Apr 20 [Google Apps Script × AppSheet × Gmailで返信漏れを解消！](https://rpacommunity.connpass.com/event/279785/)
+- Apr 15 [XR好き学生の近況報告集会+ゲスト:NYAVATAR / けんけん AITuber妄想座談会](https://iwakenlab.connpass.com/event/280194/)
+- Apr 13 [【第2回】LangChainもくもく会](https://langchain-jp.connpass.com/event/279388/)
 <!-- profile updater end: connpass -->
 
 <!---
