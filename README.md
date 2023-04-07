@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 11 [【CDLE主催】CDLE女子会　月例交流会【2023年5月】](https://jdla.connpass.com/event/277088/)
-- May 3 [第65回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/278906/)
-- Apr 20 [Google Apps Script × AppSheet × Gmailで返信漏れを解消！](https://rpacommunity.connpass.com/event/279785/)
-- Apr 15 [XR好き学生の近況報告集会+ゲスト:NYAVATAR / けんけん AITuber妄想座談会](https://iwakenlab.connpass.com/event/280194/)
-- Apr 13 [【第2回】LangChainもくもく会](https://langchain-jp.connpass.com/event/279388/)
+- May 13 [第25回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/279377/)
+- Apr 30 [4/30無料の子どもプログラミングサークル【第45回CoderDojo溝口】(川崎市,初心者歓迎)](https://coderdojo-mizonokuchi.connpass.com/event/279181/)
+- Apr 23 [Shibuya.lisp lispteatime #12](https://lisp.connpass.com/event/280417/)
+- Apr 15 [4/15(土)【第1795回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/280412/)
+- Apr 15 [TaPL本 (型とプログラミング)を読む　第10回](https://macs.connpass.com/event/280415/)
 <!-- profile updater end: connpass -->
 
 <!---
