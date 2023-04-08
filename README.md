@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 13 [第25回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/279377/)
-- Apr 30 [4/30無料の子どもプログラミングサークル【第45回CoderDojo溝口】(川崎市,初心者歓迎)](https://coderdojo-mizonokuchi.connpass.com/event/279181/)
-- Apr 23 [Shibuya.lisp lispteatime #12](https://lisp.connpass.com/event/280417/)
-- Apr 15 [4/15(土)【第1795回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/280412/)
-- Apr 15 [TaPL本 (型とプログラミング)を読む　第10回](https://macs.connpass.com/event/280415/)
+- May 10 [20分でわかる業務可視化ショートウェビナー](https://connpass.com/event/280512/)
+- Apr 29 [第76回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/277210/)
+- Apr 26 [たべもの.dev 〜食領域でのサービス開発 with Ruby〜](https://cookpad.connpass.com/event/279052/)
+- Apr 24 [ゼロから始める業務DX入門セミナー](https://connpass.com/event/280511/)
+- Apr 16 [4/16(日)【第1797回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/280510/)
 <!-- profile updater end: connpass -->
 
 <!---
