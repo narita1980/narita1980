@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 10 [20分でわかる業務可視化ショートウェビナー](https://connpass.com/event/280512/)
-- Apr 29 [第76回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/277210/)
-- Apr 26 [たべもの.dev 〜食領域でのサービス開発 with Ruby〜](https://cookpad.connpass.com/event/279052/)
-- Apr 24 [ゼロから始める業務DX入門セミナー](https://connpass.com/event/280511/)
-- Apr 16 [4/16(日)【第1797回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/280510/)
+- Jun 24 [インフラ技術基礎勉強会 #3](https://infra365.connpass.com/event/277147/)
+- Jun 22 [kintone Café 札幌 Vol.14](https://kintone-cafe-sapporo.connpass.com/event/280245/)
+- Apr 30 [CoderDojo Nago（屋部地区センター・会議室）](https://coderdojo-nago.connpass.com/event/280583/)
+- Apr 30 [3Dデザインで遊んでみよう（会場：屋部地区センター・会議室）](https://coderdojo-nago.connpass.com/event/280582/)
+- Apr 29 [インフラ技術基礎勉強会 #2](https://infra365.connpass.com/event/276315/)
 <!-- profile updater end: connpass -->
 
 <!---
