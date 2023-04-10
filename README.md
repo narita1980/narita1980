@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 24 [インフラ技術基礎勉強会 #3](https://infra365.connpass.com/event/277147/)
-- Jun 22 [kintone Café 札幌 Vol.14](https://kintone-cafe-sapporo.connpass.com/event/280245/)
-- Apr 30 [CoderDojo Nago（屋部地区センター・会議室）](https://coderdojo-nago.connpass.com/event/280583/)
-- Apr 30 [3Dデザインで遊んでみよう（会場：屋部地区センター・会議室）](https://coderdojo-nago.connpass.com/event/280582/)
-- Apr 29 [インフラ技術基礎勉強会 #2](https://infra365.connpass.com/event/276315/)
+- May 15 [JAWS-UG CLI専門支部 #316 IAM基礎(ポリシー) (入門者向け)](https://jawsug-cli.connpass.com/event/280670/)
+- May 11 [JAWS-UG CLI専門支部 #315 IAM基礎(インスタンスプロファイル) (入門者向け)](https://jawsug-cli.connpass.com/event/280668/)
+- May 8 [JAWS-UG CLI専門支部 #314 IAM基礎(ロール) (入門者向け)](https://jawsug-cli.connpass.com/event/280667/)
+- May 1 [JAWS-UG CLI専門支部 #313 IAM基礎(グループ) (入門者向け)](https://jawsug-cli.connpass.com/event/280665/)
+- Apr 29 [第1回オープンCAE勉強会@横浜](https://ocbyokohama.connpass.com/event/279255/)
 <!-- profile updater end: connpass -->
 
 <!---
