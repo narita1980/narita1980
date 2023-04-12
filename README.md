@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 20 [JAWS-UG朝会 #46](https://jawsug-asa.connpass.com/event/274702/)
-- May 13 [第68回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/280813/)
-- Apr 24 [地球学談話会：MapTiler ベクタータイル地図製作と地図レンダリングテクニック](https://geolab-omu.connpass.com/event/280134/)
-- Apr 22 [欧米デジタル時代のビジネスとテック業界の最新動向 2023](https://itc-okinawa.connpass.com/event/280662/)
-- Apr 20 [【NIKKEI Tech Talk #6】日経のBtoB SaaS開発の裏側とデータ利活用](https://nikkei.connpass.com/event/278034/)
+- May 11 [【大阪】AWS構築・開発の技術勉強会【リアル開催】](https://beyondjapan.connpass.com/event/280427/)
+- Apr 25 [育児エンジニア座談会](https://yumemi.connpass.com/event/280019/)
+- Apr 22 [第105回R勉強会@東京（#TokyoR）](https://tokyor.connpass.com/event/279019/)
+- Apr 21 [shibuya.apk #41](https://shibuya-apk.connpass.com/event/277598/)
+- Apr 20 [4/20(木)【第1805回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/280898/)
 <!-- profile updater end: connpass -->
 
 <!---
