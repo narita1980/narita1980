@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 11 [【大阪】AWS構築・開発の技術勉強会【リアル開催】](https://beyondjapan.connpass.com/event/280427/)
-- Apr 25 [育児エンジニア座談会](https://yumemi.connpass.com/event/280019/)
-- Apr 22 [第105回R勉強会@東京（#TokyoR）](https://tokyor.connpass.com/event/279019/)
-- Apr 21 [shibuya.apk #41](https://shibuya-apk.connpass.com/event/277598/)
-- Apr 20 [4/20(木)【第1805回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/280898/)
+- May 13 [◤xR with Anything Meetup #021◢ #xram81 #メタバース](https://xram.connpass.com/event/277818/)
+- May 13 [第115回 いわき情報技術研究会](https://iitg.connpass.com/event/281002/)
+- May 11 [SmartHR Engineer Online Meetup](https://smarthr.connpass.com/event/281006/)
+- Apr 26 [SmartHR Engineer Online Meetup](https://smarthr.connpass.com/event/281005/)
+- Apr 22 [.NETラボ 勉強会 2023年4月](https://dotnetlab.connpass.com/event/279139/)
 <!-- profile updater end: connpass -->
 
 <!---
