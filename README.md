@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 13 [◤xR with Anything Meetup #021◢ #xram81 #メタバース](https://xram.connpass.com/event/277818/)
-- May 13 [第115回 いわき情報技術研究会](https://iitg.connpass.com/event/281002/)
-- May 11 [SmartHR Engineer Online Meetup](https://smarthr.connpass.com/event/281006/)
-- Apr 26 [SmartHR Engineer Online Meetup](https://smarthr.connpass.com/event/281005/)
-- Apr 22 [.NETラボ 勉強会 2023年4月](https://dotnetlab.connpass.com/event/279139/)
+- May 17 [第96回 Code for Niigata 定例会](https://c4ngt.connpass.com/event/281102/)
+- May 16 [事例から学ぶ！CTO達が語るオフライン限定のエンジニア評価制度勉強会](https://midastech.connpass.com/event/280158/)
+- Apr 30 [3Dデザインで遊んでみよう（会場：屋部地区センター・会議室）](https://coderdojo-nago.connpass.com/event/280582/)
+- Apr 30 [Blenderで3DCG作ってみよう（会場：屋部地区センター会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/281107/)
+- Apr 27 [【ゼロからはじめるWebデザイン】 #06 デザインスキルを磨いていく方法](https://future-tech-association.connpass.com/event/280800/)
 <!-- profile updater end: connpass -->
 
 <!---
