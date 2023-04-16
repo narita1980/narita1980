@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 19 [はんなりプログラミング　langchain と プロンプトをいじる会](https://hannari-python.connpass.com/event/281205/)
-- May 8 [【オンライン】5/8(月)5時〜7時：Flutter好きが集まる朝もく会（第349回）](https://flutter-asamoku.connpass.com/event/280688/)
-- Apr 30 [Blenderで3DCG作ってみよう（会場：屋部地区センター・会議室＋オンライン）](https://coderdojo-nago.connpass.com/event/281107/)
-- Apr 28 [開発の裏側に迫る！ ChatGPTを使ったtoC向けチャットサービスへの挑戦](https://connpass.com/event/280844/)
-- Apr 23 [CoderDojo Nago（OIST 沖縄科学技術大学院大学・ミーティングルーム棟）](https://coderdojo-nago.connpass.com/event/278554/)
+- May 13 [洋楽で学んだ英語 語り合おうNight vol.3【外資ITサバイバル英語 番外編】](https://gaisaba.connpass.com/event/278499/)
+- Apr 30 [第83回CoderDojo浜松（小中高プログラミング教育）](https://coderdojo-hamamatsu.connpass.com/event/280796/)
+- Apr 24 [4/24(月)【第1813回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281268/)
+- Apr 24 [4/24(月)【第1812回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281267/)
+- Apr 23 [AWS IoT入門ワークショップ（ラズパイとAWS IoTでデータの送受信をしよう）](https://iotlab.connpass.com/event/281269/)
 <!-- profile updater end: connpass -->
 
 <!---
