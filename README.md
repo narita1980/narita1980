@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 13 [洋楽で学んだ英語 語り合おうNight vol.3【外資ITサバイバル英語 番外編】](https://gaisaba.connpass.com/event/278499/)
-- Apr 30 [第83回CoderDojo浜松（小中高プログラミング教育）](https://coderdojo-hamamatsu.connpass.com/event/280796/)
-- Apr 24 [4/24(月)【第1813回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281268/)
-- Apr 24 [4/24(月)【第1812回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281267/)
-- Apr 23 [AWS IoT入門ワークショップ（ラズパイとAWS IoTでデータの送受信をしよう）](https://iotlab.connpass.com/event/281269/)
+- Jun 10 [kintoneCafé女子会 Vol.2](https://connpass.com/event/280787/)
+- May 6 [【Cisco】ラボ#2~#4@0506AM0900秋葉原UDX](https://forse.connpass.com/event/281327/)
+- Apr 28 [地方エンジニアの先駆者に聞く！AI時代のエンジニアキャリア戦略](https://tdc.connpass.com/event/281294/)
+- Apr 25 [IT系&誰でも参加OK！もくもく会_朝活_4/25(火)](https://morimori.connpass.com/event/281325/)
+- Apr 23 [[YouTube Live] Power BI Weekly News 71](https://pp-weeklynews.connpass.com/event/281308/)
 <!-- profile updater end: connpass -->
 
 <!---
