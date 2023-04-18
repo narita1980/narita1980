@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 10 [kintoneCafé女子会 Vol.2](https://connpass.com/event/280787/)
-- May 6 [【Cisco】ラボ#2~#4@0506AM0900秋葉原UDX](https://forse.connpass.com/event/281327/)
-- Apr 28 [地方エンジニアの先駆者に聞く！AI時代のエンジニアキャリア戦略](https://tdc.connpass.com/event/281294/)
-- Apr 25 [IT系&誰でも参加OK！もくもく会_朝活_4/25(火)](https://morimori.connpass.com/event/281325/)
-- Apr 23 [[YouTube Live] Power BI Weekly News 71](https://pp-weeklynews.connpass.com/event/281308/)
+- May 27 [【徳島】第18回 カンファレンス動画鑑賞会](https://tokushima-app.connpass.com/event/280284/)
+- Apr 29 [第1回オープンCAE勉強会@横浜](https://ocbyokohama.connpass.com/event/279255/)
+- Apr 29 [【大井町線・池上線】 定例もくもく会@旗の台 #064](https://ay-house01.connpass.com/event/281428/)
+- Apr 27 [英語で技術書を読もう：Fundamentals of Data Engineering 第3回](https://gaisaba.connpass.com/event/281425/)
+- Apr 26 [IT系&誰でも参加OK！もくもく会_朝活_4/26(水)](https://morimori.connpass.com/event/281422/)
 <!-- profile updater end: connpass -->
 
 <!---
