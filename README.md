@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 27 [【徳島】第18回 カンファレンス動画鑑賞会](https://tokushima-app.connpass.com/event/280284/)
-- Apr 29 [第1回オープンCAE勉強会@横浜](https://ocbyokohama.connpass.com/event/279255/)
-- Apr 29 [【大井町線・池上線】 定例もくもく会@旗の台 #064](https://ay-house01.connpass.com/event/281428/)
-- Apr 27 [英語で技術書を読もう：Fundamentals of Data Engineering 第3回](https://gaisaba.connpass.com/event/281425/)
-- Apr 26 [IT系&誰でも参加OK！もくもく会_朝活_4/26(水)](https://morimori.connpass.com/event/281422/)
+- Jul 20 [ChatGPTでNode-REDのフローをつくってみたLT](https://node-red.connpass.com/event/281454/)
+- May 19 [CxOが語るhacomonoの未来](https://hacomono.connpass.com/event/281126/)
+- May 16 [mabl運用・メンテナビリティどうしてる？](https://mablersjp.connpass.com/event/281133/)
+- May 13 [【2023年5月】AI（GitHub Copilot）にHTMLを書いてもらおう](https://movabletype-kagoshima.connpass.com/event/281329/)
+- May 12 [WEST-SEC セキュリティ勉強会#2（ハンズオン）](https://west-sec.connpass.com/event/276860/)
 <!-- profile updater end: connpass -->
 
 <!---
