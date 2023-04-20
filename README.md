@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 20 [ChatGPTでNode-REDのフローをつくってみたLT](https://node-red.connpass.com/event/281454/)
-- May 19 [CxOが語るhacomonoの未来](https://hacomono.connpass.com/event/281126/)
-- May 16 [mabl運用・メンテナビリティどうしてる？](https://mablersjp.connpass.com/event/281133/)
-- May 13 [【2023年5月】AI（GitHub Copilot）にHTMLを書いてもらおう](https://movabletype-kagoshima.connpass.com/event/281329/)
-- May 12 [WEST-SEC セキュリティ勉強会#2（ハンズオン）](https://west-sec.connpass.com/event/276860/)
+- May 13 [WARAI夏の陣2023](https://warai.connpass.com/event/278429/)
+- May 4 [OSCP勉強会 in 秋葉原オフ会](https://off-sec-lab.connpass.com/event/279745/)
+- Apr 28 [4/28(金)【第1821回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281658/)
+- Apr 28 [4/28(金)【第1820回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281657/)
+- Apr 24 [特別編・確実にセキュリティスキル習得への一歩を踏み出したい"新たな"入門者向け【W1-000】](https://kabuto.connpass.com/event/281555/)
 <!-- profile updater end: connpass -->
 
 <!---
