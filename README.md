@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 13 [WARAI夏の陣2023](https://warai.connpass.com/event/278429/)
-- May 4 [OSCP勉強会 in 秋葉原オフ会](https://off-sec-lab.connpass.com/event/279745/)
-- Apr 28 [4/28(金)【第1821回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281658/)
-- Apr 28 [4/28(金)【第1820回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281657/)
-- Apr 24 [特別編・確実にセキュリティスキル習得への一歩を踏み出したい"新たな"入門者向け【W1-000】](https://kabuto.connpass.com/event/281555/)
+- Jun 3 [Python Boot Camp in 愛知2nd 懇親会](https://pyconjp.connpass.com/event/280531/)
+- Jun 3 [Python Boot Camp in 愛知2nd](https://pyconjp.connpass.com/event/280530/)
+- May 23 [ノーコードE2Eテスト自動化サービス「MagicPod」紹介セミナー](https://magicpod-product-seminars.connpass.com/event/280476/)
+- May 17 [初学者向け！Webサイト構築セミナー（全4回）](https://shimane-oss.connpass.com/event/281710/)
+- Apr 29 [第76回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/277210/)
 <!-- profile updater end: connpass -->
 
 <!---
