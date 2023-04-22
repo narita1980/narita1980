@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 3 [Python Boot Camp in 愛知2nd 懇親会](https://pyconjp.connpass.com/event/280531/)
-- Jun 3 [Python Boot Camp in 愛知2nd](https://pyconjp.connpass.com/event/280530/)
-- May 23 [ノーコードE2Eテスト自動化サービス「MagicPod」紹介セミナー](https://magicpod-product-seminars.connpass.com/event/280476/)
-- May 17 [初学者向け！Webサイト構築セミナー（全4回）](https://shimane-oss.connpass.com/event/281710/)
-- Apr 29 [第76回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/277210/)
+- May 24 [iOSアプリ開発に特化したプログラミングスクールの無料体験会を開催！5/24・5/31](https://saltworks.connpass.com/event/281589/)
+- May 10 [第2回 GPT / ジェネレーティブAI 勉強会](https://gais.connpass.com/event/281850/)
+- Apr 30 [4/30(日)【第1825回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281854/)
+- Apr 30 [4/30(日)【第1824回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281853/)
+- Apr 29 [第42回CoderDojo静岡](https://coderdojo-shizuoka.connpass.com/event/279917/)
 <!-- profile updater end: connpass -->
 
 <!---
