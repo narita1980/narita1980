@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 24 [iOSアプリ開発に特化したプログラミングスクールの無料体験会を開催！5/24・5/31](https://saltworks.connpass.com/event/281589/)
-- May 10 [第2回 GPT / ジェネレーティブAI 勉強会](https://gais.connpass.com/event/281850/)
-- Apr 30 [4/30(日)【第1825回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281854/)
-- Apr 30 [4/30(日)【第1824回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281853/)
-- Apr 29 [第42回CoderDojo静岡](https://coderdojo-shizuoka.connpass.com/event/279917/)
+- Jun 20 [JAWS-UG朝会 #46](https://jawsug-asa.connpass.com/event/274702/)
+- May 21 [第62回 CoderDojo Hitachinaka](https://coderdojo-hitachinaka.connpass.com/event/281230/)
+- May 21 [八時間耐久作品制作会（仮）](https://connpass.com/event/281807/)
+- May 4 [OSCP勉強会 in 秋葉原オフ会](https://off-sec-lab.connpass.com/event/279745/)
+- May 1 [5/1(月)【第1827回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281908/)
 <!-- profile updater end: connpass -->
 
 <!---
