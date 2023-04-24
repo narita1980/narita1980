@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 20 [JAWS-UG朝会 #46](https://jawsug-asa.connpass.com/event/274702/)
-- May 21 [第62回 CoderDojo Hitachinaka](https://coderdojo-hitachinaka.connpass.com/event/281230/)
-- May 21 [八時間耐久作品制作会（仮）](https://connpass.com/event/281807/)
-- May 4 [OSCP勉強会 in 秋葉原オフ会](https://off-sec-lab.connpass.com/event/279745/)
-- May 1 [5/1(月)【第1827回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/281908/)
+- May 25 [第十一回材料シミュレーションもくもく会（オンライン）](https://m3aterial.connpass.com/event/281741/)
+- May 19 [Japan VMUG May Meeting with Intel](https://vmug-jp.connpass.com/event/281892/)
+- May 17 [Serverless LT初心者向け LT大会 #33](https://serverlesslt.connpass.com/event/281862/)
+- Apr 30 [[YouTube Live] Power BI Weekly News 72](https://pp-weeklynews.connpass.com/event/281956/)
+- Apr 29 [ChatGPT部 #04 〜LT & 教育について語る会〜](https://chatgptclub.connpass.com/event/281980/)
 <!-- profile updater end: connpass -->
 
 <!---
