@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 25 [第十一回材料シミュレーションもくもく会（オンライン）](https://m3aterial.connpass.com/event/281741/)
-- May 19 [Japan VMUG May Meeting with Intel](https://vmug-jp.connpass.com/event/281892/)
-- May 17 [Serverless LT初心者向け LT大会 #33](https://serverlesslt.connpass.com/event/281862/)
-- Apr 30 [[YouTube Live] Power BI Weekly News 72](https://pp-weeklynews.connpass.com/event/281956/)
-- Apr 29 [ChatGPT部 #04 〜LT & 教育について語る会〜](https://chatgptclub.connpass.com/event/281980/)
+- May 28 [「リンカ・ローダ実践開発テクニック」読書会(14)](https://linker-loader.connpass.com/event/282108/)
+- May 18 [開発の裏側に迫る！ ChatGPTを使ったtoC向けチャットサービスへの挑戦](https://drobe.connpass.com/event/281671/)
+- May 17 [『実用Common Lisp』読書会(122)](https://jitsucl.connpass.com/event/282107/)
+- May 11 [第1回Generative AI勉強会 関西](https://gai-sm-kansai.connpass.com/event/281670/)
+- May 10 [Google I/O 2023 生中継視聴会@香川](https://gdgshikoku.connpass.com/event/282104/)
 <!-- profile updater end: connpass -->
 
 <!---
