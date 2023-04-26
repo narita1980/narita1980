@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 28 [「リンカ・ローダ実践開発テクニック」読書会(14)](https://linker-loader.connpass.com/event/282108/)
-- May 18 [開発の裏側に迫る！ ChatGPTを使ったtoC向けチャットサービスへの挑戦](https://drobe.connpass.com/event/281671/)
-- May 17 [『実用Common Lisp』読書会(122)](https://jitsucl.connpass.com/event/282107/)
-- May 11 [第1回Generative AI勉強会 関西](https://gai-sm-kansai.connpass.com/event/281670/)
-- May 10 [Google I/O 2023 生中継視聴会@香川](https://gdgshikoku.connpass.com/event/282104/)
+- Jul 27 [Node-RED UG Enterprise「企業でのNode-RED事例紹介 第7回」](https://node-red.connpass.com/event/282094/)
+- May 27 [PBIJP DAX Boot Camp #33](https://powerbi.connpass.com/event/282202/)
+- May 25 [Power BI 勉強会 夜の採れたて Microsoft Build 2023](https://powerbi.connpass.com/event/282198/)
+- May 25 [ChatGPT Meetup Tokyo #2](https://chatgpt.connpass.com/event/281310/)
+- May 20 [PBIJP Power Query 秘密特訓「虎の穴」炎の復活編 #26](https://powerbi.connpass.com/event/282197/)
 <!-- profile updater end: connpass -->
 
 <!---
