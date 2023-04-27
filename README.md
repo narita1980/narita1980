@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 27 [Node-RED UG Enterprise「企業でのNode-RED事例紹介 第7回」](https://node-red.connpass.com/event/282094/)
-- May 27 [PBIJP DAX Boot Camp #33](https://powerbi.connpass.com/event/282202/)
-- May 25 [Power BI 勉強会 夜の採れたて Microsoft Build 2023](https://powerbi.connpass.com/event/282198/)
-- May 25 [ChatGPT Meetup Tokyo #2](https://chatgpt.connpass.com/event/281310/)
-- May 20 [PBIJP Power Query 秘密特訓「虎の穴」炎の復活編 #26](https://powerbi.connpass.com/event/282197/)
+- May 27 [大阪.dart](https://flutteruniv.connpass.com/event/282171/)
+- May 26 [TDNOG7.0 Meeting（仙台）](https://tdnog.connpass.com/event/279699/)
+- May 25 [[春のDojo祭り'23] いまからでも遅くない！Git超入門 座学編 rerun](https://ibm-developer.connpass.com/event/280948/)
+- May 19 [Japan VMUG May Meeting with Intel](https://vmug-jp.connpass.com/event/281892/)
+- May 16 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/282366/)
 <!-- profile updater end: connpass -->
 
 <!---
