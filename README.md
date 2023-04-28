@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 27 [大阪.dart](https://flutteruniv.connpass.com/event/282171/)
-- May 26 [TDNOG7.0 Meeting（仙台）](https://tdnog.connpass.com/event/279699/)
-- May 25 [[春のDojo祭り'23] いまからでも遅くない！Git超入門 座学編 rerun](https://ibm-developer.connpass.com/event/280948/)
-- May 19 [Japan VMUG May Meeting with Intel](https://vmug-jp.connpass.com/event/281892/)
-- May 16 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/282366/)
+- May 30 [プロフェッショナルに聞く！クラウド化ってやっぱりした方がいいんですか！？（法人向け・無料ウェビナー）](https://connpass.com/event/282403/)
+- May 27 [[オンライン開催]セキュリティから学ぶ機械学習第6回](https://datascience-sendai-lab.connpass.com/event/276243/)
+- May 27 [Tokyo HoloLens ミートアップ vol.33](https://hololens.connpass.com/event/281748/)
+- May 10 [【自動化やIT活用ネタ】"ロング"ライトニングトーク大会～初参加者大歓迎～](https://rpacommunity.connpass.com/event/281860/)
+- May 5 [ラズパイでラズベリーパイ（お菓子）を焼く会](https://iotlab.connpass.com/event/282009/)
 <!-- profile updater end: connpass -->
 
 <!---
