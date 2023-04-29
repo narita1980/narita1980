@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 30 [プロフェッショナルに聞く！クラウド化ってやっぱりした方がいいんですか！？（法人向け・無料ウェビナー）](https://connpass.com/event/282403/)
-- May 27 [[オンライン開催]セキュリティから学ぶ機械学習第6回](https://datascience-sendai-lab.connpass.com/event/276243/)
-- May 27 [Tokyo HoloLens ミートアップ vol.33](https://hololens.connpass.com/event/281748/)
-- May 10 [【自動化やIT活用ネタ】"ロング"ライトニングトーク大会～初参加者大歓迎～](https://rpacommunity.connpass.com/event/281860/)
-- May 5 [ラズパイでラズベリーパイ（お菓子）を焼く会](https://iotlab.connpass.com/event/282009/)
+- May 25 [ChatGPT Meetup Tokyo #2](https://chatgpt.connpass.com/event/281310/)
+- May 12 [RIZAP  Drinkup at RubyKaigi 2023](https://connpass.com/event/282292/)
+- May 11 [ChatGPT Meetup Tokyo #1](https://chatgpt.connpass.com/event/280987/)
+- May 10 [第2回 GPT / ジェネレーティブAI 勉強会](https://gais.connpass.com/event/281850/)
+- May 7 [5/7(日)【第1839回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/282591/)
 <!-- profile updater end: connpass -->
 
 <!---
