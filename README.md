@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 25 [ChatGPT Meetup Tokyo #2](https://chatgpt.connpass.com/event/281310/)
-- May 12 [RIZAP  Drinkup at RubyKaigi 2023](https://connpass.com/event/282292/)
-- May 11 [ChatGPT Meetup Tokyo #1](https://chatgpt.connpass.com/event/280987/)
-- May 10 [第2回 GPT / ジェネレーティブAI 勉強会](https://gais.connpass.com/event/281850/)
-- May 7 [5/7(日)【第1839回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/282591/)
+- Jul 8 [AUGM 大阪 July 2023 本会](https://augmosaka.connpass.com/event/282661/)
+- Jun 24 [【オンライン】もくもく会＆交流会 #3](https://leaf-of-ginkgo.connpass.com/event/282638/)
+- May 30 [【参加50名超え】シニアPMに聞く！3000件の新規事業立ち上げ経験から学ぶ、プロジェクトの始め方。](https://lbose.connpass.com/event/282196/)
+- May 27 [【オンライン】もくもく会＆交流会 #2](https://leaf-of-ginkgo.connpass.com/event/282633/)
+- May 17 [第1回オープンエッジデバイス研究会](https://openedgedevice.connpass.com/event/281754/)
 <!-- profile updater end: connpass -->
 
 <!---
