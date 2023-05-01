@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 8 [AUGM 大阪 July 2023 本会](https://augmosaka.connpass.com/event/282661/)
-- Jun 24 [【オンライン】もくもく会＆交流会 #3](https://leaf-of-ginkgo.connpass.com/event/282638/)
-- May 30 [【参加50名超え】シニアPMに聞く！3000件の新規事業立ち上げ経験から学ぶ、プロジェクトの始め方。](https://lbose.connpass.com/event/282196/)
-- May 27 [【オンライン】もくもく会＆交流会 #2](https://leaf-of-ginkgo.connpass.com/event/282633/)
-- May 17 [第1回オープンエッジデバイス研究会](https://openedgedevice.connpass.com/event/281754/)
+- May 30 [第17回 Customer系エンジニア座談会](https://customer-x-engineer.connpass.com/event/282282/)
+- May 17 [【信州オンライン】XRミーティング 2023/05/17 #XRMTG](https://xr-shinshu.connpass.com/event/282088/)
+- May 12 [IT系&誰でも参加OK！もくもく会_朝活_5/12(金)](https://morimori.connpass.com/event/282757/)
+- May 9 [5/9(火)【第1843回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/282756/)
+- May 9 [5/9(火)【第1842回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/282755/)
 <!-- profile updater end: connpass -->
 
 <!---
