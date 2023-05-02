@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 30 [第17回 Customer系エンジニア座談会](https://customer-x-engineer.connpass.com/event/282282/)
-- May 17 [【信州オンライン】XRミーティング 2023/05/17 #XRMTG](https://xr-shinshu.connpass.com/event/282088/)
-- May 12 [IT系&誰でも参加OK！もくもく会_朝活_5/12(金)](https://morimori.connpass.com/event/282757/)
-- May 9 [5/9(火)【第1843回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/282756/)
-- May 9 [5/9(火)【第1842回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/282755/)
+- May 31 ["ChatGPT" をもっと使いたい！～活用事例Tips LT会～](https://rakus.connpass.com/event/282422/)
+- May 20 [【web3開発】BNB ChainとAll That NodeでNFTを開発してみよう（実装編）](https://connpass.com/event/282869/)
+- May 19 [ブロックテーマ同好会 - 2023年5月会](https://hook-wp.connpass.com/event/282838/)
+- May 13 [【web3開発】BNB ChainとAll That NodeでNFTを開発してみよう（環境構築編）](https://connpass.com/event/282797/)
+- May 13 [IT系&誰でも参加OK！もくもく会_朝活_5/13(土)](https://morimori.connpass.com/event/282870/)
 <!-- profile updater end: connpass -->
 
 <!---
