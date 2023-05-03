@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 31 ["ChatGPT" をもっと使いたい！～活用事例Tips LT会～](https://rakus.connpass.com/event/282422/)
-- May 20 [【web3開発】BNB ChainとAll That NodeでNFTを開発してみよう（実装編）](https://connpass.com/event/282869/)
-- May 19 [ブロックテーマ同好会 - 2023年5月会](https://hook-wp.connpass.com/event/282838/)
-- May 13 [【web3開発】BNB ChainとAll That NodeでNFTを開発してみよう（環境構築編）](https://connpass.com/event/282797/)
-- May 13 [IT系&誰でも参加OK！もくもく会_朝活_5/13(土)](https://morimori.connpass.com/event/282870/)
+- Jul 7 [AUGM 大阪 July 2023 前夜祭](https://augmosaka.connpass.com/event/282876/)
+- Jun 10 [第2回オープンCAE勉強会@横浜](https://ocbyokohama.connpass.com/event/282924/)
+- Jun 3 [Salesforce Saturday Japan 神谷町 #2【オフライン】](https://salesforcesaturday-shift.connpass.com/event/282953/)
+- May 24 [Kansai Web CxO Meetup](https://kwcg.connpass.com/event/280189/)
+- May 17 [第1回オープンエッジデバイス研究会](https://openedgedevice.connpass.com/event/281754/)
 <!-- profile updater end: connpass -->
 
 <!---
