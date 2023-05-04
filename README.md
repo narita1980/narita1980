@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 7 [AUGM 大阪 July 2023 前夜祭](https://augmosaka.connpass.com/event/282876/)
-- Jun 10 [第2回オープンCAE勉強会@横浜](https://ocbyokohama.connpass.com/event/282924/)
-- Jun 3 [Salesforce Saturday Japan 神谷町 #2【オフライン】](https://salesforcesaturday-shift.connpass.com/event/282953/)
-- May 24 [Kansai Web CxO Meetup](https://kwcg.connpass.com/event/280189/)
-- May 17 [第1回オープンエッジデバイス研究会](https://openedgedevice.connpass.com/event/281754/)
+- Jun 11 [ミニ四駆・組立＆レース体験（屋部地区センター・会議室）](https://coderdojo-nago.connpass.com/event/282938/)
+- May 21 [第66回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/281343/)
+- May 16 [KotlinConf 2023 Global](https://connpass.com/event/271431/)
+- May 14 [IT人材交流！３大コラボイベント企画！](https://connpass.com/event/283012/)
+- May 13 [Umeda.go 2023 Spring](https://umedago.connpass.com/event/279653/)
 <!-- profile updater end: connpass -->
 
 <!---
