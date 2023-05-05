@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 11 [ミニ四駆・組立＆レース体験（屋部地区センター・会議室）](https://coderdojo-nago.connpass.com/event/282938/)
-- May 21 [第66回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/281343/)
-- May 16 [KotlinConf 2023 Global](https://connpass.com/event/271431/)
-- May 14 [IT人材交流！３大コラボイベント企画！](https://connpass.com/event/283012/)
-- May 13 [Umeda.go 2023 Spring](https://umedago.connpass.com/event/279653/)
+- Jun 1 [第1回 Data-Centric AI勉強会](https://dcai-jp.connpass.com/event/282385/)
+- May 27 [CoderDojo新宿Shinjuku１](https://connpass.com/event/283058/)
+- May 18 [【福岡｜オフライン開催】レイヤード Meetup LT会 vol.1](https://layered.connpass.com/event/281011/)
+- May 16 [リビラボもくもく会 vol1](https://re-build.connpass.com/event/283059/)
+- May 13 [5/13(土)【第1851回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283065/)
 <!-- profile updater end: connpass -->
 
 <!---
