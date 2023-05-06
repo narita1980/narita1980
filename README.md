@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 1 [第1回 Data-Centric AI勉強会](https://dcai-jp.connpass.com/event/282385/)
-- May 27 [CoderDojo新宿Shinjuku１](https://connpass.com/event/283058/)
-- May 18 [【福岡｜オフライン開催】レイヤード Meetup LT会 vol.1](https://layered.connpass.com/event/281011/)
-- May 16 [リビラボもくもく会 vol1](https://re-build.connpass.com/event/283059/)
-- May 13 [5/13(土)【第1851回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283065/)
+- Jun 18 [技術勉強会 #1](https://akiba.connpass.com/event/283116/)
+- May 24 [Kansai Web CxO Meetup](https://kwcg.connpass.com/event/280189/)
+- May 14 [5/14(日)【第1853回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283115/)
+- May 14 [5/14(日)【第1852回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283114/)
+- May 13 [概念モデルの効用を知ろう](https://benkyoenkai.connpass.com/event/283068/)
 <!-- profile updater end: connpass -->
 
 <!---
