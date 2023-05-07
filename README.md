@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 18 [技術勉強会 #1](https://akiba.connpass.com/event/283116/)
-- May 24 [Kansai Web CxO Meetup](https://kwcg.connpass.com/event/280189/)
-- May 14 [5/14(日)【第1853回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283115/)
-- May 14 [5/14(日)【第1852回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283114/)
-- May 13 [概念モデルの効用を知ろう](https://benkyoenkai.connpass.com/event/283068/)
+- May 28 [【第11回】SE時事ラジオ](https://setk.connpass.com/event/283176/)
+- May 27 [Tokyo HoloLens ミートアップ vol.33](https://hololens.connpass.com/event/281748/)
+- May 18 [みんなのPython勉強会#93](https://startpython.connpass.com/event/272158/)
+- May 15 [5/15(月)【第1855回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283170/)
+- May 15 [5/15(月)【第1854回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283169/)
 <!-- profile updater end: connpass -->
 
 <!---
