@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 28 [【第11回】SE時事ラジオ](https://setk.connpass.com/event/283176/)
-- May 27 [Tokyo HoloLens ミートアップ vol.33](https://hololens.connpass.com/event/281748/)
-- May 18 [みんなのPython勉強会#93](https://startpython.connpass.com/event/272158/)
-- May 15 [5/15(月)【第1855回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283170/)
-- May 15 [5/15(月)【第1854回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283169/)
+- Jun 24 [Reject Day 2023](https://connpass.com/event/282843/)
+- May 25 [生成系AIモデルの追加学習 - W&B 東京ミートアップ #4](https://wandb.connpass.com/event/282859/)
+- May 23 [UV Study : Rust LT会 Vol.8](https://uniquevision.connpass.com/event/282296/)
+- May 20 [【5月20日開催】ネットワークハンズオン（L3スイッチ、無線LAN、ルータ、FW)](https://connpass.com/event/282846/)
+- May 18 [アットウェア x 未来シェア x ゆめみ 合同LT会 in 横浜 #yumemi_grow](https://yumemi.connpass.com/event/281356/)
 <!-- profile updater end: connpass -->
 
 <!---
