@@ -24,10 +24,10 @@
 
 <!-- profile updater begin: connpass -->
 - Jun 24 [Reject Day 2023](https://connpass.com/event/282843/)
-- May 25 [生成系AIモデルの追加学習 - W&B 東京ミートアップ #4](https://wandb.connpass.com/event/282859/)
-- May 23 [UV Study : Rust LT会 Vol.8](https://uniquevision.connpass.com/event/282296/)
-- May 20 [【5月20日開催】ネットワークハンズオン（L3スイッチ、無線LAN、ルータ、FW)](https://connpass.com/event/282846/)
-- May 18 [アットウェア x 未来シェア x ゆめみ 合同LT会 in 横浜 #yumemi_grow](https://yumemi.connpass.com/event/281356/)
+- May 26 [PyCon APAC 2023 の CfPを書く会](https://hannari-python.connpass.com/event/283291/)
+- May 24 [「働く人を前へ。デザイナーのキャリアを前へ。」](https://moneyforward.connpass.com/event/281389/)
+- May 21 [【Windows】ラボ#1～8セット＠0521AM09秋葉原UDX](https://forse.connpass.com/event/281867/)
+- May 17 [5/17(水)【第1859回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283404/)
 <!-- profile updater end: connpass -->
 
 <!---
