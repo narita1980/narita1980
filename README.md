@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 24 [Reject Day 2023](https://connpass.com/event/282843/)
+- Jun 24 [【オンライン】Salesforce女子部 Tokyo #51 〜じめじめをとばす納涼さいころトーク〜](https://sfggjp.connpass.com/event/282856/)
+- Jun 18 [特別回 マインクラフトでマルチプレイ建築会](https://coderdojo-tachikawa.connpass.com/event/278699/)
+- Jun 4 [CoderDojo横浜師岡（第9回）](https://coderdojo-morooka.connpass.com/event/283556/)
 - May 26 [PyCon APAC 2023 の CfPを書く会](https://hannari-python.connpass.com/event/283291/)
-- May 24 [「働く人を前へ。デザイナーのキャリアを前へ。」](https://moneyforward.connpass.com/event/281389/)
-- May 21 [【Windows】ラボ#1～8セット＠0521AM09秋葉原UDX](https://forse.connpass.com/event/281867/)
-- May 17 [5/17(水)【第1859回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283404/)
+- May 21 [CoderDojo 光 76回目【会場＆オンライン 併催】 ～子どものためのプログラミング](https://coderdojo-hikari.connpass.com/event/282679/)
 <!-- profile updater end: connpass -->
 
 <!---
