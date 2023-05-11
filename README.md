@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 24 [【オンライン】Salesforce女子部 Tokyo #51 〜じめじめをとばす納涼さいころトーク〜](https://sfggjp.connpass.com/event/282856/)
-- Jun 18 [特別回 マインクラフトでマルチプレイ建築会](https://coderdojo-tachikawa.connpass.com/event/278699/)
-- Jun 4 [CoderDojo横浜師岡（第9回）](https://coderdojo-morooka.connpass.com/event/283556/)
-- May 26 [PyCon APAC 2023 の CfPを書く会](https://hannari-python.connpass.com/event/283291/)
-- May 21 [CoderDojo 光 76回目【会場＆オンライン 併催】 ～子どものためのプログラミング](https://coderdojo-hikari.connpass.com/event/282679/)
+- Jun 14 [【大阪】KANSAI AI PUB（関西×人工知能×場）2023/06/14](https://deep-learning-osaka.connpass.com/event/283685/)
+- Jun 14 [AIミーティング 2023/06/14 #ChatGPT #GPT4 #PaLM](https://osaka-driven-dev.connpass.com/event/283582/)
+- Jun 3 [第24回redmine.tokyo勉強会 懇親会 (二次会)](https://redmine-tokyo.connpass.com/event/282001/)
+- May 29 [BPStudy#189〜堅牢なPythonコードを書く方法](https://bpstudy.connpass.com/event/283616/)
+- May 29 [FuraIT. fuel #50ハイブリッドもくもく会](https://furait.connpass.com/event/283684/)
 <!-- profile updater end: connpass -->
 
 <!---
