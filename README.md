@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 14 [【大阪】KANSAI AI PUB（関西×人工知能×場）2023/06/14](https://deep-learning-osaka.connpass.com/event/283685/)
-- Jun 14 [AIミーティング 2023/06/14 #ChatGPT #GPT4 #PaLM](https://osaka-driven-dev.connpass.com/event/283582/)
-- Jun 3 [第24回redmine.tokyo勉強会 懇親会 (二次会)](https://redmine-tokyo.connpass.com/event/282001/)
-- May 29 [BPStudy#189〜堅牢なPythonコードを書く方法](https://bpstudy.connpass.com/event/283616/)
-- May 29 [FuraIT. fuel #50ハイブリッドもくもく会](https://furait.connpass.com/event/283684/)
+- Jun 10 [第26回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/283314/)
+- May 29 [【メルペイ×デジタル庁×Gaudiy】プロダクトデザイナーのキャリアの広げ方×深め方](https://gaudiy.connpass.com/event/282981/)
+- May 23 [Springin' ユーザミートアップ！：しくみデザイン 中村俊介と考えるプログラミングで未来づくり](https://hmcn.connpass.com/event/283755/)
+- May 22 [PyCon APAC 2023 1Password講習会](https://pyconjp-staff.connpass.com/event/283647/)
+- May 19 [IT系&誰でも参加OK！もくもく会_朝活_5/19(金)](https://morimori.connpass.com/event/283754/)
 <!-- profile updater end: connpass -->
 
 <!---
