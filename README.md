@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 10 [第26回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/283314/)
-- May 29 [【メルペイ×デジタル庁×Gaudiy】プロダクトデザイナーのキャリアの広げ方×深め方](https://gaudiy.connpass.com/event/282981/)
-- May 23 [Springin' ユーザミートアップ！：しくみデザイン 中村俊介と考えるプログラミングで未来づくり](https://hmcn.connpass.com/event/283755/)
-- May 22 [PyCon APAC 2023 1Password講習会](https://pyconjp-staff.connpass.com/event/283647/)
-- May 19 [IT系&誰でも参加OK！もくもく会_朝活_5/19(金)](https://morimori.connpass.com/event/283754/)
+- Jun 23 [たこやきUX（仮称） - pilot talk -](https://maido.connpass.com/event/283854/)
+- May 27 [JAWS-UG初心者支部#56 Systems Manager 入門ハンズオン](https://connpass.com/event/283554/)
+- May 27 [5/27(土)沼津なんでももくもく会](https://connpass.com/event/283867/)
+- May 21 [医療者が自ら作ってみた事例を発表！ もいせん4期 DEMO DAY](https://moicen-forest.connpass.com/event/276373/)
+- May 20 [第17回 意思決定のためのデータ分析勉強会 〜ChatGPT活用特集・Hybrid開催〜](https://ishikettei.connpass.com/event/281117/)
 <!-- profile updater end: connpass -->
 
 <!---
