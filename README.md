@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Jul 29 [kintone SIGNPOSTをもっと実践的に活用する研究開発会 Vol.1](https://koriyama-ksp.connpass.com/event/283905/)
 - Jun 23 [たこやきUX（仮称） - pilot talk -](https://maido.connpass.com/event/283854/)
-- May 27 [JAWS-UG初心者支部#56 Systems Manager 入門ハンズオン](https://connpass.com/event/283554/)
-- May 27 [5/27(土)沼津なんでももくもく会](https://connpass.com/event/283867/)
-- May 21 [医療者が自ら作ってみた事例を発表！ もいせん4期 DEMO DAY](https://moicen-forest.connpass.com/event/276373/)
-- May 20 [第17回 意思決定のためのデータ分析勉強会 〜ChatGPT活用特集・Hybrid開催〜](https://ishikettei.connpass.com/event/281117/)
+- May 25 [Gストラング線形代数勉強会](https://study-data-analysis.connpass.com/event/283936/)
+- May 22 [5/22(月)【第1869回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283930/)
+- May 22 [5/22(月)【第1868回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283927/)
 <!-- profile updater end: connpass -->
 
 <!---
