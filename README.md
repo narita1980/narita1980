@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 29 [kintone SIGNPOSTをもっと実践的に活用する研究開発会 Vol.1](https://koriyama-ksp.connpass.com/event/283905/)
-- Jun 23 [たこやきUX（仮称） - pilot talk -](https://maido.connpass.com/event/283854/)
-- May 25 [Gストラング線形代数勉強会](https://study-data-analysis.connpass.com/event/283936/)
-- May 22 [5/22(月)【第1869回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283930/)
-- May 22 [5/22(月)【第1868回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/283927/)
+- Jun 10 [CoderDojo港北NT マインクラフトカップチーム参加者向け(オンライン)](https://coderdojo-kohoku-minecraft-cup.connpass.com/event/283978/)
+- Jun 4 [CoderDojoほんごう第2回](https://connpass.com/event/283939/)
+- Jun 3 [CoderDojo港北NT マインクラフトカップチーム参加者向け(オンライン)](https://coderdojo-kohoku-minecraft-cup.connpass.com/event/283977/)
+- May 30 [Encraft #3 エンジニアイネーブルメント - 共有・育成・評価・効率化 -](https://knowledgework.connpass.com/event/282408/)
+- May 27 [CoderDojo港北NT マインクラフトカップチーム参加者向け(オンライン)](https://coderdojo-kohoku-minecraft-cup.connpass.com/event/283969/)
 <!-- profile updater end: connpass -->
 
 <!---
