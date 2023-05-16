@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 10 [CoderDojo港北NT マインクラフトカップチーム参加者向け(オンライン)](https://coderdojo-kohoku-minecraft-cup.connpass.com/event/283978/)
-- Jun 4 [CoderDojoほんごう第2回](https://connpass.com/event/283939/)
-- Jun 3 [CoderDojo港北NT マインクラフトカップチーム参加者向け(オンライン)](https://coderdojo-kohoku-minecraft-cup.connpass.com/event/283977/)
-- May 30 [Encraft #3 エンジニアイネーブルメント - 共有・育成・評価・効率化 -](https://knowledgework.connpass.com/event/282408/)
-- May 27 [CoderDojo港北NT マインクラフトカップチーム参加者向け(オンライン)](https://coderdojo-kohoku-minecraft-cup.connpass.com/event/283969/)
+- Aug 19 [第50回横浜Go読書会（オンライン）](https://yokohama-go-reading.connpass.com/event/284134/)
+- Jun 1 [Omotesando.rb #86](https://omotesandorb.connpass.com/event/284140/)
+- May 26 [ハンズオンで学ぶ！ Instana基礎](https://ibm-developer.connpass.com/event/284075/)
+- May 23 [#21 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/282701/)
+- May 23 [IT系&誰でも参加OK！もくもく会_朝活_5/23(火)](https://morimori.connpass.com/event/284138/)
 <!-- profile updater end: connpass -->
 
 <!---
