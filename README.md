@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 19 [第50回横浜Go読書会（オンライン）](https://yokohama-go-reading.connpass.com/event/284134/)
-- Jun 1 [Omotesando.rb #86](https://omotesandorb.connpass.com/event/284140/)
-- May 26 [ハンズオンで学ぶ！ Instana基礎](https://ibm-developer.connpass.com/event/284075/)
-- May 23 [#21 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/282701/)
-- May 23 [IT系&誰でも参加OK！もくもく会_朝活_5/23(火)](https://morimori.connpass.com/event/284138/)
+- Jun 26 [VS Code Meetup #25 - GitHub Copilot](https://vscode.connpass.com/event/282553/)
+- May 27 [JAWS-UG初心者支部#56 Systems Manager 入門ハンズオン](https://jawsug-bgnr.connpass.com/event/283554/)
+- May 25 [5/25(木)【第1875回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/284290/)
+- May 25 [IT系勉強会【第365回】朝からもくもく会](https://asa-moku-2.connpass.com/event/284288/)
+- May 25 [5/25(木)【第1874回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/284289/)
 <!-- profile updater end: connpass -->
 
 <!---
