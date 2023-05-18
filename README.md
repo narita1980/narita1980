@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 26 [VS Code Meetup #25 - GitHub Copilot](https://vscode.connpass.com/event/282553/)
-- May 27 [JAWS-UG初心者支部#56 Systems Manager 入門ハンズオン](https://jawsug-bgnr.connpass.com/event/283554/)
-- May 25 [5/25(木)【第1875回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/284290/)
-- May 25 [IT系勉強会【第365回】朝からもくもく会](https://asa-moku-2.connpass.com/event/284288/)
-- May 25 [5/25(木)【第1874回】IT勉強会＆オンラインもくもく会(朝活)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/284289/)
+- Jul 1 [隅田川.dev vol.1@浅草橋](https://sumidagawa-dev.connpass.com/event/284373/)
+- Jun 10 [第69回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/284420/)
+- May 31 [Generative AI Night #1 at Gifu](https://ai-gifu.connpass.com/event/284418/)
+- May 30 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/284419/)
+- May 20 [第14回FA設備技術勉強会](https://fa-study.connpass.com/event/275807/)
 <!-- profile updater end: connpass -->
 
 <!---
