@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 1 [隅田川.dev vol.1@浅草橋](https://sumidagawa-dev.connpass.com/event/284373/)
-- Jun 10 [第69回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/284420/)
-- May 31 [Generative AI Night #1 at Gifu](https://ai-gifu.connpass.com/event/284418/)
-- May 30 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/284419/)
-- May 20 [第14回FA設備技術勉強会](https://fa-study.connpass.com/event/275807/)
+- Jun 16 [ChatGPT Meetup Tokyo #3](https://chatgpt.connpass.com/event/284058/)
+- Jun 16 [Microsoft 365 導入＆活用相談会［6月］](https://msbase-joetsumyoko.connpass.com/event/282882/)
+- Jun 10 [フォロー コネクトFabLab : WWDC23](https://mosa.connpass.com/event/279783/)
+- Jun 5 [Extended Tokyo - WWDC 2023](https://yj-meetup.connpass.com/event/281562/)
+- Jun 3 [競プロゆんたく会 #3 言語バトル](https://kyopro-yuntaku.connpass.com/event/282974/)
 <!-- profile updater end: connpass -->
 
 <!---
