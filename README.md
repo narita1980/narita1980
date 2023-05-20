@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 16 [ChatGPT Meetup Tokyo #3](https://chatgpt.connpass.com/event/284058/)
-- Jun 16 [Microsoft 365 導入＆活用相談会［6月］](https://msbase-joetsumyoko.connpass.com/event/282882/)
-- Jun 10 [フォロー コネクトFabLab : WWDC23](https://mosa.connpass.com/event/279783/)
-- Jun 5 [Extended Tokyo - WWDC 2023](https://yj-meetup.connpass.com/event/281562/)
-- Jun 3 [競プロゆんたく会 #3 言語バトル](https://kyopro-yuntaku.connpass.com/event/282974/)
+- Jun 21 [第2回オープンエッジデバイス研究会](https://openedgedevice.connpass.com/event/284622/)
+- Jun 19 [【オンライン】6/19(月)5時〜7時：Flutter好きが集まる朝もく会（第352回）](https://flutter-asamoku.connpass.com/event/280705/)
+- Jun 12 [【オンライン】6/12(月)5時〜7時：Flutter好きが集まる朝もく会（第351回）](https://flutter-asamoku.connpass.com/event/280704/)
+- Jun 5 [【オンライン】6/5(月)5時〜7時：Flutter好きが集まる朝もく会（第350回）](https://flutter-asamoku.connpass.com/event/280702/)
+- May 24 [#VRSionUp!13 LavalVirtual報告会＆VTechChallenge2023授賞式](https://vrstudio.connpass.com/event/282145/)
 <!-- profile updater end: connpass -->
 
 <!---
