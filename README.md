@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 21 [第2回オープンエッジデバイス研究会](https://openedgedevice.connpass.com/event/284622/)
-- Jun 19 [【オンライン】6/19(月)5時〜7時：Flutter好きが集まる朝もく会（第352回）](https://flutter-asamoku.connpass.com/event/280705/)
-- Jun 12 [【オンライン】6/12(月)5時〜7時：Flutter好きが集まる朝もく会（第351回）](https://flutter-asamoku.connpass.com/event/280704/)
-- Jun 5 [【オンライン】6/5(月)5時〜7時：Flutter好きが集まる朝もく会（第350回）](https://flutter-asamoku.connpass.com/event/280702/)
-- May 24 [#VRSionUp!13 LavalVirtual報告会＆VTechChallenge2023授賞式](https://vrstudio.connpass.com/event/282145/)
+- Jul 23 [動画で学ぶデータサイエンス(134回目)](https://learning-data-science-from-youtube.connpass.com/event/284704/)
+- Jul 16 [動画で学ぶデータサイエンス(133回目)](https://learning-data-science-from-youtube.connpass.com/event/284703/)
+- Jul 9 [動画で学ぶデータサイエンス(132回目)](https://learning-data-science-from-youtube.connpass.com/event/284702/)
+- Jun 11 [第67回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/284710/)
+- May 29 [5/29(月)【第1883回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/284706/)
 <!-- profile updater end: connpass -->
 
 <!---
