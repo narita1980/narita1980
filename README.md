@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 23 [動画で学ぶデータサイエンス(134回目)](https://learning-data-science-from-youtube.connpass.com/event/284704/)
-- Jul 16 [動画で学ぶデータサイエンス(133回目)](https://learning-data-science-from-youtube.connpass.com/event/284703/)
-- Jul 9 [動画で学ぶデータサイエンス(132回目)](https://learning-data-science-from-youtube.connpass.com/event/284702/)
-- Jun 11 [第67回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/284710/)
-- May 29 [5/29(月)【第1883回】IT勉強会＆オンラインもくもく会(夜)途中入退室OK](https://no-genre-mokumoku.connpass.com/event/284706/)
+- Jun 18 [第1回 CoderDojo磐田](https://coderdojo-iwata.connpass.com/event/284731/)
+- Jun 15 [【NIKKEI Tech Talk #8】日経のネイティブアプリ開発LT大会AndroidとiOS](https://nikkei.connpass.com/event/284090/)
+- Jun 10 [kintoneCafé女子会 Vol.2](https://connpass.com/event/280787/)
+- Jun 9 [東京.dart](https://flutteruniv.connpass.com/event/282109/)
+- May 30 [STORES Tech Talk - 業務と並行で進める開発改善Night](https://hey.connpass.com/event/283610/)
 <!-- profile updater end: connpass -->
 
 <!---
