@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 18 [第1回 CoderDojo磐田](https://coderdojo-iwata.connpass.com/event/284731/)
-- Jun 15 [【NIKKEI Tech Talk #8】日経のネイティブアプリ開発LT大会AndroidとiOS](https://nikkei.connpass.com/event/284090/)
-- Jun 10 [kintoneCafé女子会 Vol.2](https://connpass.com/event/280787/)
-- Jun 9 [東京.dart](https://flutteruniv.connpass.com/event/282109/)
-- May 30 [STORES Tech Talk - 業務と並行で進める開発改善Night](https://hey.connpass.com/event/283610/)
+- Jul 29 [[オンライン開催]機械学習と異常検知第8回](https://datascience-sendai-lab.connpass.com/event/284919/)
+- Jul 22 [[オンライン開催]機械学習と異常検知第7回](https://datascience-sendai-lab.connpass.com/event/284918/)
+- Jul 15 [[オンライン開催]機械学習と異常検知第6回](https://datascience-sendai-lab.connpass.com/event/284917/)
+- Jul 8 [[オンライン開催]機械学習と異常検知第5回](https://datascience-sendai-lab.connpass.com/event/284916/)
+- Jul 1 [[オンライン開催]機械学習と異常検知第4回](https://datascience-sendai-lab.connpass.com/event/284915/)
 <!-- profile updater end: connpass -->
 
 <!---
