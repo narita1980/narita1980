@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 29 [[オンライン開催]機械学習と異常検知第8回](https://datascience-sendai-lab.connpass.com/event/284919/)
-- Jul 22 [[オンライン開催]機械学習と異常検知第7回](https://datascience-sendai-lab.connpass.com/event/284918/)
-- Jul 15 [[オンライン開催]機械学習と異常検知第6回](https://datascience-sendai-lab.connpass.com/event/284917/)
-- Jul 8 [[オンライン開催]機械学習と異常検知第5回](https://datascience-sendai-lab.connpass.com/event/284916/)
-- Jul 1 [[オンライン開催]機械学習と異常検知第4回](https://datascience-sendai-lab.connpass.com/event/284915/)
+- Aug 5 [認知症フレンドリーテック 第二回ハッカソン](https://dementia-friendly-tech.connpass.com/event/282971/)
+- Jul 14 [WWDC Recap by nextstep.fm](https://nextstepfm.connpass.com/event/285055/)
+- Jun 13 [クラウドネイティブの旅に出よう: Trail Mapの初心者向け解説！](https://ibm-developer.connpass.com/event/284552/)
+- Jun 3 [Python Boot Camp in 愛知2nd 懇親会](https://pyconjp.connpass.com/event/280531/)
+- May 30 [Aptos Japan Move Workshop Vol.3](https://connpass.com/event/284674/)
 <!-- profile updater end: connpass -->
 
 <!---
