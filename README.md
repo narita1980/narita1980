@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 15 [ITエンジニアの自主性と創造性を向上する方法を大公開！](https://majisemi.connpass.com/event/285168/)
-- Jun 14 [2023年6月度・知財DX推進勉強会＠ハイブリット](https://connpass.com/event/285073/)
-- Jun 13 [DevOps組織論から学ぶ組織間連携のあり方とは?](https://innersourcecommons.connpass.com/event/279244/)
-- Jun 13 [【初学者向け】多様性溢れるAIの世界：ChatGPTとWatsonを一緒に使うとどうなる？](https://ibm-developer.connpass.com/event/285136/)
-- Jun 2 [IT系勉強会【第373回】朝からもくもく会](https://asa-moku-2.connpass.com/event/285163/)
+- Jun 16 [吉祥寺.pm33【吉祥寺でのオフライン開催！！！】](https://kichijojipm.connpass.com/event/281939/)
+- Jun 10 [◤xR with Anything Meetup #022◢ #xram81 #メタバース](https://xram.connpass.com/event/282140/)
+- Jun 9 [エンジニアリング力をUPさせる「学習」について！LT勉強会&オフィスツアー（ピザパ交流会付き）](https://peraichi.connpass.com/event/284842/)
+- Jun 9 [エンジニアの働き方　トークセッション！（オンライン）](https://urahara-agile.connpass.com/event/285305/)
+- Jun 3 [IT系勉強会【第374回】朝からもくもく会](https://asa-moku-2.connpass.com/event/285301/)
 <!-- profile updater end: connpass -->
 
 <!---
