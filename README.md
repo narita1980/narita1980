@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 1 [データベース、SQL (日時は仮)](https://beginner-waiwai.connpass.com/event/273400/)
-- Jun 15 [Qiskitテキストブック勉強会「量子情報の基礎より複数システム-2」](https://quantum-tokyo.connpass.com/event/285344/)
-- Jun 9 [エンジニアの働き方＆キャリア　トークセッション！（オンライン）](https://urahara-agile.connpass.com/event/285305/)
-- Jun 4 [IT系勉強会【第375回】朝からもくもく会](https://asa-moku-2.connpass.com/event/285398/)
-- Jun 3 [IT系&誰でも参加OK！もくもく会_朝活_6/3(土)](https://morimori.connpass.com/event/285401/)
+- Jun 13 [FM-Cafe(FileMaker)2023年6月開催！](https://connpass.com/event/285441/)
+- Jun 8 [Hack The Boxで学ぶペネトレーションテスト（実践編）　第１回](https://hackthebox.connpass.com/event/285135/)
+- Jun 7 [びっくり退職を防ぐ人事施策とは？ 人事評価制度の導入ポイントや組織改善の進め方](https://connpass.com/event/285466/)
+- Jun 6 [Hack The Boxで学ぶペネトレーションテスト（入門編）　第１回](https://hackthebox.connpass.com/event/285123/)
+- Jun 5 [IT系勉強会【第376回】朝からもくもく会](https://asa-moku-2.connpass.com/event/285460/)
 <!-- profile updater end: connpass -->
 
 <!---
