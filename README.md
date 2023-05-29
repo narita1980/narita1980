@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 13 [FM-Cafe(FileMaker)2023年6月開催！](https://connpass.com/event/285441/)
-- Jun 8 [Hack The Boxで学ぶペネトレーションテスト（実践編）　第１回](https://hackthebox.connpass.com/event/285135/)
-- Jun 7 [びっくり退職を防ぐ人事施策とは？ 人事評価制度の導入ポイントや組織改善の進め方](https://connpass.com/event/285466/)
-- Jun 6 [Hack The Boxで学ぶペネトレーションテスト（入門編）　第１回](https://hackthebox.connpass.com/event/285123/)
-- Jun 5 [IT系勉強会【第376回】朝からもくもく会](https://asa-moku-2.connpass.com/event/285460/)
+- Jun 25 [もくもく会（プログラミング初学者）#12](https://pg-beginner-mtg.connpass.com/event/285567/)
+- Jun 21 [CDLE ウェルカムイベント 2023年6月](https://jdla.connpass.com/event/284121/)
+- Jun 9 [Microsoft Fabric AI Copilot (Online)](https://sqlserver.connpass.com/event/285455/)
+- Jun 6 [IT系勉強会【第377回】朝からもくもく会](https://asa-moku-2.connpass.com/event/285568/)
+- Jun 4 [[YouTube Live] Power BI Weekly News 77](https://pp-weeklynews.connpass.com/event/285543/)
 <!-- profile updater end: connpass -->
 
 <!---
