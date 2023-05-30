@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 25 [もくもく会（プログラミング初学者）#12](https://pg-beginner-mtg.connpass.com/event/285567/)
-- Jun 21 [CDLE ウェルカムイベント 2023年6月](https://jdla.connpass.com/event/284121/)
-- Jun 9 [Microsoft Fabric AI Copilot (Online)](https://sqlserver.connpass.com/event/285455/)
-- Jun 6 [IT系勉強会【第377回】朝からもくもく会](https://asa-moku-2.connpass.com/event/285568/)
-- Jun 4 [[YouTube Live] Power BI Weekly News 77](https://pp-weeklynews.connpass.com/event/285543/)
+- Jun 23 [IoTビジネス共創ラボ  第23回勉強会](https://iotbizlabo.connpass.com/event/285342/)
+- Jun 15 [ChatGPT×WebデザインLIVE： ChatGPTを使って、WordPressでサイト構築](https://future-tech-association.connpass.com/event/285712/)
+- Jun 10 [◤xR with Anything Meetup #022◢ #xram81 #メタバース](https://xram.connpass.com/event/282140/)
+- Jun 6 [#23 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/282704/)
+- Jun 6 [Hack The Boxで学ぶペネトレーションテスト（入門編）　第１回](https://hackthebox.connpass.com/event/285123/)
 <!-- profile updater end: connpass -->
 
 <!---
