@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 23 [IoTビジネス共創ラボ  第23回勉強会](https://iotbizlabo.connpass.com/event/285342/)
-- Jun 15 [ChatGPT×WebデザインLIVE： ChatGPTを使って、WordPressでサイト構築](https://future-tech-association.connpass.com/event/285712/)
-- Jun 10 [◤xR with Anything Meetup #022◢ #xram81 #メタバース](https://xram.connpass.com/event/282140/)
-- Jun 6 [#23 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/282704/)
-- Jun 6 [Hack The Boxで学ぶペネトレーションテスト（入門編）　第１回](https://hackthebox.connpass.com/event/285123/)
+- Jul 12 [Cloudflare Meetup Kyoto Kick Off!](https://cfm-cts.connpass.com/event/284743/)
+- Jun 28 [医療系スタートアップのLLMへの取り組み・事例紹介](https://yojo.connpass.com/event/280816/)
+- Jun 28 [Alibaba Cloud Developers Meetup #25](https://alibabacloud.connpass.com/event/285793/)
+- Jun 28 [iPhone Dev Sapporo — June 28, 2023【札幌市内オフライン開催】](https://devsap.connpass.com/event/285166/)
+- Jun 22 [Nextbeat Tech Bar：Auth0はやっぱりすごい](https://nextbeat.connpass.com/event/285736/)
 <!-- profile updater end: connpass -->
 
 <!---
