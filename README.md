@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 12 [Cloudflare Meetup Kyoto Kick Off!](https://cfm-cts.connpass.com/event/284743/)
-- Jun 28 [医療系スタートアップのLLMへの取り組み・事例紹介](https://yojo.connpass.com/event/280816/)
-- Jun 28 [Alibaba Cloud Developers Meetup #25](https://alibabacloud.connpass.com/event/285793/)
-- Jun 28 [iPhone Dev Sapporo — June 28, 2023【札幌市内オフライン開催】](https://devsap.connpass.com/event/285166/)
-- Jun 22 [Nextbeat Tech Bar：Auth0はやっぱりすごい](https://nextbeat.connpass.com/event/285736/)
+- Sep 30 [Laboratory Automation月例勉強会 / 2023.09](https://laboratoryautomation.connpass.com/event/285730/)
+- Aug 25 [Laboratory Automation月例勉強会 / 2023.08](https://laboratoryautomation.connpass.com/event/285725/)
+- Jul 28 [3D都市モデル PLATEAU LT 04](https://asciistartup.connpass.com/event/285065/)
+- Jul 22 [Laboratory Automation月例勉強会 / 2023.07](https://laboratoryautomation.connpass.com/event/285638/)
+- Jun 26 [第18回 Customer系エンジニア座談会](https://customer-x-engineer.connpass.com/event/285778/)
 <!-- profile updater end: connpass -->
 
 <!---
