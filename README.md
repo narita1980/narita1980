@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 30 [Laboratory Automation月例勉強会 / 2023.09](https://laboratoryautomation.connpass.com/event/285730/)
-- Aug 25 [Laboratory Automation月例勉強会 / 2023.08](https://laboratoryautomation.connpass.com/event/285725/)
-- Jul 28 [3D都市モデル PLATEAU LT 04](https://asciistartup.connpass.com/event/285065/)
-- Jul 22 [Laboratory Automation月例勉強会 / 2023.07](https://laboratoryautomation.connpass.com/event/285638/)
-- Jun 26 [第18回 Customer系エンジニア座談会](https://customer-x-engineer.connpass.com/event/285778/)
+- Jun 22 [【オンライン開催】もめんと Meet-up in June #2](https://momentocommunity.connpass.com/event/284526/)
+- Jun 15 [多様化する”カスタマーサクセス”のキャリア](https://connpass.com/event/285871/)
+- Jun 12 [PyCon APAC 2023 スポンサーシップパッケージ資料説明会(2)](https://connpass.com/event/286036/)
+- Jun 10 [マケデコハッカソン LT大会 presented by J-Quants](https://mkdeco.connpass.com/event/285911/)
+- Jun 8 [【個人サービス集まれ！】経営スクラムもくもく会【コンサル✕スクラムマスター主催】](https://revision-works.connpass.com/event/285902/)
 <!-- profile updater end: connpass -->
 
 <!---
