@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 22 [【オンライン開催】もめんと Meet-up in June #2](https://momentocommunity.connpass.com/event/284526/)
-- Jun 15 [多様化する”カスタマーサクセス”のキャリア](https://connpass.com/event/285871/)
-- Jun 12 [PyCon APAC 2023 スポンサーシップパッケージ資料説明会(2)](https://connpass.com/event/286036/)
-- Jun 10 [マケデコハッカソン LT大会 presented by J-Quants](https://mkdeco.connpass.com/event/285911/)
-- Jun 8 [【個人サービス集まれ！】経営スクラムもくもく会【コンサル✕スクラムマスター主催】](https://revision-works.connpass.com/event/285902/)
+- Jul 9 [API Workshop Wonderland #4](https://connpass.com/event/286198/)
+- Jul 8 [JackassonFes 2023 in Summer](https://jackassons.connpass.com/event/284910/)
+- Jul 2 [API Workshop Wonderland #3](https://connpass.com/event/286197/)
+- Jun 24 [シン・Blender +αの大発表会　#02](https://connpass.com/event/286184/)
+- Jun 11 [自動運転ラジコンカー 走行会 Lap22](https://donkeycar-nagoya.connpass.com/event/286115/)
 <!-- profile updater end: connpass -->
 
 <!---
