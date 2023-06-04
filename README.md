@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 9 [API Workshop Wonderland #4](https://connpass.com/event/286198/)
-- Jul 8 [JackassonFes 2023 in Summer](https://jackassons.connpass.com/event/284910/)
-- Jul 2 [API Workshop Wonderland #3](https://connpass.com/event/286197/)
-- Jun 24 [シン・Blender +αの大発表会　#02](https://connpass.com/event/286184/)
-- Jun 11 [自動運転ラジコンカー 走行会 Lap22](https://donkeycar-nagoya.connpass.com/event/286115/)
+- Sep 24 [浜松もくもく会](https://connpass.com/event/286273/)
+- Aug 27 [浜松もくもく会](https://connpass.com/event/286272/)
+- Jul 10 [エステ講習会7月10日　先着２名様CONNPASS体験お試し価格](https://tmpsalonschool.connpass.com/event/286279/)
+- Jul 10 [メイク講習会7月10日　先着2名様CONNPASS体験お試し価格](https://tmpsalonschool.connpass.com/event/286278/)
+- Jun 12 [エステ講習会6月12日　先着２名様CONNPASS体験お試し価格](https://tmpsalonschool.connpass.com/event/286277/)
 <!-- profile updater end: connpass -->
 
 <!---
