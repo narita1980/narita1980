@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 24 [浜松もくもく会](https://connpass.com/event/286273/)
-- Aug 27 [浜松もくもく会](https://connpass.com/event/286272/)
-- Jul 10 [エステ講習会7月10日　先着２名様CONNPASS体験お試し価格](https://tmpsalonschool.connpass.com/event/286279/)
-- Jul 10 [メイク講習会7月10日　先着2名様CONNPASS体験お試し価格](https://tmpsalonschool.connpass.com/event/286278/)
-- Jun 12 [エステ講習会6月12日　先着２名様CONNPASS体験お試し価格](https://tmpsalonschool.connpass.com/event/286277/)
+- Jun 29 [MLSE夏合宿2023（オンライン開催）](https://mlxse.connpass.com/event/284014/)
+- Jun 24 [【CCNA実機ラボ】ネットワーク勉強会6/24(土)10時~](https://cisco.connpass.com/event/286338/)
+- Jun 20 [メタバースをビジネスでどう活用する？今抑えておきたい事業アイデアの作り方と事業化プロセス](https://connpass.com/event/286266/)
+- Jun 11 [【ovice】リモートもくもく勉強（or 作業）会](https://marsquai-study.connpass.com/event/285701/)
+- Jun 10 [第106回R勉強会@東京（#TokyoR）](https://tokyor.connpass.com/event/285367/)
 <!-- profile updater end: connpass -->
 
 <!---
