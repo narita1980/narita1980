@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 29 [MLSE夏合宿2023（オンライン開催）](https://mlxse.connpass.com/event/284014/)
-- Jun 24 [【CCNA実機ラボ】ネットワーク勉強会6/24(土)10時~](https://cisco.connpass.com/event/286338/)
-- Jun 20 [メタバースをビジネスでどう活用する？今抑えておきたい事業アイデアの作り方と事業化プロセス](https://connpass.com/event/286266/)
-- Jun 11 [【ovice】リモートもくもく勉強（or 作業）会](https://marsquai-study.connpass.com/event/285701/)
-- Jun 10 [第106回R勉強会@東京（#TokyoR）](https://tokyor.connpass.com/event/285367/)
+- Jul 18 [WWDC23 Recap in Goodpatch](https://goodpatch.connpass.com/event/284544/)
+- Jun 27 [WWDC23 報告会 at LINE, ZOZO, ヤフー](https://line.connpass.com/event/284959/)
+- Jun 16 [Cybozu Mobile Meetup 2023.06.16](https://cybozu.connpass.com/event/285957/)
+- Jun 16 [大阪工業大学 ネットワークデザイン学科 LT大会 2023v1](https://connpass.com/event/281692/)
+- Jun 14 [Bio"Pack"athon 2023 #6](https://biopackathon.connpass.com/event/282005/)
 <!-- profile updater end: connpass -->
 
 <!---
