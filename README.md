@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 23 [Tech BASE Okinawa 2023](https://codebase.connpass.com/event/285901/)
+- Aug 26 [【第9回】サイバーセキュリティ勉強会2023夏 in 塩尻](https://shiojiri-cyber.connpass.com/event/286135/)
+- Jul 29 [みやこでIT ハッカソン.Vol1:UNKNOWN QUEST](https://mit.connpass.com/event/286379/)
 - Jul 24 [【7/24（月）福岡】DevelopersIO 2023 福岡 #devio2023](https://classmethod.connpass.com/event/286634/)
-- Jun 29 [【初心者大歓迎】6/29(木）【第2回】エンジニア/デザイナーもくもく会](https://better-place-it-mokumoku.connpass.com/event/286706/)
-- Jun 28 [Culpeper Traffic Lawyer](https://connpass.com/event/286708/)
-- Jun 15 [【初心者大歓迎】6/15(木）【第1回】エンジニア/デザイナーもくもく会](https://better-place-it-mokumoku.connpass.com/event/251708/)
+- Jun 29 [【SISCO×BTC】AWS LT大会＆Jr.Champion座談会](https://saison-coloris.connpass.com/event/285372/)
+- Jun 28 [フリーランス寂しい人集まれ！ - フリーランスMeetup - vol.2](https://nextfreelance.connpass.com/event/286083/)
 <!-- profile updater end: connpass -->
 
 <!---
