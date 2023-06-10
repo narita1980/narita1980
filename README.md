@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 26 [【第9回】サイバーセキュリティ勉強会2023夏 in 塩尻](https://shiojiri-cyber.connpass.com/event/286135/)
-- Jul 29 [みやこでIT ハッカソン.Vol1:UNKNOWN QUEST](https://mit.connpass.com/event/286379/)
-- Jul 24 [【7/24（月）福岡】DevelopersIO 2023 福岡 #devio2023](https://classmethod.connpass.com/event/286634/)
-- Jun 29 [【SISCO×BTC】AWS LT大会＆Jr.Champion座談会](https://saison-coloris.connpass.com/event/285372/)
-- Jun 28 [フリーランス寂しい人集まれ！ - フリーランスMeetup - vol.2](https://nextfreelance.connpass.com/event/286083/)
+- Sep 3 [インフラ技術基礎勉強会 #4 ～今回のテーマ：業務改善・業務効率化・自動化～](https://infra365.connpass.com/event/286297/)
+- Jul 15 [第45回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/278704/)
+- Jun 30 [例題で学ぶ符号理論入門 読書会1](https://qmlclub.connpass.com/event/286914/)
+- Jun 27 [老舗新聞販売店でのLINE WORKS活用【6/27(火)13:00〜】](https://lwug.connpass.com/event/286614/)
+- Jun 20 [【大好評につき再度開催】Update Your Path: エンジニア転職＆キャリアチェンジのコツ](https://enechange-meetup.connpass.com/event/286872/)
 <!-- profile updater end: connpass -->
 
 <!---
