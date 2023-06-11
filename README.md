@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 3 [インフラ技術基礎勉強会 #4 ～今回のテーマ：業務改善・業務効率化・自動化～](https://infra365.connpass.com/event/286297/)
-- Jul 15 [第45回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/278704/)
-- Jun 30 [例題で学ぶ符号理論入門 読書会1](https://qmlclub.connpass.com/event/286914/)
-- Jun 27 [老舗新聞販売店でのLINE WORKS活用【6/27(火)13:00〜】](https://lwug.connpass.com/event/286614/)
-- Jun 20 [【大好評につき再度開催】Update Your Path: エンジニア転職＆キャリアチェンジのコツ](https://enechange-meetup.connpass.com/event/286872/)
+- Jul 15 [【Cisco】ラボ#1~#5セット0715AM9＠秋葉原UDX](https://forse.connpass.com/event/286993/)
+- Jul 15 [【Windows】ラボ#7＠0715AM09秋葉原UDX](https://forse.connpass.com/event/281878/)
+- Jul 9 [【Windows】ラボ#4～6セット＠0709AM09秋葉原UDX](https://forse.connpass.com/event/286969/)
+- Jul 9 [【ASA】ラボ#3と#4@0709AM0900秋葉原UDX](https://forse.connpass.com/event/286967/)
+- Jul 8 [【ASA】ラボ#1と#2@0708AM0900秋葉原UDX](https://forse.connpass.com/event/286965/)
 <!-- profile updater end: connpass -->
 
 <!---
