@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 15 [【Cisco】ラボ#1~#5セット0715AM9＠秋葉原UDX](https://forse.connpass.com/event/286993/)
-- Jul 15 [【Windows】ラボ#7＠0715AM09秋葉原UDX](https://forse.connpass.com/event/281878/)
-- Jul 9 [【Windows】ラボ#4～6セット＠0709AM09秋葉原UDX](https://forse.connpass.com/event/286969/)
-- Jul 9 [【ASA】ラボ#3と#4@0709AM0900秋葉原UDX](https://forse.connpass.com/event/286967/)
-- Jul 8 [【ASA】ラボ#1と#2@0708AM0900秋葉原UDX](https://forse.connpass.com/event/286965/)
+- Jul 21 [OOL TECH CONNECT vol.1（OOL会員限定）](https://ool.connpass.com/event/286397/)
+- Jul 13 [【初心者限定】Unity１日集中オンライン講座（基礎編）](https://unity-fun.connpass.com/event/283600/)
+- Jun 30 [カスタマージャーニーマップと何が違う？今抑えておくべきパーセプションフロー・モデルの特徴と活用方法](https://connpass.com/event/287067/)
+- Jun 28 [【6/28(水)19時〜@渋谷】エンジニア×北海道スタートアップ交流イベント](https://connpass.com/event/287071/)
+- Jun 18 [【ovice】リモートもくもく勉強（or 作業）会](https://marsquai-study.connpass.com/event/286412/)
 <!-- profile updater end: connpass -->
 
 <!---
