@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 21 [OOL TECH CONNECT vol.1（OOL会員限定）](https://ool.connpass.com/event/286397/)
-- Jul 13 [【初心者限定】Unity１日集中オンライン講座（基礎編）](https://unity-fun.connpass.com/event/283600/)
-- Jun 30 [カスタマージャーニーマップと何が違う？今抑えておくべきパーセプションフロー・モデルの特徴と活用方法](https://connpass.com/event/287067/)
-- Jun 28 [【6/28(水)19時〜@渋谷】エンジニア×北海道スタートアップ交流イベント](https://connpass.com/event/287071/)
-- Jun 18 [【ovice】リモートもくもく勉強（or 作業）会](https://marsquai-study.connpass.com/event/286412/)
+- Jul 6 [AIロボット駆動科学シンポジウム 2023](https://ai-robot-science.connpass.com/event/283825/)
+- Jul 1 [2023年7月イベント参加報告会](https://ishikai.connpass.com/event/286293/)
+- Jun 26 [【物流スタートアップ3社が語る】レガシー産業DXにおける技術的挑戦と失敗から学んだ教訓](https://shippio.connpass.com/event/286096/)
+- Jun 21 [スキルだけでは足りない！？DXマインド醸成のための超実践型ワークショップとは](https://connpass.com/event/286763/)
+- Jun 20 [northernforce #29](https://northernforce.connpass.com/event/284056/)
 <!-- profile updater end: connpass -->
 
 <!---
