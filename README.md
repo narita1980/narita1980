@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 6 [AIロボット駆動科学シンポジウム 2023](https://ai-robot-science.connpass.com/event/283825/)
-- Jul 1 [2023年7月イベント参加報告会](https://ishikai.connpass.com/event/286293/)
-- Jun 26 [【物流スタートアップ3社が語る】レガシー産業DXにおける技術的挑戦と失敗から学んだ教訓](https://shippio.connpass.com/event/286096/)
-- Jun 21 [スキルだけでは足りない！？DXマインド醸成のための超実践型ワークショップとは](https://connpass.com/event/286763/)
-- Jun 20 [northernforce #29](https://northernforce.connpass.com/event/284056/)
+- Jul 12 [Happy Hacking Sauna#1 サウナと IT で世界を整えよう（仮）](https://connpass.com/event/287301/)
+- Jul 8 [macOS native Symposium #09](https://macos-native.connpass.com/event/286455/)
+- Jul 5 [ペライチの開発プロセスとは？PdM&EMの役割と連携のリアル](https://peraichi.connpass.com/event/287198/)
+- Jul 4 [【参加100名超】現場ドリブンなB2B SaaSに学ぶ、ユーザーヒアリングや観察の始め方・活かし方。](https://lbose.connpass.com/event/285751/)
+- Jun 28 [IBMのObservability/APM製品(Instana)を使い倒す #1](https://ibm-developer.connpass.com/event/284873/)
 <!-- profile updater end: connpass -->
 
 <!---
