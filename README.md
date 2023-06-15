@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 12 [Happy Hacking Sauna#1 サウナと IT で世界を整えよう（仮）](https://connpass.com/event/287301/)
-- Jul 8 [macOS native Symposium #09](https://macos-native.connpass.com/event/286455/)
-- Jul 5 [ペライチの開発プロセスとは？PdM&EMの役割と連携のリアル](https://peraichi.connpass.com/event/287198/)
-- Jul 4 [【参加100名超】現場ドリブンなB2B SaaSに学ぶ、ユーザーヒアリングや観察の始め方・活かし方。](https://lbose.connpass.com/event/285751/)
-- Jun 28 [IBMのObservability/APM製品(Instana)を使い倒す #1](https://ibm-developer.connpass.com/event/284873/)
+- Jul 24 [【7/24（月）福岡】DevelopersIO 2023 福岡 #devio2023](https://classmethod.connpass.com/event/286634/)
+- Jul 14 [ljstudy#11「インフラエンジニアのキャリア戦略」](https://ljstudy.connpass.com/event/285429/)
+- Jul 10 [DX実践！LINEミニアプリ×Datadogで課題総解決アプリを作ろう！【監視/データ活用/BI】](https://linedevelopercommunity.connpass.com/event/284062/)
+- Jul 4 [Postman Tokyo Meetup 2023.7](https://postman.connpass.com/event/286626/)
+- Jun 29 [Azure Tech Lab@Microsoft Base Kobe](https://azure-tech-love.connpass.com/event/285358/)
 <!-- profile updater end: connpass -->
 
 <!---
