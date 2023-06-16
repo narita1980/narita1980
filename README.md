@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 24 [【7/24（月）福岡】DevelopersIO 2023 福岡 #devio2023](https://classmethod.connpass.com/event/286634/)
-- Jul 14 [ljstudy#11「インフラエンジニアのキャリア戦略」](https://ljstudy.connpass.com/event/285429/)
-- Jul 10 [DX実践！LINEミニアプリ×Datadogで課題総解決アプリを作ろう！【監視/データ活用/BI】](https://linedevelopercommunity.connpass.com/event/284062/)
-- Jul 4 [Postman Tokyo Meetup 2023.7](https://postman.connpass.com/event/286626/)
-- Jun 29 [Azure Tech Lab@Microsoft Base Kobe](https://azure-tech-love.connpass.com/event/285358/)
+- Aug 12 [はじめての ChatGPT ハッカソン](https://connpass.com/event/287388/)
+- Jul 21 [Microsoft 365 導入＆活用相談会［7月］](https://msbase-joetsumyoko.connpass.com/event/284469/)
+- Jul 19 [事例で学ぶ！エンジニア組織文化を作る採用・評価の仕組み](https://yojo.connpass.com/event/286715/)
+- Jul 13 [自動運転におけるAIコンピューティング](https://tier4.connpass.com/event/286509/)
+- Jul 6 [【オフライン開催】Omotesando.rb #87](https://omotesandorb.connpass.com/event/287544/)
 <!-- profile updater end: connpass -->
 
 <!---
