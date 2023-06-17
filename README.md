@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 12 [はじめての ChatGPT ハッカソン](https://connpass.com/event/287388/)
-- Jul 21 [Microsoft 365 導入＆活用相談会［7月］](https://msbase-joetsumyoko.connpass.com/event/284469/)
-- Jul 19 [事例で学ぶ！エンジニア組織文化を作る採用・評価の仕組み](https://yojo.connpass.com/event/286715/)
-- Jul 13 [自動運転におけるAIコンピューティング](https://tier4.connpass.com/event/286509/)
-- Jul 6 [【オフライン開催】Omotesando.rb #87](https://omotesandorb.connpass.com/event/287544/)
+- Jul 19 [ESWC2023サーベイ会](https://kg-wakate.connpass.com/event/284097/)
+- Jul 17 [【オンライン】7/17(月)5時〜7時：Flutter好きが集まる朝もく会（第356回）](https://flutter-asamoku.connpass.com/event/287593/)
+- Jul 14 [第4回 FlutterGakkai(オンライン/オフライン開催)](https://fluttergakkai.connpass.com/event/284732/)
+- Jul 10 [【オンライン】7/10(月)5時〜7時：Flutter好きが集まる朝もく会（第355回）](https://flutter-asamoku.connpass.com/event/287592/)
+- Jul 5 [【学生エンジニア対象】そこの学生エンジニア団体、何やってるのか教えてよ。なLT](https://peachtech.connpass.com/event/287639/)
 <!-- profile updater end: connpass -->
 
 <!---
