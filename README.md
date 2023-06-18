@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 19 [ESWC2023サーベイ会](https://kg-wakate.connpass.com/event/284097/)
-- Jul 17 [【オンライン】7/17(月)5時〜7時：Flutter好きが集まる朝もく会（第356回）](https://flutter-asamoku.connpass.com/event/287593/)
-- Jul 14 [第4回 FlutterGakkai(オンライン/オフライン開催)](https://fluttergakkai.connpass.com/event/284732/)
-- Jul 10 [【オンライン】7/10(月)5時〜7時：Flutter好きが集まる朝もく会（第355回）](https://flutter-asamoku.connpass.com/event/287592/)
-- Jul 5 [【学生エンジニア対象】そこの学生エンジニア団体、何やってるのか教えてよ。なLT](https://peachtech.connpass.com/event/287639/)
+- Jul 15 [大曽根ブードルファイト!! 7/15(土)](https://connpass.com/event/287687/)
+- Jul 4 [【参加110名超】現場ドリブンなB2B SaaSに学ぶ、ユーザーヒアリングや観察の始め方・活かし方。](https://lbose.connpass.com/event/285751/)
+- Jul 1 [第１7回 CoderDojo江別](https://coderdojo-ebetsu.connpass.com/event/287705/)
+- Jun 27 [パパママサポート・スクール【無料】会場参加とzoom参加を選べるハイブリッドイベント](https://connpass.com/event/287701/)
+- Jun 25 [IT系&誰でも参加OK！もくもく会_朝活_6/25(日)](https://morimori.connpass.com/event/287703/)
 <!-- profile updater end: connpass -->
 
 <!---
