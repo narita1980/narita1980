@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 15 [大曽根ブードルファイト!! 7/15(土)](https://connpass.com/event/287687/)
-- Jul 4 [【参加110名超】現場ドリブンなB2B SaaSに学ぶ、ユーザーヒアリングや観察の始め方・活かし方。](https://lbose.connpass.com/event/285751/)
-- Jul 1 [第１7回 CoderDojo江別](https://coderdojo-ebetsu.connpass.com/event/287705/)
-- Jun 27 [パパママサポート・スクール【無料】会場参加とzoom参加を選べるハイブリッドイベント](https://connpass.com/event/287701/)
-- Jun 25 [IT系&誰でも参加OK！もくもく会_朝活_6/25(日)](https://morimori.connpass.com/event/287703/)
+- Jul 22 [Armキッズワークショップ 2023夏](https://team-arm.connpass.com/event/283473/)
+- Jul 22 [【オフライン主催】Salesforce Saturday @銀座 #5](https://salesforcesaturday-ginza.connpass.com/event/287785/)
+- Jul 21 [【オンライン開催】はんなりプログラミング サイゼリヤミートアップ #9](https://hannari-python.connpass.com/event/287784/)
+- Jul 10 [【PLAID×NewsPicks共同開催】ABテストの理論と実践〜成果にコミットするプロダクト開発〜](https://uzabase-tech.connpass.com/event/286133/)
+- Jun 28 [もうおまじないとはいわせない！OSPFの迂回定義](https://8a1-apc.connpass.com/event/287195/)
 <!-- profile updater end: connpass -->
 
 <!---
