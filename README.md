@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 22 [Armキッズワークショップ 2023夏](https://team-arm.connpass.com/event/283473/)
-- Jul 22 [【オフライン主催】Salesforce Saturday @銀座 #5](https://salesforcesaturday-ginza.connpass.com/event/287785/)
-- Jul 21 [【オンライン開催】はんなりプログラミング サイゼリヤミートアップ #9](https://hannari-python.connpass.com/event/287784/)
-- Jul 10 [【PLAID×NewsPicks共同開催】ABテストの理論と実践〜成果にコミットするプロダクト開発〜](https://uzabase-tech.connpass.com/event/286133/)
-- Jun 28 [もうおまじないとはいわせない！OSPFの迂回定義](https://8a1-apc.connpass.com/event/287195/)
+- Jun 27 [#26 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/286561/)
+- Jun 27 [匠Method User Group Meetup#1〜ビジネスデザインの新たな物語](https://takumi-method-ug.connpass.com/event/287539/)
+- Jun 26 [IT系&誰でも参加OK！もくもく会_朝活_6/26(月)](https://morimori.connpass.com/event/287898/)
+- Jun 25 [CoderDojo 光 80回目【もくもく会】 ～子どものためのプログラミング](https://coderdojo-hikari.connpass.com/event/287879/)
+- Jun 24 [RTLを語る会(17) ～ こんにちはEfinix (仮) ～](https://talkrtl.connpass.com/event/285598/)
 <!-- profile updater end: connpass -->
 
 <!---
