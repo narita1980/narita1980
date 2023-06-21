@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 27 [#26 仕事終わりにひと勉強](https://study-after-work.connpass.com/event/286561/)
-- Jun 27 [匠Method User Group Meetup#1〜ビジネスデザインの新たな物語](https://takumi-method-ug.connpass.com/event/287539/)
-- Jun 26 [IT系&誰でも参加OK！もくもく会_朝活_6/26(月)](https://morimori.connpass.com/event/287898/)
-- Jun 25 [CoderDojo 光 80回目【もくもく会】 ～子どものためのプログラミング](https://coderdojo-hikari.connpass.com/event/287879/)
-- Jun 24 [RTLを語る会(17) ～ こんにちはEfinix (仮) ～](https://talkrtl.connpass.com/event/285598/)
+- Aug 26 [【第9回】サイバーセキュリティ勉強会2023夏 in 塩尻](https://shiojiri-cyber.connpass.com/event/286135/)
+- Jul 22 [PyLadies Tokyo Meetup #80 もくもく会](https://pyladies-tokyo.connpass.com/event/287027/)
+- Jul 3 [LINE DC Offline Meetup ~ChatGPT/LLM~](https://linedevelopercommunity.connpass.com/event/286483/)
+- Jul 1 [【現12名】エンジニア交流会【2023/7/1 (土) 14～16時】〜プログラマーズギルド主催〜](https://connpass.com/event/287917/)
+- Jul 1 [祝五周年！　第68回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/286803/)
 <!-- profile updater end: connpass -->
 
 <!---
