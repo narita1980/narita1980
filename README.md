@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 26 [【第9回】サイバーセキュリティ勉強会2023夏 in 塩尻](https://shiojiri-cyber.connpass.com/event/286135/)
-- Jul 22 [PyLadies Tokyo Meetup #80 もくもく会](https://pyladies-tokyo.connpass.com/event/287027/)
-- Jul 3 [LINE DC Offline Meetup ~ChatGPT/LLM~](https://linedevelopercommunity.connpass.com/event/286483/)
-- Jul 1 [【現12名】エンジニア交流会【2023/7/1 (土) 14～16時】〜プログラマーズギルド主催〜](https://connpass.com/event/287917/)
-- Jul 1 [祝五周年！　第68回CoderDojo Koga（コーダー道場 古河）](https://coderdojokoga.connpass.com/event/286803/)
+- Jul 20 [「企業マスタ不在」が引き起こすCRMの問題、どう乗り越える？識者に聞く原因と対策](https://anitya-darsana.connpass.com/event/288075/)
+- Jul 14 [Qiita Engineer Festa 2023〜私しか得しないニッチな技術でLT〜](https://increments.connpass.com/event/285824/)
+- Jul 12 [【福岡│オフライン開催】neuet × LINE Fukuoka Engineer Meetup](https://charichari.connpass.com/event/287604/)
+- Jul 10 [ChatGPT活用について対話しよう(フレンズ #5)](https://agiletechexpo.connpass.com/event/288116/)
+- Jul 1 [ゆるくもくもくする会](https://hajimari-tukurus-nagano.connpass.com/event/288059/)
 <!-- profile updater end: connpass -->
 
 <!---
