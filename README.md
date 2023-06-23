@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 20 [「企業マスタ不在」が引き起こすCRMの問題、どう乗り越える？識者に聞く原因と対策](https://anitya-darsana.connpass.com/event/288075/)
-- Jul 14 [Qiita Engineer Festa 2023〜私しか得しないニッチな技術でLT〜](https://increments.connpass.com/event/285824/)
-- Jul 12 [【福岡│オフライン開催】neuet × LINE Fukuoka Engineer Meetup](https://charichari.connpass.com/event/287604/)
-- Jul 10 [ChatGPT活用について対話しよう(フレンズ #5)](https://agiletechexpo.connpass.com/event/288116/)
-- Jul 1 [ゆるくもくもくする会](https://hajimari-tukurus-nagano.connpass.com/event/288059/)
+- Aug 5 [Ruby Hack Challenge Holiday in 福岡 #1](https://connpass.com/event/286145/)
+- Jul 2 [【番外編：コーダー道場まつど】はじめてのScratchプログラミング開催案内 2023年7月度](https://coderdojomatsudo-procafe.connpass.com/event/287678/)
+- Jun 29 [MLSE夏合宿2023（オンライン開催）](https://mlxse.connpass.com/event/284014/)
+- Jun 28 [プロダクト開発を支える技術](https://anotherworks.connpass.com/event/285380/)
+- Jun 28 [じっくり読み解く『ドメイン駆動設計』](https://modeling-how-to-learn.connpass.com/event/287977/)
 <!-- profile updater end: connpass -->
 
 <!---
