@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 5 [Ruby Hack Challenge Holiday in 福岡 #1](https://connpass.com/event/286145/)
-- Jul 2 [【番外編：コーダー道場まつど】はじめてのScratchプログラミング開催案内 2023年7月度](https://coderdojomatsudo-procafe.connpass.com/event/287678/)
-- Jun 29 [MLSE夏合宿2023（オンライン開催）](https://mlxse.connpass.com/event/284014/)
-- Jun 28 [プロダクト開発を支える技術](https://anotherworks.connpass.com/event/285380/)
-- Jun 28 [じっくり読み解く『ドメイン駆動設計』](https://modeling-how-to-learn.connpass.com/event/287977/)
+- Sep 24 [子供たちのためのプログラミング初心者/未経験者向け【CoderDojo青梅】](https://coderdojo-ome.connpass.com/event/288338/)
+- Jul 27 [【日経 x note x PIVOT】メディア特性とプロダクト開発の融合: 成功の舞台裏](https://nikkei.connpass.com/event/287369/)
+- Jul 22 [【オンライン】アプリ開発（DX/AI/XR）新規事業開発相談会 2023/07/22](https://kobe-driven-dev.connpass.com/event/288340/)
+- Jul 15 [【Developers Guild】LT&交流会7/15（土）@渋谷](https://devguil.connpass.com/event/285809/)
+- Jul 13 [第2回Generative AI勉強会 関西](https://gai-sm-kansai.connpass.com/event/287840/)
 <!-- profile updater end: connpass -->
 
 <!---
