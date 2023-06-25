@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 24 [子供たちのためのプログラミング初心者/未経験者向け【CoderDojo青梅】](https://coderdojo-ome.connpass.com/event/288338/)
-- Jul 27 [【日経 x note x PIVOT】メディア特性とプロダクト開発の融合: 成功の舞台裏](https://nikkei.connpass.com/event/287369/)
-- Jul 22 [【オンライン】アプリ開発（DX/AI/XR）新規事業開発相談会 2023/07/22](https://kobe-driven-dev.connpass.com/event/288340/)
-- Jul 15 [【Developers Guild】LT&交流会7/15（土）@渋谷](https://devguil.connpass.com/event/285809/)
-- Jul 13 [第2回Generative AI勉強会 関西](https://gai-sm-kansai.connpass.com/event/287840/)
+- Aug 5 [Python Boot Camp in 愛知 Re:2nd](https://pyconjp.connpass.com/event/286959/)
+- Jul 29 [スキャンソン in 東京](https://code-for-yamaguchi.connpass.com/event/287748/)
+- Jul 9 [新横浜インディゲームもくもく会 第3回（協賛：学校法人岩崎学園 横浜デジタルアーツ専門学校](https://indiegame.connpass.com/event/287679/)
+- Jul 3 [たのしくもくもく会](https://mokumkumeeting.connpass.com/event/288405/)
+- Jul 3 [IT系勉強会【第404回】朝からもくもく会](https://asa-moku-2.connpass.com/event/288404/)
 <!-- profile updater end: connpass -->
 
 <!---
