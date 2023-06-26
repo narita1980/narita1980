@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 5 [Python Boot Camp in 愛知 Re:2nd](https://pyconjp.connpass.com/event/286959/)
-- Jul 29 [スキャンソン in 東京](https://code-for-yamaguchi.connpass.com/event/287748/)
-- Jul 9 [新横浜インディゲームもくもく会 第3回（協賛：学校法人岩崎学園 横浜デジタルアーツ専門学校](https://indiegame.connpass.com/event/287679/)
-- Jul 3 [たのしくもくもく会](https://mokumkumeeting.connpass.com/event/288405/)
-- Jul 3 [IT系勉強会【第404回】朝からもくもく会](https://asa-moku-2.connpass.com/event/288404/)
+- Jul 21 [集まれKotlin好き！Kotlin愛好会 vol.45 @G's ACADEMY TOKYO](https://love-kotlin.connpass.com/event/287517/)
+- Jul 19 [Flatt Security mini CTF #2](https://flatt.connpass.com/event/287856/)
+- Jul 15 [【Developers Guild】LT&交流会7/15（土）@渋谷](https://devguil.connpass.com/event/285809/)
+- Jul 14 [【JDLA主催】Andrew Ng 来日特別講演「AI活用と人材育成　グローバル最前線」（仮）](https://jdla.connpass.com/event/287541/)
+- Jul 4 [オンラインもくもく会](https://mocumocu.connpass.com/event/288469/)
 <!-- profile updater end: connpass -->
 
 <!---
