@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 21 [集まれKotlin好き！Kotlin愛好会 vol.45 @G's ACADEMY TOKYO](https://love-kotlin.connpass.com/event/287517/)
-- Jul 19 [Flatt Security mini CTF #2](https://flatt.connpass.com/event/287856/)
-- Jul 15 [【Developers Guild】LT&交流会7/15（土）@渋谷](https://devguil.connpass.com/event/285809/)
-- Jul 14 [【JDLA主催】Andrew Ng 来日特別講演「AI活用と人材育成　グローバル最前線」（仮）](https://jdla.connpass.com/event/287541/)
-- Jul 4 [オンラインもくもく会](https://mocumocu.connpass.com/event/288469/)
+- Sep 20 [Notesアプリ開発を完全理解！ @関数で誰でもワークフロー](https://connpass.com/event/286192/)
+- Jul 27 [Db2 REST APIを使ってみよう! 〜Db2 on Cloud編〜](https://ibm-developer.connpass.com/event/288544/)
+- Jul 14 [原作・ドラマ監修者の解説付きで見る！スタートアップドラマ『トリリオンゲーム』第1話ウォッチパーティー](https://flatt.connpass.com/event/287787/)
+- Jul 12 [『企業文化をデザインする』著者と考える～企業文化からひも解くエンジニア組織づくり～](https://tebiki.connpass.com/event/287999/)
+- Jul 10 [DX実践！LINEミニアプリ×Datadogで課題総解決アプリを作ろう！【監視/データ活用/BI】](https://linedevelopercommunity.connpass.com/event/284062/)
 <!-- profile updater end: connpass -->
 
 <!---
