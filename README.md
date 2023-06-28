@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 20 [Notesアプリ開発を完全理解！ @関数で誰でもワークフロー](https://connpass.com/event/286192/)
-- Jul 27 [Db2 REST APIを使ってみよう! 〜Db2 on Cloud編〜](https://ibm-developer.connpass.com/event/288544/)
-- Jul 14 [原作・ドラマ監修者の解説付きで見る！スタートアップドラマ『トリリオンゲーム』第1話ウォッチパーティー](https://flatt.connpass.com/event/287787/)
-- Jul 12 [『企業文化をデザインする』著者と考える～企業文化からひも解くエンジニア組織づくり～](https://tebiki.connpass.com/event/287999/)
-- Jul 10 [DX実践！LINEミニアプリ×Datadogで課題総解決アプリを作ろう！【監視/データ活用/BI】](https://linedevelopercommunity.connpass.com/event/284062/)
+- Aug 9 [デタマネFES（8/9)_データマネジメント賞受賞記念セッション](https://connpass.com/event/288678/)
+- Jul 19 [【大阪-オンライン開催】XRミーティング 2023/07/19【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/288698/)
+- Jul 11 [UV Study : ビアバッシュ！競技プログラミングLT会](https://uniquevision.connpass.com/event/287075/)
+- Jul 6 [Config2023 Recap  in Goodpatch](https://goodpatch.connpass.com/event/287493/)
+- Jul 5 [DataRobotコミュニティウェビナー2023年7月回 MLOpsによるPythonモデル運用管理](https://datarobot.connpass.com/event/288058/)
 <!-- profile updater end: connpass -->
 
 <!---
