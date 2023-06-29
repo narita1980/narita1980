@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 9 [デタマネFES（8/9)_データマネジメント賞受賞記念セッション](https://connpass.com/event/288678/)
-- Jul 19 [【大阪-オンライン開催】XRミーティング 2023/07/19【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/288698/)
-- Jul 11 [UV Study : ビアバッシュ！競技プログラミングLT会](https://uniquevision.connpass.com/event/287075/)
-- Jul 6 [Config2023 Recap  in Goodpatch](https://goodpatch.connpass.com/event/287493/)
-- Jul 5 [DataRobotコミュニティウェビナー2023年7月回 MLOpsによるPythonモデル運用管理](https://datarobot.connpass.com/event/288058/)
+- Jul 29 [こぺろ交流会 〜渋谷モダンフロントエンド編〜](https://coopello.connpass.com/event/288793/)
+- Jul 21 [スキルだけでは足りない！？DXマインド醸成のための超実践型ワークショップとは](https://connpass.com/event/288802/)
+- Jul 19 [【神戸-オンライン開催】XRミーティング 2023/07/19【AR/CR/MR/SR/VR】](https://kobe-driven-dev.connpass.com/event/288805/)
+- Jul 19 [【関東-オンライン開催】XRミーティング 2023/07/19【AR/CR/MR/SR/VR】](https://osaka-driven-dev-br-tokyo.connpass.com/event/288804/)
+- Jul 17 [【現地orオンライン】第0回 JAZUG for Women - Kick off](https://jazug.connpass.com/event/287757/)
 <!-- profile updater end: connpass -->
 
 <!---
