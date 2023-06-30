@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 29 [こぺろ交流会 〜渋谷モダンフロントエンド編〜](https://coopello.connpass.com/event/288793/)
-- Jul 21 [スキルだけでは足りない！？DXマインド醸成のための超実践型ワークショップとは](https://connpass.com/event/288802/)
-- Jul 19 [【神戸-オンライン開催】XRミーティング 2023/07/19【AR/CR/MR/SR/VR】](https://kobe-driven-dev.connpass.com/event/288805/)
-- Jul 19 [【関東-オンライン開催】XRミーティング 2023/07/19【AR/CR/MR/SR/VR】](https://osaka-driven-dev-br-tokyo.connpass.com/event/288804/)
-- Jul 17 [【現地orオンライン】第0回 JAZUG for Women - Kick off](https://jazug.connpass.com/event/287757/)
+- Aug 22 [Merpay & Mercoin Tech Fest 2023](https://mercari.connpass.com/event/286670/)
+- Aug 9 [デタマネFES（8/9)_データマネジメント賞受賞記念セッション](https://connpass.com/event/288678/)
+- Jul 28 [Encraft #5 Go1.21+ 最前線](https://knowledgework.connpass.com/event/286841/)
+- Jul 18 [企業によるWordPress コントリビュート成功事例: スキルアップとグローバル参加の機会](https://connpass.com/event/287561/)
+- Jul 15 [ネットワークBAR 2023年7月15日開催](https://connpass.com/event/288922/)
 <!-- profile updater end: connpass -->
 
 <!---
