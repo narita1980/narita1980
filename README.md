@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 22 [Merpay & Mercoin Tech Fest 2023](https://mercari.connpass.com/event/286670/)
+- Aug 10 [デタマネFES (8/10)_リアル開催（特別講演／大賞受賞記念講演／交流会）](https://jdmc.connpass.com/event/287868/)
 - Aug 9 [デタマネFES（8/9)_データマネジメント賞受賞記念セッション](https://connpass.com/event/288678/)
-- Jul 28 [Encraft #5 Go1.21+ 最前線](https://knowledgework.connpass.com/event/286841/)
-- Jul 18 [企業によるWordPress コントリビュート成功事例: スキルアップとグローバル参加の機会](https://connpass.com/event/287561/)
-- Jul 15 [ネットワークBAR 2023年7月15日開催](https://connpass.com/event/288922/)
+- Jul 25 [【DMM x アドビ】Career XChange 未経験からデザイン職へ](https://webcamp.connpass.com/event/287649/)
+- Jul 21 [今宵はゆるりと情シストークしよう！21回目！](https://infosys-talk.connpass.com/event/289017/)
+- Jul 16 [子供たちのためのプログラミング初心者/未経験者向け【CoderDojo青梅】](https://coderdojo-ome.connpass.com/event/286164/)
 <!-- profile updater end: connpass -->
 
 <!---
