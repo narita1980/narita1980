@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 10 [デタマネFES (8/10)_リアル開催（特別講演／大賞受賞記念講演／交流会）](https://jdmc.connpass.com/event/287868/)
-- Aug 9 [デタマネFES（8/9)_データマネジメント賞受賞記念セッション](https://connpass.com/event/288678/)
-- Jul 25 [【DMM x アドビ】Career XChange 未経験からデザイン職へ](https://webcamp.connpass.com/event/287649/)
-- Jul 21 [今宵はゆるりと情シストークしよう！21回目！](https://infosys-talk.connpass.com/event/289017/)
-- Jul 16 [子供たちのためのプログラミング初心者/未経験者向け【CoderDojo青梅】](https://coderdojo-ome.connpass.com/event/286164/)
+- Aug 13 [CoderDojo横浜師岡（第11回）](https://coderdojo-morooka.connpass.com/event/289074/)
+- Aug 11 [IPPP Iwate 2023: Softy セッション](https://iputokyo.connpass.com/event/285501/)
+- Jul 22 [読書会ワークショップ](https://ykmc.connpass.com/event/289076/)
+- Jul 15 [7/15 CoderDojo港北NT マインクラフトカップチーム参加者向け(オンライン)](https://coderdojo-kohoku-minecraft-cup.connpass.com/event/289088/)
+- Jul 15 [ネットワークBAR 2023年7月15日開催](https://connpass.com/event/288922/)
 <!-- profile updater end: connpass -->
 
 <!---
