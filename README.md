@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 13 [CoderDojo横浜師岡（第11回）](https://coderdojo-morooka.connpass.com/event/289074/)
-- Aug 11 [IPPP Iwate 2023: Softy セッション](https://iputokyo.connpass.com/event/285501/)
-- Jul 22 [読書会ワークショップ](https://ykmc.connpass.com/event/289076/)
-- Jul 15 [7/15 CoderDojo港北NT マインクラフトカップチーム参加者向け(オンライン)](https://coderdojo-kohoku-minecraft-cup.connpass.com/event/289088/)
-- Jul 15 [ネットワークBAR 2023年7月15日開催](https://connpass.com/event/288922/)
+- Jul 27 [【初心者大歓迎】7/27(木）【第4回】エンジニア/デザイナーもくもく会](https://better-place-it-mokumoku.connpass.com/event/289167/)
+- Jul 21 [[但馬/丹後] Python勉強会 #3[参加無料]](https://tajima-meetup.connpass.com/event/288510/)
+- Jul 19 [【増枠】事例で学ぶ！エンジニア組織文化を作る採用・評価の仕組み](https://yojo.connpass.com/event/286715/)
+- Jul 16 [#2 足立区もくもく勉強会](https://adachi-mokumoku.connpass.com/event/287009/)
+- Jul 8 [【無料】顧客0から創業1年で1000万円の売上を作る営業【フリーランス向け】](https://connpass.com/event/287264/)
 <!-- profile updater end: connpass -->
 
 <!---
