@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 27 [【初心者大歓迎】7/27(木）【第4回】エンジニア/デザイナーもくもく会](https://better-place-it-mokumoku.connpass.com/event/289167/)
-- Jul 21 [[但馬/丹後] Python勉強会 #3[参加無料]](https://tajima-meetup.connpass.com/event/288510/)
-- Jul 19 [【増枠】事例で学ぶ！エンジニア組織文化を作る採用・評価の仕組み](https://yojo.connpass.com/event/286715/)
-- Jul 16 [#2 足立区もくもく勉強会](https://adachi-mokumoku.connpass.com/event/287009/)
-- Jul 8 [【無料】顧客0から創業1年で1000万円の売上を作る営業【フリーランス向け】](https://connpass.com/event/287264/)
+- Aug 3 [Microsoft 365トレンド解説セミナー2023](https://connpass.com/event/288834/)
+- Jul 29 [TokyuRuby会議14 一般参加者募集](https://tokyurb.connpass.com/event/289120/)
+- Jul 20 [kaonavi Tech Talk #14 〜カオナビならではの働き方とは〜](https://kaonavi.connpass.com/event/289228/)
+- Jul 15 [WEB TOUCH MEETING SPIN OFF「WEB CREATORS NIGHT」](https://wtm.connpass.com/event/289258/)
+- Jul 7 [PORT Firebase meetup](https://connpass.com/event/285741/)
 <!-- profile updater end: connpass -->
 
 <!---
