@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 3 [Microsoft 365トレンド解説セミナー2023](https://connpass.com/event/288834/)
-- Jul 29 [TokyuRuby会議14 一般参加者募集](https://tokyurb.connpass.com/event/289120/)
-- Jul 20 [kaonavi Tech Talk #14 〜カオナビならではの働き方とは〜](https://kaonavi.connpass.com/event/289228/)
-- Jul 15 [WEB TOUCH MEETING SPIN OFF「WEB CREATORS NIGHT」](https://wtm.connpass.com/event/289258/)
-- Jul 7 [PORT Firebase meetup](https://connpass.com/event/285741/)
+- Aug 2 [Community Event 2023 - GitHub Copilot](https://connpass.com/event/289343/)
+- Jul 30 [スクラムフェス大阪2023鑑賞＆ゆんたく会](https://agile-yuimar.connpass.com/event/289360/)
+- Jul 25 [LLM Application Meetup](https://llm-app.connpass.com/event/289135/)
+- Jul 19 [【7/19（水）大阪】DevelopersIO 2023 大阪 #devio2023](https://classmethod.connpass.com/event/286155/)
+- Jul 7 [会社を変えるGEEK集合！卒業生LT大会@ジーズアカデミー](https://g-s.connpass.com/event/286660/)
 <!-- profile updater end: connpass -->
 
 <!---
