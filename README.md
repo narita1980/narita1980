@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 2 [Community Event 2023 - GitHub Copilot](https://connpass.com/event/289343/)
-- Jul 30 [スクラムフェス大阪2023鑑賞＆ゆんたく会](https://agile-yuimar.connpass.com/event/289360/)
-- Jul 25 [LLM Application Meetup](https://llm-app.connpass.com/event/289135/)
-- Jul 19 [【7/19（水）大阪】DevelopersIO 2023 大阪 #devio2023](https://classmethod.connpass.com/event/286155/)
-- Jul 7 [会社を変えるGEEK集合！卒業生LT大会@ジーズアカデミー](https://g-s.connpass.com/event/286660/)
+- Aug 2 [Hack For Perl #3](https://hack4perl.connpass.com/event/289480/)
+- Jul 29 [第79回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/288502/)
+- Jul 28 [Design Dontaku meetup #1](https://nulab.connpass.com/event/289183/)
+- Jul 28 [Japan VMUG collaboration with Cisco](https://vmug-jp.connpass.com/event/289417/)
+- Jul 25 [今のUI/UXの現在地はどこですか？機能的価値と体験価値の向上のためのUI/UX改善とは](https://connpass.com/event/289500/)
 <!-- profile updater end: connpass -->
 
 <!---
