@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 2 [Hack For Perl #3](https://hack4perl.connpass.com/event/289480/)
-- Jul 29 [第79回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/288502/)
-- Jul 28 [Design Dontaku meetup #1](https://nulab.connpass.com/event/289183/)
-- Jul 28 [Japan VMUG collaboration with Cisco](https://vmug-jp.connpass.com/event/289417/)
-- Jul 25 [今のUI/UXの現在地はどこですか？機能的価値と体験価値の向上のためのUI/UX改善とは](https://connpass.com/event/289500/)
+- Sep 15 [【オンライン】Pythonで位置データを扱うハンズオン2](https://hannari-python.connpass.com/event/289290/)
+- Sep 1 [Rails Girls Kagoshima 2nd - コーチ募集](https://railsgirls-kagoshima.connpass.com/event/285076/)
+- Sep 1 [Rails Girls Kagoshima 2nd](https://railsgirls-kagoshima.connpass.com/event/285075/)
+- Aug 2 [GitLab Meetup Hybrid【オンライン増枠】](https://gitlab-jp.connpass.com/event/288154/)
+- Jul 31 [関西スタートアップエンジニアが語るサービス開発のここだけの話 akippa tech park](https://akippa-tech-park.connpass.com/event/284178/)
 <!-- profile updater end: connpass -->
 
 <!---
