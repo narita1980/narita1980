@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 15 [【オンライン】Pythonで位置データを扱うハンズオン2](https://hannari-python.connpass.com/event/289290/)
-- Sep 1 [Rails Girls Kagoshima 2nd - コーチ募集](https://railsgirls-kagoshima.connpass.com/event/285076/)
-- Sep 1 [Rails Girls Kagoshima 2nd](https://railsgirls-kagoshima.connpass.com/event/285075/)
-- Aug 2 [GitLab Meetup Hybrid【オンライン増枠】](https://gitlab-jp.connpass.com/event/288154/)
-- Jul 31 [関西スタートアップエンジニアが語るサービス開発のここだけの話 akippa tech park](https://akippa-tech-park.connpass.com/event/284178/)
+- Jul 15 [IT系&誰でも参加OK！もくもく会_朝活_7/15(土)](https://morimori.connpass.com/event/289760/)
+- Jul 15 [7/15(土)【第151回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/289756/)
+- Jul 9 [【ovice】リモートもくもく勉強（or 作業）会](https://marsquai-study.connpass.com/event/288762/)
+- Jul 8 [◤xR with Anything Meetup #023◢ #xram81 #メタバース](https://xram.connpass.com/event/285935/)
+- Jul 8 [小江戸らぐ 7月のオフな集まり(第252回)](https://koedolug.connpass.com/event/286942/)
 <!-- profile updater end: connpass -->
 
 <!---
