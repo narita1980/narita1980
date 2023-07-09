@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 15 [IT系&誰でも参加OK！もくもく会_朝活_7/15(土)](https://morimori.connpass.com/event/289760/)
-- Jul 15 [7/15(土)【第151回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/289756/)
-- Jul 9 [【ovice】リモートもくもく勉強（or 作業）会](https://marsquai-study.connpass.com/event/288762/)
-- Jul 8 [◤xR with Anything Meetup #023◢ #xram81 #メタバース](https://xram.connpass.com/event/285935/)
-- Jul 8 [小江戸らぐ 7月のオフな集まり(第252回)](https://koedolug.connpass.com/event/286942/)
+- Oct 7 [GDG温泉  2023 in 安心院 USA](https://gdg.connpass.com/event/289525/)
+- Sep 8 [第35回オープンCAE研究会@静岡](https://opencae-shizuoka.connpass.com/event/289834/)
+- Jul 23 [第2回クリエイター広場の勉強会&交流会 7/23(日)@渋谷](https://creator-square.connpass.com/event/289006/)
+- Jul 19 [2023年7月定例会「Android 14新APIと、最新SNS」](https://japan-android-group.connpass.com/event/288241/)
+- Jul 16 [第35回 なごや個人開発者の集い](https://758indies.connpass.com/event/289838/)
 <!-- profile updater end: connpass -->
 
 <!---
