@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 7 [GDG温泉  2023 in 安心院 USA](https://gdg.connpass.com/event/289525/)
-- Sep 8 [第35回オープンCAE研究会@静岡](https://opencae-shizuoka.connpass.com/event/289834/)
-- Jul 23 [第2回クリエイター広場の勉強会&交流会 7/23(日)@渋谷](https://creator-square.connpass.com/event/289006/)
-- Jul 19 [2023年7月定例会「Android 14新APIと、最新SNS」](https://japan-android-group.connpass.com/event/288241/)
-- Jul 16 [第35回 なごや個人開発者の集い](https://758indies.connpass.com/event/289838/)
+- Aug 31 [kintone Café 広島 Vol.23@広島(時刻未定)](https://kintone-cafe-hiroshima.connpass.com/event/289890/)
+- Aug 26 [【第9回】サイバーセキュリティ勉強会2023夏 in 塩尻](https://shiojiri-cyber.connpass.com/event/286135/)
+- Jul 24 [LINE API Products Meetup #1](https://linedevelopercommunity.connpass.com/event/289450/)
+- Jul 22 [Kernel/VM探検隊@東京 No16](https://kernelvm.connpass.com/event/287261/)
+- Jul 22 [【エンジニア交流会】光線銃サバイバルゲーム＠愛知](https://connpass.com/event/289645/)
 <!-- profile updater end: connpass -->
 
 <!---
