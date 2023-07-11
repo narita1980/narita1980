@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 31 [kintone Café 広島 Vol.23@広島(時刻未定)](https://kintone-cafe-hiroshima.connpass.com/event/289890/)
-- Aug 26 [【第9回】サイバーセキュリティ勉強会2023夏 in 塩尻](https://shiojiri-cyber.connpass.com/event/286135/)
-- Jul 24 [LINE API Products Meetup #1](https://linedevelopercommunity.connpass.com/event/289450/)
-- Jul 22 [Kernel/VM探検隊@東京 No16](https://kernelvm.connpass.com/event/287261/)
-- Jul 22 [【エンジニア交流会】光線銃サバイバルゲーム＠愛知](https://connpass.com/event/289645/)
+- Aug 5 [Ruby Hack Challenge Holiday in 福岡 #1](https://connpass.com/event/286145/)
+- Aug 4 [CHIYODA Tech #1 ～1つのプロダクトを複数チームで開発する難しさとは～](https://connpass.com/event/286645/)
+- Aug 3 [【ライブ配信】対話型AIツール（Bard）を利用してToDoアプリを開発します](https://beyondjapan.connpass.com/event/289225/)
+- Jul 28 [Encraft #5 Go1.21+ 最前線](https://knowledgework.connpass.com/event/286841/)
+- Jul 27 [マルチプロダクトなスタートアップのSWEキャリアトーク](https://estie.connpass.com/event/289441/)
 <!-- profile updater end: connpass -->
 
 <!---
