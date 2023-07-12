@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 5 [Ruby Hack Challenge Holiday in 福岡 #1](https://connpass.com/event/286145/)
-- Aug 4 [CHIYODA Tech #1 ～1つのプロダクトを複数チームで開発する難しさとは～](https://connpass.com/event/286645/)
-- Aug 3 [【ライブ配信】対話型AIツール（Bard）を利用してToDoアプリを開発します](https://beyondjapan.connpass.com/event/289225/)
-- Jul 28 [Encraft #5 Go1.21+ 最前線](https://knowledgework.connpass.com/event/286841/)
-- Jul 27 [マルチプロダクトなスタートアップのSWEキャリアトーク](https://estie.connpass.com/event/289441/)
+- Aug 12 [第71回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/290123/)
+- Aug 8 [JP_Stripes 仙台 re:boot - 決済・サブスクとその先へ](https://jpstripes.connpass.com/event/289802/)
+- Aug 4 [【オフライン開催】夏のジンジニアMeetup!](https://jinjineer.connpass.com/event/289897/)
+- Jul 27 [Local Engineering MeetUP #1　～地方エンジニアの働き方Tips LT会～](https://studist.connpass.com/event/286517/)
+- Jul 26 [#22 build weekend LT会@渋谷 〜こんなこと考えてます・こんなもの作ってます〜](https://buildweekend.connpass.com/event/287822/)
 <!-- profile updater end: connpass -->
 
 <!---
