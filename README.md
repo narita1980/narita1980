@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 12 [第71回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/290123/)
-- Aug 8 [JP_Stripes 仙台 re:boot - 決済・サブスクとその先へ](https://jpstripes.connpass.com/event/289802/)
-- Aug 4 [【オフライン開催】夏のジンジニアMeetup!](https://jinjineer.connpass.com/event/289897/)
-- Jul 27 [Local Engineering MeetUP #1　～地方エンジニアの働き方Tips LT会～](https://studist.connpass.com/event/286517/)
-- Jul 26 [#22 build weekend LT会@渋谷 〜こんなこと考えてます・こんなもの作ってます〜](https://buildweekend.connpass.com/event/287822/)
+- Sep 22 [XR(VR/AR) で変わる未来](https://majimajiwaroze.connpass.com/event/287918/)
+- Sep 5 [kintone Café 徳島 Vol.5](https://connpass.com/event/289929/)
+- Aug 16 [Fusic×レイヤード合同開催！ IT×ビジネスを知ろう！１DAYインターンシップ](https://fusic.connpass.com/event/289717/)
+- Aug 5 [商店街ゲームジャム2023in香川](https://sanuki-gamen.connpass.com/event/289885/)
+- Jul 27 [Local Engineering MeetUp #1　～地方エンジニアの働き方Tips LT会～](https://studist.connpass.com/event/286517/)
 <!-- profile updater end: connpass -->
 
 <!---
