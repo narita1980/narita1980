@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 22 [XR(VR/AR) で変わる未来](https://majimajiwaroze.connpass.com/event/287918/)
-- Sep 5 [kintone Café 徳島 Vol.5](https://connpass.com/event/289929/)
-- Aug 16 [Fusic×レイヤード合同開催！ IT×ビジネスを知ろう！１DAYインターンシップ](https://fusic.connpass.com/event/289717/)
-- Aug 5 [商店街ゲームジャム2023in香川](https://sanuki-gamen.connpass.com/event/289885/)
-- Jul 27 [Local Engineering MeetUp #1　～地方エンジニアの働き方Tips LT会～](https://studist.connpass.com/event/286517/)
+- Oct 20 [関西Kaggler会 交流会 in Osaka 2023#3](https://kansaikaggler.connpass.com/event/288677/)
+- Aug 26 [PLATEAU Hack Challenge 2023 in Tokyo](https://asciistartup.connpass.com/event/286843/)
+- Aug 10 [真夏のスクラム実験室](https://scrum-jikken.connpass.com/event/289106/)
+- Aug 10 [のの会(notes knows community) 第54回](https://notesknows.connpass.com/event/290374/)
+- Aug 10 [デタマネFES (8/10)_リアル開催（特別講演／大賞受賞記念講演／交流会）](https://jdmc.connpass.com/event/287868/)
 <!-- profile updater end: connpass -->
 
 <!---
