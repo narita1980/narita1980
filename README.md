@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 20 [関西Kaggler会 交流会 in Osaka 2023#3](https://kansaikaggler.connpass.com/event/288677/)
-- Aug 26 [PLATEAU Hack Challenge 2023 in Tokyo](https://asciistartup.connpass.com/event/286843/)
-- Aug 10 [真夏のスクラム実験室](https://scrum-jikken.connpass.com/event/289106/)
-- Aug 10 [のの会(notes knows community) 第54回](https://notesknows.connpass.com/event/290374/)
-- Aug 10 [デタマネFES (8/10)_リアル開催（特別講演／大賞受賞記念講演／交流会）](https://jdmc.connpass.com/event/287868/)
+- Aug 28 [【オンライン】8/28(月)5時〜7時：Flutter好きが集まる朝もく会（第362回）](https://flutter-asamoku.connpass.com/event/289943/)
+- Jul 26 [【検定事前イベント】メディア、ライター関係者必見！衛星データで世界のニュースを深堀り](https://connpass.com/event/289245/)
+- Jul 22 [アーバンデータチャレンジ 2023 in 山口 キックオフミーティング](https://code-for-yamaguchi.connpass.com/event/290414/)
+- Jul 22 [【初心者限定】プロRailsエンジニアが質問に答える会](https://rails-beginners.connpass.com/event/290462/)
+- Jul 22 [「体系的に学ぶ 安全なWebアプリケーションの作り方」読書会 #12](https://singularitysociety.connpass.com/event/290469/)
 <!-- profile updater end: connpass -->
 
 <!---
