@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 28 [【オンライン】8/28(月)5時〜7時：Flutter好きが集まる朝もく会（第362回）](https://flutter-asamoku.connpass.com/event/289943/)
-- Jul 26 [【検定事前イベント】メディア、ライター関係者必見！衛星データで世界のニュースを深堀り](https://connpass.com/event/289245/)
-- Jul 22 [アーバンデータチャレンジ 2023 in 山口 キックオフミーティング](https://code-for-yamaguchi.connpass.com/event/290414/)
-- Jul 22 [【初心者限定】プロRailsエンジニアが質問に答える会](https://rails-beginners.connpass.com/event/290462/)
-- Jul 22 [「体系的に学ぶ 安全なWebアプリケーションの作り方」読書会 #12](https://singularitysociety.connpass.com/event/290469/)
+- Sep 7 [StarT-Tech’23](https://start-tech.connpass.com/event/289107/)
+- Aug 19 [同ソもくもく会 ＃63(オンライン開催)](https://doso.connpass.com/event/290513/)
+- Aug 11 [力強くアウトプットする日の 20230811](https://forceoutput.connpass.com/event/290439/)
+- Aug 4 [Nostr勉強会 #3](https://428lab.connpass.com/event/290514/)
+- Jul 23 [第2回クリエイター広場の勉強会&交流会 7/23(日)@渋谷](https://creator-square.connpass.com/event/289006/)
 <!-- profile updater end: connpass -->
 
 <!---
