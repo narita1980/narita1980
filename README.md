@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 7 [StarT-Tech’23](https://start-tech.connpass.com/event/289107/)
-- Aug 19 [同ソもくもく会 ＃63(オンライン開催)](https://doso.connpass.com/event/290513/)
-- Aug 11 [力強くアウトプットする日の 20230811](https://forceoutput.connpass.com/event/290439/)
-- Aug 4 [Nostr勉強会 #3](https://428lab.connpass.com/event/290514/)
-- Jul 23 [第2回クリエイター広場の勉強会&交流会 7/23(日)@渋谷](https://creator-square.connpass.com/event/289006/)
+- Jul 24 [早朝オンライン[Math & Coding] 多様体の基礎 #2](https://math-coding.connpass.com/event/290562/)
+- Jul 24 [IT系&誰でも参加OK！もくもく会_朝活_7/24(月)](https://morimori.connpass.com/event/290561/)
+- Jul 23 [[YouTube Live] Power BI Weekly News 84](https://pp-weeklynews.connpass.com/event/290547/)
+- Jul 23 [【ovice】リモートもくもく勉強（or 作業）会](https://marsquai-study.connpass.com/event/288767/)
+- Jul 22 [オンライン[Math & Coding] 群論 #44](https://math-coding.connpass.com/event/290563/)
 <!-- profile updater end: connpass -->
 
 <!---
