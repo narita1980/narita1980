@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 24 [早朝オンライン[Math & Coding] 多様体の基礎 #2](https://math-coding.connpass.com/event/290562/)
-- Jul 24 [IT系&誰でも参加OK！もくもく会_朝活_7/24(月)](https://morimori.connpass.com/event/290561/)
-- Jul 23 [[YouTube Live] Power BI Weekly News 84](https://pp-weeklynews.connpass.com/event/290547/)
-- Jul 23 [【ovice】リモートもくもく勉強（or 作業）会](https://marsquai-study.connpass.com/event/288767/)
-- Jul 22 [オンライン[Math & Coding] 群論 #44](https://math-coding.connpass.com/event/290563/)
+- Aug 19 [EDD2023 メンタリングイベント](https://connpass.com/event/290266/)
+- Aug 9 [デタマネFES（8/9)_受賞記念セッション_MonotaRO／イーデザイン損保保険](https://jdmc.connpass.com/event/288678/)
+- Aug 1 [書籍「LOVED」翻訳者 x 現役PMMと考える：日本と世界のPMMのこれまでとこれから](https://pivot-growth-drivers.connpass.com/event/290299/)
+- Jul 29 [【大井町線・池上線】 定例もくもく会&交流会@旗の台 #077](https://ay-house01.connpass.com/event/290621/)
+- Jul 27 [Local Engineering MeetUp #1　～地方エンジニアの働き方Tips LT会～](https://studist.connpass.com/event/286517/)
 <!-- profile updater end: connpass -->
 
 <!---
