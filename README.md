@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 19 [EDD2023 メンタリングイベント](https://connpass.com/event/290266/)
-- Aug 9 [デタマネFES（8/9)_受賞記念セッション_MonotaRO／イーデザイン損保保険](https://jdmc.connpass.com/event/288678/)
-- Aug 1 [書籍「LOVED」翻訳者 x 現役PMMと考える：日本と世界のPMMのこれまでとこれから](https://pivot-growth-drivers.connpass.com/event/290299/)
-- Jul 29 [【大井町線・池上線】 定例もくもく会&交流会@旗の台 #077](https://ay-house01.connpass.com/event/290621/)
-- Jul 27 [Local Engineering MeetUp #1　～地方エンジニアの働き方Tips LT会～](https://studist.connpass.com/event/286517/)
+- Aug 31 [みんなのLLM活用実践LT編〜エンジニアのためのLLM実践ガイド #5](https://forkwell.connpass.com/event/289761/)
+- Aug 8 [サイバーエージェントにおける画像処理技術を使ったプロダクト・事例紹介](https://cyberagent.connpass.com/event/289970/)
+- Aug 7 [AWSユーザーのための「MySQL HeatWave on AWS」いろいろ聞いてみよう会](https://heatwavejp.connpass.com/event/285996/)
+- Aug 3 [PRIVACY NIGHT（プライバシー・ナイト）](https://privacytechnight.connpass.com/event/290061/)
+- Jul 28 [ミノ駆動様特別セミナー](https://techmatrixft.connpass.com/event/290290/)
 <!-- profile updater end: connpass -->
 
 <!---
