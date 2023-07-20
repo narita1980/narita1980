@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 31 [みんなのLLM活用実践LT編〜エンジニアのためのLLM実践ガイド #5](https://forkwell.connpass.com/event/289761/)
-- Aug 8 [サイバーエージェントにおける画像処理技術を使ったプロダクト・事例紹介](https://cyberagent.connpass.com/event/289970/)
-- Aug 7 [AWSユーザーのための「MySQL HeatWave on AWS」いろいろ聞いてみよう会](https://heatwavejp.connpass.com/event/285996/)
-- Aug 3 [PRIVACY NIGHT（プライバシー・ナイト）](https://privacytechnight.connpass.com/event/290061/)
-- Jul 28 [ミノ駆動様特別セミナー](https://techmatrixft.connpass.com/event/290290/)
+- Sep 15 [Vuls祭り#8](https://vuls-jp.connpass.com/event/290311/)
+- Aug 26 [JDLA主催CDLE All Hands 2023 ～ いまこそキャリアアップ ～](https://jdla.connpass.com/event/289891/)
+- Aug 25 [第4回Generative AI勉強会](https://gai-sm-tokyo.connpass.com/event/290499/)
+- Aug 24 [Serverless Meetup Tokyo #17](https://serverless.connpass.com/event/290674/)
+- Aug 12 [2023夏休みドローンプログラミング体験教室　那覇市首里公民館](https://okinawa-ict-kids.connpass.com/event/287885/)
 <!-- profile updater end: connpass -->
 
 <!---
