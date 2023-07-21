@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 15 [Vuls祭り#8](https://vuls-jp.connpass.com/event/290311/)
-- Aug 26 [JDLA主催CDLE All Hands 2023 ～ いまこそキャリアアップ ～](https://jdla.connpass.com/event/289891/)
-- Aug 25 [第4回Generative AI勉強会](https://gai-sm-tokyo.connpass.com/event/290499/)
-- Aug 24 [Serverless Meetup Tokyo #17](https://serverless.connpass.com/event/290674/)
-- Aug 12 [2023夏休みドローンプログラミング体験教室　那覇市首里公民館](https://okinawa-ict-kids.connpass.com/event/287885/)
+- Sep 16 [Mouser Make Awards 2023 決勝審査会 #マウザーアワード](https://mashupawards.connpass.com/event/288642/)
+- Sep 8 [DIST.41 「ゲームから学ぶUI/UX 2023」](https://dist.connpass.com/event/290033/)
+- Aug 28 [JAWS-UG朝会 #48](https://jawsug-asa.connpass.com/event/282613/)
+- Aug 1 [Figma Config 2023 新機能使ってみた！](https://goodpatch.connpass.com/event/290085/)
+- Jul 27 [mediba Tech Cafe #14 会社の福利厚生の紹介](https://mediba-tech-cafe.connpass.com/event/290272/)
 <!-- profile updater end: connpass -->
 
 <!---
