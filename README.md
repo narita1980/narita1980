@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 16 [Mouser Make Awards 2023 決勝審査会 #マウザーアワード](https://mashupawards.connpass.com/event/288642/)
-- Sep 8 [DIST.41 「ゲームから学ぶUI/UX 2023」](https://dist.connpass.com/event/290033/)
-- Aug 28 [JAWS-UG朝会 #48](https://jawsug-asa.connpass.com/event/282613/)
-- Aug 1 [Figma Config 2023 新機能使ってみた！](https://goodpatch.connpass.com/event/290085/)
-- Jul 27 [mediba Tech Cafe #14 会社の福利厚生の紹介](https://mediba-tech-cafe.connpass.com/event/290272/)
+- Aug 4 [【オンライン開催】『Pythonで学ぶ実験計画法入門』読書会#5](https://soleildatadojo.connpass.com/event/291035/)
+- Jul 28 [３３回 初心者のためのセキュリティ勉強会（オンライン開催）](https://sfb.connpass.com/event/289451/)
+- Jul 23 [第19回 CoderDojo麹町](https://coderdojo-kojimachi.connpass.com/event/287800/)
+- Jul 23 [Tokushima Cybersecurity Meetup #9](https://tokushima-cyber-security-meetup.connpass.com/event/289598/)
+- Jul 22 [Cloudflare Meetup Oita Kick off!!](https://cfm-cts.connpass.com/event/285212/)
 <!-- profile updater end: connpass -->
 
 <!---
