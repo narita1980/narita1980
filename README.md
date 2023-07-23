@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 4 [【オンライン開催】『Pythonで学ぶ実験計画法入門』読書会#5](https://soleildatadojo.connpass.com/event/291035/)
-- Jul 28 [３３回 初心者のためのセキュリティ勉強会（オンライン開催）](https://sfb.connpass.com/event/289451/)
-- Jul 23 [第19回 CoderDojo麹町](https://coderdojo-kojimachi.connpass.com/event/287800/)
-- Jul 23 [Tokushima Cybersecurity Meetup #9](https://tokushima-cyber-security-meetup.connpass.com/event/289598/)
-- Jul 22 [Cloudflare Meetup Oita Kick off!!](https://cfm-cts.connpass.com/event/285212/)
+- Aug 27 [高知ルービックキューブ会_20230827](https://connpass.com/event/291087/)
+- Aug 4 [JAWS-UGうどん県勉強会　AWS学びなおし・S3でWEBサイト編](https://jawsug-kagawa.connpass.com/event/289597/)
+- Aug 1 [IT系&誰でも参加OK！もくもく会_朝活_8/1(火)](https://morimori.connpass.com/event/291089/)
+- Jul 30 [第50回 CoderDojo猪名川 2023/7/30 14:00～16:30](https://coderdojo-inagawa.connpass.com/event/291088/)
+- Jul 30 [7/30(日)【第156回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/291094/)
 <!-- profile updater end: connpass -->
 
 <!---
