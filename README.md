@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 27 [高知ルービックキューブ会_20230827](https://connpass.com/event/291087/)
-- Aug 4 [JAWS-UGうどん県勉強会　AWS学びなおし・S3でWEBサイト編](https://jawsug-kagawa.connpass.com/event/289597/)
-- Aug 1 [IT系&誰でも参加OK！もくもく会_朝活_8/1(火)](https://morimori.connpass.com/event/291089/)
-- Jul 30 [第50回 CoderDojo猪名川 2023/7/30 14:00～16:30](https://coderdojo-inagawa.connpass.com/event/291088/)
-- Jul 30 [7/30(日)【第156回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/291094/)
+- Aug 26 [データ利活用やってみよう！ハッカソン2023 キックオフ](https://enjoy-pda.connpass.com/event/285236/)
+- Aug 10 [ヤフー名古屋 Tech Meetup コラボ「Android 14 Meetup Nagoya」](https://yahoo-nagoya.connpass.com/event/289236/)
+- Aug 7 [【freee/マネーフォワード/メルペイ】QA Talk〜QAの悩み"あるある" どう解決してる？〜](https://mercari.connpass.com/event/290347/)
+- Jul 31 [【ソニックガーデン主催】Ruby on Rails もくもく会#4](https://sonicgarden.connpass.com/event/286078/)
+- Jul 30 [【ovice】リモートもくもく勉強（or 作業）会](https://marsquai-study.connpass.com/event/288769/)
 <!-- profile updater end: connpass -->
 
 <!---
