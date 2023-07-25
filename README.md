@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 26 [データ利活用やってみよう！ハッカソン2023 キックオフ](https://enjoy-pda.connpass.com/event/285236/)
-- Aug 10 [ヤフー名古屋 Tech Meetup コラボ「Android 14 Meetup Nagoya」](https://yahoo-nagoya.connpass.com/event/289236/)
-- Aug 7 [【freee/マネーフォワード/メルペイ】QA Talk〜QAの悩み"あるある" どう解決してる？〜](https://mercari.connpass.com/event/290347/)
-- Jul 31 [【ソニックガーデン主催】Ruby on Rails もくもく会#4](https://sonicgarden.connpass.com/event/286078/)
-- Jul 30 [【ovice】リモートもくもく勉強（or 作業）会](https://marsquai-study.connpass.com/event/288769/)
+- Aug 9 [JEDAI Meetup Tokyo オンサイト開催！](https://jedai.connpass.com/event/290949/)
+- Aug 3 [Hack The Boxで学ぶペネトレーションテスト（実践編）第９回](https://hackthebox.connpass.com/event/288029/)
+- Aug 3 [IT系&誰でも参加OK！もくもく会_朝活_8/3(木)](https://morimori.connpass.com/event/291300/)
+- Aug 2 [脱やらされ！次世代リーダーを動かすファーストステップはマインド醸成にある](https://connpass.com/event/291209/)
+- Aug 1 [Hack The Boxで学ぶペネトレーションテスト（入門編）第９回](https://hackthebox.connpass.com/event/288020/)
 <!-- profile updater end: connpass -->
 
 <!---
