@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 9 [JEDAI Meetup Tokyo オンサイト開催！](https://jedai.connpass.com/event/290949/)
-- Aug 3 [Hack The Boxで学ぶペネトレーションテスト（実践編）第９回](https://hackthebox.connpass.com/event/288029/)
-- Aug 3 [IT系&誰でも参加OK！もくもく会_朝活_8/3(木)](https://morimori.connpass.com/event/291300/)
-- Aug 2 [脱やらされ！次世代リーダーを動かすファーストステップはマインド醸成にある](https://connpass.com/event/291209/)
-- Aug 1 [Hack The Boxで学ぶペネトレーションテスト（入門編）第９回](https://hackthebox.connpass.com/event/288020/)
+- Aug 23 [[オフライン開催] 第19回 Customer系エンジニア座談会](https://customer-x-engineer.connpass.com/event/288524/)
+- Aug 18 [Next in LLM 〜大規模言語モデルの研究トレンドから未来を考える〜](https://elith.connpass.com/event/290889/)
+- Aug 8 [【参加80名超】大手企業の新規事業立ち上げを支援するチームに学ぶ、実践的なプロジェクト推進方法。](https://lbose.connpass.com/event/290083/)
+- Aug 5 [GDG Cloud Fukuoka ミートアップ 0805](https://gcpugfukuoka.connpass.com/event/290532/)
+- Aug 5 [商店街ゲームジャム2023in香川](https://sanuki-gamen.connpass.com/event/289885/)
 <!-- profile updater end: connpass -->
 
 <!---
