@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 23 [[オフライン開催] 第19回 Customer系エンジニア座談会](https://customer-x-engineer.connpass.com/event/288524/)
-- Aug 18 [Next in LLM 〜大規模言語モデルの研究トレンドから未来を考える〜](https://elith.connpass.com/event/290889/)
-- Aug 8 [【参加80名超】大手企業の新規事業立ち上げを支援するチームに学ぶ、実践的なプロジェクト推進方法。](https://lbose.connpass.com/event/290083/)
-- Aug 5 [GDG Cloud Fukuoka ミートアップ 0805](https://gcpugfukuoka.connpass.com/event/290532/)
-- Aug 5 [商店街ゲームジャム2023in香川](https://sanuki-gamen.connpass.com/event/289885/)
+- Aug 19 [第3回クリエイター広場の勉強会&交流会 8/19(土)@渋谷](https://creator-square.connpass.com/event/291263/)
+- Aug 10 [「シェル」ってなに？から改めて学ぶLinuxの基本](https://studyco.connpass.com/event/291129/)
+- Aug 8 [JAWS-UG コンテナ支部 #24 ecspresso MeetUp](https://jawsug-container.connpass.com/event/285124/)
+- Aug 5 [CoRE2024参加検討者向け情報交換会（8月5日21時）](https://connpass.com/event/291320/)
+- Aug 5 [IT系&誰でも参加OK！もくもく会_朝活_8/5(土)](https://morimori.connpass.com/event/291491/)
 <!-- profile updater end: connpass -->
 
 <!---
