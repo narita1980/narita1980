@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 19 [第3回クリエイター広場の勉強会&交流会 8/19(土)@渋谷](https://creator-square.connpass.com/event/291263/)
-- Aug 10 [「シェル」ってなに？から改めて学ぶLinuxの基本](https://studyco.connpass.com/event/291129/)
-- Aug 8 [JAWS-UG コンテナ支部 #24 ecspresso MeetUp](https://jawsug-container.connpass.com/event/285124/)
-- Aug 5 [CoRE2024参加検討者向け情報交換会（8月5日21時）](https://connpass.com/event/291320/)
-- Aug 5 [IT系&誰でも参加OK！もくもく会_朝活_8/5(土)](https://morimori.connpass.com/event/291491/)
+- Sep 9 [~ 秋のエンジニア大交流会 & LT会！！~](https://devguil.connpass.com/event/290596/)
+- Aug 20 [PLATEAU2023 アイデアソン by 日本Androidの会](https://japan-android-group.connpass.com/event/287281/)
+- Aug 19 [【新宿】ゆるもくかい#7回目久々のオフライン！](https://yurumoku-tokyo.connpass.com/event/291525/)
+- Aug 5 [はじめてのラズパイ入門ワークショップ](https://iotlab.connpass.com/event/289767/)
+- Aug 3 [第2回CoderDojo大府共和（子ども向けプログラミング道場）](https://coderdojo-obu-t.connpass.com/event/291467/)
 <!-- profile updater end: connpass -->
 
 <!---
