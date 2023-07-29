@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 9 [~ 秋のエンジニア大交流会 & LT会！！~](https://devguil.connpass.com/event/290596/)
-- Aug 20 [PLATEAU2023 アイデアソン by 日本Androidの会](https://japan-android-group.connpass.com/event/287281/)
-- Aug 19 [【新宿】ゆるもくかい#7回目久々のオフライン！](https://yurumoku-tokyo.connpass.com/event/291525/)
-- Aug 5 [はじめてのラズパイ入門ワークショップ](https://iotlab.connpass.com/event/289767/)
-- Aug 3 [第2回CoderDojo大府共和（子ども向けプログラミング道場）](https://coderdojo-obu-t.connpass.com/event/291467/)
+- Aug 6 [【第14回】SE時事ラジオ](https://setk.connpass.com/event/291746/)
+- Aug 6 [8/6(日)【第158回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/291745/)
+- Aug 5 [JBUG広島#12 〜故きを温ねて新しきを知る〜【現地開催：オフライン】](https://jbug.connpass.com/event/290557/)
+- Aug 5 [8/5(土)【第157回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/291744/)
+- Aug 4 [江別AI勉強会 Vol.1](https://connpass.com/event/291492/)
 <!-- profile updater end: connpass -->
 
 <!---
