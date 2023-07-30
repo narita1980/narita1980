@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 6 [【第14回】SE時事ラジオ](https://setk.connpass.com/event/291746/)
-- Aug 6 [8/6(日)【第158回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/291745/)
-- Aug 5 [JBUG広島#12 〜故きを温ねて新しきを知る〜【現地開催：オフライン】](https://jbug.connpass.com/event/290557/)
-- Aug 5 [8/5(土)【第157回】何でもOK！フリーダムITもくもく会【オンライン朝活】](https://setk.connpass.com/event/291744/)
-- Aug 4 [江別AI勉強会 Vol.1](https://connpass.com/event/291492/)
+- Aug 26 [Hardware Maker Meetup Sapporo #11](https://hmmspr.connpass.com/event/291776/)
+- Aug 19 [ゆるゆるプログラミング部@会津若松 [女性対象] 第14回](https://solaris.connpass.com/event/290810/)
+- Aug 12 [大人も子供も! ゲーム作ろうで～善通寺(善通寺ゆるもく会)](https://sanuki-gamen.connpass.com/event/291772/)
+- Aug 8 [【参加80名超】大手企業の新規事業立ち上げを支援するチームに学ぶ、実践的なプロジェクト推進方法。](https://lbose.connpass.com/event/290083/)
+- Aug 5 [週刊サイバーセキュリティ／脱『よわよわエンジニア』【BB-018】](https://bugbounty.connpass.com/event/291813/)
 <!-- profile updater end: connpass -->
 
 <!---
