@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 26 [Hardware Maker Meetup Sapporo #11](https://hmmspr.connpass.com/event/291776/)
-- Aug 19 [ゆるゆるプログラミング部@会津若松 [女性対象] 第14回](https://solaris.connpass.com/event/290810/)
-- Aug 12 [大人も子供も! ゲーム作ろうで～善通寺(善通寺ゆるもく会)](https://sanuki-gamen.connpass.com/event/291772/)
-- Aug 8 [【参加80名超】大手企業の新規事業立ち上げを支援するチームに学ぶ、実践的なプロジェクト推進方法。](https://lbose.connpass.com/event/290083/)
-- Aug 5 [週刊サイバーセキュリティ／脱『よわよわエンジニア』【BB-018】](https://bugbounty.connpass.com/event/291813/)
+- Oct 7 [NASA Space Apps Challenge 2023 Yokohama](https://connpass.com/event/289153/)
+- Aug 26 [ISUCON 夏祭り 2023](https://isucon.connpass.com/event/288820/)
+- Aug 26 [第54回 CoderDojoとよなか（大阪）2023/08/26(Sun)](https://coderdojo-toyonaka.connpass.com/event/287010/)
+- Aug 22 [NervesJP #42 「Nerves と Linux の関係紹介」回](https://nerves-jp.connpass.com/event/291879/)
+- Aug 18 [contest workshop 2023 summer](https://cws.connpass.com/event/283550/)
 <!-- profile updater end: connpass -->
 
 <!---
