@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 7 [NASA Space Apps Challenge 2023 Yokohama](https://connpass.com/event/289153/)
-- Aug 26 [ISUCON 夏祭り 2023](https://isucon.connpass.com/event/288820/)
-- Aug 26 [第54回 CoderDojoとよなか（大阪）2023/08/26(Sun)](https://coderdojo-toyonaka.connpass.com/event/287010/)
-- Aug 22 [NervesJP #42 「Nerves と Linux の関係紹介」回](https://nerves-jp.connpass.com/event/291879/)
-- Aug 18 [contest workshop 2023 summer](https://cws.connpass.com/event/283550/)
+- Sep 25 [JSTQB カンファレンス in 2023 Autumn](https://connpass.com/event/276463/)
+- Sep 1 [Scrum Masters Night! in Tokyo（オンサイト）](https://smn.connpass.com/event/289595/)
+- Aug 31 [第十三回材料シミュレーションもくもく会（オンライン）](https://m3aterial.connpass.com/event/287494/)
+- Aug 26 [8/26 VS Code Dev Containersで始めるリモート開発環境体験ハンズオン](https://devops-study.connpass.com/event/291558/)
+- Aug 19 [【新宿】ゆるもくかい#7回目久々のオフライン！](https://yurumoku-tokyo.connpass.com/event/291525/)
 <!-- profile updater end: connpass -->
 
 <!---
