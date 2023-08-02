@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 25 [JSTQB カンファレンス in 2023 Autumn](https://connpass.com/event/276463/)
-- Sep 1 [Scrum Masters Night! in Tokyo（オンサイト）](https://smn.connpass.com/event/289595/)
-- Aug 31 [第十三回材料シミュレーションもくもく会（オンライン）](https://m3aterial.connpass.com/event/287494/)
-- Aug 26 [8/26 VS Code Dev Containersで始めるリモート開発環境体験ハンズオン](https://devops-study.connpass.com/event/291558/)
-- Aug 19 [【新宿】ゆるもくかい#7回目久々のオフライン！](https://yurumoku-tokyo.connpass.com/event/291525/)
+- Sep 6 [準備が成果を決める！ユーザーインタビューの事前準備とは](https://unii-research.connpass.com/event/290992/)
+- Aug 30 [Encraft #6 Focus on UI Component 実装](https://knowledgework.connpass.com/event/291226/)
+- Aug 26 [第80回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/291765/)
+- Aug 26 [ハシラス・オープンデイ #15](https://hashilus.connpass.com/event/291928/)
+- Aug 16 [【朝活】外資ITサバイバル英語 - Vol.73　＊通勤中・耳だけ参加もOK＊](https://gaisaba.connpass.com/event/292125/)
 <!-- profile updater end: connpass -->
 
 <!---
