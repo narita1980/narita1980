@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 6 [準備が成果を決める！ユーザーインタビューの事前準備とは](https://unii-research.connpass.com/event/290992/)
-- Aug 30 [Encraft #6 Focus on UI Component 実装](https://knowledgework.connpass.com/event/291226/)
-- Aug 26 [第80回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/291765/)
-- Aug 26 [ハシラス・オープンデイ #15](https://hashilus.connpass.com/event/291928/)
-- Aug 16 [【朝活】外資ITサバイバル英語 - Vol.73　＊通勤中・耳だけ参加もOK＊](https://gaisaba.connpass.com/event/292125/)
+- Sep 29 [Machine Learning and Physics Bridge vol.2](https://mlpbridge.connpass.com/event/287660/)
+- Aug 24 [コンテナを知ろう（初心者向けセミナー）](https://ibm-developer.connpass.com/event/291309/)
+- Aug 16 [【信州オンライン】XRミーティング 2023/08/16 #XRMTG](https://xr-shinshu.connpass.com/event/292278/)
+- Aug 10 [XR信州 座談会 #13 2023/08/10](https://xr-shinshu.connpass.com/event/292276/)
+- Aug 9 [【大阪】KANSAI AI PUB（関西×人工知能×場）2023/08/09](https://deep-learning-osaka.connpass.com/event/291163/)
 <!-- profile updater end: connpass -->
 
 <!---
