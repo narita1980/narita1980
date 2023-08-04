@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 29 [Machine Learning and Physics Bridge vol.2](https://mlpbridge.connpass.com/event/287660/)
-- Aug 24 [コンテナを知ろう（初心者向けセミナー）](https://ibm-developer.connpass.com/event/291309/)
-- Aug 16 [【信州オンライン】XRミーティング 2023/08/16 #XRMTG](https://xr-shinshu.connpass.com/event/292278/)
-- Aug 10 [XR信州 座談会 #13 2023/08/10](https://xr-shinshu.connpass.com/event/292276/)
-- Aug 9 [【大阪】KANSAI AI PUB（関西×人工知能×場）2023/08/09](https://deep-learning-osaka.connpass.com/event/291163/)
+- Sep 2 [隅田川.dev vol.2 LT会](https://sumidagawa-dev.connpass.com/event/291445/)
+- Aug 25 [第１回3省2ガイドライン勉強会](https://med-event.connpass.com/event/292315/)
+- Aug 19 [『現代数理統計学の基礎』の問題を解く](https://ml-for-experts.connpass.com/event/292382/)
+- Aug 10 [JAPAN VMUG Summer Meeting With BIGLOBE](https://vmug-jp.connpass.com/event/290748/)
+- Aug 9 [JEDAI Meetup Tokyo オンサイト開催！](https://jedai.connpass.com/event/290949/)
 <!-- profile updater end: connpass -->
 
 <!---
