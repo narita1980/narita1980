@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 2 [隅田川.dev vol.2 LT会](https://sumidagawa-dev.connpass.com/event/291445/)
-- Aug 25 [第１回3省2ガイドライン勉強会](https://med-event.connpass.com/event/292315/)
-- Aug 19 [『現代数理統計学の基礎』の問題を解く](https://ml-for-experts.connpass.com/event/292382/)
-- Aug 10 [JAPAN VMUG Summer Meeting With BIGLOBE](https://vmug-jp.connpass.com/event/290748/)
-- Aug 9 [JEDAI Meetup Tokyo オンサイト開催！](https://jedai.connpass.com/event/290949/)
+- Nov 6 [JAWS-UG朝会 #51](https://jawsug-asa.connpass.com/event/291917/)
+- Sep 23 [kintone SIGNPOSTをもっと実践的に活用する研究開発会 Vol.3](https://koriyama-ksp.connpass.com/event/283913/)
+- Sep 7 [Power BI もくもく・わくわく会 9](https://powerbi.connpass.com/event/292486/)
+- Aug 13 [「運用設計の教科書 ~現場で困らないITサービスマネジメントの実践ノウハウ」読書会2](https://yuruora.connpass.com/event/291865/)
+- Aug 12 [東京もくもく部#1](https://kensanbu.connpass.com/event/292436/)
 <!-- profile updater end: connpass -->
 
 <!---
