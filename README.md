@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 6 [JAWS-UG朝会 #51](https://jawsug-asa.connpass.com/event/291917/)
-- Sep 23 [kintone SIGNPOSTをもっと実践的に活用する研究開発会 Vol.3](https://koriyama-ksp.connpass.com/event/283913/)
-- Sep 7 [Power BI もくもく・わくわく会 9](https://powerbi.connpass.com/event/292486/)
-- Aug 13 [「運用設計の教科書 ~現場で困らないITサービスマネジメントの実践ノウハウ」読書会2](https://yuruora.connpass.com/event/291865/)
-- Aug 12 [東京もくもく部#1](https://kensanbu.connpass.com/event/292436/)
+- Sep 16 [【エンジニア・LT会&勉強会】エンジニアの輪 at 大阪（第11回）](https://connpass.com/event/292559/)
+- Sep 3 [インフラ技術基礎勉強会 #4 ～今回のテーマ：業務改善・業務効率化・自動化～](https://infra365.connpass.com/event/286297/)
+- Aug 26 [【LT会&勉強会】エンジニアの輪 at 福岡（第５回）](https://circle-of-engineer.connpass.com/event/292375/)
+- Aug 22 [Hello Coding SchoolでGASを学ぼう 9月開講 オンラインスクール 入会説明会](https://future-tech-association.connpass.com/event/292568/)
+- Aug 20 [第20回 CoderDojo麹町](https://coderdojo-kojimachi.connpass.com/event/292569/)
 <!-- profile updater end: connpass -->
 
 <!---
