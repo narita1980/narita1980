@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 16 [【エンジニア・LT会&勉強会】エンジニアの輪 at 大阪（第11回）](https://connpass.com/event/292559/)
+- Sep 9 [オープンセミナー2023@香川](https://osk.connpass.com/event/292551/)
 - Sep 3 [インフラ技術基礎勉強会 #4 ～今回のテーマ：業務改善・業務効率化・自動化～](https://infra365.connpass.com/event/286297/)
-- Aug 26 [【LT会&勉強会】エンジニアの輪 at 福岡（第５回）](https://circle-of-engineer.connpass.com/event/292375/)
-- Aug 22 [Hello Coding SchoolでGASを学ぼう 9月開講 オンラインスクール 入会説明会](https://future-tech-association.connpass.com/event/292568/)
-- Aug 20 [第20回 CoderDojo麹町](https://coderdojo-kojimachi.connpass.com/event/292569/)
+- Sep 3 [CoderDojo 池田石橋@正福寺 - 12](https://coderdojo-ikeda.connpass.com/event/292645/)
+- Sep 1 [ITエンジニアになりたい人相談会](https://increase-it-engineers.connpass.com/event/292646/)
+- Aug 26 [振り返り会&バーベキュー(関西女性エンジニア限定)#10](https://tech-woman-kansai.connpass.com/event/291376/)
 <!-- profile updater end: connpass -->
 
 <!---
