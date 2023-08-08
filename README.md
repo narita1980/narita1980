@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 9 [オープンセミナー2023@香川](https://osk.connpass.com/event/292551/)
-- Sep 3 [インフラ技術基礎勉強会 #4 ～今回のテーマ：業務改善・業務効率化・自動化～](https://infra365.connpass.com/event/286297/)
-- Sep 3 [CoderDojo 池田石橋@正福寺 - 12](https://coderdojo-ikeda.connpass.com/event/292645/)
-- Sep 1 [ITエンジニアになりたい人相談会](https://increase-it-engineers.connpass.com/event/292646/)
-- Aug 26 [振り返り会&バーベキュー(関西女性エンジニア限定)#10](https://tech-woman-kansai.connpass.com/event/291376/)
+- Oct 7 [U16愛知プログラミングコンテスト2023](https://u16procon2023.connpass.com/event/290341/)
+- Sep 4 [第48回Software Design (2023年9月号) 輪読&座談会](https://softwaredesign.connpass.com/event/292824/)
+- Aug 22 [Kubernetes Meetup Tokyo #60](https://k8sjp.connpass.com/event/291103/)
+- Aug 15 [IT系&誰でも参加OK！もくもく会_朝活_8/15(火)](https://morimori.connpass.com/event/292822/)
+- Aug 12 [情シス井戸端会議 第42回](https://connpass.com/event/289494/)
 <!-- profile updater end: connpass -->
 
 <!---
