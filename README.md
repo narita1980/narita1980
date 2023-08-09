@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 7 [U16愛知プログラミングコンテスト2023](https://u16procon2023.connpass.com/event/290341/)
-- Sep 4 [第48回Software Design (2023年9月号) 輪読&座談会](https://softwaredesign.connpass.com/event/292824/)
-- Aug 22 [Kubernetes Meetup Tokyo #60](https://k8sjp.connpass.com/event/291103/)
-- Aug 15 [IT系&誰でも参加OK！もくもく会_朝活_8/15(火)](https://morimori.connpass.com/event/292822/)
-- Aug 12 [情シス井戸端会議 第42回](https://connpass.com/event/289494/)
+- Aug 21 [ICML 2023 論文読み会](https://ridge-i-yomikai.connpass.com/event/292929/)
+- Aug 19 [【駆け出しエンジニア向け】技術記事の書き方を学ぼう！](https://connpass.com/event/291814/)
+- Aug 16 [IT系&誰でも参加OK！もくもく会_朝活_8/16(水)](https://morimori.connpass.com/event/292950/)
+- Aug 15 [《中級》さらなる実力を身につけて実務に活かしたい"攻めの"中級者向け【W3-007】](https://bugbounty.connpass.com/event/292951/)
+- Aug 11 [第3回オープンCAE勉強会＠横浜](https://ocbyokohama.connpass.com/event/287097/)
 <!-- profile updater end: connpass -->
 
 <!---
