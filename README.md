@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 21 [ICML 2023 論文読み会](https://ridge-i-yomikai.connpass.com/event/292929/)
-- Aug 19 [【駆け出しエンジニア向け】技術記事の書き方を学ぼう！](https://connpass.com/event/291814/)
-- Aug 16 [IT系&誰でも参加OK！もくもく会_朝活_8/16(水)](https://morimori.connpass.com/event/292950/)
-- Aug 15 [《中級》さらなる実力を身につけて実務に活かしたい"攻めの"中級者向け【W3-007】](https://bugbounty.connpass.com/event/292951/)
-- Aug 11 [第3回オープンCAE勉強会＠横浜](https://ocbyokohama.connpass.com/event/287097/)
+- Sep 15 [Laboratory Automation Developers Conference 2023](https://laboratoryautomation.connpass.com/event/280990/)
+- Aug 31 [実演で理解するビジネスパーソンのためのSQL入門【SQL勉強会 #2】](https://sql.connpass.com/event/292654/)
+- Aug 30 [【増枠】攻撃者を疑似体験しながら学ぶサイバーセキュリティ対策](https://ibm-developer.connpass.com/event/291003/)
+- Aug 28 [第40回 Microsoft 365 勉強会](https://jpo365ug.connpass.com/event/290695/)
+- Aug 25 [【8/25（金）大阪】クラスメソッドの最新開発ノウハウを学ぶ勉強会 クラメソで使っている話題の技術編](https://classmethod.connpass.com/event/292984/)
 <!-- profile updater end: connpass -->
 
 <!---
