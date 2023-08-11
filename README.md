@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 15 [Laboratory Automation Developers Conference 2023](https://laboratoryautomation.connpass.com/event/280990/)
-- Aug 31 [実演で理解するビジネスパーソンのためのSQL入門【SQL勉強会 #2】](https://sql.connpass.com/event/292654/)
+- Aug 30 [PMが迎える事業フェーズにおける課題。増大する認知コストやカスタマイズ要求を解決した開発組織の裏側。](https://lbose.connpass.com/event/292343/)
 - Aug 30 [【増枠】攻撃者を疑似体験しながら学ぶサイバーセキュリティ対策](https://ibm-developer.connpass.com/event/291003/)
 - Aug 28 [第40回 Microsoft 365 勉強会](https://jpo365ug.connpass.com/event/290695/)
-- Aug 25 [【8/25（金）大阪】クラスメソッドの最新開発ノウハウを学ぶ勉強会 クラメソで使っている話題の技術編](https://classmethod.connpass.com/event/292984/)
+- Aug 26 [振り返り会&バーベキュー(関西女性エンジニア限定)#10](https://tech-woman-kansai.connpass.com/event/291376/)
+- Aug 19 [【駆け出しエンジニア向け】技術記事の書き方を学ぼう！](https://connpass.com/event/291814/)
 <!-- profile updater end: connpass -->
 
 <!---
