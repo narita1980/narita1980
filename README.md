@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 30 [PMが迎える事業フェーズにおける課題。増大する認知コストやカスタマイズ要求を解決した開発組織の裏側。](https://lbose.connpass.com/event/292343/)
-- Aug 30 [【増枠】攻撃者を疑似体験しながら学ぶサイバーセキュリティ対策](https://ibm-developer.connpass.com/event/291003/)
-- Aug 28 [第40回 Microsoft 365 勉強会](https://jpo365ug.connpass.com/event/290695/)
-- Aug 26 [振り返り会&バーベキュー(関西女性エンジニア限定)#10](https://tech-woman-kansai.connpass.com/event/291376/)
-- Aug 19 [【駆け出しエンジニア向け】技術記事の書き方を学ぼう！](https://connpass.com/event/291814/)
+- Oct 7 [[オンライン開催]自然言語処理ライブラリTransformersを学ぶ第8回](https://datascience-sendai-lab.connpass.com/event/285585/)
+- Sep 11 [【オンライン】9/11(月)5時〜7時：Flutter好きが集まる朝もく会（第364回）](https://flutter-asamoku.connpass.com/event/293114/)
+- Sep 4 [【オンライン】9/4(月)5時〜7時：Flutter好きが集まる朝もく会（第363回）](https://flutter-asamoku.connpass.com/event/293112/)
+- Aug 27 [しくじり講師の転職のリアル オレみたいになるな！](https://setk.connpass.com/event/292627/)
+- Aug 26 [GSIS-LT 連続WS(第5回) 「GPTでオンライン学習教材を自動生成する」](https://gsis.connpass.com/event/292501/)
 <!-- profile updater end: connpass -->
 
 <!---
