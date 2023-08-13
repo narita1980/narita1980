@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 7 [[オンライン開催]自然言語処理ライブラリTransformersを学ぶ第8回](https://datascience-sendai-lab.connpass.com/event/285585/)
-- Sep 11 [【オンライン】9/11(月)5時〜7時：Flutter好きが集まる朝もく会（第364回）](https://flutter-asamoku.connpass.com/event/293114/)
-- Sep 4 [【オンライン】9/4(月)5時〜7時：Flutter好きが集まる朝もく会（第363回）](https://flutter-asamoku.connpass.com/event/293112/)
-- Aug 27 [しくじり講師の転職のリアル オレみたいになるな！](https://setk.connpass.com/event/292627/)
-- Aug 26 [GSIS-LT 連続WS(第5回) 「GPTでオンライン学習教材を自動生成する」](https://gsis.connpass.com/event/292501/)
+- Sep 3 [幕末京都オープンデータソン#16：戊辰戦争の始まり](https://countries-romantic.connpass.com/event/293064/)
+- Sep 2 [Bluesky/ATProtocol 勉強会 #2](https://428lab.connpass.com/event/293255/)
+- Aug 20 [第3回 CoderDojo磐田](https://coderdojo-iwata.connpass.com/event/291096/)
+- Aug 20 [8/20(日)【第162回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/293271/)
+- Aug 19 [「体系的に学ぶ 安全なWebアプリケーションの作り方」読書会 #14](https://singularitysociety.connpass.com/event/293262/)
 <!-- profile updater end: connpass -->
 
 <!---
