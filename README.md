@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 3 [幕末京都オープンデータソン#16：戊辰戦争の始まり](https://countries-romantic.connpass.com/event/293064/)
-- Sep 2 [Bluesky/ATProtocol 勉強会 #2](https://428lab.connpass.com/event/293255/)
-- Aug 20 [第3回 CoderDojo磐田](https://coderdojo-iwata.connpass.com/event/291096/)
-- Aug 20 [8/20(日)【第162回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/293271/)
-- Aug 19 [「体系的に学ぶ 安全なWebアプリケーションの作り方」読書会 #14](https://singularitysociety.connpass.com/event/293262/)
+- Aug 26 [.NETラボ 勉強会 2023年8月](https://dotnetlab.connpass.com/event/291485/)
+- Aug 25 [オープンハードテラス オンライン #111](https://openforce.connpass.com/event/293321/)
+- Aug 24 [【オンライン勉強会】これからWeb業界で重宝される人材とは？](https://connpass.com/event/293256/)
+- Aug 21 [早朝オンライン[Math & Coding] 多様体の基礎 #6](https://math-coding.connpass.com/event/293329/)
+- Aug 20 [PLATEAU2023 アイデアソン by 日本Androidの会](https://japan-android-group.connpass.com/event/287281/)
 <!-- profile updater end: connpass -->
 
 <!---
