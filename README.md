@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Aug 26 [.NETラボ 勉強会 2023年8月](https://dotnetlab.connpass.com/event/291485/)
-- Aug 25 [オープンハードテラス オンライン #111](https://openforce.connpass.com/event/293321/)
-- Aug 24 [【オンライン勉強会】これからWeb業界で重宝される人材とは？](https://connpass.com/event/293256/)
-- Aug 21 [早朝オンライン[Math & Coding] 多様体の基礎 #6](https://math-coding.connpass.com/event/293329/)
-- Aug 20 [PLATEAU2023 アイデアソン by 日本Androidの会](https://japan-android-group.connpass.com/event/287281/)
+- Sep 12 [TypeScriptを活用した型安全なチーム開発](https://sansan.connpass.com/event/292695/)
+- Aug 30 [【参加120名超】PMが事業フェーズで迎える課題。認知コストやカスタマイズ要求を解決した組織の裏側。](https://lbose.connpass.com/event/292343/)
+- Aug 29 [JAWS-UG CLI専門支部 #320 AWS CLI基礎(出力) (中級者向け)](https://jawsug-cli.connpass.com/event/293420/)
+- Aug 28 [「良いコード／悪いコードで学ぶ設計入門」読書会 第6回](https://academist-reading.connpass.com/event/293031/)
+- Aug 26 [【大井町線・池上線】 定例もくもく会@旗の台 #081](https://ay-house01.connpass.com/event/293423/)
 <!-- profile updater end: connpass -->
 
 <!---
