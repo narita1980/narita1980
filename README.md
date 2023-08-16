@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 12 [TypeScriptを活用した型安全なチーム開発](https://sansan.connpass.com/event/292695/)
-- Aug 30 [【参加120名超】PMが事業フェーズで迎える課題。認知コストやカスタマイズ要求を解決した組織の裏側。](https://lbose.connpass.com/event/292343/)
-- Aug 29 [JAWS-UG CLI専門支部 #320 AWS CLI基礎(出力) (中級者向け)](https://jawsug-cli.connpass.com/event/293420/)
-- Aug 28 [「良いコード／悪いコードで学ぶ設計入門」読書会 第6回](https://academist-reading.connpass.com/event/293031/)
-- Aug 26 [【大井町線・池上線】 定例もくもく会@旗の台 #081](https://ay-house01.connpass.com/event/293423/)
+- Sep 25 [JSTQB カンファレンス in 2023 Autumn](https://connpass.com/event/276463/)
+- Aug 24 [初心者GLSLシェーダプログラミング勉強会](https://connpass.com/event/293508/)
+- Aug 24 [匠Method User Group Meetup#3〜ヒット商品をリ・モデリングして企画を学ぼう](https://takumi-method-ug.connpass.com/event/293165/)
+- Aug 22 [IT系&誰でも参加OK！もくもく会_朝活_8/22(火)](https://morimori.connpass.com/event/293505/)
+- Aug 21 [ReactThreeFiber勉強会#3](https://asakatsufrontend.connpass.com/event/293507/)
 <!-- profile updater end: connpass -->
 
 <!---
