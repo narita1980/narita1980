@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 25 [JSTQB カンファレンス in 2023 Autumn](https://connpass.com/event/276463/)
-- Aug 24 [初心者GLSLシェーダプログラミング勉強会](https://connpass.com/event/293508/)
-- Aug 24 [匠Method User Group Meetup#3〜ヒット商品をリ・モデリングして企画を学ぼう](https://takumi-method-ug.connpass.com/event/293165/)
-- Aug 22 [IT系&誰でも参加OK！もくもく会_朝活_8/22(火)](https://morimori.connpass.com/event/293505/)
-- Aug 21 [ReactThreeFiber勉強会#3](https://asakatsufrontend.connpass.com/event/293507/)
+- Sep 13 [年間合計IFが100超えたけど、一旦話をまとめたい。【医療AI研究会】](https://deeplearning-b.connpass.com/event/293092/)
+- Sep 7 [【オンライン勉強会】Webディレクターを言語化する！](https://connpass.com/event/293618/)
+- Aug 30 [【8月30日開催】ゆめかなう月例勉強会【フォロワーが確実に伸びるSNS運用の技　失敗しない改善方法】](https://connpass.com/event/293617/)
+- Aug 29 [Postman Fukuoka Meetup 2023.8](https://postman.connpass.com/event/289659/)
+- Aug 29 [【8月29日開催】デジタルビジネス特訓塾【失敗しないデジタルビジネス運用　チームマネジメントの極意】](https://connpass.com/event/293614/)
 <!-- profile updater end: connpass -->
 
 <!---
