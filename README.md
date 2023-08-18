@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 13 [年間合計IFが100超えたけど、一旦話をまとめたい。【医療AI研究会】](https://deeplearning-b.connpass.com/event/293092/)
-- Sep 7 [【オンライン勉強会】Webディレクターを言語化する！](https://connpass.com/event/293618/)
-- Aug 30 [【8月30日開催】ゆめかなう月例勉強会【フォロワーが確実に伸びるSNS運用の技　失敗しない改善方法】](https://connpass.com/event/293617/)
-- Aug 29 [Postman Fukuoka Meetup 2023.8](https://postman.connpass.com/event/289659/)
-- Aug 29 [【8月29日開催】デジタルビジネス特訓塾【失敗しないデジタルビジネス運用　チームマネジメントの極意】](https://connpass.com/event/293614/)
+- Oct 20 [関西Kaggler会 交流会 in Osaka 2023#3](https://kansaikaggler.connpass.com/event/288677/)
+- Sep 9 [第29回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/292022/)
+- Sep 9 [第72回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/293708/)
+- Sep 2 [もくもく会 × 飲み会 ！！](https://connpass.com/event/293006/)
+- Aug 28 [「一般相対性理論を一歩一歩数式で理解する」 読書会 第45回](https://akbrobot.connpass.com/event/293705/)
 <!-- profile updater end: connpass -->
 
 <!---
