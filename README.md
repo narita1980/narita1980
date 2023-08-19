@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 20 [関西Kaggler会 交流会 in Osaka 2023#3](https://kansaikaggler.connpass.com/event/288677/)
-- Sep 9 [第29回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/292022/)
-- Sep 9 [第72回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/293708/)
-- Sep 2 [もくもく会 × 飲み会 ！！](https://connpass.com/event/293006/)
-- Aug 28 [「一般相対性理論を一歩一歩数式で理解する」 読書会 第45回](https://akbrobot.connpass.com/event/293705/)
+- Sep 30 [第5回CoderDojo大府共和（子ども向けプログラミング道場）@アローブ会議室1](https://coderdojo-obu-t.connpass.com/event/292216/)
+- Sep 9 [【大デザナレ展 2023】年にいちど、デザインナレッジの棚卸し--日本最大級の複合デザイン展](https://vivivit.connpass.com/event/291454/)
+- Aug 26 [IT系&誰でも参加OK！もくもく会_朝活_8/26(土)](https://morimori.connpass.com/event/293828/)
+- Aug 22 [DjangoCongress JP 2023 8月トーク選考会](https://django.connpass.com/event/290790/)
+- Aug 21 [第28回プログラミング初心者向け オンラインもくもく会](https://mokumoku-routine.connpass.com/event/293822/)
 <!-- profile updater end: connpass -->
 
 <!---
