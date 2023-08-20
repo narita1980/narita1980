@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 30 [第5回CoderDojo大府共和（子ども向けプログラミング道場）@アローブ会議室1](https://coderdojo-obu-t.connpass.com/event/292216/)
-- Sep 9 [【大デザナレ展 2023】年にいちど、デザインナレッジの棚卸し--日本最大級の複合デザイン展](https://vivivit.connpass.com/event/291454/)
-- Aug 26 [IT系&誰でも参加OK！もくもく会_朝活_8/26(土)](https://morimori.connpass.com/event/293828/)
-- Aug 22 [DjangoCongress JP 2023 8月トーク選考会](https://django.connpass.com/event/290790/)
-- Aug 21 [第28回プログラミング初心者向け オンラインもくもく会](https://mokumoku-routine.connpass.com/event/293822/)
+- Oct 14 [ゲームジャム高梁2023事前勉強会 & 第102回ゆるもく勉強会](https://hirouni.connpass.com/event/288332/)
+- Sep 3 [インフラ技術基礎勉強会 #4 ～今回のテーマ：業務改善・業務効率化・自動化～](https://infra365.connpass.com/event/286297/)
+- Aug 30 [Tech Achieversの会#48](https://techachievers.connpass.com/event/293586/)
+- Aug 27 [Shibuya.lisp lispteatime #14](https://lisp.connpass.com/event/293840/)
+- Aug 27 [8/27(日)【第164回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/293902/)
 <!-- profile updater end: connpass -->
 
 <!---
