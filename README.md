@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 14 [ゲームジャム高梁2023事前勉強会 & 第102回ゆるもく勉強会](https://hirouni.connpass.com/event/288332/)
-- Sep 3 [インフラ技術基礎勉強会 #4 ～今回のテーマ：業務改善・業務効率化・自動化～](https://infra365.connpass.com/event/286297/)
-- Aug 30 [Tech Achieversの会#48](https://techachievers.connpass.com/event/293586/)
-- Aug 27 [Shibuya.lisp lispteatime #14](https://lisp.connpass.com/event/293840/)
-- Aug 27 [8/27(日)【第164回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/293902/)
+- Oct 31 [WEST-SEC セキュリティ勉強会#3 Webセキュリティをハンズオンで](https://west-sec.connpass.com/event/293989/)
+- Sep 23 [JISTA関東支部月例会【2023年9月23日】](https://jista-kanto.connpass.com/event/293216/)
+- Aug 28 [社内ChatGPTで成功する方法を学ぼう！](https://connpass.com/event/292207/)
+- Aug 28 [早朝オンライン[Math & Coding] 多様体の基礎 #7](https://math-coding.connpass.com/event/293991/)
+- Aug 27 [mockmock.dev #421](https://mockmock.connpass.com/event/293990/)
 <!-- profile updater end: connpass -->
 
 <!---
