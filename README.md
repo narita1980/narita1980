@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 31 [WEST-SEC セキュリティ勉強会#3 Webセキュリティをハンズオンで](https://west-sec.connpass.com/event/293989/)
-- Sep 23 [JISTA関東支部月例会【2023年9月23日】](https://jista-kanto.connpass.com/event/293216/)
-- Aug 28 [社内ChatGPTで成功する方法を学ぼう！](https://connpass.com/event/292207/)
-- Aug 28 [早朝オンライン[Math & Coding] 多様体の基礎 #7](https://math-coding.connpass.com/event/293991/)
-- Aug 27 [mockmock.dev #421](https://mockmock.connpass.com/event/293990/)
+- Oct 5 [JBUG札幌 #9 仕事の"うまい"進め方 〜経験をシェアしよう！〜](https://jbug.connpass.com/event/290237/)
+- Sep 22 [Meetup 2023-09: Tech Talk](https://rakuten-sapporo.connpass.com/event/292548/)
+- Sep 20 [ビジュアルプログラミングIoTLT vol.15](https://iotlt.connpass.com/event/292487/)
+- Sep 16 [kintone Café 東京 Vol.14](https://kintone-cafe-tokyo.connpass.com/event/294022/)
+- Sep 2 [Bluesky/ATProtocol 勉強会 #2](https://428lab.connpass.com/event/293255/)
 <!-- profile updater end: connpass -->
 
 <!---
