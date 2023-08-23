@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 5 [JBUG札幌 #9 仕事の"うまい"進め方 〜経験をシェアしよう！〜](https://jbug.connpass.com/event/290237/)
-- Sep 22 [Meetup 2023-09: Tech Talk](https://rakuten-sapporo.connpass.com/event/292548/)
-- Sep 20 [ビジュアルプログラミングIoTLT vol.15](https://iotlt.connpass.com/event/292487/)
-- Sep 16 [kintone Café 東京 Vol.14](https://kintone-cafe-tokyo.connpass.com/event/294022/)
-- Sep 2 [Bluesky/ATProtocol 勉強会 #2](https://428lab.connpass.com/event/293255/)
+- Oct 8 [kintone Café 埼玉 Vol.6](https://kintonecafe-saitama.connpass.com/event/293939/)
+- Sep 3 [特別企画☆LEGOロボットコンテスト世界2位のチームTSKYとLEGOロボットを体験しよう第192回](https://coderdojo-nagoya.connpass.com/event/294233/)
+- Sep 3 [でーたべーすすぺしゃりすとなんてこわくないもん！](https://connpass.com/event/290174/)
+- Sep 2 [【現役エンジニアと話せる】駆け出しエンジニア もくもく会 vol.2](https://engineer-mikata.connpass.com/event/294135/)
+- Aug 30 [Tech Achieversの会#48](https://techachievers.connpass.com/event/293586/)
 <!-- profile updater end: connpass -->
 
 <!---
