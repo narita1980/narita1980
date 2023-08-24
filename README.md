@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 8 [kintone Café 埼玉 Vol.6](https://kintonecafe-saitama.connpass.com/event/293939/)
-- Sep 3 [特別企画☆LEGOロボットコンテスト世界2位のチームTSKYとLEGOロボットを体験しよう第192回](https://coderdojo-nagoya.connpass.com/event/294233/)
-- Sep 3 [でーたべーすすぺしゃりすとなんてこわくないもん！](https://connpass.com/event/290174/)
-- Sep 2 [【現役エンジニアと話せる】駆け出しエンジニア もくもく会 vol.2](https://engineer-mikata.connpass.com/event/294135/)
-- Aug 30 [Tech Achieversの会#48](https://techachievers.connpass.com/event/293586/)
+- Sep 29 [Japan-Technical-Jamboree EP2 Session#1](https://japan-technical-jamboree-episode-2.connpass.com/event/294257/)
+- Sep 7 [WEB+DB PRESS創刊22.9周年パーティ(副題 うまい肉とIPA)](https://connpass.com/event/285724/)
+- Sep 7 [mercari.go #23 Go1.21 パネルディスカッション オンライン開催](https://mercari.connpass.com/event/294164/)
+- Aug 31 [IT系&誰でも参加OK！もくもく会_朝活_8/31(木)](https://morimori.connpass.com/event/294362/)
+- Aug 30 [【Engineer X talk】chatGPTに聞いてみた！フリーランスのリアル](https://connpass.com/event/294364/)
 <!-- profile updater end: connpass -->
 
 <!---
