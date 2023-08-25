@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 29 [Japan-Technical-Jamboree EP2 Session#1](https://japan-technical-jamboree-episode-2.connpass.com/event/294257/)
-- Sep 7 [WEB+DB PRESS創刊22.9周年パーティ(副題 うまい肉とIPA)](https://connpass.com/event/285724/)
-- Sep 7 [mercari.go #23 Go1.21 パネルディスカッション オンライン開催](https://mercari.connpass.com/event/294164/)
-- Aug 31 [IT系&誰でも参加OK！もくもく会_朝活_8/31(木)](https://morimori.connpass.com/event/294362/)
-- Aug 30 [【Engineer X talk】chatGPTに聞いてみた！フリーランスのリアル](https://connpass.com/event/294364/)
+- Sep 9 [JPPGB #8](https://jppgb.connpass.com/event/292259/)
+- Sep 8 [(9/8) 初心者にも向ける勉強会 16 WEB バックエンドのお話 Python 等](https://coroutine.connpass.com/event/293791/)
+- Sep 2 [業務改善検討会 #8](https://bpr-tbd.connpass.com/event/292251/)
+- Sep 1 [IT系&誰でも参加OK！もくもく会_朝活_9/1(金)](https://morimori.connpass.com/event/294468/)
+- Aug 31 [JAWS-UG 新潟 プチキャッチアップ 2023 #35](https://jawsug-niigata.connpass.com/event/294459/)
 <!-- profile updater end: connpass -->
 
 <!---
