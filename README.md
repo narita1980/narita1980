@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 9 [JPPGB #8](https://jppgb.connpass.com/event/292259/)
-- Sep 8 [(9/8) 初心者にも向ける勉強会 16 WEB バックエンドのお話 Python 等](https://coroutine.connpass.com/event/293791/)
-- Sep 2 [業務改善検討会 #8](https://bpr-tbd.connpass.com/event/292251/)
-- Sep 1 [IT系&誰でも参加OK！もくもく会_朝活_9/1(金)](https://morimori.connpass.com/event/294468/)
-- Aug 31 [JAWS-UG 新潟 プチキャッチアップ 2023 #35](https://jawsug-niigata.connpass.com/event/294459/)
+- Sep 29 [【オフライン】Kyoto.rb Meetup 研鑽Rubyプログラミング 勉強会 #4](https://kyotorb.connpass.com/event/294573/)
+- Sep 21 [Turing TechTalk! 実は車のソフトウェア体験ってAndroidでつくれるんです](https://turing.connpass.com/event/294405/)
+- Sep 17 [キャッシュレスカンファレンス2023](https://npoint.connpass.com/event/289609/)
+- Sep 8 [はんなり読書会: リーダーの作法 #2](https://hannari-python.connpass.com/event/294569/)
+- Sep 8 [Turing TechTalk! 自動運転の新しいフロンティア: 大規模マルチモーダルモデルの探求](https://turing.connpass.com/event/292980/)
 <!-- profile updater end: connpass -->
 
 <!---
