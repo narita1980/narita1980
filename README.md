@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 29 [【オフライン】Kyoto.rb Meetup 研鑽Rubyプログラミング 勉強会 #4](https://kyotorb.connpass.com/event/294573/)
-- Sep 21 [Turing TechTalk! 実は車のソフトウェア体験ってAndroidでつくれるんです](https://turing.connpass.com/event/294405/)
-- Sep 17 [キャッシュレスカンファレンス2023](https://npoint.connpass.com/event/289609/)
-- Sep 8 [はんなり読書会: リーダーの作法 #2](https://hannari-python.connpass.com/event/294569/)
-- Sep 8 [Turing TechTalk! 自動運転の新しいフロンティア: 大規模マルチモーダルモデルの探求](https://turing.connpass.com/event/292980/)
+- Oct 11 [第２回一般社団法人日本量子コンピューティング協会説明会](https://jqca2023.connpass.com/event/294629/)
+- Sep 24 [CoderDojo赤羽 #48](https://coderdojo-akabane.connpass.com/event/294662/)
+- Sep 23 [CoderDojo末広町 第55回](https://coderdojosuehirocho.connpass.com/event/294525/)
+- Sep 16 [技術勉強会 #4](https://akiba.connpass.com/event/294663/)
+- Aug 30 [【参加180名超】PMが事業フェーズで迎える課題。認知コストやカスタマイズ要求を解決した組織の裏側。](https://lbose.connpass.com/event/292343/)
 <!-- profile updater end: connpass -->
 
 <!---
