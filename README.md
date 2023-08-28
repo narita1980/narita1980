@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 11 [第２回一般社団法人日本量子コンピューティング協会説明会](https://jqca2023.connpass.com/event/294629/)
-- Sep 24 [CoderDojo赤羽 #48](https://coderdojo-akabane.connpass.com/event/294662/)
-- Sep 23 [CoderDojo末広町 第55回](https://coderdojosuehirocho.connpass.com/event/294525/)
-- Sep 16 [技術勉強会 #4](https://akiba.connpass.com/event/294663/)
-- Aug 30 [【参加180名超】PMが事業フェーズで迎える課題。認知コストやカスタマイズ要求を解決した組織の裏側。](https://lbose.connpass.com/event/292343/)
+- Sep 15 [はんなりflutterもくもく会](https://hannari-python.connpass.com/event/294194/)
+- Sep 15 [Microsoft 365 導入＆活用相談会［９月］](https://msbase-joetsumyoko.connpass.com/event/294740/)
+- Sep 9 [ゆるい勉強会＠秋口](https://asahikawa.connpass.com/event/294739/)
+- Sep 9 [CoderDojo飯田#13](https://coderdojoiida.connpass.com/event/294741/)
+- Sep 4 [IT系&誰でも参加OK！もくもく会_朝活_9/4(月)](https://morimori.connpass.com/event/294735/)
 <!-- profile updater end: connpass -->
 
 <!---
