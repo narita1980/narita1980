@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 15 [はんなりflutterもくもく会](https://hannari-python.connpass.com/event/294194/)
-- Sep 15 [Microsoft 365 導入＆活用相談会［９月］](https://msbase-joetsumyoko.connpass.com/event/294740/)
-- Sep 9 [ゆるい勉強会＠秋口](https://asahikawa.connpass.com/event/294739/)
-- Sep 9 [CoderDojo飯田#13](https://coderdojoiida.connpass.com/event/294741/)
-- Sep 4 [IT系&誰でも参加OK！もくもく会_朝活_9/4(月)](https://morimori.connpass.com/event/294735/)
+- Sep 23 [ServerlessDays Tokyo 2023](https://serverless.connpass.com/event/290640/)
+- Sep 14 [Power Platform｜AI最新状況を学ぶ](https://rpacommunity.connpass.com/event/293488/)
+- Sep 14 [Fin-JAWS 第32回 〜 AWSでにこにこセキュリティ 〜](https://fin-jaws.connpass.com/event/293126/)
+- Sep 2 [◤xR with Anything Meetup #024◢ #xram81 #メタバース](https://xram.connpass.com/event/289098/)
+- Aug 31 [QUBOアニーリング「TYTAN」チュートリアル３](https://mdrft.connpass.com/event/294594/)
 <!-- profile updater end: connpass -->
 
 <!---
