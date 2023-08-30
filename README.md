@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 23 [ServerlessDays Tokyo 2023](https://serverless.connpass.com/event/290640/)
-- Sep 14 [Power Platform｜AI最新状況を学ぶ](https://rpacommunity.connpass.com/event/293488/)
-- Sep 14 [Fin-JAWS 第32回 〜 AWSでにこにこセキュリティ 〜](https://fin-jaws.connpass.com/event/293126/)
-- Sep 2 [◤xR with Anything Meetup #024◢ #xram81 #メタバース](https://xram.connpass.com/event/289098/)
-- Aug 31 [QUBOアニーリング「TYTAN」チュートリアル３](https://mdrft.connpass.com/event/294594/)
+- Sep 27 [YuMake Sky Meetup vol.1](https://yumake.connpass.com/event/294815/)
+- Sep 26 [何をつくる？つくらない？シニアPMと考える、急変化する事業や組織におけるプロダクト開発の取捨選択。](https://lbose.connpass.com/event/293447/)
+- Sep 22 [XR(VR/AR) で変わる未来](https://majimajiwaroze.connpass.com/event/287918/)
+- Sep 19 [JaSST nano vol.28](https://jasst-nano.connpass.com/event/294934/)
+- Sep 17 [キャッシュレスカンファレンス2023](https://npoint.connpass.com/event/289609/)
 <!-- profile updater end: connpass -->
 
 <!---
