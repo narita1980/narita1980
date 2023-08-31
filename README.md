@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 27 [YuMake Sky Meetup vol.1](https://yumake.connpass.com/event/294815/)
-- Sep 26 [何をつくる？つくらない？シニアPMと考える、急変化する事業や組織におけるプロダクト開発の取捨選択。](https://lbose.connpass.com/event/293447/)
-- Sep 22 [XR(VR/AR) で変わる未来](https://majimajiwaroze.connpass.com/event/287918/)
-- Sep 19 [JaSST nano vol.28](https://jasst-nano.connpass.com/event/294934/)
-- Sep 17 [キャッシュレスカンファレンス2023](https://npoint.connpass.com/event/289609/)
+- Oct 7 [Azure DevOpsオンライン Vol.9 ～ エンタープライズ向けGit運用](https://tfsug.connpass.com/event/294824/)
+- Oct 1 [第67回 CoderDojo Hitachinaka](https://coderdojo-hitachinaka.connpass.com/event/294684/)
+- Sep 28 [【連続講座】ソフトウェア設計原則【SOLID】を学ぶ #3 依存性逆転の原則](https://k-abe.connpass.com/event/294870/)
+- Sep 23 [関東Kaggler会](https://connpass.com/event/290248/)
+- Sep 16 [オンラインもくもく会(関西女性エンジニア限定)](https://tech-woman-kansai.connpass.com/event/293945/)
 <!-- profile updater end: connpass -->
 
 <!---
