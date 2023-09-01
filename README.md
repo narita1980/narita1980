@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 7 [Azure DevOpsオンライン Vol.9 ～ エンタープライズ向けGit運用](https://tfsug.connpass.com/event/294824/)
-- Oct 1 [第67回 CoderDojo Hitachinaka](https://coderdojo-hitachinaka.connpass.com/event/294684/)
-- Sep 28 [【連続講座】ソフトウェア設計原則【SOLID】を学ぶ #3 依存性逆転の原則](https://k-abe.connpass.com/event/294870/)
-- Sep 23 [関東Kaggler会](https://connpass.com/event/290248/)
-- Sep 16 [オンラインもくもく会(関西女性エンジニア限定)](https://tech-woman-kansai.connpass.com/event/293945/)
+- Nov 25 [ようけんていぎなんてこわくないもん！](https://connpass.com/event/295166/)
+- Sep 29 [Machine Learning and Physics Bridge vol.2](https://mlpbridge.connpass.com/event/287660/)
+- Sep 24 [CoderDojo＠たかおか 9月 第四週](https://coderdojo-takaoka.connpass.com/event/295165/)
+- Sep 14 [【よなよなゲーム】夜な夜なゲーム開発をするもくもく会](https://itmokumoku.connpass.com/event/295163/)
+- Sep 11 [事業成長と顧客課題～二兎を追うプロダクト開発の取り組み](https://shippio.connpass.com/event/293770/)
 <!-- profile updater end: connpass -->
 
 <!---
