@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 25 [ようけんていぎなんてこわくないもん！](https://connpass.com/event/295166/)
-- Sep 29 [Machine Learning and Physics Bridge vol.2](https://mlpbridge.connpass.com/event/287660/)
-- Sep 24 [CoderDojo＠たかおか 9月 第四週](https://coderdojo-takaoka.connpass.com/event/295165/)
-- Sep 14 [【よなよなゲーム】夜な夜なゲーム開発をするもくもく会](https://itmokumoku.connpass.com/event/295163/)
-- Sep 11 [事業成長と顧客課題～二兎を追うプロダクト開発の取り組み](https://shippio.connpass.com/event/293770/)
+- Sep 17 [Machine Learning A Probabilistic Perspective輪読会#51](https://thinkerslab.connpass.com/event/295262/)
+- Sep 17 [キャッシュレスカンファレンス2023](https://npoint.connpass.com/event/289609/)
+- Sep 11 [ビデオはオフ！寝ぼけまなこでもくもく朝会](https://itmokumoku.connpass.com/event/295267/)
+- Sep 9 [DNS 温泉 8](https://dnsonsen.connpass.com/event/291770/)
+- Sep 9 [IT系&誰でも参加OK！もくもく会_朝活_9/9(土)](https://morimori.connpass.com/event/295268/)
 <!-- profile updater end: connpass -->
 
 <!---
