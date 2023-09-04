@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 1 [CoderDojo横浜師岡（第13回）](https://coderdojo-morooka.connpass.com/event/295319/)
-- Sep 23 [.NETラボ 勉強会 2023年9月](https://dotnetlab.connpass.com/event/294666/)
+- Nov 11 [アクセシビリティカンファレンス福岡](https://fukuoka-a11yconf.connpass.com/event/294555/)
+- Oct 7 [【宇部（山口県）会場】Space Apps Challenge Ube 2023](https://spaceappsjapan.connpass.com/event/295386/)
+- Oct 7 [【和歌山（串本）会場】Space Apps Challenge KUSHIMOTO 2023](https://spaceappsjapan.connpass.com/event/295218/)
+- Oct 3 [AIとペアプロ!ChatGPTとGitHub CopilotでToDoアプリを爆速ライブコーディング](https://tech-lab.connpass.com/event/295404/)
 - Sep 17 [統計検定準一級勉強会：日曜版](https://study-data-analysis.connpass.com/event/295347/)
-- Sep 16 [小江戸らぐ 9月のオフな集まり(第254回)](https://koedolug.connpass.com/event/294804/)
-- Sep 10 [IT系&誰でも参加OK！もくもく会_朝活_9/10(日)](https://morimori.connpass.com/event/295348/)
 <!-- profile updater end: connpass -->
 
 <!---
