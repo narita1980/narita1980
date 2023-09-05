@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 11 [アクセシビリティカンファレンス福岡](https://fukuoka-a11yconf.connpass.com/event/294555/)
-- Oct 7 [【宇部（山口県）会場】Space Apps Challenge Ube 2023](https://spaceappsjapan.connpass.com/event/295386/)
-- Oct 7 [【和歌山（串本）会場】Space Apps Challenge KUSHIMOTO 2023](https://spaceappsjapan.connpass.com/event/295218/)
-- Oct 3 [AIとペアプロ!ChatGPTとGitHub CopilotでToDoアプリを爆速ライブコーディング](https://tech-lab.connpass.com/event/295404/)
-- Sep 17 [統計検定準一級勉強会：日曜版](https://study-data-analysis.connpass.com/event/295347/)
+- Nov 21 [IBMのレイクハウス"watsonx.data"のデモ連発](https://ibm-developer.connpass.com/event/295508/)
+- Oct 18 [スクラムマスターのためのシステムコーチング体験会（2023/10）](https://orscworld.connpass.com/event/295428/)
+- Oct 7 [DjangoCongress JP 2023](https://django.connpass.com/event/295303/)
+- Sep 27 [IBM Cloud PLUS #9 Red Hat OpenShiftを理解(ワカ)る](https://ibm-developer.connpass.com/event/295496/)
+- Sep 23 [関東Kaggler会](https://connpass.com/event/290248/)
 <!-- profile updater end: connpass -->
 
 <!---
