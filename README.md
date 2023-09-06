@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 21 [IBMのレイクハウス"watsonx.data"のデモ連発](https://ibm-developer.connpass.com/event/295508/)
-- Oct 18 [スクラムマスターのためのシステムコーチング体験会（2023/10）](https://orscworld.connpass.com/event/295428/)
-- Oct 7 [DjangoCongress JP 2023](https://django.connpass.com/event/295303/)
-- Sep 27 [IBM Cloud PLUS #9 Red Hat OpenShiftを理解(ワカ)る](https://ibm-developer.connpass.com/event/295496/)
-- Sep 23 [関東Kaggler会](https://connpass.com/event/290248/)
+- Nov 9 [第11回PhysChem Forum Japan  参加申し込み](https://connpass.com/event/293103/)
+- Oct 2 [アジャイルカフェ@オンライン 第40回（※Zoom開催 耳だけOK）](https://agile-studio.connpass.com/event/295631/)
+- Sep 27 [開発者でも知っておきたいインフラ構築自動化 - Ansible入門編](https://ibm-developer.connpass.com/event/294063/)
+- Sep 24 [9/24(日)17:00～　神田駅オフラインもくもく会](https://mokumoku-offline-tokyo.connpass.com/event/295599/)
+- Sep 23 [ServerlessDays Tokyo 2023](https://serverless.connpass.com/event/290640/)
 <!-- profile updater end: connpass -->
 
 <!---
