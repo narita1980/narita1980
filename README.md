@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 9 [第11回PhysChem Forum Japan  参加申し込み](https://connpass.com/event/293103/)
-- Oct 2 [アジャイルカフェ@オンライン 第40回（※Zoom開催 耳だけOK）](https://agile-studio.connpass.com/event/295631/)
-- Sep 27 [開発者でも知っておきたいインフラ構築自動化 - Ansible入門編](https://ibm-developer.connpass.com/event/294063/)
-- Sep 24 [9/24(日)17:00～　神田駅オフラインもくもく会](https://mokumoku-offline-tokyo.connpass.com/event/295599/)
-- Sep 23 [ServerlessDays Tokyo 2023](https://serverless.connpass.com/event/290640/)
+- Nov 1 [NW-JAWS 勉強会#9.5](https://jawsug-nw.connpass.com/event/294685/)
+- Sep 29 [SQL Server 2022 自習書 #5](https://sqlserver.connpass.com/event/295746/)
+- Sep 23 [もくもく会 in 目黒](https://connpass.com/event/295750/)
+- Sep 22 [【MS社員と学ぶ】42th Azure Data and AI Tech Lunch](https://sqlserver.connpass.com/event/295745/)
+- Sep 21 [JAPAN VMUG VMware Explore in Las Vegas update!](https://vmug-jp.connpass.com/event/293707/)
 <!-- profile updater end: connpass -->
 
 <!---
