@@ -24,10 +24,10 @@
 
 <!-- profile updater begin: connpass -->
 - Nov 1 [NW-JAWS 勉強会#9.5](https://jawsug-nw.connpass.com/event/294685/)
-- Sep 29 [SQL Server 2022 自習書 #5](https://sqlserver.connpass.com/event/295746/)
-- Sep 23 [もくもく会 in 目黒](https://connpass.com/event/295750/)
-- Sep 22 [【MS社員と学ぶ】42th Azure Data and AI Tech Lunch](https://sqlserver.connpass.com/event/295745/)
-- Sep 21 [JAPAN VMUG VMware Explore in Las Vegas update!](https://vmug-jp.connpass.com/event/293707/)
+- Oct 14 [第30回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/295275/)
+- Oct 1 [第67回 CoderDojo Hitachinaka](https://coderdojo-hitachinaka.connpass.com/event/294684/)
+- Sep 22 [WASMCon 2023 Recap - Cloud Native Meetup Tokyo #13](https://cloudnative.connpass.com/event/294830/)
+- Sep 19 [「実はここが辛かった」新規事業開発室のお悩み大公開　出会えるプロデザ！BY リクルートvol.2](https://recruit-event.connpass.com/event/292594/)
 <!-- profile updater end: connpass -->
 
 <!---
