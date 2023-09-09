@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 1 [NW-JAWS 勉強会#9.5](https://jawsug-nw.connpass.com/event/294685/)
-- Oct 14 [第30回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/295275/)
-- Oct 1 [第67回 CoderDojo Hitachinaka](https://coderdojo-hitachinaka.connpass.com/event/294684/)
-- Sep 22 [WASMCon 2023 Recap - Cloud Native Meetup Tokyo #13](https://cloudnative.connpass.com/event/294830/)
-- Sep 19 [「実はここが辛かった」新規事業開発室のお悩み大公開　出会えるプロデザ！BY リクルートvol.2](https://recruit-event.connpass.com/event/292594/)
+- Sep 23 [オンライン[Math & Coding] 群論 #48](https://math-coding.connpass.com/event/296016/)
+- Sep 16 [小江戸らぐ 9月のオフな集まり(第254回)](https://koedolug.connpass.com/event/294804/)
+- Sep 16 [第1回 ゲームアプリ開発 もくもく相談交流会](https://mokumoku-soudan-kouryuukai.connpass.com/event/294697/)
+- Sep 10 [Gunma.web #50 テーマフリー(会場/オンラインのハイブリッド)](https://gunmaweb.connpass.com/event/291839/)
+- Sep 10 [#60CoderDojo流山(2023/9/10(日))@流山東部公民館](https://codefornagareyama.connpass.com/event/293332/)
 <!-- profile updater end: connpass -->
 
 <!---
