@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 23 [オンライン[Math & Coding] 群論 #48](https://math-coding.connpass.com/event/296016/)
-- Sep 16 [小江戸らぐ 9月のオフな集まり(第254回)](https://koedolug.connpass.com/event/294804/)
-- Sep 16 [第1回 ゲームアプリ開発 もくもく相談交流会](https://mokumoku-soudan-kouryuukai.connpass.com/event/294697/)
-- Sep 10 [Gunma.web #50 テーマフリー(会場/オンラインのハイブリッド)](https://gunmaweb.connpass.com/event/291839/)
-- Sep 10 [#60CoderDojo流山(2023/9/10(日))@流山東部公民館](https://codefornagareyama.connpass.com/event/293332/)
+- Oct 28 [第48回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/287710/)
+- Oct 28 [ゲームジャム高梁2023](https://okauni.connpass.com/event/288370/)
+- Oct 7 [たまプラーザモクモク会](https://connpass.com/event/296118/)
+- Sep 17 [9/17(日)【第170回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/296124/)
+- Sep 16 [週刊サイバーセキュリティ／脱『よわよわエンジニア』【BB-022】](https://bugbounty.connpass.com/event/296122/)
 <!-- profile updater end: connpass -->
 
 <!---
