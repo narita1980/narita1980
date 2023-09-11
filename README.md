@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 28 [第48回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/287710/)
-- Oct 28 [ゲームジャム高梁2023](https://okauni.connpass.com/event/288370/)
-- Oct 7 [たまプラーザモクモク会](https://connpass.com/event/296118/)
-- Sep 17 [9/17(日)【第170回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/296124/)
-- Sep 16 [週刊サイバーセキュリティ／脱『よわよわエンジニア』【BB-022】](https://bugbounty.connpass.com/event/296122/)
+- Sep 26 [IT・デジタル人材のための社会課題勉強会 #3](https://cfnpo.connpass.com/event/296179/)
+- Sep 26 [JAWS-UG東京 ランチタイムLT会 #3](https://jawsug.connpass.com/event/295301/)
+- Sep 23 [.NETラボ 勉強会 2023年9月](https://dotnetlab.connpass.com/event/294666/)
+- Sep 23 [ServerlessDays Tokyo 2023](https://serverless.connpass.com/event/290640/)
+- Sep 21 [夏のPRビアガーデンわいわい2023](https://connpass.com/event/295572/)
 <!-- profile updater end: connpass -->
 
 <!---
