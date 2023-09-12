@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 26 [IT・デジタル人材のための社会課題勉強会 #3](https://cfnpo.connpass.com/event/296179/)
-- Sep 26 [JAWS-UG東京 ランチタイムLT会 #3](https://jawsug.connpass.com/event/295301/)
-- Sep 23 [.NETラボ 勉強会 2023年9月](https://dotnetlab.connpass.com/event/294666/)
-- Sep 23 [ServerlessDays Tokyo 2023](https://serverless.connpass.com/event/290640/)
-- Sep 21 [夏のPRビアガーデンわいわい2023](https://connpass.com/event/295572/)
+- Nov 4 [AWSカーニバル ~秋の祭典スペシャル！~](https://connpass.com/event/295336/)
+- Oct 14 [nagara.rb 0.8.0 at Neo work-Gifu](https://nagara-rb.connpass.com/event/296287/)
+- Oct 14 [第7回 YUMeeTech 2023](https://csse-it-study.connpass.com/event/295360/)
+- Sep 25 [プロトアウト LT祭 Vol.02（PMV盛り上がろうの会）](https://protoout.connpass.com/event/296277/)
+- Sep 19 [数理最適化: Optimization Night #7](https://optimization.connpass.com/event/293497/)
 <!-- profile updater end: connpass -->
 
 <!---
