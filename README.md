@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 29 [FuraIT #56- 秋の富良野で集まろう！（オンラインOK）](https://furait.connpass.com/event/296402/)
-- Oct 4 [フェーズで選ぼう！規模が異なる4社のエンジニアが語る技術戦略](https://connpass.com/event/294873/)
-- Sep 30 [比べてみよう世界のお月見「micro:bitでランタン作り」（名護市国際交流会館）](https://coderdojo-nago.connpass.com/event/296245/)
-- Sep 19 [「Web APIの設計」読書会31](https://yuruora.connpass.com/event/296400/)
-- Sep 17 [渋谷・道玄坂 もくもく会](https://kanda-mokumoku.connpass.com/event/296186/)
+- Nov 11 [アクセシビリティカンファレンス福岡](https://fukuoka-a11yconf.connpass.com/event/294555/)
+- Sep 26 [replicate APIとLINE Messaging APIで画像生成botサービスを作ろう！](https://mikan-study.connpass.com/event/293604/)
+- Sep 24 [第８７回 CoderDojo Mito](https://coderdojo-mito.connpass.com/event/296354/)
+- Sep 23 [SBC.もくもく会(土曜昼)](https://sidebeachcity.connpass.com/event/296515/)
+- Sep 23 [ServerlessDays Tokyo 2023](https://serverless.connpass.com/event/290640/)
 <!-- profile updater end: connpass -->
 
 <!---
