@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 11 [アクセシビリティカンファレンス福岡](https://fukuoka-a11yconf.connpass.com/event/294555/)
-- Sep 26 [replicate APIとLINE Messaging APIで画像生成botサービスを作ろう！](https://mikan-study.connpass.com/event/293604/)
-- Sep 24 [第８７回 CoderDojo Mito](https://coderdojo-mito.connpass.com/event/296354/)
-- Sep 23 [SBC.もくもく会(土曜昼)](https://sidebeachcity.connpass.com/event/296515/)
-- Sep 23 [ServerlessDays Tokyo 2023](https://serverless.connpass.com/event/290640/)
+- Nov 10 [SORACOM UG Hiroshima #7](https://soracomug-tokyo.connpass.com/event/296270/)
+- Oct 20 [今宵はゆるりと情シストークしよう！22回目！](https://infosys-talk.connpass.com/event/296624/)
+- Oct 14 [第73回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/296628/)
+- Oct 12 [【CDLE主催】CDLE女子会　月例交流会【2023年10月】](https://jdla.connpass.com/event/296627/)
+- Sep 27 [コンテナ共創センター勉強会 #26](https://5cm.connpass.com/event/288479/)
 <!-- profile updater end: connpass -->
 
 <!---
