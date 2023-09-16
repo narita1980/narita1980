@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 10 [SORACOM UG Hiroshima #7](https://soracomug-tokyo.connpass.com/event/296270/)
-- Oct 20 [今宵はゆるりと情シストークしよう！22回目！](https://infosys-talk.connpass.com/event/296624/)
-- Oct 14 [第73回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/296628/)
-- Oct 12 [【CDLE主催】CDLE女子会　月例交流会【2023年10月】](https://jdla.connpass.com/event/296627/)
-- Sep 27 [コンテナ共創センター勉強会 #26](https://5cm.connpass.com/event/288479/)
+- Oct 28 [【第159回】もくもく会　朝活　～1歩確実に進むもくもく会～](https://mecha-mote-se.connpass.com/event/291242/)
+- Oct 16 [【オンライン】10/16(月)5時〜7時：Flutter好きが集まる朝もく会（第367回）](https://flutter-asamoku.connpass.com/event/296312/)
+- Oct 2 [【オンライン】10/2(月)5時〜7時：Flutter好きが集まる朝もく会（第366回）](https://flutter-asamoku.connpass.com/event/296311/)
+- Sep 30 [JISTA北海道支部・ITC札幌共催オープンセミナー2023](https://connpass.com/event/293338/)
+- Sep 17 [副業？複業？エンジニアのパラレルキャリアを考える](https://setk.connpass.com/event/294637/)
 <!-- profile updater end: connpass -->
 
 <!---
