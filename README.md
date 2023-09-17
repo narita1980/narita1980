@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 28 [【第159回】もくもく会　朝活　～1歩確実に進むもくもく会～](https://mecha-mote-se.connpass.com/event/291242/)
-- Oct 16 [【オンライン】10/16(月)5時〜7時：Flutter好きが集まる朝もく会（第367回）](https://flutter-asamoku.connpass.com/event/296312/)
-- Oct 2 [【オンライン】10/2(月)5時〜7時：Flutter好きが集まる朝もく会（第366回）](https://flutter-asamoku.connpass.com/event/296311/)
-- Sep 30 [JISTA北海道支部・ITC札幌共催オープンセミナー2023](https://connpass.com/event/293338/)
-- Sep 17 [副業？複業？エンジニアのパラレルキャリアを考える](https://setk.connpass.com/event/294637/)
+- Sep 30 [Windows Server ＆ Cloud User Group Japan 第36回 勉強会](https://scugj.connpass.com/event/294978/)
+- Sep 27 [【オープン企画会議】#外資ITサバイバル英語 振り返りと今後について](https://gaisaba.connpass.com/event/295825/)
+- Sep 27 [Japan VMUG vExpert が語る #29](https://vmug-jp.connpass.com/event/296134/)
+- Sep 26 [【参加130名超】何をつくる？つくらない？急変化する事業や組織におけるプロダクト開発の取捨選択。](https://lbose.connpass.com/event/293447/)
+- Sep 21 [Turing TechTalk! #2 実は車のソフトウェア体験ってAndroidでつくれるんです](https://turing.connpass.com/event/294405/)
 <!-- profile updater end: connpass -->
 
 <!---
