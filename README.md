@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 30 [Windows Server ＆ Cloud User Group Japan 第36回 勉強会](https://scugj.connpass.com/event/294978/)
-- Sep 27 [【オープン企画会議】#外資ITサバイバル英語 振り返りと今後について](https://gaisaba.connpass.com/event/295825/)
-- Sep 27 [Japan VMUG vExpert が語る #29](https://vmug-jp.connpass.com/event/296134/)
-- Sep 26 [【参加130名超】何をつくる？つくらない？急変化する事業や組織におけるプロダクト開発の取捨選択。](https://lbose.connpass.com/event/293447/)
-- Sep 21 [Turing TechTalk! #2 実は車のソフトウェア体験ってAndroidでつくれるんです](https://turing.connpass.com/event/294405/)
+- Dec 28 [高専カンファレンス150in大阪　高専学　ー集え、未来の技術者ー](https://kosenconf150osaka-152takao.connpass.com/event/294037/)
+- Oct 29 [第89回CoderDojo浜松](https://coderdojo-hamamatsu.connpass.com/event/296786/)
+- Oct 22 [鹿児島Linux勉強会 2023.10(オンライン開催)](https://kagolug.connpass.com/event/296783/)
+- Oct 21 [オープンセミナー2023@岡山](https://oso.connpass.com/event/295890/)
+- Oct 14 [初心者・初登壇Welcome！LINEを使ったLT大会 #4](https://linedevelopercommunity.connpass.com/event/291710/)
 <!-- profile updater end: connpass -->
 
 <!---
