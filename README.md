@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 28 [高専カンファレンス150in大阪　高専学　ー集え、未来の技術者ー](https://kosenconf150osaka-152takao.connpass.com/event/294037/)
-- Oct 29 [第89回CoderDojo浜松](https://coderdojo-hamamatsu.connpass.com/event/296786/)
-- Oct 22 [鹿児島Linux勉強会 2023.10(オンライン開催)](https://kagolug.connpass.com/event/296783/)
-- Oct 21 [オープンセミナー2023@岡山](https://oso.connpass.com/event/295890/)
-- Oct 14 [初心者・初登壇Welcome！LINEを使ったLT大会 #4](https://linedevelopercommunity.connpass.com/event/291710/)
+- Oct 20 [はんなりFlutter LT & もくもく会 #02](https://hannari-python.connpass.com/event/296751/)
+- Oct 14 [第118回 いわき情報技術研究会](https://iitg.connpass.com/event/296826/)
+- Oct 6 [オープンハードテラス オンライン #117](https://openforce.connpass.com/event/296798/)
+- Sep 30 [情シス井戸端会議 第42回](https://connpass.com/event/296849/)
+- Sep 26 [IT系&誰でも参加OK！もくもく会_朝活_9/26(火)](https://morimori.connpass.com/event/296848/)
 <!-- profile updater end: connpass -->
 
 <!---
