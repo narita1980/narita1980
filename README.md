@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 20 [はんなりFlutter LT & もくもく会 #02](https://hannari-python.connpass.com/event/296751/)
-- Oct 14 [第118回 いわき情報技術研究会](https://iitg.connpass.com/event/296826/)
-- Oct 6 [オープンハードテラス オンライン #117](https://openforce.connpass.com/event/296798/)
-- Sep 30 [情シス井戸端会議 第42回](https://connpass.com/event/296849/)
-- Sep 26 [IT系&誰でも参加OK！もくもく会_朝活_9/26(火)](https://morimori.connpass.com/event/296848/)
+- Oct 31 [世界一わかりみの深いAzure OpenAI Service](https://tech-lab.connpass.com/event/296966/)
+- Oct 21 [(朝９時から！）SalesforceSaturday 池袋 #62【オンライン開催】](https://salesforcesaturday-ikebukuro.connpass.com/event/296969/)
+- Oct 11 [将棋✕ITを楽しむ会](https://connpass.com/event/296695/)
+- Oct 5 [Don’t just Do Agile, Be Agile ～アジャイルの価値観で行動しよう～](https://tebiki.connpass.com/event/296567/)
+- Sep 30 [【久しぶりに再開】英語でLeetCode #78](https://jtpa.connpass.com/event/296965/)
 <!-- profile updater end: connpass -->
 
 <!---
