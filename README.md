@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 31 [世界一わかりみの深いAzure OpenAI Service](https://tech-lab.connpass.com/event/296966/)
-- Oct 21 [(朝９時から！）SalesforceSaturday 池袋 #62【オンライン開催】](https://salesforcesaturday-ikebukuro.connpass.com/event/296969/)
-- Oct 11 [将棋✕ITを楽しむ会](https://connpass.com/event/296695/)
-- Oct 5 [Don’t just Do Agile, Be Agile ～アジャイルの価値観で行動しよう～](https://tebiki.connpass.com/event/296567/)
-- Sep 30 [【久しぶりに再開】英語でLeetCode #78](https://jtpa.connpass.com/event/296965/)
+- Oct 19 [kintone Café 帯広 vol.3](https://kintonecafeobihiro.connpass.com/event/296630/)
+- Oct 14 [小江戸らぐ 10月のオフな集まり(第255回)](https://koedolug.connpass.com/event/289798/)
+- Oct 14 [小江戸らぐ 10月のオフな集まり(第255回)](https://koedolug.connpass.com/event/297071/)
+- Oct 11 [Designers DOODLE -デザイナーたちの『つくり途中』-](https://in-house-designers.connpass.com/event/294886/)
+- Oct 5 [JBUG札幌 #9 仕事の"うまい"進め方 〜経験をシェアしよう！〜](https://jbug.connpass.com/event/290237/)
 <!-- profile updater end: connpass -->
 
 <!---
