@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 19 [kintone Café 帯広 vol.3](https://kintonecafeobihiro.connpass.com/event/296630/)
-- Oct 14 [小江戸らぐ 10月のオフな集まり(第255回)](https://koedolug.connpass.com/event/289798/)
-- Oct 14 [小江戸らぐ 10月のオフな集まり(第255回)](https://koedolug.connpass.com/event/297071/)
-- Oct 11 [Designers DOODLE -デザイナーたちの『つくり途中』-](https://in-house-designers.connpass.com/event/294886/)
-- Oct 5 [JBUG札幌 #9 仕事の"うまい"進め方 〜経験をシェアしよう！〜](https://jbug.connpass.com/event/290237/)
+- Oct 28 [.NETラボ 勉強会 2023年10月](https://dotnetlab.connpass.com/event/296773/)
+- Oct 19 [Rails で開発効率・保守性を向上させるTips6選](https://metaps.connpass.com/event/296029/)
+- Oct 9 [【AWS】AWS10分LT会 - vol.1](https://aws-likers.connpass.com/event/296768/)
+- Oct 1 [JuliaTokai #16](https://juliatokai.connpass.com/event/295042/)
+- Sep 29 [IT系&誰でも参加OK！もくもく会_朝活_9/29(金)](https://morimori.connpass.com/event/297165/)
 <!-- profile updater end: connpass -->
 
 <!---
