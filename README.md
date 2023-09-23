@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 28 [.NETラボ 勉強会 2023年10月](https://dotnetlab.connpass.com/event/296773/)
-- Oct 19 [Rails で開発効率・保守性を向上させるTips6選](https://metaps.connpass.com/event/296029/)
-- Oct 9 [【AWS】AWS10分LT会 - vol.1](https://aws-likers.connpass.com/event/296768/)
-- Oct 1 [JuliaTokai #16](https://juliatokai.connpass.com/event/295042/)
-- Sep 29 [IT系&誰でも参加OK！もくもく会_朝活_9/29(金)](https://morimori.connpass.com/event/297165/)
+- Nov 11 [AUGM 大阪 November 2023 懇親会](https://augmosaka.connpass.com/event/297275/)
+- Nov 11 [AUGM 大阪 November 2023 本会](https://augmosaka.connpass.com/event/297274/)
+- Sep 30 [IT系&誰でも参加OK！もくもく会_朝活_9/30(土)](https://morimori.connpass.com/event/297278/)
+- Sep 28 [「かんたんプログラミングVisual Basic6 基礎編」読書会7](https://yuruora.connpass.com/event/297145/)
+- Sep 27 [「Postfix実践入門」読書会22](https://yuruora.connpass.com/event/297054/)
 <!-- profile updater end: connpass -->
 
 <!---
