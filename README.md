@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 11 [AUGM 大阪 November 2023 懇親会](https://augmosaka.connpass.com/event/297275/)
-- Oct 21 [【エンジニア交流会】IT系エンジニア・プログラマーなどの交流会 #1](https://connpass.com/event/297305/)
-- Oct 21 [【大規模】第4回クリエイター広場交流&勉強会10/21(土)@新橋](https://creator-square.connpass.com/event/296939/)
-- Oct 1 [10/1(日)【第174回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/297357/)
-- Sep 30 [【web3】dApp開発の基礎知識（NFT編）](https://ruck-study.connpass.com/event/296977/)
+- Nov 11 [充実の！【プロジェクトマネジメント基礎講座～１Day】](https://busi-next.connpass.com/event/297133/)
+- Oct 15 [【開催日注意】NVC 会読会 第8回](https://xpreadinggroup.connpass.com/event/297407/)
+- Oct 14 [第1回  Saga がばいもくもく勉強会](https://saga-hagakure.connpass.com/event/296623/)
+- Oct 12 [みんなのPython勉強会#98](https://startpython.connpass.com/event/296755/)
+- Oct 3 [【IVRy/LAPRAS/Sansan/Ubie】各社のLLMをプロダクトに組み込む勘所](https://sansan.connpass.com/event/295958/)
 <!-- profile updater end: connpass -->
 
 <!---
