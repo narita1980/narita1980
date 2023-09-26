@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 11 [充実の！【プロジェクトマネジメント基礎講座～１Day】](https://busi-next.connpass.com/event/297133/)
-- Oct 15 [【開催日注意】NVC 会読会 第8回](https://xpreadinggroup.connpass.com/event/297407/)
-- Oct 14 [第1回  Saga がばいもくもく勉強会](https://saga-hagakure.connpass.com/event/296623/)
-- Oct 12 [みんなのPython勉強会#98](https://startpython.connpass.com/event/296755/)
-- Oct 3 [【IVRy/LAPRAS/Sansan/Ubie】各社のLLMをプロダクトに組み込む勘所](https://sansan.connpass.com/event/295958/)
+- Oct 14 [とやま個人開発者の集い](https://toyama-it.connpass.com/event/291909/)
+- Oct 8 [新横浜Blenderがやがや会(第4回)](https://manabino.connpass.com/event/297525/)
+- Oct 2 [IT系&誰でも参加OK！もくもく会_朝活_10/2(月)](https://morimori.connpass.com/event/297530/)
+- Oct 1 [渋谷・道玄坂 もくもく会](https://kanda-mokumoku.connpass.com/event/297531/)
+- Oct 1 [もくもくRuby勉強会@和歌山 #117](https://wakayama-rb.connpass.com/event/297523/)
 <!-- profile updater end: connpass -->
 
 <!---
