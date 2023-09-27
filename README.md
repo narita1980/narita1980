@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 14 [とやま個人開発者の集い](https://toyama-it.connpass.com/event/291909/)
-- Oct 8 [新横浜Blenderがやがや会(第4回)](https://manabino.connpass.com/event/297525/)
-- Oct 2 [IT系&誰でも参加OK！もくもく会_朝活_10/2(月)](https://morimori.connpass.com/event/297530/)
-- Oct 1 [渋谷・道玄坂 もくもく会](https://kanda-mokumoku.connpass.com/event/297531/)
-- Oct 1 [もくもくRuby勉強会@和歌山 #117](https://wakayama-rb.connpass.com/event/297523/)
+- Oct 21 [KENRO DOJO(≒MINI Hardening 4)#4.7@仙台](https://minihardening.connpass.com/event/296488/)
+- Oct 17 [NIC の高速化とシステムソフトウェア研究 〜 2010 年くらいからの振り返り](https://iijlab-seminars.connpass.com/event/297595/)
+- Oct 13 [[但馬/丹後]令和のWebサイト作成講座](https://tajima-meetup.connpass.com/event/297640/)
+- Oct 7 [《入門》セキュリティスキル習得への一歩を踏み出したい"新たな"入門者向け【W1-001～009】](https://bugbounty.connpass.com/event/297655/)
+- Oct 4 [IT系&誰でも参加OK！もくもく会_朝活_10/4(水)](https://morimori.connpass.com/event/297657/)
 <!-- profile updater end: connpass -->
 
 <!---
