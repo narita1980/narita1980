@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 21 [KENRO DOJO(≒MINI Hardening 4)#4.7@仙台](https://minihardening.connpass.com/event/296488/)
-- Oct 17 [NIC の高速化とシステムソフトウェア研究 〜 2010 年くらいからの振り返り](https://iijlab-seminars.connpass.com/event/297595/)
-- Oct 13 [[但馬/丹後]令和のWebサイト作成講座](https://tajima-meetup.connpass.com/event/297640/)
-- Oct 7 [《入門》セキュリティスキル習得への一歩を踏み出したい"新たな"入門者向け【W1-001～009】](https://bugbounty.connpass.com/event/297655/)
-- Oct 4 [IT系&誰でも参加OK！もくもく会_朝活_10/4(水)](https://morimori.connpass.com/event/297657/)
+- Nov 22 [【ニジボックス主催】ユーザビリティテスト 組織導入のためのマインドセット](https://nijibox.connpass.com/event/296654/)
+- Oct 28 [.NETラボ 勉強会 2023年10月](https://dotnetlab.connpass.com/event/296773/)
+- Oct 18 [CDLE名古屋勉強会「ChatGPT Night vol.1」](https://cdlenagoya.connpass.com/event/297769/)
+- Oct 16 [JAWS-UG コンテナ支部 × JAWS-UG 千葉支部 #1 今知りたいコンテナセキュリティ](https://jawsug-container.connpass.com/event/295110/)
+- Oct 12 [発表会 - Enablement Bootcamp for Gopherizing #1](https://knowledgework.connpass.com/event/297546/)
 <!-- profile updater end: connpass -->
 
 <!---
