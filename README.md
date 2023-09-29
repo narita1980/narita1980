@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 22 [【ニジボックス主催】ユーザビリティテスト 組織導入のためのマインドセット](https://nijibox.connpass.com/event/296654/)
-- Oct 28 [.NETラボ 勉強会 2023年10月](https://dotnetlab.connpass.com/event/296773/)
-- Oct 18 [CDLE名古屋勉強会「ChatGPT Night vol.1」](https://cdlenagoya.connpass.com/event/297769/)
-- Oct 16 [JAWS-UG コンテナ支部 × JAWS-UG 千葉支部 #1 今知りたいコンテナセキュリティ](https://jawsug-container.connpass.com/event/295110/)
-- Oct 12 [発表会 - Enablement Bootcamp for Gopherizing #1](https://knowledgework.connpass.com/event/297546/)
+- Nov 28 [第45回 Tokyo Jazug Night](https://jazug.connpass.com/event/297641/)
+- Oct 28 [第37回 CoderDojo武蔵小杉【自習回拡大版】※過去1回以上参加した方向け](https://coderdojo-musashikosugi.connpass.com/event/297889/)
+- Oct 27 [Geeks Who Drink in Nagasaki ~私の"Proud" edition~](https://nulab.connpass.com/event/297537/)
+- Oct 20 [Mini Hardeningのお題で脅威モデリングをやってみよう！OWASP Sendai #58](https://owaspsendai.connpass.com/event/297887/)
+- Oct 19 [柔軟性を極める組織のNotion活用。顧客・案件・人材の一括管理と自社に最適なワークスペースの構築。](https://lbose.connpass.com/event/297684/)
 <!-- profile updater end: connpass -->
 
 <!---
