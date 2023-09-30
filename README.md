@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 28 [第45回 Tokyo Jazug Night](https://jazug.connpass.com/event/297641/)
-- Oct 28 [第37回 CoderDojo武蔵小杉【自習回拡大版】※過去1回以上参加した方向け](https://coderdojo-musashikosugi.connpass.com/event/297889/)
-- Oct 27 [Geeks Who Drink in Nagasaki ~私の"Proud" edition~](https://nulab.connpass.com/event/297537/)
-- Oct 20 [Mini Hardeningのお題で脅威モデリングをやってみよう！OWASP Sendai #58](https://owaspsendai.connpass.com/event/297887/)
-- Oct 19 [柔軟性を極める組織のNotion活用。顧客・案件・人材の一括管理と自社に最適なワークスペースの構築。](https://lbose.connpass.com/event/297684/)
+- Oct 27 [STORES Rookies Café #3](https://hey.connpass.com/event/297814/)
+- Oct 18 [CDLE名古屋勉強会「ChatGPT Night vol.1」](https://cdlenagoya.connpass.com/event/297769/)
+- Oct 11 [C#読書会 WEBドキュメント C# 11 の新機能を読む No.4](https://cs-reading.connpass.com/event/297975/)
+- Oct 7 [IT系&誰でも参加OK！もくもく会_朝活_10/7(土)](https://morimori.connpass.com/event/297973/)
+- Oct 6 [IT系&誰でも参加OK！もくもく会_朝活_10/6(金)](https://morimori.connpass.com/event/297972/)
 <!-- profile updater end: connpass -->
 
 <!---
