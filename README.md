@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 27 [STORES Rookies Café #3](https://hey.connpass.com/event/297814/)
-- Oct 18 [CDLE名古屋勉強会「ChatGPT Night vol.1」](https://cdlenagoya.connpass.com/event/297769/)
-- Oct 11 [C#読書会 WEBドキュメント C# 11 の新機能を読む No.4](https://cs-reading.connpass.com/event/297975/)
-- Oct 7 [IT系&誰でも参加OK！もくもく会_朝活_10/7(土)](https://morimori.connpass.com/event/297973/)
-- Oct 6 [IT系&誰でも参加OK！もくもく会_朝活_10/6(金)](https://morimori.connpass.com/event/297972/)
+- Oct 29 [第39回 CoderDojo厚木](https://coderdojo-atsugi.connpass.com/event/297970/)
+- Oct 27 [Stripeのサブスク機能をスプレッドシート×GASでLINEBotに実装](https://linedevelopercommunity.connpass.com/event/296925/)
+- Oct 21 [ITもくもく会（関西）#1](https://ruller.connpass.com/event/298030/)
+- Oct 15 [統計検定準一級勉強会：日曜版](https://study-data-analysis.connpass.com/event/298032/)
+- Oct 14 [OsakaGPT #0.12[番外編]すていぶるDiffusion](https://connpass.com/event/298027/)
 <!-- profile updater end: connpass -->
 
 <!---
