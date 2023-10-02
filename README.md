@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 29 [第39回 CoderDojo厚木](https://coderdojo-atsugi.connpass.com/event/297970/)
-- Oct 27 [Stripeのサブスク機能をスプレッドシート×GASでLINEBotに実装](https://linedevelopercommunity.connpass.com/event/296925/)
-- Oct 21 [ITもくもく会（関西）#1](https://ruller.connpass.com/event/298030/)
-- Oct 15 [統計検定準一級勉強会：日曜版](https://study-data-analysis.connpass.com/event/298032/)
-- Oct 14 [OsakaGPT #0.12[番外編]すていぶるDiffusion](https://connpass.com/event/298027/)
+- Dec 1 [吉祥寺.pm35【吉祥寺に集合！オフライン開催！】](https://connpass.com/event/298081/)
+- Oct 26 [集まれKotlin好き！Kotlin愛好会 vol.47 @オンライン](https://love-kotlin.connpass.com/event/298008/)
+- Oct 20 [Google Cloud の生成 AI 最新アップデートと実践](https://cto-a.connpass.com/event/297080/)
+- Oct 19 [新規事業開発の鍵となるアイデアの磨き方](https://monstar-lab.connpass.com/event/298127/)
+- Oct 17 [データを蓄積するだけでは成果に繋がらないビジネスにコミットするデータ利活用術](https://monstar-lab.connpass.com/event/298125/)
 <!-- profile updater end: connpass -->
 
 <!---
