@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 1 [吉祥寺.pm35【吉祥寺に集合！オフライン開催！】](https://connpass.com/event/298081/)
-- Oct 26 [集まれKotlin好き！Kotlin愛好会 vol.47 @オンライン](https://love-kotlin.connpass.com/event/298008/)
-- Oct 20 [Google Cloud の生成 AI 最新アップデートと実践](https://cto-a.connpass.com/event/297080/)
-- Oct 19 [新規事業開発の鍵となるアイデアの磨き方](https://monstar-lab.connpass.com/event/298127/)
-- Oct 17 [データを蓄積するだけでは成果に繋がらないビジネスにコミットするデータ利活用術](https://monstar-lab.connpass.com/event/298125/)
+- Oct 20 [天久飲みTech #5](https://connpass.com/event/298150/)
+- Oct 19 [Kubernetes Meetup Tokyo #61](https://k8sjp.connpass.com/event/298147/)
+- Oct 17 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/298266/)
+- Oct 14 [Python Boot Camp in 徳島2nd](https://pyconjp.connpass.com/event/293032/)
+- Oct 13 [Nature Of Order 第2巻 チラ見する会](https://alexander-study.connpass.com/event/298040/)
 <!-- profile updater end: connpass -->
 
 <!---
