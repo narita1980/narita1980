@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 20 [天久飲みTech #5](https://connpass.com/event/298150/)
-- Oct 19 [Kubernetes Meetup Tokyo #61](https://k8sjp.connpass.com/event/298147/)
-- Oct 17 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/298266/)
-- Oct 14 [Python Boot Camp in 徳島2nd](https://pyconjp.connpass.com/event/293032/)
-- Oct 13 [Nature Of Order 第2巻 チラ見する会](https://alexander-study.connpass.com/event/298040/)
+- Oct 27 [Geeks Who Drink in Nagasaki ~私の"Proud" edition~](https://nulab.connpass.com/event/297537/)
+- Oct 17 [JaSST nano vol.29](https://jasst-nano.connpass.com/event/298053/)
+- Oct 15 [yStandard オンライン 勉強会 2023/10 ~もくもく会・質問会~](https://wp-ystandard.connpass.com/event/298389/)
+- Oct 12 [Tech系Podcastを同時視聴したり、アジャイル系の相談したり](https://distributed-agile-team.connpass.com/event/298041/)
+- Oct 12 [Japan VMUG October Meeting](https://vmug-jp.connpass.com/event/297620/)
 <!-- profile updater end: connpass -->
 
 <!---
