@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 27 [Geeks Who Drink in Nagasaki ~私の"Proud" edition~](https://nulab.connpass.com/event/297537/)
-- Oct 17 [JaSST nano vol.29](https://jasst-nano.connpass.com/event/298053/)
-- Oct 15 [yStandard オンライン 勉強会 2023/10 ~もくもく会・質問会~](https://wp-ystandard.connpass.com/event/298389/)
-- Oct 12 [Tech系Podcastを同時視聴したり、アジャイル系の相談したり](https://distributed-agile-team.connpass.com/event/298041/)
-- Oct 12 [Japan VMUG October Meeting](https://vmug-jp.connpass.com/event/297620/)
+- Dec 8 [Sphinx-users.jp 2023年 定期総会（忘年会）](https://sphinxjp.connpass.com/event/296761/)
+- Nov 4 [【ハイブリッド開催】第25回redmine.tokyo勉強会](https://redmine-tokyo.connpass.com/event/297351/)
+- Oct 28 [Laboratory Automation月例勉強会 / 2023.10](https://laboratoryautomation.connpass.com/event/295134/)
+- Oct 20 [子育てによる時間制約でもあきらめない！ エンジニアとしてのキャリア形成に必要なものとは](https://engineercafe.connpass.com/event/298316/)
+- Oct 18 [Alibaba Cloud Developers Meetup #27](https://alibabacloud.connpass.com/event/298364/)
 <!-- profile updater end: connpass -->
 
 <!---
