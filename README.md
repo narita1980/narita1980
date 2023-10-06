@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 8 [Sphinx-users.jp 2023年 定期総会（忘年会）](https://sphinxjp.connpass.com/event/296761/)
-- Nov 4 [【ハイブリッド開催】第25回redmine.tokyo勉強会](https://redmine-tokyo.connpass.com/event/297351/)
-- Oct 28 [Laboratory Automation月例勉強会 / 2023.10](https://laboratoryautomation.connpass.com/event/295134/)
-- Oct 20 [子育てによる時間制約でもあきらめない！ エンジニアとしてのキャリア形成に必要なものとは](https://engineercafe.connpass.com/event/298316/)
-- Oct 18 [Alibaba Cloud Developers Meetup #27](https://alibabacloud.connpass.com/event/298364/)
+- Dec 9 [松濤会コラボLT #1（株式会社スカラパートナーズ）](https://shoto-kai.connpass.com/event/298164/)
+- Dec 7 [第21回酒とゲームとインフラとGCP@クラウドエース](https://sake-game.connpass.com/event/298520/)
+- Oct 22 [秋のなんでもLT会 @GENKI.dev](https://genki-dev.connpass.com/event/297352/)
+- Oct 14 [Alpha+ Salon #3](https://greek-academy.connpass.com/event/298036/)
+- Oct 14 [カスタマーサクセスは誰が担うべきか？~お客様の成功と事業の接続~](https://connpass.com/event/298640/)
 <!-- profile updater end: connpass -->
 
 <!---
