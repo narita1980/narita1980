@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 9 [松濤会コラボLT #1（株式会社スカラパートナーズ）](https://shoto-kai.connpass.com/event/298164/)
-- Dec 7 [第21回酒とゲームとインフラとGCP@クラウドエース](https://sake-game.connpass.com/event/298520/)
-- Oct 22 [秋のなんでもLT会 @GENKI.dev](https://genki-dev.connpass.com/event/297352/)
-- Oct 14 [Alpha+ Salon #3](https://greek-academy.connpass.com/event/298036/)
-- Oct 14 [カスタマーサクセスは誰が担うべきか？~お客様の成功と事業の接続~](https://connpass.com/event/298640/)
+- Oct 29 [LT&交流会 #2 〜モダンフロント編〜【オフライン開催 in 渋谷】](https://coopello2.connpass.com/event/298019/)
+- Oct 24 [金融業界新時代の戦略：プロダクトマネージャーの必要性](https://fintech-engineer.connpass.com/event/297998/)
+- Oct 14 [習志野台テック #31](https://funapro.connpass.com/event/298719/)
+- Oct 14 [IT系&誰でも参加OK！もくもく会_朝活_10/14(土)](https://morimori.connpass.com/event/298724/)
+- Oct 13 [【オフライン】Scalaわいわい勉強会【東京】](https://scala-tokyo.connpass.com/event/297260/)
 <!-- profile updater end: connpass -->
 
 <!---
