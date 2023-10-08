@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 29 [LT&交流会 #2 〜モダンフロント編〜【オフライン開催 in 渋谷】](https://coopello2.connpass.com/event/298019/)
-- Oct 24 [金融業界新時代の戦略：プロダクトマネージャーの必要性](https://fintech-engineer.connpass.com/event/297998/)
-- Oct 14 [習志野台テック #31](https://funapro.connpass.com/event/298719/)
-- Oct 14 [IT系&誰でも参加OK！もくもく会_朝活_10/14(土)](https://morimori.connpass.com/event/298724/)
-- Oct 13 [【オフライン】Scalaわいわい勉強会【東京】](https://scala-tokyo.connpass.com/event/297260/)
+- Nov 18 [[Sapporo] Rakuten Technology Conference 2023](https://connpass.com/event/297687/)
+- Nov 7 [【CHIYODA Tech #2】組織としてエンジニアの成長に向き合う～各社ノウハウ公開～(リアル)](https://nikkei.connpass.com/event/293282/)
+- Oct 20 [はんなりFlutter LT & もくもく会 #02](https://hannari-python.connpass.com/event/296751/)
+- Oct 13 [Webナイト宮崎 Vol.19 〜てげ次世代技術を学びたい〜](https://tegehoge.connpass.com/event/294847/)
+- Oct 11 [【音声のみ】初心者歓迎 JavaScriptもくもく会](https://javascript-starters.connpass.com/event/298785/)
 <!-- profile updater end: connpass -->
 
 <!---
