@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 18 [[Sapporo] Rakuten Technology Conference 2023](https://connpass.com/event/297687/)
-- Nov 7 [【CHIYODA Tech #2】組織としてエンジニアの成長に向き合う～各社ノウハウ公開～(リアル)](https://nikkei.connpass.com/event/293282/)
-- Oct 20 [はんなりFlutter LT & もくもく会 #02](https://hannari-python.connpass.com/event/296751/)
-- Oct 13 [Webナイト宮崎 Vol.19 〜てげ次世代技術を学びたい〜](https://tegehoge.connpass.com/event/294847/)
-- Oct 11 [【音声のみ】初心者歓迎 JavaScriptもくもく会](https://javascript-starters.connpass.com/event/298785/)
+- Oct 27 [学生起業家の実態に迫る！【教育×Click×起業】オンライン対談会](https://clickcommunity.connpass.com/event/298699/)
+- Oct 21 [Shizuoka.js#7](https://connpass.com/event/295831/)
+- Oct 19 [Kubernetes Meetup Tokyo #61](https://k8sjp.connpass.com/event/298147/)
+- Oct 18 [《初級》脆弱性診断をステップ・バイ・ステップで学ぶ"未来の"初級者向け【W2-701】](https://bugbounty.connpass.com/event/298841/)
+- Oct 16 [クラウド(AWS/Azure/GCP)関連で最近何やってる？コスト戦略・生成AIなど最前線の実践例](https://cloud-discussion.connpass.com/event/296690/)
 <!-- profile updater end: connpass -->
 
 <!---
