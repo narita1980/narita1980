@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Oct 27 [学生起業家の実態に迫る！【教育×Click×起業】オンライン対談会](https://clickcommunity.connpass.com/event/298699/)
-- Oct 21 [Shizuoka.js#7](https://connpass.com/event/295831/)
-- Oct 19 [Kubernetes Meetup Tokyo #61](https://k8sjp.connpass.com/event/298147/)
-- Oct 18 [《初級》脆弱性診断をステップ・バイ・ステップで学ぶ"未来の"初級者向け【W2-701】](https://bugbounty.connpass.com/event/298841/)
-- Oct 16 [クラウド(AWS/Azure/GCP)関連で最近何やってる？コスト戦略・生成AIなど最前線の実践例](https://cloud-discussion.connpass.com/event/296690/)
+- Dec 2 [隅田川.dev vol.3 LT会](https://sumidagawa-dev.connpass.com/event/298849/)
+- Nov 11 [第49回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/287711/)
+- Oct 31 [WEST-SEC セキュリティ勉強会#3 Webセキュリティをハンズオンで](https://west-sec.connpass.com/event/293989/)
+- Oct 29 [GSIS-LT 連続WS(第6回) 「GPTでオンライン学習教材を自動生成する」その２](https://gsis.connpass.com/event/298619/)
+- Oct 24 [金融業界新時代の戦略：プロダクトマネージャーの必要性](https://fintech-engineer.connpass.com/event/297998/)
 <!-- profile updater end: connpass -->
 
 <!---
