@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 2 [隅田川.dev vol.3 LT会](https://sumidagawa-dev.connpass.com/event/298849/)
-- Nov 11 [第49回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/287711/)
-- Oct 31 [WEST-SEC セキュリティ勉強会#3 Webセキュリティをハンズオンで](https://west-sec.connpass.com/event/293989/)
-- Oct 29 [GSIS-LT 連続WS(第6回) 「GPTでオンライン学習教材を自動生成する」その２](https://gsis.connpass.com/event/298619/)
-- Oct 24 [金融業界新時代の戦略：プロダクトマネージャーの必要性](https://fintech-engineer.connpass.com/event/297998/)
+- Dec 5 [九州大学ICT行動変容研究ユニット・オープン研究会](https://connpass.com/event/298958/)
+- Nov 30 [Flatt Security mini CTF #3](https://flatt.connpass.com/event/298345/)
+- Nov 14 [AWS/GCPでのPolicy-as-Codeハンズオン with Shisho Cloud](https://flatt.connpass.com/event/298503/)
+- Nov 4 [AWSカーニバル ~秋の祭典スペシャル！~](https://connpass.com/event/295336/)
+- Oct 17 [Python超入門！メトロポリタン美術館で、お気に入りの作品を見つけよう！！2023](https://jellyware.connpass.com/event/297726/)
 <!-- profile updater end: connpass -->
 
 <!---
