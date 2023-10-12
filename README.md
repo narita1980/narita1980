@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 5 [九州大学ICT行動変容研究ユニット・オープン研究会](https://connpass.com/event/298958/)
-- Nov 30 [Flatt Security mini CTF #3](https://flatt.connpass.com/event/298345/)
-- Nov 14 [AWS/GCPでのPolicy-as-Codeハンズオン with Shisho Cloud](https://flatt.connpass.com/event/298503/)
-- Nov 4 [AWSカーニバル ~秋の祭典スペシャル！~](https://connpass.com/event/295336/)
-- Oct 17 [Python超入門！メトロポリタン美術館で、お気に入りの作品を見つけよう！！2023](https://jellyware.connpass.com/event/297726/)
+- Dec 16 [浜松ITコミュニティ忘年会2023](https://hamamatsu-it.connpass.com/event/298965/)
+- Nov 18 [【２夜連続！】秋の夜長のロボット論文精読会②](https://majime-ni-study.connpass.com/event/299156/)
+- Nov 8 [あじゃてく読書会 #26 『HIGH OUTPUT MANAGEMENT』](https://agiletechexpo.connpass.com/event/296505/)
+- Oct 25 [Kaigi on Rails 2023 (非公式) 前夜祭](https://andpad.connpass.com/event/297702/)
+- Oct 19 [IT系&誰でも参加OK！もくもく会_朝活_10/19(木)](https://morimori.connpass.com/event/299168/)
 <!-- profile updater end: connpass -->
 
 <!---
