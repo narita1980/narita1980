@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 16 [浜松ITコミュニティ忘年会2023](https://hamamatsu-it.connpass.com/event/298965/)
-- Nov 18 [【２夜連続！】秋の夜長のロボット論文精読会②](https://majime-ni-study.connpass.com/event/299156/)
-- Nov 8 [あじゃてく読書会 #26 『HIGH OUTPUT MANAGEMENT』](https://agiletechexpo.connpass.com/event/296505/)
-- Oct 25 [Kaigi on Rails 2023 (非公式) 前夜祭](https://andpad.connpass.com/event/297702/)
-- Oct 19 [IT系&誰でも参加OK！もくもく会_朝活_10/19(木)](https://morimori.connpass.com/event/299168/)
+- Dec 9 [2023年を振り返ろう！【エレベーターピッチ大会】@ 秋葉原](https://devguil.connpass.com/event/297941/)
+- Dec 4 [【超初心者向け】猫でもわかるLLDB](https://cyber-security-study-space.connpass.com/event/298327/)
+- Nov 25 [MSM: MOSA Software Meeting 2023](https://mosa.connpass.com/event/297456/)
+- Oct 26 [Design Dontaku vol.2](https://nulab.connpass.com/event/297842/)
+- Oct 24 [【日経×Cloudflare×Vercel×Fastly】Edgeコンピューティングとフロントエンド](https://nikkei.connpass.com/event/296291/)
 <!-- profile updater end: connpass -->
 
 <!---
