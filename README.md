@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 9 [2023年を振り返ろう！【エレベーターピッチ大会】@ 秋葉原](https://devguil.connpass.com/event/297941/)
-- Dec 4 [【超初心者向け】猫でもわかるLLDB](https://cyber-security-study-space.connpass.com/event/298327/)
-- Nov 25 [MSM: MOSA Software Meeting 2023](https://mosa.connpass.com/event/297456/)
-- Oct 26 [Design Dontaku vol.2](https://nulab.connpass.com/event/297842/)
-- Oct 24 [【日経×Cloudflare×Vercel×Fastly】Edgeコンピューティングとフロントエンド](https://nikkei.connpass.com/event/296291/)
+- Nov 13 [【オンライン】11/13(月)5時〜7時：Flutter好きが集まる朝もく会（第371回）](https://flutter-asamoku.connpass.com/event/298944/)
+- Nov 6 [【オンライン】11/6(月)5時〜7時：Flutter好きが集まる朝もく会（第370回）](https://flutter-asamoku.connpass.com/event/298943/)
+- Oct 28 [.NETラボ 勉強会 2023年10月](https://dotnetlab.connpass.com/event/296773/)
+- Oct 21 [【大規模】第4回クリエイター広場交流&勉強会10/21(土)@新橋](https://creator-square.connpass.com/event/296939/)
+- Oct 21 [第52回横浜Go読書会（オンライン）](https://yokohama-go-reading.connpass.com/event/296733/)
 <!-- profile updater end: connpass -->
 
 <!---
