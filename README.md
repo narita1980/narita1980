@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 13 [【オンライン】11/13(月)5時〜7時：Flutter好きが集まる朝もく会（第371回）](https://flutter-asamoku.connpass.com/event/298944/)
-- Nov 6 [【オンライン】11/6(月)5時〜7時：Flutter好きが集まる朝もく会（第370回）](https://flutter-asamoku.connpass.com/event/298943/)
-- Oct 28 [.NETラボ 勉強会 2023年10月](https://dotnetlab.connpass.com/event/296773/)
-- Oct 21 [【大規模】第4回クリエイター広場交流&勉強会10/21(土)@新橋](https://creator-square.connpass.com/event/296939/)
-- Oct 21 [第52回横浜Go読書会（オンライン）](https://yokohama-go-reading.connpass.com/event/296733/)
+- Nov 11 [(コピー)SQL再入門2とクエリ性能問題の暫定対処方法について](https://sqlserver.connpass.com/event/299441/)
+- Nov 11 [小江戸らぐ 11月のオフな集まり(第256回)](https://koedolug.connpass.com/event/299447/)
+- Nov 10 [wakamonog meeting 12](https://wakamonog.connpass.com/event/293169/)
+- Nov 9 [あなたも作れるチャットボット！Watson Assistant](https://ibm-developer.connpass.com/event/293354/)
+- Nov 3 [第68回 CoderDojo Hitachinaka](https://coderdojo-hitachinaka.connpass.com/event/298744/)
 <!-- profile updater end: connpass -->
 
 <!---
