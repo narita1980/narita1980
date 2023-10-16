@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 11 [(コピー)SQL再入門2とクエリ性能問題の暫定対処方法について](https://sqlserver.connpass.com/event/299441/)
-- Nov 11 [小江戸らぐ 11月のオフな集まり(第256回)](https://koedolug.connpass.com/event/299447/)
+- Nov 18 [FRONTEND MEETUP 2023「あつまれ！フロントエンドエンジニア」](https://frontendclub.connpass.com/event/296842/)
 - Nov 10 [wakamonog meeting 12](https://wakamonog.connpass.com/event/293169/)
-- Nov 9 [あなたも作れるチャットボット！Watson Assistant](https://ibm-developer.connpass.com/event/293354/)
-- Nov 3 [第68回 CoderDojo Hitachinaka](https://coderdojo-hitachinaka.connpass.com/event/298744/)
+- Nov 9 [MapLibre Meetup Japan #01](https://mug-jp.connpass.com/event/293158/)
+- Oct 30 [旭川工業高等専門学校 デジタル人財育成事業第1回「AI入門」](https://kosen-dx.connpass.com/event/298816/)
+- Oct 28 [ゲームジャム高梁2023](https://okauni.connpass.com/event/288370/)
 <!-- profile updater end: connpass -->
 
 <!---
