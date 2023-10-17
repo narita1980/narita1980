@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 18 [FRONTEND MEETUP 2023「あつまれ！フロントエンドエンジニア」](https://frontendclub.connpass.com/event/296842/)
-- Nov 10 [wakamonog meeting 12](https://wakamonog.connpass.com/event/293169/)
+- Dec 1 [カスタマーサクセス天下一武闘会2023 Presented by Gainsight](https://cshack.connpass.com/event/295977/)
 - Nov 9 [MapLibre Meetup Japan #01](https://mug-jp.connpass.com/event/293158/)
+- Oct 31 [YYTypeScript#211【情報交換・ワイワイ話そう・仲間作り・ゆるめ・にぎやかめ】](https://yyts.connpass.com/event/299687/)
 - Oct 30 [旭川工業高等専門学校 デジタル人財育成事業第1回「AI入門」](https://kosen-dx.connpass.com/event/298816/)
-- Oct 28 [ゲームジャム高梁2023](https://okauni.connpass.com/event/288370/)
+- Oct 28 [【第1回】生成AIで世界一を目指す会【参加者募集】](https://connpass.com/event/298901/)
 <!-- profile updater end: connpass -->
 
 <!---
