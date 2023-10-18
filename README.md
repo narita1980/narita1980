@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 1 [カスタマーサクセス天下一武闘会2023 Presented by Gainsight](https://cshack.connpass.com/event/295977/)
-- Nov 9 [MapLibre Meetup Japan #01](https://mug-jp.connpass.com/event/293158/)
-- Oct 31 [YYTypeScript#211【情報交換・ワイワイ話そう・仲間作り・ゆるめ・にぎやかめ】](https://yyts.connpass.com/event/299687/)
+- Dec 9 [プログラマーズカフェ 2023 WINTER](https://pgcafe.connpass.com/event/299785/)
+- Nov 27 [KEP持ち寄り会](https://kep.connpass.com/event/299651/)
 - Oct 30 [旭川工業高等専門学校 デジタル人財育成事業第1回「AI入門」](https://kosen-dx.connpass.com/event/298816/)
-- Oct 28 [【第1回】生成AIで世界一を目指す会【参加者募集】](https://connpass.com/event/298901/)
+- Oct 27 [KyotoLT 第30回](https://kyotolt.connpass.com/event/296660/)
+- Oct 25 [IT系&誰でも参加OK！もくもく会_朝活_10/25(水)](https://morimori.connpass.com/event/299789/)
 <!-- profile updater end: connpass -->
 
 <!---
