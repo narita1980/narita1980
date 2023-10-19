@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 9 [プログラマーズカフェ 2023 WINTER](https://pgcafe.connpass.com/event/299785/)
-- Nov 27 [KEP持ち寄り会](https://kep.connpass.com/event/299651/)
-- Oct 30 [旭川工業高等専門学校 デジタル人財育成事業第1回「AI入門」](https://kosen-dx.connpass.com/event/298816/)
-- Oct 27 [KyotoLT 第30回](https://kyotolt.connpass.com/event/296660/)
-- Oct 25 [IT系&誰でも参加OK！もくもく会_朝活_10/25(水)](https://morimori.connpass.com/event/299789/)
+- Nov 10 [アクセシビリティカンファレンス福岡 前夜祭](https://nulab.connpass.com/event/297843/)
+- Nov 2 [Qiita Night～プロダクトマネジメント～](https://increments.connpass.com/event/297094/)
+- Oct 29 [DevFest Shikoku 2023 うどん県 with えれくら](https://gdgshikoku.connpass.com/event/299646/)
+- Oct 26 [Cloudflare Meet-up Osaka #3](https://cfm-cts.connpass.com/event/297920/)
+- Oct 26 [IT系&誰でも参加OK！もくもく会_朝活_10/26(木)](https://morimori.connpass.com/event/299890/)
 <!-- profile updater end: connpass -->
 
 <!---
