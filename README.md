@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Nov 11 [第74回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/299976/)
+- Nov 11 [オープンセミナー2023@広島](https://osh.connpass.com/event/283678/)
 - Nov 10 [アクセシビリティカンファレンス福岡 前夜祭](https://nulab.connpass.com/event/297843/)
-- Nov 2 [Qiita Night～プロダクトマネジメント～](https://increments.connpass.com/event/297094/)
-- Oct 29 [DevFest Shikoku 2023 うどん県 with えれくら](https://gdgshikoku.connpass.com/event/299646/)
-- Oct 26 [Cloudflare Meet-up Osaka #3](https://cfm-cts.connpass.com/event/297920/)
-- Oct 26 [IT系&誰でも参加OK！もくもく会_朝活_10/26(木)](https://morimori.connpass.com/event/299890/)
+- Nov 9 [【初心者歓迎】NeRF: 3次元×機械学習入門―注目の3次元化技術をやさしく解説](https://studyco.connpass.com/event/299270/)
+- Oct 24 [金融業界新時代の戦略：プロダクトマネージャーの必要性](https://fintech-engineer.connpass.com/event/297998/)
 <!-- profile updater end: connpass -->
 
 <!---
