@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 11 [第74回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/299976/)
-- Nov 11 [オープンセミナー2023@広島](https://osh.connpass.com/event/283678/)
-- Nov 10 [アクセシビリティカンファレンス福岡 前夜祭](https://nulab.connpass.com/event/297843/)
-- Nov 9 [【初心者歓迎】NeRF: 3次元×機械学習入門―注目の3次元化技術をやさしく解説](https://studyco.connpass.com/event/299270/)
-- Oct 24 [金融業界新時代の戦略：プロダクトマネージャーの必要性](https://fintech-engineer.connpass.com/event/297998/)
+- Nov 25 [[オンライン開催]自然言語処理ライブラリTransformersを学ぶ第8回](https://datascience-sendai-lab.connpass.com/event/285585/)
+- Nov 16 [Mix Leap 6周年記念 - 『大LT会 - オープンコラボLTフェスティバル』](https://lycorp-osaka-jp.connpass.com/event/299811/)
+- Nov 8 [第4回 Data-Centric AI勉強会 -コンペLT大会-](https://dcai-jp.connpass.com/event/298953/)
+- Nov 4 [CDLE大阪 LLM勉強会(LangChain) #21Meetup【リアル開催】](https://cdle-osaka.connpass.com/event/300045/)
+- Oct 28 [IT系&誰でも参加OK！もくもく会_朝活_10/28(土)](https://morimori.connpass.com/event/300086/)
 <!-- profile updater end: connpass -->
 
 <!---
