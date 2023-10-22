@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 25 [[オンライン開催]自然言語処理ライブラリTransformersを学ぶ第8回](https://datascience-sendai-lab.connpass.com/event/285585/)
-- Nov 16 [Mix Leap 6周年記念 - 『大LT会 - オープンコラボLTフェスティバル』](https://lycorp-osaka-jp.connpass.com/event/299811/)
-- Nov 8 [第4回 Data-Centric AI勉強会 -コンペLT大会-](https://dcai-jp.connpass.com/event/298953/)
-- Nov 4 [CDLE大阪 LLM勉強会(LangChain) #21Meetup【リアル開催】](https://cdle-osaka.connpass.com/event/300045/)
-- Oct 28 [IT系&誰でも参加OK！もくもく会_朝活_10/28(土)](https://morimori.connpass.com/event/300086/)
+- Dec 10 [[勉強会]Rustをゆっくり学ぶ会　Vol.18](https://rust4fun.connpass.com/event/300142/)
+- Nov 26 [[勉強会]Rustをゆっくり学ぶ会　Vol.17](https://rust4fun.connpass.com/event/300141/)
+- Nov 25 [今年のうちに押さえよう！ Next.js App Router勉強会 @秋葉原](https://devguil.connpass.com/event/298260/)
+- Nov 12 [[勉強会]Rustをゆっくり学ぶ会　Vol.16](https://rust4fun.connpass.com/event/300140/)
+- Oct 29 [HTML5 9th Anniversary](https://html5.connpass.com/event/298832/)
 <!-- profile updater end: connpass -->
 
 <!---
