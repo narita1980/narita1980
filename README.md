@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 10 [[勉強会]Rustをゆっくり学ぶ会　Vol.18](https://rust4fun.connpass.com/event/300142/)
-- Nov 26 [[勉強会]Rustをゆっくり学ぶ会　Vol.17](https://rust4fun.connpass.com/event/300141/)
-- Nov 25 [今年のうちに押さえよう！ Next.js App Router勉強会 @秋葉原](https://devguil.connpass.com/event/298260/)
-- Nov 12 [[勉強会]Rustをゆっくり学ぶ会　Vol.16](https://rust4fun.connpass.com/event/300140/)
-- Oct 29 [HTML5 9th Anniversary](https://html5.connpass.com/event/298832/)
+- Nov 29 [【オフライン】プログラミング言語Go 1Dayブートキャンプ【女性/ジェンダーマイノリティの方向け】](https://womenwhogo-tokyo.connpass.com/event/299721/)
+- Nov 19 [第二十一回 CoderDojo西那須野](https://coder-dojo-nishinasuno.connpass.com/event/298535/)
+- Nov 18 [[Osaka] Rakuten Technology Conference 2023](https://rakuten.connpass.com/event/297788/)
+- Nov 11 [SQL再入門2とクエリ性能問題の暫定対処方法について](https://sqlserver.connpass.com/event/299441/)
+- Nov 11 [Nuxt3によるWebサービス開発ハンズオン](https://engineer-diy.connpass.com/event/300156/)
 <!-- profile updater end: connpass -->
 
 <!---
