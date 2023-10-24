@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 29 [【オフライン】プログラミング言語Go 1Dayブートキャンプ【女性/ジェンダーマイノリティの方向け】](https://womenwhogo-tokyo.connpass.com/event/299721/)
-- Nov 19 [第二十一回 CoderDojo西那須野](https://coder-dojo-nishinasuno.connpass.com/event/298535/)
-- Nov 18 [[Osaka] Rakuten Technology Conference 2023](https://rakuten.connpass.com/event/297788/)
-- Nov 11 [SQL再入門2とクエリ性能問題の暫定対処方法について](https://sqlserver.connpass.com/event/299441/)
-- Nov 11 [Nuxt3によるWebサービス開発ハンズオン](https://engineer-diy.connpass.com/event/300156/)
+- Dec 2 [Flutter.Okinawa Meetup #5 Firestoreと状態管理ハンズオン](https://flutter-okinawa.connpass.com/event/300215/)
+- Dec 2 [Saitama.js vol.8【株式会社オープンロジ様オフィス(池袋)開催】](https://saitamajs.connpass.com/event/299547/)
+- Nov 26 [CoderDojo赤羽 #50](https://coderdojo-akabane.connpass.com/event/300172/)
+- Nov 22 [電帳法対応！『ちゃんと請求書 電子保存』のプロダクト開発： 課題とその克服の裏側_Tech勉強会](https://connpass.com/event/300261/)
+- Nov 20 [Qiita Night～Rails～](https://increments.connpass.com/event/297116/)
 <!-- profile updater end: connpass -->
 
 <!---
