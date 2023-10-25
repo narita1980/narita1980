@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 2 [Flutter.Okinawa Meetup #5 Firestoreと状態管理ハンズオン](https://flutter-okinawa.connpass.com/event/300215/)
-- Dec 2 [Saitama.js vol.8【株式会社オープンロジ様オフィス(池袋)開催】](https://saitamajs.connpass.com/event/299547/)
-- Nov 26 [CoderDojo赤羽 #50](https://coderdojo-akabane.connpass.com/event/300172/)
-- Nov 22 [電帳法対応！『ちゃんと請求書 電子保存』のプロダクト開発： 課題とその克服の裏側_Tech勉強会](https://connpass.com/event/300261/)
-- Nov 20 [Qiita Night～Rails～](https://increments.connpass.com/event/297116/)
+- Nov 30 [【増枠】いまからでも遅くない！GraphQL（StepZen）超入門](https://ibm-developer.connpass.com/event/299111/)
+- Nov 26 [第８９回 CoderDojo Mito](https://coderdojo-mito.connpass.com/event/300426/)
+- Nov 15 [【大阪-オンライン開催】XRミーティング 2023/11/15【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/300395/)
+- Nov 15 [Teamsで安全に社内文書を引用できるチャットボット開発を解説](https://chatgptllm.connpass.com/event/300420/)
+- Nov 11 [GEG Nara x GDG Nara @朱雀門ひろば #1](https://geg-nara.connpass.com/event/296132/)
 <!-- profile updater end: connpass -->
 
 <!---
