@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 30 [【増枠】いまからでも遅くない！GraphQL（StepZen）超入門](https://ibm-developer.connpass.com/event/299111/)
-- Nov 26 [第８９回 CoderDojo Mito](https://coderdojo-mito.connpass.com/event/300426/)
-- Nov 15 [【大阪-オンライン開催】XRミーティング 2023/11/15【AR/CR/MR/SR/VR】](https://osaka-driven-dev.connpass.com/event/300395/)
-- Nov 15 [Teamsで安全に社内文書を引用できるチャットボット開発を解説](https://chatgptllm.connpass.com/event/300420/)
-- Nov 11 [GEG Nara x GDG Nara @朱雀門ひろば #1](https://geg-nara.connpass.com/event/296132/)
+- Feb 4 [第１４回TKTKセキュリティ勉強会　〜開発会社が実践するセキュア開発トレーニング〜](https://tktksec.connpass.com/event/293696/)
+- Dec 2 [Kernel/VM探検隊@北陸 Part 6](https://kernelvm.connpass.com/event/297033/)
+- Nov 30 [【増枠】いまからでも遅くない！GraphQL超入門](https://ibm-developer.connpass.com/event/299111/)
+- Nov 12 [新横浜インディーゲームに関わるLT会＆試遊会](https://manabino.connpass.com/event/298896/)
+- Nov 11 [FigJam 入門セミナー](https://geg-nara.connpass.com/event/296132/)
 <!-- profile updater end: connpass -->
 
 <!---
