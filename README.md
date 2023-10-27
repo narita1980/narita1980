@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 4 [第１４回TKTKセキュリティ勉強会　〜開発会社が実践するセキュア開発トレーニング〜](https://tktksec.connpass.com/event/293696/)
-- Dec 2 [Kernel/VM探検隊@北陸 Part 6](https://kernelvm.connpass.com/event/297033/)
-- Nov 30 [【増枠】いまからでも遅くない！GraphQL超入門](https://ibm-developer.connpass.com/event/299111/)
-- Nov 12 [新横浜インディーゲームに関わるLT会＆試遊会](https://manabino.connpass.com/event/298896/)
-- Nov 11 [FigJam 入門セミナー](https://geg-nara.connpass.com/event/296132/)
+- Nov 25 [Mito.dev  #47 もくもく会](https://mito-web-engineer.connpass.com/event/300635/)
+- Nov 22 [【ハイブリッド開催】BtoB SaaSのSRE奮闘事例秋まつり](https://stmn.connpass.com/event/298576/)
+- Nov 10 [Nature Of Order 第2巻 チラ見する会](https://alexander-study.connpass.com/event/299177/)
+- Nov 9 [Tech系Podcastを同時視聴したり、アジャイル系の相談したり](https://distributed-agile-team.connpass.com/event/300370/)
+- Nov 6 [Googleのソフトウェアエンジニアリング チラ見会 -21章 依存関係管理-](https://engineering-floor.connpass.com/event/300369/)
 <!-- profile updater end: connpass -->
 
 <!---
