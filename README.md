@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 25 [Mito.dev  #47 もくもく会](https://mito-web-engineer.connpass.com/event/300635/)
-- Nov 22 [【ハイブリッド開催】BtoB SaaSのSRE奮闘事例秋まつり](https://stmn.connpass.com/event/298576/)
-- Nov 10 [Nature Of Order 第2巻 チラ見する会](https://alexander-study.connpass.com/event/299177/)
-- Nov 9 [Tech系Podcastを同時視聴したり、アジャイル系の相談したり](https://distributed-agile-team.connpass.com/event/300370/)
-- Nov 6 [Googleのソフトウェアエンジニアリング チラ見会 -21章 依存関係管理-](https://engineering-floor.connpass.com/event/300369/)
+- Nov 29 [Ultimate Omotenashi - 究極のおもてなし | A11yTokyo Meetup](https://a11ytyo.connpass.com/event/300415/)
+- Nov 12 [HarborSもくもく会@表参道 #109](https://harbors-kihonjoho.connpass.com/event/300656/)
+- Nov 11 [成功するDX戦略～日本企業における組織と人材の育て方～ JISTA関東支部](https://jista-kanto.connpass.com/event/298366/)
+- Nov 7 [初心者のためのGoogle Workspace活用術！【フォーム×スプレッドシート】](https://aphroetoile.connpass.com/event/300720/)
+- Nov 5 [第60回 コンピュータビジョン勉強会＠関東](https://kantocv.connpass.com/event/297737/)
 <!-- profile updater end: connpass -->
 
 <!---
