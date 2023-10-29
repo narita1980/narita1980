@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 29 [Ultimate Omotenashi - 究極のおもてなし | A11yTokyo Meetup](https://a11ytyo.connpass.com/event/300415/)
-- Nov 12 [HarborSもくもく会@表参道 #109](https://harbors-kihonjoho.connpass.com/event/300656/)
-- Nov 11 [成功するDX戦略～日本企業における組織と人材の育て方～ JISTA関東支部](https://jista-kanto.connpass.com/event/298366/)
-- Nov 7 [初心者のためのGoogle Workspace活用術！【フォーム×スプレッドシート】](https://aphroetoile.connpass.com/event/300720/)
-- Nov 5 [第60回 コンピュータビジョン勉強会＠関東](https://kantocv.connpass.com/event/297737/)
+- Nov 11 [【非エンジニアでもAIを使いこなす】Hugging Face×LINE体験会「画像/テキスト処理等」](https://linedevelopercommunity.connpass.com/event/300052/)
+- Nov 10 [wakamonog meeting 12 懇親会](https://wakamonog.connpass.com/event/294929/)
+- Nov 10 [力強くアウトプットする日の 20231110](https://forceoutput.connpass.com/event/300770/)
+- Nov 10 [wakamonog meeting 12](https://wakamonog.connpass.com/event/293169/)
+- Nov 5 [IT系&誰でも参加OK！もくもく会_朝活_11/5(日)_984回](https://morimori.connpass.com/event/300780/)
 <!-- profile updater end: connpass -->
 
 <!---
