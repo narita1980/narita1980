@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 11 [【非エンジニアでもAIを使いこなす】Hugging Face×LINE体験会「画像/テキスト処理等」](https://linedevelopercommunity.connpass.com/event/300052/)
-- Nov 10 [wakamonog meeting 12 懇親会](https://wakamonog.connpass.com/event/294929/)
-- Nov 10 [力強くアウトプットする日の 20231110](https://forceoutput.connpass.com/event/300770/)
-- Nov 10 [wakamonog meeting 12](https://wakamonog.connpass.com/event/293169/)
-- Nov 5 [IT系&誰でも参加OK！もくもく会_朝活_11/5(日)_984回](https://morimori.connpass.com/event/300780/)
+- Nov 27 [旭川工業高等専門学校 デジタル人財育成事業・第５回「Python入門（4）」](https://kosen-dx.connpass.com/event/298817/)
+- Nov 25 [.NETラボ 勉強会 2023年11月](https://dotnetlab.connpass.com/event/299544/)
+- Nov 20 [旭川工業高等専門学校 デジタル人財育成事業・第４回「Python入門（3）」](https://kosen-dx.connpass.com/event/298819/)
+- Nov 12 [新横浜Blenderがやがや会(第5回)](https://manabino.connpass.com/event/300842/)
+- Nov 11 [◤xR with Anything Meetup #025◢ #xram81 #メタバース](https://xram.connpass.com/event/293296/)
 <!-- profile updater end: connpass -->
 
 <!---
