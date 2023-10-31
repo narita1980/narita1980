@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 27 [旭川工業高等専門学校 デジタル人財育成事業・第５回「Python入門（4）」](https://kosen-dx.connpass.com/event/298817/)
-- Nov 25 [.NETラボ 勉強会 2023年11月](https://dotnetlab.connpass.com/event/299544/)
-- Nov 20 [旭川工業高等専門学校 デジタル人財育成事業・第４回「Python入門（3）」](https://kosen-dx.connpass.com/event/298819/)
-- Nov 12 [新横浜Blenderがやがや会(第5回)](https://manabino.connpass.com/event/300842/)
-- Nov 11 [◤xR with Anything Meetup #025◢ #xram81 #メタバース](https://xram.connpass.com/event/293296/)
+- Nov 30 [初心者GLSLシェーダプログラミング勉強会](https://connpass.com/event/300961/)
+- Nov 30 [個人開発エンジニア集まれ！~個人開発LT会~ #2](https://individual-development.connpass.com/event/300555/)
+- Nov 28 [失敗しないシニアビジネスをどうつくる？顧客起点での新規事業立案とは？](https://unii-research.connpass.com/event/300562/)
+- Nov 23 [初心者GLSLシェーダプログラミング勉強会](https://connpass.com/event/300960/)
+- Nov 19 [読者交流会を兼ねたFPGA勉強会](https://connpass.com/event/300675/)
 <!-- profile updater end: connpass -->
 
 <!---
