@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 30 [初心者GLSLシェーダプログラミング勉強会](https://connpass.com/event/300961/)
-- Nov 30 [個人開発エンジニア集まれ！~個人開発LT会~ #2](https://individual-development.connpass.com/event/300555/)
-- Nov 28 [失敗しないシニアビジネスをどうつくる？顧客起点での新規事業立案とは？](https://unii-research.connpass.com/event/300562/)
-- Nov 23 [初心者GLSLシェーダプログラミング勉強会](https://connpass.com/event/300960/)
-- Nov 19 [読者交流会を兼ねたFPGA勉強会](https://connpass.com/event/300675/)
+- Nov 27 [KEP持ち寄り会](https://kep.connpass.com/event/299651/)
+- Nov 21 [JaSST nano vol.30](https://jasst-nano.connpass.com/event/300947/)
+- Nov 19 [【大阪開催】WEBアプリ ハッカソン #17](https://pg-beginner-mtg.connpass.com/event/300826/)
+- Nov 18 [第57回 CoderDojoとよなか（大阪）2023/11/18(土)](https://coderdojo-toyonaka.connpass.com/event/295129/)
+- Nov 13 [いまからでも遅くない！WebAPI超入門 座学編 rerun](https://ibm-developer.connpass.com/event/300263/)
 <!-- profile updater end: connpass -->
 
 <!---
