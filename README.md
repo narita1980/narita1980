@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 27 [KEP持ち寄り会](https://kep.connpass.com/event/299651/)
-- Nov 21 [JaSST nano vol.30](https://jasst-nano.connpass.com/event/300947/)
-- Nov 19 [【大阪開催】WEBアプリ ハッカソン #17](https://pg-beginner-mtg.connpass.com/event/300826/)
-- Nov 18 [第57回 CoderDojoとよなか（大阪）2023/11/18(土)](https://coderdojo-toyonaka.connpass.com/event/295129/)
-- Nov 13 [いまからでも遅くない！WebAPI超入門 座学編 rerun](https://ibm-developer.connpass.com/event/300263/)
+- Dec 9 [ソフトウェアテスト自動化カンファレンス2023](https://testautomationresearch.connpass.com/event/299491/)
+- Dec 7 [Japan Power Platform Conference 2023 - メインイベント](https://powerplatformconf.connpass.com/event/294851/)
+- Nov 11 [【11月11日開催】CCNA・AWS接続ハンズオン（L3スイッチ、FW、無線AP実習、3H）](https://networktraining.connpass.com/event/301194/)
+- Nov 10 [2023年11月イベント「OpenMPW GF-1応募勉強会」勉強会](https://ishikai.connpass.com/event/301114/)
+- Nov 10 [IT系&誰でも参加OK！もくもく会_朝活_11/10(金)_989回](https://morimori.connpass.com/event/300727/)
 <!-- profile updater end: connpass -->
 
 <!---
