@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 9 [ソフトウェアテスト自動化カンファレンス2023](https://testautomationresearch.connpass.com/event/299491/)
-- Dec 7 [Japan Power Platform Conference 2023 - メインイベント](https://powerplatformconf.connpass.com/event/294851/)
-- Nov 11 [【11月11日開催】CCNA・AWS接続ハンズオン（L3スイッチ、FW、無線AP実習、3H）](https://networktraining.connpass.com/event/301194/)
-- Nov 10 [2023年11月イベント「OpenMPW GF-1応募勉強会」勉強会](https://ishikai.connpass.com/event/301114/)
-- Nov 10 [IT系&誰でも参加OK！もくもく会_朝活_11/10(金)_989回](https://morimori.connpass.com/event/300727/)
+- Nov 18 [[Fukuoka]Rakuten Technology Conference 2023](https://rakuten-tech-fukuoka.connpass.com/event/297009/)
+- Nov 15 [【信州オンライン】XRミーティング 2023/11/15 #XRMTG](https://xr-shinshu.connpass.com/event/301327/)
+- Nov 13 [英語で技術書を読もう：Fundamentals of Data Engineering 第22回](https://gaisaba.connpass.com/event/301330/)
+- Nov 11 [AUGM 大阪 November 2023 懇親会](https://augmosaka.connpass.com/event/297275/)
+- Nov 11 [オープンフォーラム2023懇親会 JISTA関東支部](https://jista-kanto.connpass.com/event/299765/)
 <!-- profile updater end: connpass -->
 
 <!---
