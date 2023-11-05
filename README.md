@@ -24,10 +24,10 @@
 
 <!-- profile updater begin: connpass -->
 - Dec 6 [「はじめての人類学」読書会 第1回(全3回)](https://anthropology-starting-with-everyone.connpass.com/event/301302/)
-- Nov 25 [第83回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/301313/)
-- Nov 19 [【現地/オンライン】#2 GitHub Universe&GitHub Actionsナレッジ](https://github-dockyard.connpass.com/event/300092/)
-- Nov 18 [習志野台テック #32](https://funapro.connpass.com/event/301401/)
-- Nov 12 [IT系&誰でも参加OK！もくもく会_朝活_11/12(日)_991回](https://morimori.connpass.com/event/301400/)
+- Nov 22 [最強DB講義 #29 検索・対話システムの公平性を評価する(酒井哲也先生)](https://dblectures.connpass.com/event/300683/)
+- Nov 12 [日本Androidの会浜松支部 第148回ミーティング](https://jaghama.connpass.com/event/301463/)
+- Nov 12 [11/12(日)【第186回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/301458/)
+- Nov 11 [11/11(土)【第185回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/301457/)
 <!-- profile updater end: connpass -->
 
 <!---
