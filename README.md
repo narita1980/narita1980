@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 6 [「はじめての人類学」読書会 第1回(全3回)](https://anthropology-starting-with-everyone.connpass.com/event/301302/)
-- Nov 22 [最強DB講義 #29 検索・対話システムの公平性を評価する(酒井哲也先生)](https://dblectures.connpass.com/event/300683/)
-- Nov 12 [日本Androidの会浜松支部 第148回ミーティング](https://jaghama.connpass.com/event/301463/)
-- Nov 12 [11/12(日)【第186回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/301458/)
-- Nov 11 [11/11(土)【第185回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/301457/)
+- Dec 9 [Backlog World 2023 Re:Boot-未来への帰還-福岡オフライン by #JBUG](https://jbug.connpass.com/event/297765/)
+- Dec 1 [第33回PM-ZEN](https://pm-zen.connpass.com/event/299960/)
+- Nov 18 [第1回 オブジェクト設計スタイルガイド 読書会](https://connpass.com/event/301476/)
+- Nov 17 [Node-RED Flow 大喜利 in 京都](https://node-red.connpass.com/event/301392/)
+- Nov 15 [「もくもく × 雑談」ITミートアップ福岡](https://it-meetup-fukuoka.connpass.com/event/301038/)
 <!-- profile updater end: connpass -->
 
 <!---
