@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 9 [Backlog World 2023 Re:Boot-未来への帰還-福岡オフライン by #JBUG](https://jbug.connpass.com/event/297765/)
-- Dec 1 [第33回PM-ZEN](https://pm-zen.connpass.com/event/299960/)
-- Nov 18 [第1回 オブジェクト設計スタイルガイド 読書会](https://connpass.com/event/301476/)
-- Nov 17 [Node-RED Flow 大喜利 in 京都](https://node-red.connpass.com/event/301392/)
-- Nov 15 [「もくもく × 雑談」ITミートアップ福岡](https://it-meetup-fukuoka.connpass.com/event/301038/)
+- Dec 5 [【B/43プラスの開発プロセス大公開！】リリース前に課題を見つける、ユーザビリティテストの活用術](https://unii-research.connpass.com/event/297471/)
+- Nov 19 [読者交流会を兼ねたFPGA勉強会](https://connpass.com/event/300675/)
+- Nov 17 [LLM最新動向キャッチアップもくもく会](https://hannari-python.connpass.com/event/301635/)
+- Nov 14 [IT系&誰でも参加OK！もくもく会_朝活_11/14(火)_993回](https://morimori.connpass.com/event/301636/)
+- Nov 11 [データ利活用やってみよう！ハッカソン2023 成果発表会](https://enjoy-pda.connpass.com/event/295959/)
 <!-- profile updater end: connpass -->
 
 <!---
