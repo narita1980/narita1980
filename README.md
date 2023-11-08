@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 5 [【B/43プラスの開発プロセス大公開！】リリース前に課題を見つける、ユーザビリティテストの活用術](https://unii-research.connpass.com/event/297471/)
-- Nov 19 [読者交流会を兼ねたFPGA勉強会](https://connpass.com/event/300675/)
-- Nov 17 [LLM最新動向キャッチアップもくもく会](https://hannari-python.connpass.com/event/301635/)
-- Nov 14 [IT系&誰でも参加OK！もくもく会_朝活_11/14(火)_993回](https://morimori.connpass.com/event/301636/)
-- Nov 11 [データ利活用やってみよう！ハッカソン2023 成果発表会](https://enjoy-pda.connpass.com/event/295959/)
+- Dec 8 [新時代の分散型SNS勉強会](https://428lab.connpass.com/event/300313/)
+- Dec 7 [BtoB SaaSの新規機能開発にUXリサーチを初めて取り入れた話](https://cloudpayment-sys.connpass.com/event/300975/)
+- Nov 30 [キーワードはRAG ! Kaggle LLMコンペの攻略法を解説](https://studyco.connpass.com/event/300783/)
+- Nov 25 [業界人が本音で語る！クリエイター座談会](https://sanuki-gamen.connpass.com/event/301119/)
+- Nov 22 [【初心者歓迎】ChatGPTを使った話題の自動化ツールOpen Interpreterの基本から解説](https://studyco.connpass.com/event/300300/)
 <!-- profile updater end: connpass -->
 
 <!---
