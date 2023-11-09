@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 8 [新時代の分散型SNS勉強会](https://428lab.connpass.com/event/300313/)
-- Dec 7 [BtoB SaaSの新規機能開発にUXリサーチを初めて取り入れた話](https://cloudpayment-sys.connpass.com/event/300975/)
-- Nov 30 [キーワードはRAG ! Kaggle LLMコンペの攻略法を解説](https://studyco.connpass.com/event/300783/)
-- Nov 25 [業界人が本音で語る！クリエイター座談会](https://sanuki-gamen.connpass.com/event/301119/)
-- Nov 22 [【初心者歓迎】ChatGPTを使った話題の自動化ツールOpen Interpreterの基本から解説](https://studyco.connpass.com/event/300300/)
+- Dec 6 [Hack For Perl #7](https://hack4perl.connpass.com/event/301874/)
+- Nov 29 [企業理念の活かし方 -理念発信の最強ツール「タグライン」-](https://connpass.com/event/301406/)
+- Nov 24 [【秋葉原】React Fanもくもく会・質問会・交流会★対面開催、ついでに忘年会](https://meteor-fan.connpass.com/event/301165/)
+- Nov 16 [IT系&誰でも参加OK！もくもく会_朝活_11/16(木)_995回](https://morimori.connpass.com/event/301869/)
+- Nov 15 [《初級》脆弱性診断をステップ・バイ・ステップで学ぶ"未来の"初級者向け【W2-704】](https://bugbounty.connpass.com/event/301873/)
 <!-- profile updater end: connpass -->
 
 <!---
