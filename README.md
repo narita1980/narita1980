@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 6 [Hack For Perl #7](https://hack4perl.connpass.com/event/301874/)
-- Nov 29 [企業理念の活かし方 -理念発信の最強ツール「タグライン」-](https://connpass.com/event/301406/)
-- Nov 24 [【秋葉原】React Fanもくもく会・質問会・交流会★対面開催、ついでに忘年会](https://meteor-fan.connpass.com/event/301165/)
-- Nov 16 [IT系&誰でも参加OK！もくもく会_朝活_11/16(木)_995回](https://morimori.connpass.com/event/301869/)
-- Nov 15 [《初級》脆弱性診断をステップ・バイ・ステップで学ぶ"未来の"初級者向け【W2-704】](https://bugbounty.connpass.com/event/301873/)
+- Dec 20 [第10回著作権法セミナー(12月20日枠)](https://kittenlawoffice.connpass.com/event/301980/)
+- Dec 2 [第32回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/301707/)
+- Nov 30 [今からはじめる『ChatGPT』との付き合い方【オンライン＆仙台開催】](https://tengineer.connpass.com/event/301932/)
+- Nov 30 [Guido氏インタラクティブ記念講演会 PyCon JP枠](https://pyconjp.connpass.com/event/301716/)
+- Nov 25 [ワイガヤ勉強会♯0](https://eduit-japan.connpass.com/event/301976/)
 <!-- profile updater end: connpass -->
 
 <!---
