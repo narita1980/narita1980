@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 20 [第10回著作権法セミナー(12月20日枠)](https://kittenlawoffice.connpass.com/event/301980/)
-- Dec 2 [第32回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/301707/)
-- Nov 30 [今からはじめる『ChatGPT』との付き合い方【オンライン＆仙台開催】](https://tengineer.connpass.com/event/301932/)
-- Nov 30 [Guido氏インタラクティブ記念講演会 PyCon JP枠](https://pyconjp.connpass.com/event/301716/)
-- Nov 25 [ワイガヤ勉強会♯0](https://eduit-japan.connpass.com/event/301976/)
+- Dec 16 [DevFest: Kobe Developers Day](https://gdgkobe.connpass.com/event/302088/)
+- Nov 25 [第(+1-0i)回 数理モデルとその実装に関する勉強会](https://connpass.com/event/301252/)
+- Nov 24 [いまからでも遅くない！ワークフロー超入門](https://ibm-developer.connpass.com/event/300282/)
+- Nov 22 [アプリをOpenTelemetryとInstanaで可視化してみる](https://ibm-developer.connpass.com/event/300010/)
+- Nov 21 [IBMのレイクハウス"watsonx.data"のデモ連発](https://ibm-developer.connpass.com/event/295508/)
 <!-- profile updater end: connpass -->
 
 <!---
