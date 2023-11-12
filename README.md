@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 16 [DevFest: Kobe Developers Day](https://gdgkobe.connpass.com/event/302088/)
-- Nov 25 [第(+1-0i)回 数理モデルとその実装に関する勉強会](https://connpass.com/event/301252/)
-- Nov 24 [いまからでも遅くない！ワークフロー超入門](https://ibm-developer.connpass.com/event/300282/)
-- Nov 22 [アプリをOpenTelemetryとInstanaで可視化してみる](https://ibm-developer.connpass.com/event/300010/)
-- Nov 21 [IBMのレイクハウス"watsonx.data"のデモ連発](https://ibm-developer.connpass.com/event/295508/)
+- Dec 10 [【LT会&勉強会】エンジニアの輪 at 東京 渋谷（第13回）](https://circle-of-engineer.connpass.com/event/301396/)
+- Dec 9 [第11回『Linuxシステムの仕組み』オンライン読書会](https://technical-book-reading-2.connpass.com/event/302146/)
+- Nov 21 [第３回一般社団法人日本量子コンピューティング協会説明会](https://jqca2023.connpass.com/event/301186/)
+- Nov 21 [IT系&誰でも参加OK！もくもく会_朝活_11/21(火)_1000回](https://morimori.connpass.com/event/302153/)
+- Nov 20 [IT系&誰でも参加OK！もくもく会_朝活_11/20(月)_999回](https://morimori.connpass.com/event/302152/)
 <!-- profile updater end: connpass -->
 
 <!---
