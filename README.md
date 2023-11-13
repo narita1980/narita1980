@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 10 [【LT会&勉強会】エンジニアの輪 at 東京 渋谷（第13回）](https://circle-of-engineer.connpass.com/event/301396/)
-- Dec 9 [第11回『Linuxシステムの仕組み』オンライン読書会](https://technical-book-reading-2.connpass.com/event/302146/)
-- Nov 21 [第３回一般社団法人日本量子コンピューティング協会説明会](https://jqca2023.connpass.com/event/301186/)
-- Nov 21 [IT系&誰でも参加OK！もくもく会_朝活_11/21(火)_1000回](https://morimori.connpass.com/event/302153/)
-- Nov 20 [IT系&誰でも参加OK！もくもく会_朝活_11/20(月)_999回](https://morimori.connpass.com/event/302152/)
+- Dec 13 [【大阪】KANSAI AI PUB（関西×人工知能×場）2023/12/13](https://deep-learning-osaka.connpass.com/event/301909/)
+- Dec 2 [Kernel/VM探検隊@北陸 Part 6 打ち上げ](https://kernelvm.connpass.com/event/302191/)
+- Dec 2 [WARAI冬の陣2023](https://warai.connpass.com/event/300768/)
+- Nov 25 [Tokyo OpenSolaris 勉強会2023.11](https://connpass.com/event/302196/)
+- Nov 23 [SaaS Design Conference 2023](https://designbase.connpass.com/event/294060/)
 <!-- profile updater end: connpass -->
 
 <!---
