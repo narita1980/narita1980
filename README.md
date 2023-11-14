@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 13 [【大阪】KANSAI AI PUB（関西×人工知能×場）2023/12/13](https://deep-learning-osaka.connpass.com/event/301909/)
-- Dec 2 [Kernel/VM探検隊@北陸 Part 6 打ち上げ](https://kernelvm.connpass.com/event/302191/)
-- Dec 2 [WARAI冬の陣2023](https://warai.connpass.com/event/300768/)
-- Nov 25 [Tokyo OpenSolaris 勉強会2023.11](https://connpass.com/event/302196/)
-- Nov 23 [SaaS Design Conference 2023](https://designbase.connpass.com/event/294060/)
+- Nov 29 [【CDLE名古屋主催】ChatGPTモンスターバトル！！](https://cdlenagoya.connpass.com/event/300822/)
+- Nov 24 [#16 なんば哲学勉強会【2冊目：太田紘史編『モラル・サイコロジー：心と行動から探る倫理学』](https://philmath0820.connpass.com/event/302025/)
+- Nov 22 [ISMIR 2023 読み会 （オンライン）](https://jamir.connpass.com/event/292621/)
+- Nov 19 [ライトニングフリーマーケット2023](https://diamondhands.connpass.com/event/301654/)
+- Nov 18 [【11月18日開催】CCNA・AWSのNWハンズオン（L3スイッチ、FW、無線AP実習、3時間)](https://networktraining.connpass.com/event/301984/)
 <!-- profile updater end: connpass -->
 
 <!---
