@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 29 [【CDLE名古屋主催】ChatGPTモンスターバトル！！](https://cdlenagoya.connpass.com/event/300822/)
-- Nov 24 [#16 なんば哲学勉強会【2冊目：太田紘史編『モラル・サイコロジー：心と行動から探る倫理学』](https://philmath0820.connpass.com/event/302025/)
-- Nov 22 [ISMIR 2023 読み会 （オンライン）](https://jamir.connpass.com/event/292621/)
-- Nov 19 [ライトニングフリーマーケット2023](https://diamondhands.connpass.com/event/301654/)
-- Nov 18 [【11月18日開催】CCNA・AWSのNWハンズオン（L3スイッチ、FW、無線AP実習、3時間)](https://networktraining.connpass.com/event/301984/)
+- Dec 17 [CoderDojo名護（屋部地区センター・会議室）](https://coderdojo-nago.connpass.com/event/302446/)
+- Dec 16 [次世代 Web カンファレンス 2023](https://nextwebconf.connpass.com/event/300174/)
+- Nov 25 [.NETラボ 勉強会 2023年11月](https://dotnetlab.connpass.com/event/299544/)
+- Nov 22 [NFLabs. Cybersecurity Challenge for Students 2023](https://connpass.com/event/298931/)
+- Nov 19 [11/19(日)【第188回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/302323/)
 <!-- profile updater end: connpass -->
 
 <!---
