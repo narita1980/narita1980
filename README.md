@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 17 [CoderDojo名護（屋部地区センター・会議室）](https://coderdojo-nago.connpass.com/event/302446/)
-- Dec 16 [次世代 Web カンファレンス 2023](https://nextwebconf.connpass.com/event/300174/)
-- Nov 25 [.NETラボ 勉強会 2023年11月](https://dotnetlab.connpass.com/event/299544/)
-- Nov 22 [NFLabs. Cybersecurity Challenge for Students 2023](https://connpass.com/event/298931/)
-- Nov 19 [11/19(日)【第188回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/302323/)
+- Dec 20 [第４回ナレッジグラフ勉強会＠オンライン](https://kg-wakate.connpass.com/event/300488/)
+- Dec 15 [JAWS-UG IoT専門支部「re:Invent振り返りとAmazon Monitron」](https://jawsug-iot.connpass.com/event/301998/)
+- Dec 8 [JEDAI 2023 X'mas/忘年会 Meetup!](https://jedai.connpass.com/event/300321/)
+- Dec 6 [Tokyo Tech Leads Circle - Meetup #5](https://tokyo-tech-leads-circle.connpass.com/event/301763/)
+- Nov 29 [サーバー管理者のためのセキュリティ超入門](https://fujitsufjct.connpass.com/event/301514/)
 <!-- profile updater end: connpass -->
 
 <!---
