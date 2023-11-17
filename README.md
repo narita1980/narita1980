@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 20 [第４回ナレッジグラフ勉強会＠オンライン](https://kg-wakate.connpass.com/event/300488/)
-- Dec 15 [JAWS-UG IoT専門支部「re:Invent振り返りとAmazon Monitron」](https://jawsug-iot.connpass.com/event/301998/)
-- Dec 8 [JEDAI 2023 X'mas/忘年会 Meetup!](https://jedai.connpass.com/event/300321/)
-- Dec 6 [Tokyo Tech Leads Circle - Meetup #5](https://tokyo-tech-leads-circle.connpass.com/event/301763/)
-- Nov 29 [サーバー管理者のためのセキュリティ超入門](https://fujitsufjct.connpass.com/event/301514/)
+- Dec 20 [第7回オープンエッジデバイス研究会(忘年会)](https://openedgedevice.connpass.com/event/302696/)
+- Dec 16 [R研究集会2023](https://rjpusers.connpass.com/event/302671/)
+- Dec 4 [FUJIYAMA Tech Showcase #2](https://fujiyama.connpass.com/event/301133/)
+- Nov 24 [とりあえず、もくもく会。-朝の部- #12](https://yurumoku-bu.connpass.com/event/302693/)
+- Nov 23 [とりあえず、もくもく会。-夜の部- #6](https://yurumoku-bu.connpass.com/event/302689/)
 <!-- profile updater end: connpass -->
 
 <!---
