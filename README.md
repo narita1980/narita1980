@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 20 [第7回オープンエッジデバイス研究会(忘年会)](https://openedgedevice.connpass.com/event/302696/)
-- Dec 16 [R研究集会2023](https://rjpusers.connpass.com/event/302671/)
-- Dec 4 [FUJIYAMA Tech Showcase #2](https://fujiyama.connpass.com/event/301133/)
-- Nov 24 [とりあえず、もくもく会。-朝の部- #12](https://yurumoku-bu.connpass.com/event/302693/)
-- Nov 23 [とりあえず、もくもく会。-夜の部- #6](https://yurumoku-bu.connpass.com/event/302689/)
+- Mar 15 [JAWS-UG朝会 #55](https://jawsug-asa.connpass.com/event/301827/)
+- Dec 17 [Google Cloud Platform 入門ハンズオン（DevFest 2023 in 高知）](https://gdgshikoku.connpass.com/event/302730/)
+- Dec 1 [吉祥寺.pm35【オフライン】懇親会](https://kichijojipm.connpass.com/event/301959/)
+- Dec 1 [AI動向キャッチアップもくもく会](https://hannari-python.connpass.com/event/302837/)
+- Dec 1 [吉祥寺.pm35【吉祥寺に集合！オフライン開催！】](https://kichijojipm.connpass.com/event/298081/)
 <!-- profile updater end: connpass -->
 
 <!---
