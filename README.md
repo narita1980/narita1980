@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 15 [JAWS-UG朝会 #55](https://jawsug-asa.connpass.com/event/301827/)
-- Dec 17 [Google Cloud Platform 入門ハンズオン（DevFest 2023 in 高知）](https://gdgshikoku.connpass.com/event/302730/)
-- Dec 1 [吉祥寺.pm35【オフライン】懇親会](https://kichijojipm.connpass.com/event/301959/)
-- Dec 1 [AI動向キャッチアップもくもく会](https://hannari-python.connpass.com/event/302837/)
-- Dec 1 [吉祥寺.pm35【吉祥寺に集合！オフライン開催！】](https://kichijojipm.connpass.com/event/298081/)
+- Jan 21 [【無料】【ぐるっぺ2階】CoderDojo瀬戸(第117回) 子供プログラミングコミュニティ](https://coderdojo-seto.connpass.com/event/302940/)
+- Jan 20 [【Okayama.なんか #2】Okayama.Tool](https://okayama-nanka.connpass.com/event/301465/)
+- Jan 7 [【無料】【ぐるっぺ2階】CoderDojo瀬戸(第116回) 子供プログラミングコミュニティ](https://coderdojo-seto.connpass.com/event/302939/)
+- Dec 16 [【大規模】クリエイター大忘年会 12/16(土)@新橋](https://creator-square.connpass.com/event/302928/)
+- Dec 10 [12/10 Open Source Conference 2023 Yamaguchi](https://ospn.connpass.com/event/300548/)
 <!-- profile updater end: connpass -->
 
 <!---
