@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 21 [【無料】【ぐるっぺ2階】CoderDojo瀬戸(第117回) 子供プログラミングコミュニティ](https://coderdojo-seto.connpass.com/event/302940/)
-- Jan 20 [【Okayama.なんか #2】Okayama.Tool](https://okayama-nanka.connpass.com/event/301465/)
-- Jan 7 [【無料】【ぐるっぺ2階】CoderDojo瀬戸(第116回) 子供プログラミングコミュニティ](https://coderdojo-seto.connpass.com/event/302939/)
-- Dec 16 [【大規模】クリエイター大忘年会 12/16(土)@新橋](https://creator-square.connpass.com/event/302928/)
-- Dec 10 [12/10 Open Source Conference 2023 Yamaguchi](https://ospn.connpass.com/event/300548/)
+- Dec 24 [第91回CoderDojo浜松](https://coderdojo-hamamatsu.connpass.com/event/302997/)
+- Dec 9 [AlmaLinux Day Tokyo 2023](https://connpass.com/event/298459/)
+- Dec 3 [CoderDojo横浜師岡（第15回）](https://coderdojo-morooka.connpass.com/event/303000/)
+- Nov 30 [UiPathを学ぼう～再始動～](https://rpacommunity.connpass.com/event/302874/)
+- Nov 27 [IT系&誰でも参加OK！もくもく会_朝活_11/27(月)](https://morimori.connpass.com/event/302999/)
 <!-- profile updater end: connpass -->
 
 <!---
