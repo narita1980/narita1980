@@ -24,10 +24,10 @@
 
 <!-- profile updater begin: connpass -->
 - Dec 24 [第91回CoderDojo浜松](https://coderdojo-hamamatsu.connpass.com/event/302997/)
-- Dec 9 [AlmaLinux Day Tokyo 2023](https://connpass.com/event/298459/)
-- Dec 3 [CoderDojo横浜師岡（第15回）](https://coderdojo-morooka.connpass.com/event/303000/)
-- Nov 30 [UiPathを学ぼう～再始動～](https://rpacommunity.connpass.com/event/302874/)
-- Nov 27 [IT系&誰でも参加OK！もくもく会_朝活_11/27(月)](https://morimori.connpass.com/event/302999/)
+- Nov 30 [関ジャバ'23 11月度](https://kanjava.connpass.com/event/302259/)
+- Nov 28 [IT系&誰でも参加OK！もくもく会_朝活_11/28(火)](https://morimori.connpass.com/event/303113/)
+- Nov 25 [AWS入門!EC2でWEBサーバを作るハンズオン](https://zeki-chan-lab.connpass.com/event/303117/)
+- Nov 24 [INTER-Mediator勉強会2023-11](https://inter-mediator.connpass.com/event/300265/)
 <!-- profile updater end: connpass -->
 
 <!---
