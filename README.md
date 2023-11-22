@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 24 [第91回CoderDojo浜松](https://coderdojo-hamamatsu.connpass.com/event/302997/)
-- Nov 30 [関ジャバ'23 11月度](https://kanjava.connpass.com/event/302259/)
-- Nov 28 [IT系&誰でも参加OK！もくもく会_朝活_11/28(火)](https://morimori.connpass.com/event/303113/)
-- Nov 25 [AWS入門!EC2でWEBサーバを作るハンズオン](https://zeki-chan-lab.connpass.com/event/303117/)
-- Nov 24 [INTER-Mediator勉強会2023-11](https://inter-mediator.connpass.com/event/300265/)
+- Jan 20 [【LT会&勉強会】エンジニアの輪 at 福岡 エンジニアカフェ（第８回）](https://circle-of-engineer.connpass.com/event/303212/)
+- Dec 1 [Kotlin Multiplatform -  Watch Party & Recap](https://kotlin-tokyo.connpass.com/event/303145/)
+- Nov 29 [IT系&誰でも参加OK！もくもく会_朝活_11/29(水)](https://morimori.connpass.com/event/303224/)
+- Nov 26 [メイド開発部](https://connpass.com/event/303225/)
+- Nov 25 [第九回技術書同人誌博覧会](https://gishohaku.connpass.com/event/298538/)
 <!-- profile updater end: connpass -->
 
 <!---
