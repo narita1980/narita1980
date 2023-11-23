@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 20 [【LT会&勉強会】エンジニアの輪 at 福岡 エンジニアカフェ（第８回）](https://circle-of-engineer.connpass.com/event/303212/)
-- Dec 1 [Kotlin Multiplatform -  Watch Party & Recap](https://kotlin-tokyo.connpass.com/event/303145/)
-- Nov 29 [IT系&誰でも参加OK！もくもく会_朝活_11/29(水)](https://morimori.connpass.com/event/303224/)
-- Nov 26 [メイド開発部](https://connpass.com/event/303225/)
-- Nov 25 [第九回技術書同人誌博覧会](https://gishohaku.connpass.com/event/298538/)
+- Nov 30 [とりあえず、もくもく会。-夜の部- #7](https://yurumoku-bu.connpass.com/event/303222/)
+- Nov 30 [IT系&誰でも参加OK！もくもく会_朝活_11/30(木)](https://morimori.connpass.com/event/303343/)
+- Nov 30 [とりあえず、もくもく会。-朝の部- #16](https://yurumoku-bu.connpass.com/event/303221/)
+- Nov 29 [とりあえず、もくもく会。-朝の部- #15](https://yurumoku-bu.connpass.com/event/303220/)
+- Nov 28 [とりあえず、もくもく会。-夜の部- #6](https://yurumoku-bu.connpass.com/event/303217/)
 <!-- profile updater end: connpass -->
 
 <!---
