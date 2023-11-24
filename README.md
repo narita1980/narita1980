@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Nov 30 [とりあえず、もくもく会。-夜の部- #7](https://yurumoku-bu.connpass.com/event/303222/)
-- Nov 30 [IT系&誰でも参加OK！もくもく会_朝活_11/30(木)](https://morimori.connpass.com/event/303343/)
-- Nov 30 [とりあえず、もくもく会。-朝の部- #16](https://yurumoku-bu.connpass.com/event/303221/)
-- Nov 29 [とりあえず、もくもく会。-朝の部- #15](https://yurumoku-bu.connpass.com/event/303220/)
-- Nov 28 [とりあえず、もくもく会。-夜の部- #6](https://yurumoku-bu.connpass.com/event/303217/)
+- Dec 16 [.NETラボ 勉強会 2023年12月](https://dotnetlab.connpass.com/event/303142/)
+- Dec 16 [福井県三国湊における「地域課題解決ハッカソン」](https://uhuru.connpass.com/event/302580/)
+- Dec 12 [生成AIを活用したプロダクト開発の実践](https://generative-ai-conf.connpass.com/event/301243/)
+- Dec 11 [海外StartupのCPOとラクスルCPOが解き明かす実行力の高いプロダクト組織とは](https://japancpoa.connpass.com/event/303120/)
+- Dec 1 [IT系&誰でも参加OK！もくもく会_朝活_12/1(金)](https://morimori.connpass.com/event/303425/)
 <!-- profile updater end: connpass -->
 
 <!---
