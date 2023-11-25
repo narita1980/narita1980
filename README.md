@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 16 [.NETラボ 勉強会 2023年12月](https://dotnetlab.connpass.com/event/303142/)
-- Dec 16 [福井県三国湊における「地域課題解決ハッカソン」](https://uhuru.connpass.com/event/302580/)
-- Dec 12 [生成AIを活用したプロダクト開発の実践](https://generative-ai-conf.connpass.com/event/301243/)
-- Dec 11 [海外StartupのCPOとラクスルCPOが解き明かす実行力の高いプロダクト組織とは](https://japancpoa.connpass.com/event/303120/)
-- Dec 1 [IT系&誰でも参加OK！もくもく会_朝活_12/1(金)](https://morimori.connpass.com/event/303425/)
+- Dec 11 [【オンライン】12/11(月)5時〜7時：Flutter好きが集まる朝もく会（第375回）](https://flutter-asamoku.connpass.com/event/303235/)
+- Dec 8 [最新AIやらChatGPTやらを語る会](https://connpass.com/event/303396/)
+- Dec 6 [福岡XR部 Monthly Meetup #39-2023.12【オンライン】](https://fukuoka-xr-club.connpass.com/event/303525/)
+- Dec 4 [自動運転AIチャレンジ2023インテグ大会振り返り & 表彰式前夜祭 & SIM大会頑張ろう](https://challenge-club.connpass.com/event/303498/)
+- Dec 4 [【オンライン】12/4(月)5時〜7時：Flutter好きが集まる朝もく会（第374回）](https://flutter-asamoku.connpass.com/event/303234/)
 <!-- profile updater end: connpass -->
 
 <!---
