@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 3 [プログラミングでポケモンを動かしてみよう！　2月3日(土)  9:15～](https://coderdojo-obu-t.connpass.com/event/303602/)
-- Dec 23 [プログラミングでポケモンを動かしてみよう！　12月23日(土)  13:15～](https://coderdojo-obu-t.connpass.com/event/303598/)
-- Dec 17 [【LT会&勉強会】エンジニアの輪 at 福岡（第７回）](https://circle-of-engineer.connpass.com/event/303600/)
-- Dec 9 [GDS 026   ITday Japan 2023〜ChatGPT大騒動と生成AI革命](https://connpass.com/event/303603/)
-- Dec 3 [IT系&誰でも参加OK！もくもく会_朝活_12/3(日)](https://morimori.connpass.com/event/303607/)
+- Dec 9 [オンライン[Math & Coding] 群論 #53](https://math-coding.connpass.com/event/303678/)
+- Dec 9 [Japan Power Platform Conference 2023 - ハッカソン](https://powerplatformconf.connpass.com/event/300462/)
+- Dec 8 [We Are JavaScripters! @43rd【初心者歓迎・LT会】](https://wajs.connpass.com/event/301767/)
+- Dec 7 [Japan Power Platform Conference 2023 - メインイベント](https://powerplatformconf.connpass.com/event/294851/)
+- Dec 6 [Japan Power Platform Conference 2023 - ワークショップ](https://powerplatformconf.connpass.com/event/300458/)
 <!-- profile updater end: connpass -->
 
 <!---
