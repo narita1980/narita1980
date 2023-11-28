@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 9 [オンライン[Math & Coding] 群論 #53](https://math-coding.connpass.com/event/303678/)
-- Dec 9 [Japan Power Platform Conference 2023 - ハッカソン](https://powerplatformconf.connpass.com/event/300462/)
-- Dec 8 [We Are JavaScripters! @43rd【初心者歓迎・LT会】](https://wajs.connpass.com/event/301767/)
-- Dec 7 [Japan Power Platform Conference 2023 - メインイベント](https://powerplatformconf.connpass.com/event/294851/)
-- Dec 6 [Japan Power Platform Conference 2023 - ワークショップ](https://powerplatformconf.connpass.com/event/300458/)
+- Jan 27 [Japan Dreamin' 2024](https://japandreamin.connpass.com/event/303022/)
+- Jan 16 [みんなの考えた最強のデータアーキテクチャ'24新春-最新版SP！](https://datatech-jp.connpass.com/event/301807/)
+- Dec 26 [またあなたにお願いしたい！と言われるデザイナーであり続けるために取り組みたいこと](https://techachievers.connpass.com/event/303044/)
+- Dec 17 [第50回プログラミングワークショップ](https://coderdojo-hirakata.connpass.com/event/303646/)
+- Dec 16 [.NETラボ 勉強会 2023年12月](https://dotnetlab.connpass.com/event/303142/)
 <!-- profile updater end: connpass -->
 
 <!---
