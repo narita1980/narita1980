@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 27 [Japan Dreamin' 2024](https://japandreamin.connpass.com/event/303022/)
-- Jan 16 [みんなの考えた最強のデータアーキテクチャ'24新春-最新版SP！](https://datatech-jp.connpass.com/event/301807/)
-- Dec 26 [またあなたにお願いしたい！と言われるデザイナーであり続けるために取り組みたいこと](https://techachievers.connpass.com/event/303044/)
-- Dec 17 [第50回プログラミングワークショップ](https://coderdojo-hirakata.connpass.com/event/303646/)
+- Dec 19 [northernforce #35](https://northernforce.connpass.com/event/303115/)
 - Dec 16 [.NETラボ 勉強会 2023年12月](https://dotnetlab.connpass.com/event/303142/)
+- Dec 15 [UE5 Deep Dive 2023](https://egj-official-study.connpass.com/event/303756/)
+- Dec 14 [KOBE ChatGPT Night Vol.2](https://azure-tech-love.connpass.com/event/302235/)
+- Dec 14 [EOS Deep Dive 2023](https://egj-official-study.connpass.com/event/303791/)
 <!-- profile updater end: connpass -->
 
 <!---
