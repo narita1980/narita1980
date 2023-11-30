@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 19 [northernforce #35](https://northernforce.connpass.com/event/303115/)
-- Dec 16 [.NETラボ 勉強会 2023年12月](https://dotnetlab.connpass.com/event/303142/)
-- Dec 15 [UE5 Deep Dive 2023](https://egj-official-study.connpass.com/event/303756/)
-- Dec 14 [KOBE ChatGPT Night Vol.2](https://azure-tech-love.connpass.com/event/302235/)
-- Dec 14 [EOS Deep Dive 2023](https://egj-official-study.connpass.com/event/303791/)
+- Feb 2 [JADOG14.0 - 2月2日(金)15:00-17:30](https://jadog.connpass.com/event/303614/)
+- Jan 16 [Japan VMUG New Year Meeting in Fukuoka](https://vmug-jp.connpass.com/event/303524/)
+- Dec 21 [WebHack#61 Obsidian Notes Plugin Development](https://webhack.connpass.com/event/303659/)
+- Dec 17 [渋谷・道玄坂 もくもく会](https://kanda-mokumoku.connpass.com/event/303981/)
+- Dec 14 [ユーザービリティテストの組織導入](https://uxdt.connpass.com/event/302075/)
 <!-- profile updater end: connpass -->
 
 <!---
