@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 2 [JADOG14.0 - 2月2日(金)15:00-17:30](https://jadog.connpass.com/event/303614/)
-- Jan 16 [Japan VMUG New Year Meeting in Fukuoka](https://vmug-jp.connpass.com/event/303524/)
-- Dec 21 [WebHack#61 Obsidian Notes Plugin Development](https://webhack.connpass.com/event/303659/)
-- Dec 17 [渋谷・道玄坂 もくもく会](https://kanda-mokumoku.connpass.com/event/303981/)
-- Dec 14 [ユーザービリティテストの組織導入](https://uxdt.connpass.com/event/302075/)
+- Dec 26 [Ruby 3.3 リリースパーティー presented by STORES / アンドパッド](https://andpad.connpass.com/event/302363/)
+- Dec 21 [【NIKKEI Tech Talk #15】AWS re:Invent 2023 参加レポート共有会](https://nikkei.connpass.com/event/304026/)
+- Dec 16 [101回　本町デジもく会](https://dezimoku.connpass.com/event/304079/)
+- Dec 15 [【オンライン】はんなりプログラミング: １年の締めくくり！2023年にチャレンジしたことのLT祭](https://hannari-python.connpass.com/event/302188/)
+- Dec 9 [釧路もくもく会 vol.8](https://mokumoku-hok.connpass.com/event/303398/)
 <!-- profile updater end: connpass -->
 
 <!---
