@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 26 [Ruby 3.3 リリースパーティー presented by STORES / アンドパッド](https://andpad.connpass.com/event/302363/)
-- Dec 21 [【NIKKEI Tech Talk #15】AWS re:Invent 2023 参加レポート共有会](https://nikkei.connpass.com/event/304026/)
-- Dec 16 [101回　本町デジもく会](https://dezimoku.connpass.com/event/304079/)
-- Dec 15 [【オンライン】はんなりプログラミング: １年の締めくくり！2023年にチャレンジしたことのLT祭](https://hannari-python.connpass.com/event/302188/)
-- Dec 9 [釧路もくもく会 vol.8](https://mokumoku-hok.connpass.com/event/303398/)
+- Jan 28 [kintone Café HYOGO vol.2](https://cafehyogo.connpass.com/event/293029/)
+- Dec 21 [Accessiブランチ #22](https://accessiblunch.connpass.com/event/304175/)
+- Dec 17 [第41回 CoderDojo厚木](https://coderdojo-atsugi.connpass.com/event/303974/)
+- Dec 14 [数理最適化？勉強会 - 001](https://opt-hoge.connpass.com/event/304152/)
+- Dec 9 [IT系&誰でも参加OK！もくもく会_朝活_12/9(土)](https://morimori.connpass.com/event/304178/)
 <!-- profile updater end: connpass -->
 
 <!---
