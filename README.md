@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 28 [kintone Café HYOGO vol.2](https://cafehyogo.connpass.com/event/293029/)
-- Dec 21 [Accessiブランチ #22](https://accessiblunch.connpass.com/event/304175/)
-- Dec 17 [第41回 CoderDojo厚木](https://coderdojo-atsugi.connpass.com/event/303974/)
-- Dec 14 [数理最適化？勉強会 - 001](https://opt-hoge.connpass.com/event/304152/)
-- Dec 9 [IT系&誰でも参加OK！もくもく会_朝活_12/9(土)](https://morimori.connpass.com/event/304178/)
+- Jan 7 [CoderDojo横浜師岡（第16回）](https://coderdojo-morooka.connpass.com/event/304237/)
+- Dec 19 [【オンライン】受注率を高める魅力的な提案書の作り方について考える勉強会](https://connpass.com/event/304234/)
+- Dec 16 [.NETラボ 勉強会 2023年12月](https://dotnetlab.connpass.com/event/303142/)
+- Dec 10 [圏論（けんろん）演習：賢くなりたいですか？](https://setk.connpass.com/event/303615/)
+- Dec 10 [piyopiyo.ex #22：もくもく作業タイム](https://piyopiyoex.connpass.com/event/304188/)
 <!-- profile updater end: connpass -->
 
 <!---
