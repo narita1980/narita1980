@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 7 [CoderDojo横浜師岡（第16回）](https://coderdojo-morooka.connpass.com/event/304237/)
-- Dec 19 [【オンライン】受注率を高める魅力的な提案書の作り方について考える勉強会](https://connpass.com/event/304234/)
+- Dec 21 [トレノケ雲の会 mod.12 AWS re:Invent 2023 re:Cap LT大会](https://kumonokai.connpass.com/event/300570/)
+- Dec 18 [JAWS-UG東京 ランチタイムLT会 #6](https://jawsug.connpass.com/event/302412/)
+- Dec 17 [yStandard オンライン 勉強会 2023/12 ~もくもく会・質問会~](https://wp-ystandard.connpass.com/event/304307/)
+- Dec 16 [DevFest: Kobe Developer Day](https://gdgkobe.connpass.com/event/302088/)
 - Dec 16 [.NETラボ 勉強会 2023年12月](https://dotnetlab.connpass.com/event/303142/)
-- Dec 10 [圏論（けんろん）演習：賢くなりたいですか？](https://setk.connpass.com/event/303615/)
-- Dec 10 [piyopiyo.ex #22：もくもく作業タイム](https://piyopiyoex.connpass.com/event/304188/)
 <!-- profile updater end: connpass -->
 
 <!---
