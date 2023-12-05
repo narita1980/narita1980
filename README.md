@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 21 [トレノケ雲の会 mod.12 AWS re:Invent 2023 re:Cap LT大会](https://kumonokai.connpass.com/event/300570/)
-- Dec 18 [JAWS-UG東京 ランチタイムLT会 #6](https://jawsug.connpass.com/event/302412/)
-- Dec 17 [yStandard オンライン 勉強会 2023/12 ~もくもく会・質問会~](https://wp-ystandard.connpass.com/event/304307/)
-- Dec 16 [DevFest: Kobe Developer Day](https://gdgkobe.connpass.com/event/302088/)
-- Dec 16 [.NETラボ 勉強会 2023年12月](https://dotnetlab.connpass.com/event/303142/)
+- Jan 20 [Python駿河 勉強会 #40](https://pycon-shizu.connpass.com/event/304289/)
+- Dec 21 [【学生・参加経験のある社会人のみ】クリスマスLTパーティー OthloEvent # 65](https://othlotech.connpass.com/event/302122/)
+- Dec 18 [[オンライン] AWS re:Invent 2023参加フィードバック会](https://ncdc-dev.connpass.com/event/303983/)
+- Dec 16 [【大規模】生成AI×クリエイター大忘年会 12/16(土)@新橋](https://creator-square.connpass.com/event/302928/)
+- Dec 13 [INTER-Mediator勉強会2023-12](https://inter-mediator.connpass.com/event/304420/)
 <!-- profile updater end: connpass -->
 
 <!---
