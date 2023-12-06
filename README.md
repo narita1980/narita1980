@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 20 [Python駿河 勉強会 #40](https://pycon-shizu.connpass.com/event/304289/)
-- Dec 21 [【学生・参加経験のある社会人のみ】クリスマスLTパーティー OthloEvent # 65](https://othlotech.connpass.com/event/302122/)
-- Dec 18 [[オンライン] AWS re:Invent 2023参加フィードバック会](https://ncdc-dev.connpass.com/event/303983/)
-- Dec 16 [【大規模】生成AI×クリエイター大忘年会 12/16(土)@新橋](https://creator-square.connpass.com/event/302928/)
-- Dec 13 [INTER-Mediator勉強会2023-12](https://inter-mediator.connpass.com/event/304420/)
+- Jan 15 [第52回Software Design (2024年1月号) 輪読&座談会](https://softwaredesign.connpass.com/event/304394/)
+- Dec 19 [northernforce #35](https://northernforce.connpass.com/event/303115/)
+- Dec 18 [平日夜開催！自由参加　もくもく会](https://morning-activity.connpass.com/event/304515/)
+- Dec 18 [英語でデータ可視化を学ぼう：第9回](https://gaisaba.connpass.com/event/304392/)
+- Dec 16 [DevFest: Kobe Developer Day](https://gdgkobe.connpass.com/event/302088/)
 <!-- profile updater end: connpass -->
 
 <!---
