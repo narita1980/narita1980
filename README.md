@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 15 [第52回Software Design (2024年1月号) 輪読&座談会](https://softwaredesign.connpass.com/event/304394/)
-- Dec 19 [northernforce #35](https://northernforce.connpass.com/event/303115/)
-- Dec 18 [平日夜開催！自由参加　もくもく会](https://morning-activity.connpass.com/event/304515/)
-- Dec 18 [英語でデータ可視化を学ぼう：第9回](https://gaisaba.connpass.com/event/304392/)
-- Dec 16 [DevFest: Kobe Developer Day](https://gdgkobe.connpass.com/event/302088/)
+- Dec 29 [大和セキュリティ年末勉強会！](https://yamatosecurity.connpass.com/event/304004/)
+- Dec 23 [第13回IT人材交流会](https://connpass.com/event/304611/)
+- Dec 16 [【奈良開催】：子どもと大人のプログラミングクラブ（No.77）](https://coderdojo-nara-ikoma.connpass.com/event/304609/)
+- Dec 15 [Markin' Quality 第14回：QA5人の品質ゲンバ物語・2](https://markin-quality.connpass.com/event/304562/)
+- Dec 13 [[オンライン] 第42回ゼロから始めるCTF入門勉強会 (初心者歓迎！)](https://zeroctf.connpass.com/event/304414/)
 <!-- profile updater end: connpass -->
 
 <!---
