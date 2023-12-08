@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 29 [大和セキュリティ年末勉強会！](https://yamatosecurity.connpass.com/event/304004/)
-- Dec 23 [第13回IT人材交流会](https://connpass.com/event/304611/)
-- Dec 16 [【奈良開催】：子どもと大人のプログラミングクラブ（No.77）](https://coderdojo-nara-ikoma.connpass.com/event/304609/)
-- Dec 15 [Markin' Quality 第14回：QA5人の品質ゲンバ物語・2](https://markin-quality.connpass.com/event/304562/)
-- Dec 13 [[オンライン] 第42回ゼロから始めるCTF入門勉強会 (初心者歓迎！)](https://zeroctf.connpass.com/event/304414/)
+- Dec 30 [浪速セキュリティ勉強会#08：ペンテストCTFで学ぶサイバーセキュリティ（12月30日）大阪](https://naniwasecurity.connpass.com/event/304303/)
+- Dec 28 [高専カンファレンス150in大阪　高専学　ー集え、未来の技術者ー](https://kosenconf150osaka-152takao.connpass.com/event/294037/)
+- Dec 26 [第44回 PostgreSQLアンカンファレンス@オンライン](https://pgunconf.connpass.com/event/304692/)
+- Dec 26 [明石ITの集い](https://connpass.com/event/304409/)
+- Dec 26 [年忘れ！？これからのデザイナーの成長＆スキルアップぶっちゃけ座談会 出会えるプロデザ！vol.3](https://recruit-event.connpass.com/event/300653/)
 <!-- profile updater end: connpass -->
 
 <!---
