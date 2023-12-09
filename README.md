@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 30 [浪速セキュリティ勉強会#08：ペンテストCTFで学ぶサイバーセキュリティ（12月30日）大阪](https://naniwasecurity.connpass.com/event/304303/)
-- Dec 28 [高専カンファレンス150in大阪　高専学　ー集え、未来の技術者ー](https://kosenconf150osaka-152takao.connpass.com/event/294037/)
-- Dec 26 [第44回 PostgreSQLアンカンファレンス@オンライン](https://pgunconf.connpass.com/event/304692/)
-- Dec 26 [明石ITの集い](https://connpass.com/event/304409/)
-- Dec 26 [年忘れ！？これからのデザイナーの成長＆スキルアップぶっちゃけ座談会 出会えるプロデザ！vol.3](https://recruit-event.connpass.com/event/300653/)
+- Dec 19 [ずっとあなたの事を覚えてる、ChatGPT LINE Botをノーコードで！～プロトアウト体験会](https://protoout.connpass.com/event/304769/)
+- Dec 16 [習志野台テック #33](https://funapro.connpass.com/event/304773/)
+- Dec 13 [世界のMaker Faire報告会2023](https://shigelabo.connpass.com/event/304491/)
+- Dec 10 [12/10 Open Source Conference 2023 Yamaguchi](https://ospn.connpass.com/event/300548/)
+- Dec 9 [Connpass自動化ツールモブプログラミング会第44回](https://cs-reading.connpass.com/event/304772/)
 <!-- profile updater end: connpass -->
 
 <!---
