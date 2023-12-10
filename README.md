@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Dec 19 [ずっとあなたの事を覚えてる、ChatGPT LINE Botをノーコードで！～プロトアウト体験会](https://protoout.connpass.com/event/304769/)
-- Dec 16 [習志野台テック #33](https://funapro.connpass.com/event/304773/)
-- Dec 13 [世界のMaker Faire報告会2023](https://shigelabo.connpass.com/event/304491/)
-- Dec 10 [12/10 Open Source Conference 2023 Yamaguchi](https://ospn.connpass.com/event/300548/)
-- Dec 9 [Connpass自動化ツールモブプログラミング会第44回](https://cs-reading.connpass.com/event/304772/)
+- Jan 13 [オンライン[Math & Coding] 群論 #54](https://math-coding.connpass.com/event/304859/)
+- Jan 13 [Understanding Deep Learning Models  #5](https://math-coding.connpass.com/event/304860/)
+- Dec 21 [義務化直前！明後日から始める「電子帳簿保存法」対応](https://mitsuke-dx.connpass.com/event/302881/)
+- Dec 20 [Japan VMUG vExpert が語る #32](https://vmug-jp.connpass.com/event/304378/)
+- Dec 18 [めぐろLT #10 -LT忘年会2023-](https://meguro-lt.connpass.com/event/299990/)
 <!-- profile updater end: connpass -->
 
 <!---
