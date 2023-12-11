@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 13 [オンライン[Math & Coding] 群論 #54](https://math-coding.connpass.com/event/304859/)
-- Jan 13 [Understanding Deep Learning Models  #5](https://math-coding.connpass.com/event/304860/)
-- Dec 21 [義務化直前！明後日から始める「電子帳簿保存法」対応](https://mitsuke-dx.connpass.com/event/302881/)
-- Dec 20 [Japan VMUG vExpert が語る #32](https://vmug-jp.connpass.com/event/304378/)
-- Dec 18 [めぐろLT #10 -LT忘年会2023-](https://meguro-lt.connpass.com/event/299990/)
+- Jan 20 [WEB TOUCH MEETING SPIN OFF「WEB CREATORS NIGHT #008](https://wtm.connpass.com/event/304940/)
+- Dec 26 [【大阪開催】技術広報の集い #2](https://techpr.connpass.com/event/294951/)
+- Dec 18 [IT系&誰でも参加OK！もくもく会_朝活_12/18(月)](https://morimori.connpass.com/event/304941/)
+- Dec 14 [フォージビジョンがお届けする AWS re:Invent 2023 参加報告イベント！](https://forgevision.connpass.com/event/303333/)
+- Dec 14 [[AI, Blockchain] 京大ミートアップ supported by GMO](https://connpass.com/event/302482/)
 <!-- profile updater end: connpass -->
 
 <!---
