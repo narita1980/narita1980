@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 20 [WEB TOUCH MEETING SPIN OFF「WEB CREATORS NIGHT #008](https://wtm.connpass.com/event/304940/)
-- Dec 26 [【大阪開催】技術広報の集い #2](https://techpr.connpass.com/event/294951/)
-- Dec 18 [IT系&誰でも参加OK！もくもく会_朝活_12/18(月)](https://morimori.connpass.com/event/304941/)
-- Dec 14 [フォージビジョンがお届けする AWS re:Invent 2023 参加報告イベント！](https://forgevision.connpass.com/event/303333/)
-- Dec 14 [[AI, Blockchain] 京大ミートアップ supported by GMO](https://connpass.com/event/302482/)
+- Feb 11 [第1回：RWPLゆるLT大会](https://rwpl.connpass.com/event/304415/)
+- Jan 27 [Japan Dreamin' 2024](https://japandreamin.connpass.com/event/303022/)
+- Jan 15 [英語で技術書を読もう：Fundamentals of Data Engineering 第25回](https://gaisaba.connpass.com/event/305037/)
+- Jan 12 [Matsuriba vol.3](https://matsuriba-tech.connpass.com/event/304997/)
+- Dec 19 [IT系&誰でも参加OK！もくもく会_朝活_12/19(火)](https://morimori.connpass.com/event/305036/)
 <!-- profile updater end: connpass -->
 
 <!---
