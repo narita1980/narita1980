@@ -13,21 +13,21 @@
 # Qiita Articles
 
 <!-- profile updater begin: qiita -->
+- Dec 12 [connpass APIアクセス時の403 Forbidden対処法：ユーザーエージェントの活用](https://qiita.com/narita1980/items/8e76a50a234850455077)
 - Feb 28 [初めてのReact「入門編」導入から基本まで〜TODOアプリを作ってみよう〜](https://qiita.com/narita1980/items/49df43425ba2400bd0c2)
 - May 3, **2 LGTM** [15分ルールで学習効果を高める（日本語訳）](https://qiita.com/narita1980/items/d0ad5246344fc6e4380f)
 - Mar 4, **3 LGTM** [GitHubのプルリクエストでファイルツリーが表示されるようになりました（ベータ版機能）](https://qiita.com/narita1980/items/bee2c5232342a51e0415)
 - Feb 27 [Instagram（インスタ）で1万人を超えたアカウントのフォロアー数、フォロー数を知るためには"?__a=1"を付与する](https://qiita.com/narita1980/items/630b7014fa893461b991)
-- Feb 22 [Simple.cssチートシート](https://qiita.com/narita1980/items/fd2ccf0e91944aab9fd5)
 <!-- profile updater end: qiita -->
 
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 11 [第1回：RWPLゆるLT大会](https://rwpl.connpass.com/event/304415/)
-- Jan 27 [Japan Dreamin' 2024](https://japandreamin.connpass.com/event/303022/)
-- Jan 15 [英語で技術書を読もう：Fundamentals of Data Engineering 第25回](https://gaisaba.connpass.com/event/305037/)
-- Jan 12 [Matsuriba vol.3](https://matsuriba-tech.connpass.com/event/304997/)
-- Dec 19 [IT系&誰でも参加OK！もくもく会_朝活_12/19(火)](https://morimori.connpass.com/event/305036/)
+- Jan 21 [【IT交流会】Tech Connect#1](https://connpass.com/event/305124/)
+- Dec 26 [マネージャーによって組織状態が違う！マネジメントの属人化を防ぐには？](https://levii.connpass.com/event/305075/)
+- Dec 20 [IT系&誰でも参加OK！もくもく会_朝活_12/20(水)](https://morimori.connpass.com/event/305129/)
+- Dec 19 [認証基盤 開発者が知っておくべき構築のおきて](https://findy.connpass.com/event/303608/)
+- Dec 18 [めぐろLT #10 -LT忘年会2023-](https://meguro-lt.connpass.com/event/299990/)
 <!-- profile updater end: connpass -->
 
 <!---
