@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 21 [【IT交流会】Tech Connect#1](https://connpass.com/event/305124/)
-- Dec 26 [マネージャーによって組織状態が違う！マネジメントの属人化を防ぐには？](https://levii.connpass.com/event/305075/)
-- Dec 20 [IT系&誰でも参加OK！もくもく会_朝活_12/20(水)](https://morimori.connpass.com/event/305129/)
-- Dec 19 [認証基盤 開発者が知っておくべき構築のおきて](https://findy.connpass.com/event/303608/)
-- Dec 18 [めぐろLT #10 -LT忘年会2023-](https://meguro-lt.connpass.com/event/299990/)
+- Feb 11 [第1回：RWPLゆるLT大会](https://rwpl.connpass.com/event/304415/)
+- Jan 25 [kintone × 20~23新卒 交流会](https://connpass.com/event/305233/)
+- Jan 5 [Node-REDのノードをつくるハンズオン](https://node-red.connpass.com/event/305047/)
+- Dec 28 [【超初心者向け】猫でもわかるLLDB](https://cyber-security-study-space.connpass.com/event/298327/)
+- Dec 21 [Kubernetes Novice Tokyo #29](https://k8s-novice-jp.connpass.com/event/300438/)
 <!-- profile updater end: connpass -->
 
 <!---
