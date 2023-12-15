@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 11 [第1回：RWPLゆるLT大会](https://rwpl.connpass.com/event/304415/)
-- Jan 25 [kintone × 20~23新卒 交流会](https://connpass.com/event/305233/)
-- Jan 5 [Node-REDのノードをつくるハンズオン](https://node-red.connpass.com/event/305047/)
-- Dec 28 [【超初心者向け】猫でもわかるLLDB](https://cyber-security-study-space.connpass.com/event/298327/)
-- Dec 21 [Kubernetes Novice Tokyo #29](https://k8s-novice-jp.connpass.com/event/300438/)
+- Jan 20 [Hardware Maker Meetup Sapporo #12](https://hmmspr.connpass.com/event/304641/)
+- Dec 22 [IT系&誰でも参加OK！もくもく会_朝活_12/22(金)](https://morimori.connpass.com/event/305324/)
+- Dec 21 [JAWS-UG 新潟 プチキャッチアップ 2023 #51](https://jawsug-niigata.connpass.com/event/305319/)
+- Dec 21 [第42回初心者向け JavaScriptもくもく会](https://javascript-starters.connpass.com/event/305316/)
+- Dec 21 [AWS re:Invent 報告会 re:Port 2023 by SKYARCH](https://skyarchnetworks.connpass.com/event/300578/)
 <!-- profile updater end: connpass -->
 
 <!---
