@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 20 [Hardware Maker Meetup Sapporo #12](https://hmmspr.connpass.com/event/304641/)
-- Dec 22 [IT系&誰でも参加OK！もくもく会_朝活_12/22(金)](https://morimori.connpass.com/event/305324/)
-- Dec 21 [JAWS-UG 新潟 プチキャッチアップ 2023 #51](https://jawsug-niigata.connpass.com/event/305319/)
-- Dec 21 [第42回初心者向け JavaScriptもくもく会](https://javascript-starters.connpass.com/event/305316/)
-- Dec 21 [AWS re:Invent 報告会 re:Port 2023 by SKYARCH](https://skyarchnetworks.connpass.com/event/300578/)
+- Jan 22 [【オンライン】1/22(月)5時〜7時：Flutter好きが集まる朝もく会（第379回）](https://flutter-asamoku.connpass.com/event/304963/)
+- Jan 18 [第3木曜LT会 #1](https://metaps.connpass.com/event/302330/)
+- Dec 23 [IT系&誰でも参加OK！もくもく会_朝活_12/23(土)](https://morimori.connpass.com/event/305420/)
+- Dec 22 [《中級》さらなる実力を身につけて実務に活かしたい"攻めの"中級者向け【W3-705】](https://bugbounty.connpass.com/event/305418/)
+- Dec 21 [【著者：佐藤さん参加の質問会】EM Meetup読書会「エンジニアのためのマネジメント入門」 特別編](https://engineering-manager-meetup.connpass.com/event/304954/)
 <!-- profile updater end: connpass -->
 
 <!---
