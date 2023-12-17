@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 22 [【オンライン】1/22(月)5時〜7時：Flutter好きが集まる朝もく会（第379回）](https://flutter-asamoku.connpass.com/event/304963/)
-- Jan 18 [第3木曜LT会 #1](https://metaps.connpass.com/event/302330/)
-- Dec 23 [IT系&誰でも参加OK！もくもく会_朝活_12/23(土)](https://morimori.connpass.com/event/305420/)
-- Dec 22 [《中級》さらなる実力を身につけて実務に活かしたい"攻めの"中級者向け【W3-705】](https://bugbounty.connpass.com/event/305418/)
-- Dec 21 [【著者：佐藤さん参加の質問会】EM Meetup読書会「エンジニアのためのマネジメント入門」 特別編](https://engineering-manager-meetup.connpass.com/event/304954/)
+- Jan 20 [第55回横浜Go読書会（オンライン）](https://yokohama-go-reading.connpass.com/event/305494/)
+- Dec 26 [「またお願いしたい！」と言われるデザイナーであり続けるために。](https://techachievers.connpass.com/event/303044/)
+- Dec 24 [鳥取開催！2023年度 Web×IoT メイカーズチャレンジ PLUS【講習会 & ハッカソン】](https://webiotmakers.connpass.com/event/301941/)
+- Dec 24 [特別回 マインクラフトでマルチプレイ建築会](https://coderdojo-tachikawa.connpass.com/event/287709/)
+- Dec 22 [第87回 脆弱性診断ええんやで(^^)](https://security-testing.connpass.com/event/305104/)
 <!-- profile updater end: connpass -->
 
 <!---
