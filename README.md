@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 20 [第55回横浜Go読書会（オンライン）](https://yokohama-go-reading.connpass.com/event/305494/)
-- Dec 26 [「またお願いしたい！」と言われるデザイナーであり続けるために。](https://techachievers.connpass.com/event/303044/)
-- Dec 24 [鳥取開催！2023年度 Web×IoT メイカーズチャレンジ PLUS【講習会 & ハッカソン】](https://webiotmakers.connpass.com/event/301941/)
-- Dec 24 [特別回 マインクラフトでマルチプレイ建築会](https://coderdojo-tachikawa.connpass.com/event/287709/)
-- Dec 22 [第87回 脆弱性診断ええんやで(^^)](https://security-testing.connpass.com/event/305104/)
+- Jan 20 [BuriKaigi2024](https://toyama-eng.connpass.com/event/303732/)
+- Jan 12 [Matsuriba vol.3](https://matsuriba-tech.connpass.com/event/304997/)
+- Dec 28 [みんなで Swift 復習会 50th @ HarborS 表参道](https://cswift.connpass.com/event/305539/)
+- Dec 25 [IT系&誰でも参加OK！もくもく会_朝活_12/25(月)](https://morimori.connpass.com/event/305546/)
+- Dec 25 [早朝オンライン[Math & Coding] 多様体の基礎 #24](https://math-coding.connpass.com/event/305548/)
 <!-- profile updater end: connpass -->
 
 <!---
