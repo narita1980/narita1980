@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 20 [BuriKaigi2024](https://toyama-eng.connpass.com/event/303732/)
-- Jan 12 [Matsuriba vol.3](https://matsuriba-tech.connpass.com/event/304997/)
-- Dec 28 [みんなで Swift 復習会 50th @ HarborS 表参道](https://cswift.connpass.com/event/305539/)
-- Dec 25 [IT系&誰でも参加OK！もくもく会_朝活_12/25(月)](https://morimori.connpass.com/event/305546/)
-- Dec 25 [早朝オンライン[Math & Coding] 多様体の基礎 #24](https://math-coding.connpass.com/event/305548/)
+- Jan 22 [JAWS-UG東京 ランチタイムLT会 #7](https://jawsug.connpass.com/event/305567/)
+- Jan 20 [DTPerのスクリプトもくもく会 #38 - オンライン](https://dtpmkmk.connpass.com/event/305640/)
+- Jan 14 [もくもく会（プログラミング初学者）#19](https://pg-beginner-mtg.connpass.com/event/305635/)
+- Dec 23 [週刊サイバーセキュリティ／脱『よわよわエンジニア』【BB-032】](https://bugbounty.connpass.com/event/305633/)
+- Dec 22 [MOKU-MOKU WORKSHOP #5](https://diamond-f.connpass.com/event/305641/)
 <!-- profile updater end: connpass -->
 
 <!---
