@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 22 [JAWS-UG東京 ランチタイムLT会 #7](https://jawsug.connpass.com/event/305567/)
-- Jan 20 [DTPerのスクリプトもくもく会 #38 - オンライン](https://dtpmkmk.connpass.com/event/305640/)
-- Jan 14 [もくもく会（プログラミング初学者）#19](https://pg-beginner-mtg.connpass.com/event/305635/)
-- Dec 23 [週刊サイバーセキュリティ／脱『よわよわエンジニア』【BB-032】](https://bugbounty.connpass.com/event/305633/)
-- Dec 22 [MOKU-MOKU WORKSHOP #5](https://diamond-f.connpass.com/event/305641/)
+- Jan 27 [ゆるい勉強会＠あけまして勉強会2024[1/27(土)]](https://asahikawa.connpass.com/event/305524/)
+- Jan 25 [ビジュアルプログラミングIoTLT vol.16](https://iotlt.connpass.com/event/305419/)
+- Jan 16 [顧客課題の解像度を高める  ユーザーインタビューの方法とは](https://unii-research.connpass.com/event/304665/)
+- Jan 15 [t-wadaさんが後世に残したい、実録レガシーコード改善](https://findy.connpass.com/event/304101/)
+- Dec 25 [《初級》BadStoreで実践的な脆弱性診断を学ぶ"未来の"初級者向け【W2-804】](https://bugbounty.connpass.com/event/305765/)
 <!-- profile updater end: connpass -->
 
 <!---
