@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 27 [ゆるい勉強会＠あけまして勉強会2024[1/27(土)]](https://asahikawa.connpass.com/event/305524/)
-- Jan 25 [ビジュアルプログラミングIoTLT vol.16](https://iotlt.connpass.com/event/305419/)
-- Jan 16 [顧客課題の解像度を高める  ユーザーインタビューの方法とは](https://unii-research.connpass.com/event/304665/)
-- Jan 15 [t-wadaさんが後世に残したい、実録レガシーコード改善](https://findy.connpass.com/event/304101/)
-- Dec 25 [《初級》BadStoreで実践的な脆弱性診断を学ぶ"未来の"初級者向け【W2-804】](https://bugbounty.connpass.com/event/305765/)
+- Jan 17 [【ユニーリサーチ】オフライン調査機能　サービス説明会](https://unii-research.connpass.com/event/305436/)
+- Jan 10 [NICT北陸連携サロン　1/10(水)](https://nict-hokuriku-renkei-salon.connpass.com/event/301866/)
+- Dec 28 [高専カンファレンス150in大阪　高専学　ー集え、未来の技術者ー](https://kosenconf150osaka-152takao.connpass.com/event/294037/)
+- Dec 28 [IT系&誰でも参加OK！もくもく会_朝活_12/28(木)](https://morimori.connpass.com/event/305923/)
+- Dec 24 [統計検定準一級勉強会：日曜版](https://study-data-analysis.connpass.com/event/304872/)
 <!-- profile updater end: connpass -->
 
 <!---
