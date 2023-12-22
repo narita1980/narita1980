@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 17 [【ユニーリサーチ】オフライン調査機能　サービス説明会](https://unii-research.connpass.com/event/305436/)
-- Jan 10 [NICT北陸連携サロン　1/10(水)](https://nict-hokuriku-renkei-salon.connpass.com/event/301866/)
-- Dec 28 [高専カンファレンス150in大阪　高専学　ー集え、未来の技術者ー](https://kosenconf150osaka-152takao.connpass.com/event/294037/)
-- Dec 28 [IT系&誰でも参加OK！もくもく会_朝活_12/28(木)](https://morimori.connpass.com/event/305923/)
-- Dec 24 [統計検定準一級勉強会：日曜版](https://study-data-analysis.connpass.com/event/304872/)
+- Jan 27 [AIとIoT、生活を楽しくする技術の共有会](https://ai-math.connpass.com/event/305965/)
+- Jan 24 [Open Liberty＋Reactで学ぶWEBアプリ](https://ibm-developer.connpass.com/event/305953/)
+- Jan 21 [FileMakerもくもく会#97](https://fm-mkmk.connpass.com/event/306004/)
+- Jan 19 [新春UI書き初め会 by B/43](https://smartbank.connpass.com/event/305931/)
+- Jan 17 [Open QA4AI Conference 2023](https://qa4ai.connpass.com/event/303295/)
 <!-- profile updater end: connpass -->
 
 <!---
