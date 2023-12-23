@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 27 [AIとIoT、生活を楽しくする技術の共有会](https://ai-math.connpass.com/event/305965/)
-- Jan 24 [Open Liberty＋Reactで学ぶWEBアプリ](https://ibm-developer.connpass.com/event/305953/)
-- Jan 21 [FileMakerもくもく会#97](https://fm-mkmk.connpass.com/event/306004/)
-- Jan 19 [新春UI書き初め会 by B/43](https://smartbank.connpass.com/event/305931/)
-- Jan 17 [Open QA4AI Conference 2023](https://qa4ai.connpass.com/event/303295/)
+- Apr 13 [PHPカンファレンス小田原2024](https://phpcon-odawara.connpass.com/event/296492/)
+- Feb 11 [No.120 CoderDojo瑞穂 / Mizuho オンライン](https://coderdojo-mizuho.connpass.com/event/306113/)
+- Jan 20 [No.119 CoderDojo瑞穂 / コメダ珈琲本店](https://coderdojo-mizuho.connpass.com/event/302824/)
+- Jan 6 [No.118 CoderDojo瑞穂 / Mizuho 現地](https://coderdojo-mizuho.connpass.com/event/306112/)
+- Dec 30 [IT系&誰でも参加OK！もくもく会_朝活_12/30(土)](https://morimori.connpass.com/event/306117/)
 <!-- profile updater end: connpass -->
 
 <!---
