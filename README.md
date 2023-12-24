@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [PHPカンファレンス小田原2024](https://phpcon-odawara.connpass.com/event/296492/)
-- Feb 11 [No.120 CoderDojo瑞穂 / Mizuho オンライン](https://coderdojo-mizuho.connpass.com/event/306113/)
-- Jan 20 [No.119 CoderDojo瑞穂 / コメダ珈琲本店](https://coderdojo-mizuho.connpass.com/event/302824/)
-- Jan 6 [No.118 CoderDojo瑞穂 / Mizuho 現地](https://coderdojo-mizuho.connpass.com/event/306112/)
-- Dec 30 [IT系&誰でも参加OK！もくもく会_朝活_12/30(土)](https://morimori.connpass.com/event/306117/)
+- Jan 27 [ゆるい勉強会＠あけまして勉強会2024[1/27(土)]](https://asahikawa.connpass.com/event/305524/)
+- Jan 27 [(2024年1月27日 13:00~ハイブリッド開催)第98回オープンCAE勉強会@関西 in 北陸](https://ocbkansai.connpass.com/event/306161/)
+- Jan 20 [Hardware Maker Meetup Sapporo #12](https://hmmspr.connpass.com/event/304641/)
+- Jan 20 [BuriKaigi2024](https://toyama-eng.connpass.com/event/303732/)
+- Jan 20 [【オンラインMeetup】Unreal Engine もくもく会 in 富山 (UEMT)#23](https://ue-toyama.connpass.com/event/306164/)
 <!-- profile updater end: connpass -->
 
 <!---
