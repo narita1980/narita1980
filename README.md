@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 27 [ゆるい勉強会＠あけまして勉強会2024[1/27(土)]](https://asahikawa.connpass.com/event/305524/)
-- Jan 27 [(2024年1月27日 13:00~ハイブリッド開催)第98回オープンCAE勉強会@関西 in 北陸](https://ocbkansai.connpass.com/event/306161/)
-- Jan 20 [Hardware Maker Meetup Sapporo #12](https://hmmspr.connpass.com/event/304641/)
-- Jan 20 [BuriKaigi2024](https://toyama-eng.connpass.com/event/303732/)
-- Jan 20 [【オンラインMeetup】Unreal Engine もくもく会 in 富山 (UEMT)#23](https://ue-toyama.connpass.com/event/306164/)
+- Dec 31 [ダミー勉強会](https://connpass.com/event/306181/)
+- Feb 7 [【HiBiS】最新Techセミナー「Web3が与える社会的インパクト」](https://hibis.connpass.com/event/305467/)
+- Jan 31 [【HiBiS】最新Techセミナー「生成AIによるビジネスの未来予測」](https://hibis.connpass.com/event/305161/)
+- Jan 28 [とちぎラズパイ同好会 109回目](https://torpc.connpass.com/event/306208/)
+- Jan 25 [第十七回材料シミュレーションもくもく会（オンライン）](https://m3aterial.connpass.com/event/305458/)
 <!-- profile updater end: connpass -->
 
 <!---
