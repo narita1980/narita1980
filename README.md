@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [PHPカンファレンス小田原2024 懇親会](https://phpcon-odawara.connpass.com/event/306231/)
-- Jan 28 [459 Cybersecurity Meetup in KAGAWA](https://tokushima-cyber-security-meetup.connpass.com/event/303188/)
-- Jan 18 [【無料】現代の常識「機械学習」を90分で超簡潔に理解する！-機械学習超入門-](https://datascience-wakara.connpass.com/event/305541/)
-- Jan 17 [【無料】Pythonプログラミング体験セミナー：手を動かして学ぶプログラミングの第１歩](https://datascience-wakara.connpass.com/event/305540/)
-- Jan 9 [プロトアウト LT祭 Vol.03（PMV盛り上がろうの会）](https://protoout.connpass.com/event/304767/)
+- Jan 30 [生成AI時代の検索手法〜スターウォーズの登場人物で紐解くベクトル/セマンティック/ハイブリッド検索〜](https://tech-lab.connpass.com/event/306012/)
+- Jan 27 [Meguro.vim #21](https://megurovim.connpass.com/event/305015/)
+- Jan 13 [【新年スタート！】情報処理安全確保支援士勉強会in恵比寿](https://connpass.com/event/304709/)
+- Jan 10 [無償で導入可能な脆弱性スキャナ解説](https://boost.connpass.com/event/306255/)
+- Jan 5 [IT系&誰でも参加OK！もくもく会_朝活_1/5(金)](https://morimori.connpass.com/event/306405/)
 <!-- profile updater end: connpass -->
 
 <!---
