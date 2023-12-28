@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 30 [生成AI時代の検索手法〜スターウォーズの登場人物で紐解くベクトル/セマンティック/ハイブリッド検索〜](https://tech-lab.connpass.com/event/306012/)
-- Jan 27 [Meguro.vim #21](https://megurovim.connpass.com/event/305015/)
-- Jan 13 [【新年スタート！】情報処理安全確保支援士勉強会in恵比寿](https://connpass.com/event/304709/)
-- Jan 10 [無償で導入可能な脆弱性スキャナ解説](https://boost.connpass.com/event/306255/)
-- Jan 5 [IT系&誰でも参加OK！もくもく会_朝活_1/5(金)](https://morimori.connpass.com/event/306405/)
+- Feb 24 [U29 CREATOR MEETUP! CATCH UP!](https://atsumaru.connpass.com/event/306481/)
+- Jan 25 [OpenAI DevDayがLLMアプリ開発に与えた影響を振り返る＆2024年以降のトレンド予想](https://studyco.connpass.com/event/305949/)
+- Jan 25 [拡散モデル勉強会 #2](https://grass-roots-ml.connpass.com/event/306487/)
+- Jan 24 [LLMアプリケーションの実験管理・評価についての知見をまとめてみた](https://yojo.connpass.com/event/305679/)
+- Jan 19 [【オンライン開催】はんなりプログラミング サイゼリヤミートアップ #9](https://hannari-python.connpass.com/event/306489/)
 <!-- profile updater end: connpass -->
 
 <!---
