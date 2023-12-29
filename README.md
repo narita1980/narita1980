@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 24 [U29 CREATOR MEETUP! CATCH UP!](https://atsumaru.connpass.com/event/306481/)
-- Jan 25 [OpenAI DevDayがLLMアプリ開発に与えた影響を振り返る＆2024年以降のトレンド予想](https://studyco.connpass.com/event/305949/)
-- Jan 25 [拡散モデル勉強会 #2](https://grass-roots-ml.connpass.com/event/306487/)
-- Jan 24 [LLMアプリケーションの実験管理・評価についての知見をまとめてみた](https://yojo.connpass.com/event/305679/)
-- Jan 19 [【オンライン開催】はんなりプログラミング サイゼリヤミートアップ #9](https://hannari-python.connpass.com/event/306489/)
+- Mar 1 [関西Kaggler会 交流会 in Osaka 2024#1](https://kansaikaggler.connpass.com/event/303413/)
+- Feb 17 [イリイチ温泉](https://connpass.com/event/301926/)
+- Feb 10 [kintone Café 徳島 Vol.6](https://kintone-cafe-tokushima.connpass.com/event/300589/)
+- Jan 31 [自動運転AIチャレンジ2023SIM大会頑張ろう ~ もくもく会v6 〆切前最終回 ~](https://challenge-club.connpass.com/event/306527/)
+- Jan 24 [自動運転AIチャレンジ2023SIM大会頑張ろう ~ もくもく会v5 ~](https://challenge-club.connpass.com/event/306526/)
 <!-- profile updater end: connpass -->
 
 <!---
