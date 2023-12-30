@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 1 [関西Kaggler会 交流会 in Osaka 2024#1](https://kansaikaggler.connpass.com/event/303413/)
-- Feb 17 [イリイチ温泉](https://connpass.com/event/301926/)
-- Feb 10 [kintone Café 徳島 Vol.6](https://kintone-cafe-tokushima.connpass.com/event/300589/)
-- Jan 31 [自動運転AIチャレンジ2023SIM大会頑張ろう ~ もくもく会v6 〆切前最終回 ~](https://challenge-club.connpass.com/event/306527/)
-- Jan 24 [自動運転AIチャレンジ2023SIM大会頑張ろう ~ もくもく会v5 ~](https://challenge-club.connpass.com/event/306526/)
+- Jan 25 [Shibuya.lisp lispmeetup #113](https://lisp.connpass.com/event/306570/)
+- Jan 23 [初心者向けSwift勉強会#2](https://engineercafe.connpass.com/event/306090/)
+- Jan 12 [「実践Redis入門」読書会34](https://yuruora.connpass.com/event/306568/)
+- Jan 12 [KOBE.go #0 Kick Off!!](https://kobego.connpass.com/event/305895/)
+- Jan 12 [Matsuriba vol.3](https://matsuriba-tech.connpass.com/event/304997/)
 <!-- profile updater end: connpass -->
 
 <!---
