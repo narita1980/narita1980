@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 25 [Shibuya.lisp lispmeetup #113](https://lisp.connpass.com/event/306570/)
-- Jan 23 [初心者向けSwift勉強会#2](https://engineercafe.connpass.com/event/306090/)
-- Jan 12 [「実践Redis入門」読書会34](https://yuruora.connpass.com/event/306568/)
-- Jan 12 [KOBE.go #0 Kick Off!!](https://kobego.connpass.com/event/305895/)
-- Jan 12 [Matsuriba vol.3](https://matsuriba-tech.connpass.com/event/304997/)
+- Jan 28 [Machine Learning A Probabilistic Perspective輪読会#55](https://thinkerslab.connpass.com/event/306613/)
+- Jan 28 [ネットワーク分析 輪読会#1](https://thinkerslab.connpass.com/event/306612/)
+- Jan 27 [ゆるい勉強会＠あけまして勉強会2024[1/27(土)]](https://asahikawa.connpass.com/event/305524/)
+- Jan 20 [No.119 CoderDojo瑞穂 / コメダ珈琲本店](https://coderdojo-mizuho.connpass.com/event/302824/)
+- Jan 12 [まほろバ（まじめな、ほろ酔い、バー）#7　クリエイターMEET UP @福岡](https://mahoroba.connpass.com/event/302158/)
 <!-- profile updater end: connpass -->
 
 <!---
