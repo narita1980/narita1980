@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 28 [Machine Learning A Probabilistic Perspective輪読会#55](https://thinkerslab.connpass.com/event/306613/)
-- Jan 28 [ネットワーク分析 輪読会#1](https://thinkerslab.connpass.com/event/306612/)
-- Jan 27 [ゆるい勉強会＠あけまして勉強会2024[1/27(土)]](https://asahikawa.connpass.com/event/305524/)
-- Jan 20 [No.119 CoderDojo瑞穂 / コメダ珈琲本店](https://coderdojo-mizuho.connpass.com/event/302824/)
-- Jan 12 [まほろバ（まじめな、ほろ酔い、バー）#7　クリエイターMEET UP @福岡](https://mahoroba.connpass.com/event/302158/)
+- Mar 1 [関西Kaggler会 交流会 in Osaka 2024#1](https://kansaikaggler.connpass.com/event/303413/)
+- Jan 27 [第59回 CoderDojoとよなか（大阪）2024/01/27(土)](https://coderdojo-toyonaka.connpass.com/event/301192/)
+- Jan 13 [気ままに勉強会 #74](https://kimamani.connpass.com/event/306642/)
+- Jan 11 [【ペチオブ】新年書き初め LT 大会！！](https://phper-oop.connpass.com/event/305272/)
+- Jan 10 [AIミーティング 2024/01/10 #ChatGPT #Gemini](https://osaka-driven-dev.connpass.com/event/305269/)
 <!-- profile updater end: connpass -->
 
 <!---
