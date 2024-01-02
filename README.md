@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 1 [関西Kaggler会 交流会 in Osaka 2024#1](https://kansaikaggler.connpass.com/event/303413/)
-- Jan 27 [第59回 CoderDojoとよなか（大阪）2024/01/27(土)](https://coderdojo-toyonaka.connpass.com/event/301192/)
-- Jan 13 [気ままに勉強会 #74](https://kimamani.connpass.com/event/306642/)
-- Jan 11 [【ペチオブ】新年書き初め LT 大会！！](https://phper-oop.connpass.com/event/305272/)
-- Jan 10 [AIミーティング 2024/01/10 #ChatGPT #Gemini](https://osaka-driven-dev.connpass.com/event/305269/)
+- Jan 31 [すごい広島 IT初心者の会 [82]](https://pycon-hiroshima.connpass.com/event/306668/)
+- Jan 30 [エンジニア達の「完全に理解した」Talk　#49](https://easy2.connpass.com/event/306391/)
+- Jan 25 [Meguro.es # 26 @ サイバーエージェント](https://meguroes.connpass.com/event/305991/)
+- Jan 20 [姫路IT系勉強会 2024.1](https://histudy.connpass.com/event/306678/)
+- Jan 13 [新年学生LT](https://connpass.com/event/305116/)
 <!-- profile updater end: connpass -->
 
 <!---
