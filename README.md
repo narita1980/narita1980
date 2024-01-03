@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 31 [すごい広島 IT初心者の会 [82]](https://pycon-hiroshima.connpass.com/event/306668/)
-- Jan 30 [エンジニア達の「完全に理解した」Talk　#49](https://easy2.connpass.com/event/306391/)
-- Jan 25 [Meguro.es # 26 @ サイバーエージェント](https://meguroes.connpass.com/event/305991/)
-- Jan 20 [姫路IT系勉強会 2024.1](https://histudy.connpass.com/event/306678/)
-- Jan 13 [新年学生LT](https://connpass.com/event/305116/)
+- May 3 [Assignment Writing Service in Malaysia?](https://connpass.com/event/306703/)
+- Jan 21 [CoderDojo at OIST（OIST 沖縄科学技術大学院大学・ミーティングルーム棟](https://coderdojo-nago.connpass.com/event/304897/)
+- Jan 18 [【StudyCo with Momento】LLMに独自知識で回答させる「RAG」の理解を深めよう](https://studyco.connpass.com/event/304752/)
+- Jan 17 [【苦悶式】技術英文読解トレーニング　第30回【Painful】](https://elv.connpass.com/event/306706/)
+- Jan 14 [CoderDojo名護（屋部地区センター・学習スペース）](https://coderdojo-nago.connpass.com/event/305601/)
 <!-- profile updater end: connpass -->
 
 <!---
