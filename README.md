@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 3 [Assignment Writing Service in Malaysia?](https://connpass.com/event/306703/)
-- Jan 21 [CoderDojo at OIST（OIST 沖縄科学技術大学院大学・ミーティングルーム棟](https://coderdojo-nago.connpass.com/event/304897/)
-- Jan 18 [【StudyCo with Momento】LLMに独自知識で回答させる「RAG」の理解を深めよう](https://studyco.connpass.com/event/304752/)
-- Jan 17 [【苦悶式】技術英文読解トレーニング　第30回【Painful】](https://elv.connpass.com/event/306706/)
+- Jan 16 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/306761/)
+- Jan 16 [【wakamonog meeting13特別企画】DC見学会](https://wakamonog.connpass.com/event/305387/)
 - Jan 14 [CoderDojo名護（屋部地区センター・学習スペース）](https://coderdojo-nago.connpass.com/event/305601/)
+- Jan 11 [GASとスプレッドシートでメール一括送信ツールを作ろう 無料プログラミング体験会](https://future-tech-association.connpass.com/event/306763/)
+- Jan 8 [統計検定準一級勉強会：年末年始特別編7](https://study-data-analysis.connpass.com/event/306595/)
 <!-- profile updater end: connpass -->
 
 <!---
