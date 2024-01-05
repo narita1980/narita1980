@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 16 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/306761/)
-- Jan 16 [【wakamonog meeting13特別企画】DC見学会](https://wakamonog.connpass.com/event/305387/)
-- Jan 14 [CoderDojo名護（屋部地区センター・学習スペース）](https://coderdojo-nago.connpass.com/event/305601/)
-- Jan 11 [GASとスプレッドシートでメール一括送信ツールを作ろう 無料プログラミング体験会](https://future-tech-association.connpass.com/event/306763/)
-- Jan 8 [統計検定準一級勉強会：年末年始特別編7](https://study-data-analysis.connpass.com/event/306595/)
+- Jan 27 [JAWS-UG初心者支部#58 初学者の新年決起集会](https://jawsug-bgnr.connpass.com/event/306307/)
+- Jan 21 [第41回 CoderDojo厚木](https://coderdojo-atsugi.connpass.com/event/303974/)
+- Jan 16 [FM-Cafe(FileMaker)2024年1月開催！](https://connpass.com/event/306863/)
+- Jan 14 [新横浜Blenderがやがや会(第7回)](https://manabino.connpass.com/event/306856/)
+- Jan 13 [【大規模】1/13(土) クリエイター新年会 2024](https://creator-square.connpass.com/event/304546/)
 <!-- profile updater end: connpass -->
 
 <!---
