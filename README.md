@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 27 [JAWS-UG初心者支部#58 初学者の新年決起集会](https://jawsug-bgnr.connpass.com/event/306307/)
-- Jan 21 [第41回 CoderDojo厚木](https://coderdojo-atsugi.connpass.com/event/303974/)
-- Jan 16 [FM-Cafe(FileMaker)2024年1月開催！](https://connpass.com/event/306863/)
-- Jan 14 [新横浜Blenderがやがや会(第7回)](https://manabino.connpass.com/event/306856/)
-- Jan 13 [【大規模】1/13(土) クリエイター新年会 2024](https://creator-square.connpass.com/event/304546/)
+- Jan 27 [Azure DevOpsオンライン Vol.10 ～ Azureクロステナント実践運用](https://tfsug.connpass.com/event/305525/)
+- Jan 26 [【三宮】【トーク会】3rd place "meet & create"@HACK.BAR #5](https://3rdplace.connpass.com/event/306931/)
+- Jan 21 [【第17回】SE時事ラジオ](https://setk.connpass.com/event/306752/)
+- Jan 20 [GDG Kobe in 広島大学](https://gdgkobe.connpass.com/event/306609/)
+- Jan 19 [【オンライン開催】はんなりプログラミング サイゼリヤミートアップ #9](https://hannari-python.connpass.com/event/306489/)
 <!-- profile updater end: connpass -->
 
 <!---
