@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 27 [Azure DevOpsオンライン Vol.10 ～ Azureクロステナント実践運用](https://tfsug.connpass.com/event/305525/)
-- Jan 26 [【三宮】【トーク会】3rd place "meet & create"@HACK.BAR #5](https://3rdplace.connpass.com/event/306931/)
-- Jan 21 [【第17回】SE時事ラジオ](https://setk.connpass.com/event/306752/)
-- Jan 20 [GDG Kobe in 広島大学](https://gdgkobe.connpass.com/event/306609/)
-- Jan 19 [【オンライン開催】はんなりプログラミング サイゼリヤミートアップ #9](https://hannari-python.connpass.com/event/306489/)
+- Feb 17 [AI.lisp #1](https://tcool.connpass.com/event/306968/)
+- Jan 30 [Jira Meetup Sapporo Vol.0](https://connpass.com/event/306960/)
+- Jan 27 [イベント後懇親会【U-30クラス/OPENクラス】テスト設計コンテスト'23 決勝戦](https://aster.connpass.com/event/306991/)
+- Jan 20 [第1回 ツキイチFS勉強会](https://factoryscientist.connpass.com/event/303971/)
+- Jan 16 [IoT-Tech Meetup 第8回【Arduino UNO R4 深掘り会】](https://soracom.connpass.com/event/305144/)
 <!-- profile updater end: connpass -->
 
 <!---
