@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 17 [AI.lisp #1](https://tcool.connpass.com/event/306968/)
-- Jan 30 [Jira Meetup Sapporo Vol.0](https://connpass.com/event/306960/)
-- Jan 27 [イベント後懇親会【U-30クラス/OPENクラス】テスト設計コンテスト'23 決勝戦](https://aster.connpass.com/event/306991/)
-- Jan 20 [第1回 ツキイチFS勉強会](https://factoryscientist.connpass.com/event/303971/)
-- Jan 16 [IoT-Tech Meetup 第8回【Arduino UNO R4 深掘り会】](https://soracom.connpass.com/event/305144/)
+- Feb 2 [AI駆動開発(AI-Driven Development) 勉強会（第1回）](https://connpass.com/event/306406/)
+- Jan 23 [AWS Startup Meetup 福岡 #4](https://aws-startup-community.connpass.com/event/302530/)
+- Jan 23 [プロトアウト LT祭 Vol.04 クラウドファンディング応援大会](https://protoout.connpass.com/event/306938/)
+- Jan 22 [JAWS-UG東京 ランチタイムLT会 #7](https://jawsug.connpass.com/event/305567/)
+- Jan 21 [NVC 会読会 第14回](https://xpreadinggroup.connpass.com/event/307082/)
 <!-- profile updater end: connpass -->
 
 <!---
