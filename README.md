@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 2 [AI駆動開発(AI-Driven Development) 勉強会（第1回）](https://connpass.com/event/306406/)
-- Jan 23 [AWS Startup Meetup 福岡 #4](https://aws-startup-community.connpass.com/event/302530/)
-- Jan 23 [プロトアウト LT祭 Vol.04 クラウドファンディング応援大会](https://protoout.connpass.com/event/306938/)
-- Jan 22 [JAWS-UG東京 ランチタイムLT会 #7](https://jawsug.connpass.com/event/305567/)
-- Jan 21 [NVC 会読会 第14回](https://xpreadinggroup.connpass.com/event/307082/)
+- Feb 17 [tecHub Meetup #18](https://techub.connpass.com/event/307156/)
+- Feb 9 [白金鉱業.FM公開収録@東中野 雑談](https://brainpad-meetup.connpass.com/event/306384/)
+- Jan 19 [【東京AI祭2024】Niji・journeyワークショップ祭](https://connpass.com/event/307113/)
+- Jan 16 [IT系&誰でも参加OK！もくもく会_朝活_1/16(火)](https://morimori.connpass.com/event/307155/)
+- Jan 15 [やさしい Swift 勉強会のサテライト会 ＆ Swift 談笑タイム in 札幌](https://cswift.connpass.com/event/307150/)
 <!-- profile updater end: connpass -->
 
 <!---
