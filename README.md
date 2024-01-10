@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 17 [tecHub Meetup #18](https://techub.connpass.com/event/307156/)
-- Feb 9 [白金鉱業.FM公開収録@東中野 雑談](https://brainpad-meetup.connpass.com/event/306384/)
-- Jan 19 [【東京AI祭2024】Niji・journeyワークショップ祭](https://connpass.com/event/307113/)
-- Jan 16 [IT系&誰でも参加OK！もくもく会_朝活_1/16(火)](https://morimori.connpass.com/event/307155/)
-- Jan 15 [やさしい Swift 勉強会のサテライト会 ＆ Swift 談笑タイム in 札幌](https://cswift.connpass.com/event/307150/)
+- Mar 1 [Elixir合宿 in 湯布院](https://fukuokaex.connpass.com/event/305945/)
+- Jan 28 [浜松もくもく会](https://connpass.com/event/307287/)
+- Jan 24 [たこやきUX vol.2 新年LT&交流会](https://maido.connpass.com/event/306408/)
+- Jan 22 [Scrum Masters Night! in Tokyo（オンサイト開催）](https://smn.connpass.com/event/307283/)
+- Jan 20 [GDG Kobe in 広島大学](https://gdgkobe.connpass.com/event/306609/)
 <!-- profile updater end: connpass -->
 
 <!---
