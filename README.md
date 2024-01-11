@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 1 [Elixir合宿 in 湯布院](https://fukuokaex.connpass.com/event/305945/)
-- Jan 28 [浜松もくもく会](https://connpass.com/event/307287/)
-- Jan 24 [たこやきUX vol.2 新年LT&交流会](https://maido.connpass.com/event/306408/)
-- Jan 22 [Scrum Masters Night! in Tokyo（オンサイト開催）](https://smn.connpass.com/event/307283/)
-- Jan 20 [GDG Kobe in 広島大学](https://gdgkobe.connpass.com/event/306609/)
+- Feb 11 [YAYAPC::Hiroshima ～オフラインだからできる話〜](https://connpass.com/event/300500/)
+- Jan 27 [Tokyo OpenSolaris 勉強会2024.01](https://connpass.com/event/307389/)
+- Jan 24 [C#読書会 C#ベクトルプログラミング入門 No.2（オンライン）](https://cs-reading.connpass.com/event/307384/)
+- Jan 22 [GASとスプレッドシートでメール一括送信ツールを作ろう 無料プログラミング体験会](https://future-tech-association.connpass.com/event/307388/)
+- Jan 20 [ACRiルーム・ハンズオン：初心者限定FPGA入門セミナー](https://acri.connpass.com/event/305582/)
 <!-- profile updater end: connpass -->
 
 <!---
