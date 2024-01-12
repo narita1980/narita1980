@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 11 [YAYAPC::Hiroshima ～オフラインだからできる話〜](https://connpass.com/event/300500/)
-- Jan 27 [Tokyo OpenSolaris 勉強会2024.01](https://connpass.com/event/307389/)
-- Jan 24 [C#読書会 C#ベクトルプログラミング入門 No.2（オンライン）](https://cs-reading.connpass.com/event/307384/)
-- Jan 22 [GASとスプレッドシートでメール一括送信ツールを作ろう 無料プログラミング体験会](https://future-tech-association.connpass.com/event/307388/)
-- Jan 20 [ACRiルーム・ハンズオン：初心者限定FPGA入門セミナー](https://acri.connpass.com/event/305582/)
+- Mar 31 [tofuConf #17](https://tofuconf.connpass.com/event/307538/)
+- Feb 1 [第1回 AWSコスト削減 天下一武道会](https://no1.connpass.com/event/305664/)
+- Jan 30 [はじめてのGoogle Apps Script★LINEミニゲームを作ろう!～プロトアウト体験会](https://protoout.connpass.com/event/307518/)
+- Jan 26 [BAYSIDE Tech Nite_vol.3 for Front-end Engineers](https://shippio.connpass.com/event/306063/)
+- Jan 21 [とやま技術同人誌勉強会＆ワークショップ](https://toyama-it.connpass.com/event/305321/)
 <!-- profile updater end: connpass -->
 
 <!---
