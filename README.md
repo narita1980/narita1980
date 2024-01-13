@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 31 [tofuConf #17](https://tofuconf.connpass.com/event/307538/)
-- Feb 1 [第1回 AWSコスト削減 天下一武道会](https://no1.connpass.com/event/305664/)
-- Jan 30 [はじめてのGoogle Apps Script★LINEミニゲームを作ろう!～プロトアウト体験会](https://protoout.connpass.com/event/307518/)
-- Jan 26 [BAYSIDE Tech Nite_vol.3 for Front-end Engineers](https://shippio.connpass.com/event/306063/)
-- Jan 21 [とやま技術同人誌勉強会＆ワークショップ](https://toyama-it.connpass.com/event/305321/)
+- Jan 28 [DjangoMeetupTokyo #12](https://django.connpass.com/event/307423/)
+- Jan 27 [JAWS-UG横浜 #69 AWS re:Invent 2023 Recap AI](https://jawsug-yokohama.connpass.com/event/299304/)
+- Jan 20 [JAWS-UG横浜 #68 AWS re:Invent 2023 Recap Container](https://jawsug-yokohama.connpass.com/event/299303/)
+- Jan 20 [Hardware Maker Meetup Sapporo #12](https://hmmspr.connpass.com/event/304641/)
+- Jan 20 [GDG Kobe in 広島大学](https://gdgkobe.connpass.com/event/306609/)
 <!-- profile updater end: connpass -->
 
 <!---
