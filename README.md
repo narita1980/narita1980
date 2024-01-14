@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 28 [DjangoMeetupTokyo #12](https://django.connpass.com/event/307423/)
-- Jan 27 [JAWS-UG横浜 #69 AWS re:Invent 2023 Recap AI](https://jawsug-yokohama.connpass.com/event/299304/)
-- Jan 20 [JAWS-UG横浜 #68 AWS re:Invent 2023 Recap Container](https://jawsug-yokohama.connpass.com/event/299303/)
-- Jan 20 [Hardware Maker Meetup Sapporo #12](https://hmmspr.connpass.com/event/304641/)
-- Jan 20 [GDG Kobe in 広島大学](https://gdgkobe.connpass.com/event/306609/)
+- Feb 24 [第51回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/298060/)
+- Feb 10 [第26回『Effective Java 第3版』オンライン読書会（第3サイクル：2回目）](https://ej3e-reading.connpass.com/event/307660/)
+- Feb 8 [【2/8開催】Code Panda Meetup](https://kobecco.connpass.com/event/305859/)
+- Feb 7 [Engineering Manager Meetup #12](https://engineering-manager-meetup.connpass.com/event/305948/)
+- Feb 6 [【無料】データ分析を進化させる！！プログラミング「R」を始める第一歩-Rデータ分析超入門-](https://datascience-wakara.connpass.com/event/307203/)
 <!-- profile updater end: connpass -->
 
 <!---
