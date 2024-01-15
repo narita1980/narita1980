@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 24 [第51回 子どものためのプログラミング道場 - CoderDojo 立川](https://coderdojo-tachikawa.connpass.com/event/298060/)
-- Feb 10 [第26回『Effective Java 第3版』オンライン読書会（第3サイクル：2回目）](https://ej3e-reading.connpass.com/event/307660/)
-- Feb 8 [【2/8開催】Code Panda Meetup](https://kobecco.connpass.com/event/305859/)
-- Feb 7 [Engineering Manager Meetup #12](https://engineering-manager-meetup.connpass.com/event/305948/)
-- Feb 6 [【無料】データ分析を進化させる！！プログラミング「R」を始める第一歩-Rデータ分析超入門-](https://datascience-wakara.connpass.com/event/307203/)
+- Feb 18 [【IT勉強会】dockerハンズオン（プログラミング初学者）#20](https://pg-beginner-mtg.connpass.com/event/307751/)
+- Feb 11 [圏論（けんろん）の面白い話](https://setk.connpass.com/event/307739/)
+- Jan 31 [Wijmo入門講座 - 30分で学ぶFlexGridの外観カスタマイズ](https://grapecity-dev-tools.connpass.com/event/306064/)
+- Jan 27 [朝霞IT勉強会 #38 〜Remote でもくもく〜](https://asaka-it.connpass.com/event/303965/)
+- Jan 27 [.NETラボ 勉強会 2024年1月](https://dotnetlab.connpass.com/event/305578/)
 <!-- profile updater end: connpass -->
 
 <!---
