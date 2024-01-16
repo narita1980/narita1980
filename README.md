@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 18 [【IT勉強会】dockerハンズオン（プログラミング初学者）#20](https://pg-beginner-mtg.connpass.com/event/307751/)
-- Feb 11 [圏論（けんろん）の面白い話](https://setk.connpass.com/event/307739/)
-- Jan 31 [Wijmo入門講座 - 30分で学ぶFlexGridの外観カスタマイズ](https://grapecity-dev-tools.connpass.com/event/306064/)
-- Jan 27 [朝霞IT勉強会 #38 〜Remote でもくもく〜](https://asaka-it.connpass.com/event/303965/)
 - Jan 27 [.NETラボ 勉強会 2024年1月](https://dotnetlab.connpass.com/event/305578/)
+- Jan 25 [人事ごった煮会vol.53(組織開発をみんなで考えよう)](https://jinji-gottani.connpass.com/event/306458/)
+- Jan 25 [TechBrew in 東京 〜技術的負債と共に歩むプロダクトの成長〜](https://findy.connpass.com/event/306451/)
+- Jan 24 [たこやきUX vol.2 新年LT&交流会](https://maido.connpass.com/event/306408/)
+- Jan 23 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/307373/)
 <!-- profile updater end: connpass -->
 
 <!---
