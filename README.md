@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jan 27 [.NETラボ 勉強会 2024年1月](https://dotnetlab.connpass.com/event/305578/)
-- Jan 25 [人事ごった煮会vol.53(組織開発をみんなで考えよう)](https://jinji-gottani.connpass.com/event/306458/)
-- Jan 25 [TechBrew in 東京 〜技術的負債と共に歩むプロダクトの成長〜](https://findy.connpass.com/event/306451/)
-- Jan 24 [たこやきUX vol.2 新年LT&交流会](https://maido.connpass.com/event/306408/)
-- Jan 23 [統計検定準一級勉強会](https://study-data-analysis.connpass.com/event/307373/)
+- Feb 29 [MLSE冬合宿2024](https://mlxse.connpass.com/event/299427/)
+- Feb 10 [静的サイトジェネレーター勉強会](https://fin-py.connpass.com/event/307453/)
+- Feb 7 [第6回 CoderDojo西神](https://coderdojoseishin.connpass.com/event/307442/)
+- Jan 29 [DMM.swift #1](https://dmm.connpass.com/event/303187/)
+- Jan 25 [第1回Web制作勉強会（勉強会始めて＆初心者歓迎！！）](https://design-campus.connpass.com/event/307964/)
 <!-- profile updater end: connpass -->
 
 <!---
