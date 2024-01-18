@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 29 [MLSE冬合宿2024](https://mlxse.connpass.com/event/299427/)
-- Feb 10 [静的サイトジェネレーター勉強会](https://fin-py.connpass.com/event/307453/)
-- Feb 7 [第6回 CoderDojo西神](https://coderdojoseishin.connpass.com/event/307442/)
-- Jan 29 [DMM.swift #1](https://dmm.connpass.com/event/303187/)
-- Jan 25 [第1回Web制作勉強会（勉強会始めて＆初心者歓迎！！）](https://design-campus.connpass.com/event/307964/)
+- Feb 17 [Tech Circle Expo #1](https://tech-circle-expo.connpass.com/event/307909/)
+- Feb 4 [FFF Flutterエンジニア交流会 #6](https://fukuoka-flutter-fanclub.connpass.com/event/307081/)
+- Jan 28 [Kamakura Mok Mok Hack 177 - 鎌倉もくもく会](https://kamkura-mokmok.connpass.com/event/308037/)
+- Jan 25 [Meguro.es # 26 @ サイバーエージェント](https://meguroes.connpass.com/event/305991/)
+- Jan 25 [生成AIを駆使したアプリケーション開発の新潮流](https://generative-ai-conf.connpass.com/event/305069/)
 <!-- profile updater end: connpass -->
 
 <!---
