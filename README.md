@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 17 [Tech Circle Expo #1](https://tech-circle-expo.connpass.com/event/307909/)
-- Feb 4 [FFF Flutterエンジニア交流会 #6](https://fukuoka-flutter-fanclub.connpass.com/event/307081/)
-- Jan 28 [Kamakura Mok Mok Hack 177 - 鎌倉もくもく会](https://kamkura-mokmok.connpass.com/event/308037/)
-- Jan 25 [Meguro.es # 26 @ サイバーエージェント](https://meguroes.connpass.com/event/305991/)
-- Jan 25 [生成AIを駆使したアプリケーション開発の新潮流](https://generative-ai-conf.connpass.com/event/305069/)
+- Feb 10 [第1回 IRUMA.R](https://irumar.connpass.com/event/303097/)
+- Jan 31 [kintone縛りの自動化・RPA勉強会](https://rpacommunity.connpass.com/event/307867/)
+- Jan 30 [Hamada.rb #47](https://hamadarb.connpass.com/event/308202/)
+- Jan 30 [Ruby Hacking Challenge in Hamada.rb](https://hamadarb.connpass.com/event/308201/)
+- Jan 30 [寺田さん×きしださんに聞く Java開発の第一線](https://findy.connpass.com/event/307578/)
 <!-- profile updater end: connpass -->
 
 <!---
