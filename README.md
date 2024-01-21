@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 5 [これからのSDV開発　～BEVから自動運転へ](https://tier4.connpass.com/event/303809/)
-- Jan 27 [信州開催！2023年度 Web×IoT メイカーズチャレンジ PLUS【講習会 & ハッカソン】](https://webiotmakers.connpass.com/event/305229/)
-- Jan 26 [GlobalGameJam2024 名古屋 名古ゲ部会場](https://nagogebu.connpass.com/event/305663/)
-- Jan 26 [JAWS-UG : HPC#19勉強会(リブート)](https://jawsug-hpc.connpass.com/event/303211/)
-- Jan 23 [第50回初心者向け JavaScriptもくもく会](https://javascript-starters.connpass.com/event/308299/)
+- Feb 11 [圏論（けんろん）の面白い話](https://setk.connpass.com/event/307739/)
+- Feb 8 [ふくおかスクラム vol.12 RSGT視聴わいわい会（対面＆オンライン）](https://fukuoka-scrum.connpass.com/event/308372/)
+- Jan 28 [IT系&誰でも参加OK！もくもく会_朝活_1/28(日)](https://morimori.connpass.com/event/308370/)
+- Jan 28 [1/28(日)【第208回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/308374/)
+- Jan 27 [競技プログラミングオフ会 in 東京 2024新春](https://connpass.com/event/308369/)
 <!-- profile updater end: connpass -->
 
 <!---
