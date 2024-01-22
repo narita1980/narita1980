@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 11 [圏論（けんろん）の面白い話](https://setk.connpass.com/event/307739/)
-- Feb 8 [ふくおかスクラム vol.12 RSGT視聴わいわい会（対面＆オンライン）](https://fukuoka-scrum.connpass.com/event/308372/)
-- Jan 28 [IT系&誰でも参加OK！もくもく会_朝活_1/28(日)](https://morimori.connpass.com/event/308370/)
-- Jan 28 [1/28(日)【第208回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/308374/)
-- Jan 27 [競技プログラミングオフ会 in 東京 2024新春](https://connpass.com/event/308369/)
+- Mar 1 [最新の将棋AI事情とプロ棋界への影響【懇親会】](https://matsue-kisho.connpass.com/event/308428/)
+- Mar 1 [最新の将棋AI事情とプロ棋界への影響](https://matsue-kisho.connpass.com/event/308424/)
+- Feb 24 [Open Hack U 2024 TOKYO](https://hacku.connpass.com/event/304713/)
+- Feb 2 [力強くアウトプットする日の 20240202](https://forceoutput.connpass.com/event/308425/)
+- Jan 27 [ゆるい勉強会＠あけまして勉強会2024[1/27(土)]](https://asahikawa.connpass.com/event/305524/)
 <!-- profile updater end: connpass -->
 
 <!---
