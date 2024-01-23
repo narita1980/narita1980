@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 1 [最新の将棋AI事情とプロ棋界への影響【懇親会】](https://matsue-kisho.connpass.com/event/308428/)
-- Mar 1 [最新の将棋AI事情とプロ棋界への影響](https://matsue-kisho.connpass.com/event/308424/)
-- Feb 24 [Open Hack U 2024 TOKYO](https://hacku.connpass.com/event/304713/)
-- Feb 2 [力強くアウトプットする日の 20240202](https://forceoutput.connpass.com/event/308425/)
-- Jan 27 [ゆるい勉強会＠あけまして勉強会2024[1/27(土)]](https://asahikawa.connpass.com/event/305524/)
+- Feb 27 [DOMDOMトークス #1](https://connpass.com/event/308483/)
+- Feb 27 [【オフライン】Scalaわいわい勉強会 #2【東京】](https://scala-tokyo.connpass.com/event/307069/)
+- Feb 21 [#RSGT2024 狩野紀昭先生の基調講演を同時視聴しながらわいわいする会（森崎先生の解析付）](https://beyond-hardware-agile.connpass.com/event/308491/)
+- Feb 18 [JMLT vol.6 with もくもく会（a.k.a ごくごく会）](https://jmlt.connpass.com/event/308536/)
+- Feb 13 [【Kindle1位：出版記念イベント】Teamsチャットボットで社内問い合わせを自動化](https://chatgptllm.connpass.com/event/306565/)
 <!-- profile updater end: connpass -->
 
 <!---
