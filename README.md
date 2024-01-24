@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 27 [DOMDOMトークス #1](https://connpass.com/event/308483/)
-- Feb 27 [【オフライン】Scalaわいわい勉強会 #2【東京】](https://scala-tokyo.connpass.com/event/307069/)
-- Feb 21 [#RSGT2024 狩野紀昭先生の基調講演を同時視聴しながらわいわいする会（森崎先生の解析付）](https://beyond-hardware-agile.connpass.com/event/308491/)
-- Feb 18 [JMLT vol.6 with もくもく会（a.k.a ごくごく会）](https://jmlt.connpass.com/event/308536/)
-- Feb 13 [【Kindle1位：出版記念イベント】Teamsチャットボットで社内問い合わせを自動化](https://chatgptllm.connpass.com/event/306565/)
+- Apr 14 [2024/4/14(日) CoderDojoMinami-Kashiwa(南柏)](https://connpass.com/event/308640/)
+- Mar 10 [2024/3/10(日) CoderDojoMinami-Kashiwa(南柏)](https://connpass.com/event/307067/)
+- Feb 24 [JBUG広島#13 〜Re:Re:Re:Boot～ 【現地開催：オフライン】](https://jbug.connpass.com/event/308351/)
+- Feb 18 [第101回 (2024/02/18(日)) CoderDojo 柏の葉](https://connpass.com/event/308639/)
+- Feb 8 [（新）Hokkaido AI コミュニティ オフラインイベント！](https://connpass.com/event/306154/)
 <!-- profile updater end: connpass -->
 
 <!---
