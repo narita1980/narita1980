@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 14 [2024/4/14(日) CoderDojoMinami-Kashiwa(南柏)](https://connpass.com/event/308640/)
-- Mar 10 [2024/3/10(日) CoderDojoMinami-Kashiwa(南柏)](https://connpass.com/event/307067/)
-- Feb 24 [JBUG広島#13 〜Re:Re:Re:Boot～ 【現地開催：オフライン】](https://jbug.connpass.com/event/308351/)
-- Feb 18 [第101回 (2024/02/18(日)) CoderDojo 柏の葉](https://connpass.com/event/308639/)
-- Feb 8 [（新）Hokkaido AI コミュニティ オフラインイベント！](https://connpass.com/event/306154/)
+- Feb 28 [【CHIYODA Tech #3】OSSの活用と貢献 ～各社のOSSとの付き合い方を話します～](https://andpad.connpass.com/event/304738/)
+- Feb 14 [TechBrew in 東京 〜SRE大集合！信頼性を高める取り組み〜](https://findy.connpass.com/event/308162/)
+- Feb 14 [【オンライン】クラウドもくもく勉強会&LT会！（AWS/GCP/Azure）](https://mirameet.connpass.com/event/307945/)
+- Feb 12 [第２８回伊勢IT交流会](https://iseit.connpass.com/event/307766/)
+- Feb 2 [AI駆動開発(AI-Driven Development) 勉強会（第1回）](https://connpass.com/event/306406/)
 <!-- profile updater end: connpass -->
 
 <!---
