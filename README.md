@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 28 [【CHIYODA Tech #3】OSSの活用と貢献 ～各社のOSSとの付き合い方を話します～](https://andpad.connpass.com/event/304738/)
-- Feb 14 [TechBrew in 東京 〜SRE大集合！信頼性を高める取り組み〜](https://findy.connpass.com/event/308162/)
-- Feb 14 [【オンライン】クラウドもくもく勉強会&LT会！（AWS/GCP/Azure）](https://mirameet.connpass.com/event/307945/)
-- Feb 12 [第２８回伊勢IT交流会](https://iseit.connpass.com/event/307766/)
-- Feb 2 [AI駆動開発(AI-Driven Development) 勉強会（第1回）](https://connpass.com/event/306406/)
+- Feb 2 [RESEARCH Conference Pop-up in NAGOYA](https://research-conf.connpass.com/event/305246/)
+- Feb 2 [【東京AI祭2024】Stable Diffusionワークショップ祭](https://connpass.com/event/308198/)
+- Jan 30 [アラート対応やSLI/SLO、エラーバジェットの運用を学ぼう](https://mackerelio.connpass.com/event/307409/)
+- Jan 29 [DMM.swift #1](https://dmm.connpass.com/event/303187/)
+- Jan 28 [旭川工業高等専門学校 デジタル人財育成事業第11回「生成系AI入門（2）」](https://kosen-dx.connpass.com/event/307341/)
 <!-- profile updater end: connpass -->
 
 <!---
