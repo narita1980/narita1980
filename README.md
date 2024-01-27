@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Feb 29 [一般社団法人PyCon JP Association運営会議 #65](https://pyconjp-staff.connpass.com/event/308870/)
+- Feb 20 [【増枠】福岡IT交流会 弊社の話を聞けLT大会 #2](https://connpass.com/event/308290/)
+- Feb 10 [未経験大歓迎！エンジニア交流会2月10日](https://connpass.com/event/308906/)
 - Feb 2 [RESEARCH Conference Pop-up in NAGOYA](https://research-conf.connpass.com/event/305246/)
-- Feb 2 [【東京AI祭2024】Stable Diffusionワークショップ祭](https://connpass.com/event/308198/)
-- Jan 30 [アラート対応やSLI/SLO、エラーバジェットの運用を学ぼう](https://mackerelio.connpass.com/event/307409/)
-- Jan 29 [DMM.swift #1](https://dmm.connpass.com/event/303187/)
-- Jan 28 [旭川工業高等専門学校 デジタル人財育成事業第11回「生成系AI入門（2）」](https://kosen-dx.connpass.com/event/307341/)
+- Jan 30 [簡単！ポートフォリオの作り方！1/30(月)](https://connpass.com/event/308903/)
 <!-- profile updater end: connpass -->
 
 <!---
