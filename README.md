@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 29 [一般社団法人PyCon JP Association運営会議 #65](https://pyconjp-staff.connpass.com/event/308870/)
-- Feb 20 [【増枠】福岡IT交流会 弊社の話を聞けLT大会 #2](https://connpass.com/event/308290/)
-- Feb 10 [未経験大歓迎！エンジニア交流会2月10日](https://connpass.com/event/308906/)
-- Feb 2 [RESEARCH Conference Pop-up in NAGOYA](https://research-conf.connpass.com/event/305246/)
-- Jan 30 [簡単！ポートフォリオの作り方！1/30(月)](https://connpass.com/event/308903/)
+- Feb 23 [富山デザイン勉強会＃3　｢2024年のデザイントレンド」](https://toyama-design.connpass.com/event/308362/)
+- Feb 17 [アートオブアジャイルデベロップメント第2版 ビデオ鑑賞会 #37](https://agiledevs.connpass.com/event/308968/)
+- Feb 12 [もくもく会 IN 一宮](https://connpass.com/event/308973/)
+- Feb 3 [MySQLアンカンファレンス #001](https://mysql-unconference.connpass.com/event/308904/)
+- Feb 3 [【体験で学ぶ】TypeScriptで簡単なアプリを作ろう！](https://experience-learn.connpass.com/event/308156/)
 <!-- profile updater end: connpass -->
 
 <!---
