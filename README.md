@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 23 [富山デザイン勉強会＃3　｢2024年のデザイントレンド」](https://toyama-design.connpass.com/event/308362/)
-- Feb 17 [アートオブアジャイルデベロップメント第2版 ビデオ鑑賞会 #37](https://agiledevs.connpass.com/event/308968/)
-- Feb 12 [もくもく会 IN 一宮](https://connpass.com/event/308973/)
-- Feb 3 [MySQLアンカンファレンス #001](https://mysql-unconference.connpass.com/event/308904/)
-- Feb 3 [【体験で学ぶ】TypeScriptで簡単なアプリを作ろう！](https://experience-learn.connpass.com/event/308156/)
+- Feb 25 [第42回 CoderDojo厚木](https://coderdojo-atsugi.connpass.com/event/308976/)
+- Feb 23 [自分の活動に活かすオープンデータ勉強会](https://countries-romantic.connpass.com/event/309058/)
+- Feb 16 [LINE DC Frontend Meetup #2](https://linedevelopercommunity.connpass.com/event/308139/)
+- Feb 12 [SEO対策の今昔ー経験市場の積み立て2日目](https://connpass.com/event/309061/)
+- Feb 11 [SEO対策の今昔ー経験市場の積み立て](https://connpass.com/event/309059/)
 <!-- profile updater end: connpass -->
 
 <!---
