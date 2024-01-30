@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 25 [第42回 CoderDojo厚木](https://coderdojo-atsugi.connpass.com/event/308976/)
-- Feb 23 [自分の活動に活かすオープンデータ勉強会](https://countries-romantic.connpass.com/event/309058/)
-- Feb 16 [LINE DC Frontend Meetup #2](https://linedevelopercommunity.connpass.com/event/308139/)
-- Feb 12 [SEO対策の今昔ー経験市場の積み立て2日目](https://connpass.com/event/309061/)
-- Feb 11 [SEO対策の今昔ー経験市場の積み立て](https://connpass.com/event/309059/)
+- Apr 13 [セブIT飲み会 2024 Spring](https://itnomikai-cebu.connpass.com/event/308733/)
+- Feb 12 [新横浜Blenderがやがや会(第8回)](https://manabino.connpass.com/event/309140/)
+- Feb 6 [FinTech WATARU会 #14「リテール金融の競争環境総ざらい。各社の経済圏戦略は？」](https://wataru.connpass.com/event/307512/)
+- Feb 2 [【懇親会】After JADOG14.0 - 2月2日(金) 18:30-20:30 ※](https://jadog.connpass.com/event/308406/)
+- Jan 31 [【Engineer X talk】0から始めるフリーランスエンジニア](https://connpass.com/event/309173/)
 <!-- profile updater end: connpass -->
 
 <!---
