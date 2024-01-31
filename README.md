@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [セブIT飲み会 2024 Spring](https://itnomikai-cebu.connpass.com/event/308733/)
-- Feb 12 [新横浜Blenderがやがや会(第8回)](https://manabino.connpass.com/event/309140/)
-- Feb 6 [FinTech WATARU会 #14「リテール金融の競争環境総ざらい。各社の経済圏戦略は？」](https://wataru.connpass.com/event/307512/)
-- Feb 2 [【懇親会】After JADOG14.0 - 2月2日(金) 18:30-20:30 ※](https://jadog.connpass.com/event/308406/)
-- Jan 31 [【Engineer X talk】0から始めるフリーランスエンジニア](https://connpass.com/event/309173/)
+- Mar 27 [DB2 for z/OS テクニカルセミナー2024](https://connpass.com/event/309253/)
+- Mar 1 [GIS Day in はこだて 2024：GISハンズオン講習会](https://dgh.connpass.com/event/309259/)
+- Feb 24 [開発合宿#3_NEMTUS Hackathon HACK+ 2024](https://nemtus.connpass.com/event/308109/)
+- Feb 17 [開発合宿#2_NEMTUS Hackathon HACK+ 2024](https://nemtus.connpass.com/event/303108/)
+- Feb 14 [第105回 Code for Niigata 定例会](https://c4ngt.connpass.com/event/309276/)
 <!-- profile updater end: connpass -->
 
 <!---
