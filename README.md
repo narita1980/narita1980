@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 27 [DB2 for z/OS テクニカルセミナー2024](https://connpass.com/event/309253/)
-- Mar 1 [GIS Day in はこだて 2024：GISハンズオン講習会](https://dgh.connpass.com/event/309259/)
-- Feb 24 [開発合宿#3_NEMTUS Hackathon HACK+ 2024](https://nemtus.connpass.com/event/308109/)
-- Feb 17 [開発合宿#2_NEMTUS Hackathon HACK+ 2024](https://nemtus.connpass.com/event/303108/)
-- Feb 14 [第105回 Code for Niigata 定例会](https://c4ngt.connpass.com/event/309276/)
+- Mar 14 [【Drupal創設者Dries来日】ドリスと語るDrupal交流会 2024](https://connpass.com/event/307570/)
+- Mar 5 [事業検証の精度を上げる！プロトタイプの活用方法とは？](https://unii-research.connpass.com/event/304817/)
+- Mar 2 [隅田川.dev vol.4 LT会](https://sumidagawa-dev.connpass.com/event/309335/)
+- Feb 24 [第86回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/307875/)
+- Feb 22 [Security․Tokyo #3](https://security-tokyo.connpass.com/event/308141/)
 <!-- profile updater end: connpass -->
 
 <!---
