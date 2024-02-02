@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 14 [【Drupal創設者Dries来日】ドリスと語るDrupal交流会 2024](https://connpass.com/event/307570/)
-- Mar 5 [事業検証の精度を上げる！プロトタイプの活用方法とは？](https://unii-research.connpass.com/event/304817/)
-- Mar 2 [隅田川.dev vol.4 LT会](https://sumidagawa-dev.connpass.com/event/309335/)
-- Feb 24 [第86回 Machine Learning 15minutes! Broadcast](https://machine-learning15minutes.connpass.com/event/307875/)
-- Feb 22 [Security․Tokyo #3](https://security-tokyo.connpass.com/event/308141/)
+- Mar 9 [プログラマーズカフェ 2024 SPRING](https://pgcafe.connpass.com/event/309501/)
+- Mar 1 [NICT北陸連携サロン　3/1(金)](https://nict-hokuriku-renkei-salon.connpass.com/event/307292/)
+- Feb 28 [可視化っていいよね！みんなの可視化取り組みについて語るLT](https://shiftevolve.connpass.com/event/308203/)
+- Feb 27 [拡散モデル勉強会 #3](https://grass-roots-ml.connpass.com/event/309499/)
+- Feb 23 [自分の活動に活かすオープンデータ勉強会](https://countries-romantic.connpass.com/event/309058/)
 <!-- profile updater end: connpass -->
 
 <!---
