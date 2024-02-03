@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 9 [プログラマーズカフェ 2024 SPRING](https://pgcafe.connpass.com/event/309501/)
-- Mar 1 [NICT北陸連携サロン　3/1(金)](https://nict-hokuriku-renkei-salon.connpass.com/event/307292/)
-- Feb 28 [可視化っていいよね！みんなの可視化取り組みについて語るLT](https://shiftevolve.connpass.com/event/308203/)
-- Feb 27 [拡散モデル勉強会 #3](https://grass-roots-ml.connpass.com/event/309499/)
-- Feb 23 [自分の活動に活かすオープンデータ勉強会](https://countries-romantic.connpass.com/event/309058/)
+- Mar 9 [MAIZURU RED BRICK ハッカソン](https://connpass.com/event/307428/)
+- Feb 23 [みんなで Swift 復習会 50th @ HarborS 表参道](https://cswift.connpass.com/event/305539/)
+- Feb 20 [生成AI有効活用セミナー～新しい価値を生み出す手順とリスクヘッジ～](https://connpass.com/event/309551/)
+- Feb 11 [CoderDojo＠たかおか 2月 第二週](https://coderdojo-takaoka.connpass.com/event/309591/)
+- Feb 10 [渋谷でもくもく会](https://connpass.com/event/309594/)
 <!-- profile updater end: connpass -->
 
 <!---
