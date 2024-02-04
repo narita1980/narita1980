@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 9 [MAIZURU RED BRICK ハッカソン](https://connpass.com/event/307428/)
-- Feb 23 [みんなで Swift 復習会 50th @ HarborS 表参道](https://cswift.connpass.com/event/305539/)
-- Feb 20 [生成AI有効活用セミナー～新しい価値を生み出す手順とリスクヘッジ～](https://connpass.com/event/309551/)
-- Feb 11 [CoderDojo＠たかおか 2月 第二週](https://coderdojo-takaoka.connpass.com/event/309591/)
-- Feb 10 [渋谷でもくもく会](https://connpass.com/event/309594/)
+- Mar 9 [CoderDojo流山(2024/03/09(土))@江戸川大学](https://codefornagareyama.connpass.com/event/309680/)
+- Mar 2 [限界 LT #5 ~ 4th Anniversary ~ 【誰でも参加 OK】【飛び入り参加 OK】](https://approvers.connpass.com/event/309470/)
+- Feb 25 [CoderDojo at OIST(Conference Center Meeting Room1)](https://coderdojo-nago.connpass.com/event/308387/)
+- Feb 17 [tecHub Meetup #18](https://tecworks.connpass.com/event/307156/)
+- Feb 11 [IT系&誰でも参加OK！もくもく会_朝活_2/11(日)](https://morimori.connpass.com/event/309679/)
 <!-- profile updater end: connpass -->
 
 <!---
