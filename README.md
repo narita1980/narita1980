@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 9 [CoderDojo流山(2024/03/09(土))@江戸川大学](https://codefornagareyama.connpass.com/event/309680/)
-- Mar 2 [限界 LT #5 ~ 4th Anniversary ~ 【誰でも参加 OK】【飛び入り参加 OK】](https://approvers.connpass.com/event/309470/)
-- Feb 25 [CoderDojo at OIST(Conference Center Meeting Room1)](https://coderdojo-nago.connpass.com/event/308387/)
-- Feb 17 [tecHub Meetup #18](https://tecworks.connpass.com/event/307156/)
-- Feb 11 [IT系&誰でも参加OK！もくもく会_朝活_2/11(日)](https://morimori.connpass.com/event/309679/)
+- Mar 2 [生成AIで社内文書検索！Bedrockの新機能でRAGアプリを簡単に作ってみよう](https://minorun365.connpass.com/event/309029/)
+- Feb 14 [【学生歓迎】デザインスプリント in 大阪大学](https://gdgkobe.connpass.com/event/306571/)
+- Feb 12 [早朝オンライン[Math & Coding] 多様体の基礎 #31](https://math-coding.connpass.com/event/309750/)
+- Feb 12 [IT系&誰でも参加OK！もくもく会_朝活_2/12(月)](https://morimori.connpass.com/event/309747/)
+- Feb 9 [《中級》さらなる実力を身につけて実務に活かしたい"攻めの"中級者向け【W3-711】](https://bugbounty.connpass.com/event/309748/)
 <!-- profile updater end: connpass -->
 
 <!---
