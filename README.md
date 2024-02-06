@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 2 [生成AIで社内文書検索！Bedrockの新機能でRAGアプリを簡単に作ってみよう](https://minorun365.connpass.com/event/309029/)
-- Feb 14 [【学生歓迎】デザインスプリント in 大阪大学](https://gdgkobe.connpass.com/event/306571/)
-- Feb 12 [早朝オンライン[Math & Coding] 多様体の基礎 #31](https://math-coding.connpass.com/event/309750/)
-- Feb 12 [IT系&誰でも参加OK！もくもく会_朝活_2/12(月)](https://morimori.connpass.com/event/309747/)
-- Feb 9 [《中級》さらなる実力を身につけて実務に活かしたい"攻めの"中級者向け【W3-711】](https://bugbounty.connpass.com/event/309748/)
+- Mar 29 [kintone Night Nagoya vol.11](https://knn.connpass.com/event/309843/)
+- Feb 21 [JAWS-UG CDK支部 #12](https://jawsug-cdk.connpass.com/event/307989/)
+- Feb 20 [エンジニアのためのコーチング！ばんくしさん・ログラス松岡さん、それぞれが実践する理由とは？](https://findy.connpass.com/event/308248/)
+- Feb 17 [SappoRo.R #11](https://connpass.com/event/307297/)
+- Feb 16 [kintone Night Nagoya vol.10](https://knn.connpass.com/event/307750/)
 <!-- profile updater end: connpass -->
 
 <!---
