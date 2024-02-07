@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 29 [kintone Night Nagoya vol.11](https://knn.connpass.com/event/309843/)
-- Feb 21 [JAWS-UG CDK支部 #12](https://jawsug-cdk.connpass.com/event/307989/)
-- Feb 20 [エンジニアのためのコーチング！ばんくしさん・ログラス松岡さん、それぞれが実践する理由とは？](https://findy.connpass.com/event/308248/)
-- Feb 17 [SappoRo.R #11](https://connpass.com/event/307297/)
-- Feb 16 [kintone Night Nagoya vol.10](https://knn.connpass.com/event/307750/)
+- Mar 13 [nakanoshima.dev #36 コンテナについて話したい、助けてほしい人集まれLT大会](https://nakanoshima-dev.connpass.com/event/308398/)
+- Mar 2 [AWSなんてこわくないもん！](https://connpass.com/event/303514/)
+- Feb 24 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2023/02/24](https://coderdojo-nisshin.connpass.com/event/309961/)
+- Feb 19 [最適化ではなく最大化を - Sansan西場さんが考える開発生産性を学ぶ](https://developer-productivity-engineering.connpass.com/event/309513/)
+- Feb 15 [《増枠》JBUG福岡#17 プロジェクトを成功に導く、コミュニケーション管理術](https://jbug.connpass.com/event/306887/)
 <!-- profile updater end: connpass -->
 
 <!---
