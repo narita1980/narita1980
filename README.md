@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 13 [nakanoshima.dev #36 コンテナについて話したい、助けてほしい人集まれLT大会](https://nakanoshima-dev.connpass.com/event/308398/)
-- Mar 2 [AWSなんてこわくないもん！](https://connpass.com/event/303514/)
-- Feb 24 [CoderDojo日進 子供向けプログラミング道場(会場&オンライン)2023/02/24](https://coderdojo-nisshin.connpass.com/event/309961/)
-- Feb 19 [最適化ではなく最大化を - Sansan西場さんが考える開発生産性を学ぶ](https://developer-productivity-engineering.connpass.com/event/309513/)
-- Feb 15 [《増枠》JBUG福岡#17 プロジェクトを成功に導く、コミュニケーション管理術](https://jbug.connpass.com/event/306887/)
+- Apr 13 [総関西サイバーセキュリティＬＴ大会（第40回）](https://sec-kansai.connpass.com/event/309936/)
+- Feb 28 [【オンライン開催】第56回　スクラムマスターの働きってどう評価するの？](https://agile-hiyoko-club.connpass.com/event/310014/)
+- Feb 24 [CoderDojo富田林 第35回：子ども向けプログラミングクラブ](https://coderdojotondabayashi.connpass.com/event/310044/)
+- Feb 20 [【2/20開催】 生成AIで業務改革ウェビナー！データ活用からシステム開発までの完全ガイド](https://connpass.com/event/310013/)
+- Feb 16 [Microsoft Intune 勉強会 第 1 回目](https://configmgr.connpass.com/event/309957/)
 <!-- profile updater end: connpass -->
 
 <!---
