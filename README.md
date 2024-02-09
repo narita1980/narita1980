@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [総関西サイバーセキュリティＬＴ大会（第40回）](https://sec-kansai.connpass.com/event/309936/)
-- Feb 28 [【オンライン開催】第56回　スクラムマスターの働きってどう評価するの？](https://agile-hiyoko-club.connpass.com/event/310014/)
-- Feb 24 [CoderDojo富田林 第35回：子ども向けプログラミングクラブ](https://coderdojotondabayashi.connpass.com/event/310044/)
-- Feb 20 [【2/20開催】 生成AIで業務改革ウェビナー！データ活用からシステム開発までの完全ガイド](https://connpass.com/event/310013/)
-- Feb 16 [Microsoft Intune 勉強会 第 1 回目](https://configmgr.connpass.com/event/309957/)
+- Mar 12 [第12回著作権法セミナー（VRChat実施、生成AIの法律論の最前線）](https://kittenlawoffice.connpass.com/event/310144/)
+- Mar 8 [第12回著作権法セミナー（zoom実施、生成AIの法律論の最前線）](https://kittenlawoffice.connpass.com/event/310143/)
+- Mar 1 [GIS Day in はこだて 2024：GISハンズオン講習会](https://dgh.connpass.com/event/309259/)
+- Feb 29 [【日経×note×ビットキー】エンジニア組織づくり〜立ち上げ・拡大・継続まで～](https://nikkei.connpass.com/event/308675/)
+- Feb 25 [新宿駅オフラインもくもく会](https://mokumoku-offline-tokyo.connpass.com/event/310147/)
 <!-- profile updater end: connpass -->
 
 <!---
