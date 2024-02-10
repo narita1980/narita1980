@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 12 [第12回著作権法セミナー（VRChat実施、生成AIの法律論の最前線）](https://kittenlawoffice.connpass.com/event/310144/)
-- Mar 8 [第12回著作権法セミナー（zoom実施、生成AIの法律論の最前線）](https://kittenlawoffice.connpass.com/event/310143/)
-- Mar 1 [GIS Day in はこだて 2024：GISハンズオン講習会](https://dgh.connpass.com/event/309259/)
-- Feb 29 [【日経×note×ビットキー】エンジニア組織づくり〜立ち上げ・拡大・継続まで～](https://nikkei.connpass.com/event/308675/)
-- Feb 25 [新宿駅オフラインもくもく会](https://mokumoku-offline-tokyo.connpass.com/event/310147/)
+- Mar 7 [SC4Y ('23#5) IT・情報系 北海道まったりLT大会 (ナイトセッション)](https://sc4y.connpass.com/event/310172/)
+- Feb 24 [沖縄モバイルアプリ開発勉強会 #2](https://okimobdev.connpass.com/event/306586/)
+- Feb 20 [【初心者歓迎】生成AIに独自知識を回答させる「RAG」入門ハンズオン【1時間で構築】](https://connpass.com/event/310266/)
+- Feb 18 [【限定12名】新宿の駅近!デザイン添削＆デザイナー交流会](https://connpass.com/event/310263/)
+- Feb 16 [建築情報学会Meetup Vol.007 (東京)](https://ais-j.connpass.com/event/307294/)
 <!-- profile updater end: connpass -->
 
 <!---
