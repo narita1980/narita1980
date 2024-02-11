@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 7 [SC4Y ('23#5) IT・情報系 北海道まったりLT大会 (ナイトセッション)](https://sc4y.connpass.com/event/310172/)
-- Feb 24 [沖縄モバイルアプリ開発勉強会 #2](https://okimobdev.connpass.com/event/306586/)
-- Feb 20 [【初心者歓迎】生成AIに独自知識を回答させる「RAG」入門ハンズオン【1時間で構築】](https://connpass.com/event/310266/)
-- Feb 18 [【限定12名】新宿の駅近!デザイン添削＆デザイナー交流会](https://connpass.com/event/310263/)
-- Feb 16 [建築情報学会Meetup Vol.007 (東京)](https://ais-j.connpass.com/event/307294/)
+- Mar 16 [小江戸らぐ 3月のオフな集まり(第260回)](https://koedolug.connpass.com/event/310327/)
+- Mar 3 [No.122 CoderDojo瑞穂 / 刈谷マイクロメーカーフェア](https://coderdojo-mizuho.connpass.com/event/309008/)
+- Feb 28 [【オンライン開催】第56回　スクラムマスターの働きってどう評価するの？](https://agile-hiyoko-club.connpass.com/event/310014/)
+- Feb 28 [デザインパターン #1 ストラテジーとステート](https://kagoben.connpass.com/event/309849/)
+- Feb 26 [スマートエスイーセミナー: アジャイルアーキテクチャと品質](https://smartse.connpass.com/event/310135/)
 <!-- profile updater end: connpass -->
 
 <!---
