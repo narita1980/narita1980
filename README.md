@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 16 [小江戸らぐ 3月のオフな集まり(第260回)](https://koedolug.connpass.com/event/310327/)
-- Mar 3 [No.122 CoderDojo瑞穂 / 刈谷マイクロメーカーフェア](https://coderdojo-mizuho.connpass.com/event/309008/)
-- Feb 28 [【オンライン開催】第56回　スクラムマスターの働きってどう評価するの？](https://agile-hiyoko-club.connpass.com/event/310014/)
-- Feb 28 [デザインパターン #1 ストラテジーとステート](https://kagoben.connpass.com/event/309849/)
-- Feb 26 [スマートエスイーセミナー: アジャイルアーキテクチャと品質](https://smartse.connpass.com/event/310135/)
+- Mar 23 [kintone Café 栃木 vol.1](https://kintonecafe-tochigi.connpass.com/event/308191/)
+- Feb 24 [.NETラボ 勉強会 2024年2月](https://dotnetlab.connpass.com/event/309012/)
+- Feb 23 [【第40回】Shopify開発者向け勉強会](https://shopify-meet.connpass.com/event/310375/)
+- Feb 23 [第5回オープンCAE勉強会＠横浜](https://ocbyokohama.connpass.com/event/307887/)
+- Feb 22 [あつまれデザイナ＆エンジニア 番外編 ~新春 鮮魚解体&LT大会~](https://atsumare-tech.connpass.com/event/307377/)
 <!-- profile updater end: connpass -->
 
 <!---
