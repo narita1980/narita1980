@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 23 [kintone Café 栃木 vol.1](https://kintonecafe-tochigi.connpass.com/event/308191/)
-- Feb 24 [.NETラボ 勉強会 2024年2月](https://dotnetlab.connpass.com/event/309012/)
-- Feb 23 [【第40回】Shopify開発者向け勉強会](https://shopify-meet.connpass.com/event/310375/)
-- Feb 23 [第5回オープンCAE勉強会＠横浜](https://ocbyokohama.connpass.com/event/307887/)
-- Feb 22 [あつまれデザイナ＆エンジニア 番外編 ~新春 鮮魚解体&LT大会~](https://atsumare-tech.connpass.com/event/307377/)
+- Mar 1 [平日夜開催！自由参加　もくもく会](https://morning-activity.connpass.com/event/310441/)
+- Feb 26 [開発組織から経営層までが開発生産性を考える時代へ - DMMが伝えたい組織づくり](https://developer-productivity-engineering.connpass.com/event/310155/)
+- Feb 22 [PyConKyushu 2024 定例会 #6](https://pycon-kyushu.connpass.com/event/310459/)
+- Feb 21 [【IT×ガンダム】ライトニングトーク大会 vol.4～RPALTスピンオフLT会～](https://rpacommunity.connpass.com/event/309982/)
+- Feb 20 [IT系&誰でも参加OK！もくもく会_朝活_2/20(火)](https://morimori.connpass.com/event/310456/)
 <!-- profile updater end: connpass -->
 
 <!---
