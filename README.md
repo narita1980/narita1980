@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 1 [平日夜開催！自由参加　もくもく会](https://morning-activity.connpass.com/event/310441/)
-- Feb 26 [開発組織から経営層までが開発生産性を考える時代へ - DMMが伝えたい組織づくり](https://developer-productivity-engineering.connpass.com/event/310155/)
-- Feb 22 [PyConKyushu 2024 定例会 #6](https://pycon-kyushu.connpass.com/event/310459/)
-- Feb 21 [【IT×ガンダム】ライトニングトーク大会 vol.4～RPALTスピンオフLT会～](https://rpacommunity.connpass.com/event/309982/)
-- Feb 20 [IT系&誰でも参加OK！もくもく会_朝活_2/20(火)](https://morimori.connpass.com/event/310456/)
+- Mar 24 [【ハンズオン】クラウド技術勉強会 AWS入門](https://mokumoku-osaka.connpass.com/event/310596/)
+- Feb 29 [Node-REDのGit機能を学ぶハンズオン](https://node-red.connpass.com/event/310561/)
+- Feb 22 [江別AI勉強会 Vol.5](https://ebetsu-ai.connpass.com/event/310597/)
+- Feb 17 [もくもくもかい（discord）](https://connpass.com/event/310595/)
+- Feb 16 [QUNOG 28 Meeting (長崎県長崎市)](https://qunog.connpass.com/event/307301/)
 <!-- profile updater end: connpass -->
 
 <!---
