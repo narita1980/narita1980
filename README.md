@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 24 [【ハンズオン】クラウド技術勉強会 AWS入門](https://mokumoku-osaka.connpass.com/event/310596/)
-- Feb 29 [Node-REDのGit機能を学ぶハンズオン](https://node-red.connpass.com/event/310561/)
-- Feb 22 [江別AI勉強会 Vol.5](https://ebetsu-ai.connpass.com/event/310597/)
-- Feb 17 [もくもくもかい（discord）](https://connpass.com/event/310595/)
-- Feb 16 [QUNOG 28 Meeting (長崎県長崎市)](https://qunog.connpass.com/event/307301/)
+- Apr 13 [第2回 Azure Travelers 勉強会 神戸の旅](https://jat.connpass.com/event/307897/)
+- Mar 9 [第78回 CoderDojo 福岡 【オンライン】+ 会場：fgn ２階（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/310716/)
+- Feb 28 [【2/28(水) 19:00~】生成AI交流会&LT](https://creator-square.connpass.com/event/310054/)
+- Feb 24 [中之島ロボットチャレンジシンポジウム2023](https://nakanoshima.connpass.com/event/310078/)
+- Feb 21 [第9回オープンエッジデバイス研究会](https://openedgedevice.connpass.com/event/306263/)
 <!-- profile updater end: connpass -->
 
 <!---
