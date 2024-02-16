@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [第2回 Azure Travelers 勉強会 神戸の旅](https://jat.connpass.com/event/307897/)
-- Mar 9 [第78回 CoderDojo 福岡 【オンライン】+ 会場：fgn ２階（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/310716/)
-- Feb 28 [【2/28(水) 19:00~】生成AI交流会&LT](https://creator-square.connpass.com/event/310054/)
-- Feb 24 [中之島ロボットチャレンジシンポジウム2023](https://nakanoshima.connpass.com/event/310078/)
-- Feb 21 [第9回オープンエッジデバイス研究会](https://openedgedevice.connpass.com/event/306263/)
+- Mar 14 [Docker コンテナーから始めるクラウドネイティブへの道](https://xlsoftdevops.connpass.com/event/310813/)
+- Mar 6 [TechBrew in 東京 〜技術コミュニティと共に歩むエンジニアキャリア〜](https://findy.connpass.com/event/310554/)
+- Feb 22 [あつまれデザイナ＆エンジニア 番外編 ~新春 鮮魚解体&LT大会~](https://atsumare-tech.connpass.com/event/307377/)
+- Feb 22 [Postmanオンラインワークショップ - API認証](https://postman.connpass.com/event/308506/)
+- Feb 22 [IT系&誰でも参加OK！もくもく会_朝活_2/22(木)](https://morimori.connpass.com/event/310816/)
 <!-- profile updater end: connpass -->
 
 <!---
