@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 14 [Docker コンテナーから始めるクラウドネイティブへの道](https://xlsoftdevops.connpass.com/event/310813/)
-- Mar 6 [TechBrew in 東京 〜技術コミュニティと共に歩むエンジニアキャリア〜](https://findy.connpass.com/event/310554/)
-- Feb 22 [あつまれデザイナ＆エンジニア 番外編 ~新春 鮮魚解体&LT大会~](https://atsumare-tech.connpass.com/event/307377/)
-- Feb 22 [Postmanオンラインワークショップ - API認証](https://postman.connpass.com/event/308506/)
-- Feb 22 [IT系&誰でも参加OK！もくもく会_朝活_2/22(木)](https://morimori.connpass.com/event/310816/)
+- Mar 11 [【オンライン】3/11(月)5時〜7時：Flutter好きが集まる朝もく会（第385回）](https://flutter-asamoku.connpass.com/event/310498/)
+- Mar 8 [TrailblazerDX 2024 Main Keynote Watch Party](https://sfag.connpass.com/event/310909/)
+- Mar 4 [【オンライン】3/4(月)5時〜7時：Flutter好きが集まる朝もく会（第384回）](https://flutter-asamoku.connpass.com/event/310495/)
+- Feb 24 [IT系&誰でも参加OK！もくもく会_朝活_2/24(土)](https://morimori.connpass.com/event/310907/)
+- Feb 23 [TDC の検証環境を考える会 #03](https://configmgr.connpass.com/event/310906/)
 <!-- profile updater end: connpass -->
 
 <!---
