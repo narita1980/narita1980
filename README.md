@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 11 [【オンライン】3/11(月)5時〜7時：Flutter好きが集まる朝もく会（第385回）](https://flutter-asamoku.connpass.com/event/310498/)
-- Mar 8 [TrailblazerDX 2024 Main Keynote Watch Party](https://sfag.connpass.com/event/310909/)
-- Mar 4 [【オンライン】3/4(月)5時〜7時：Flutter好きが集まる朝もく会（第384回）](https://flutter-asamoku.connpass.com/event/310495/)
-- Feb 24 [IT系&誰でも参加OK！もくもく会_朝活_2/24(土)](https://morimori.connpass.com/event/310907/)
-- Feb 23 [TDC の検証環境を考える会 #03](https://configmgr.connpass.com/event/310906/)
+- Mar 21 [第十八回材料シミュレーションもくもく会（オンライン）](https://m3aterial.connpass.com/event/310902/)
+- Mar 16 [第3回 ツキイチFS勉強会](https://factoryscientist.connpass.com/event/310964/)
+- Mar 9 [AWS IoT入門ワークショップ（ESP32とAWS IoTでデータの送受信をしよう）](https://iotlab.connpass.com/event/305471/)
+- Feb 28 [【2/28(水) 19:00~】生成AI交流会&LT](https://creator-square.connpass.com/event/310054/)
+- Feb 26 [飲食店で学ぶ「toBスタートアップの開発体制・プロセス」〜急成長スタートアップ3社の事例から〜](https://dinii.connpass.com/event/308827/)
 <!-- profile updater end: connpass -->
 
 <!---
