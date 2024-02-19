@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 21 [第十八回材料シミュレーションもくもく会（オンライン）](https://m3aterial.connpass.com/event/310902/)
-- Mar 16 [第3回 ツキイチFS勉強会](https://factoryscientist.connpass.com/event/310964/)
-- Mar 9 [AWS IoT入門ワークショップ（ESP32とAWS IoTでデータの送受信をしよう）](https://iotlab.connpass.com/event/305471/)
-- Feb 28 [【2/28(水) 19:00~】生成AI交流会&LT](https://creator-square.connpass.com/event/310054/)
-- Feb 26 [飲食店で学ぶ「toBスタートアップの開発体制・プロセス」〜急成長スタートアップ3社の事例から〜](https://dinii.connpass.com/event/308827/)
+- Mar 9 [nagara.rb 0.8.4 もくもく会  at Neo work-Gifu](https://nagara-rb.connpass.com/event/311032/)
+- Mar 7 [徳丸さんが指南 Webアプリケーション開発に潜むリスクのケーススタディ](https://findy.connpass.com/event/310778/)
+- Feb 29 [障害者雇用とIT人材の活躍について](https://cdle-fukuoka.connpass.com/event/310214/)
+- Feb 29 [【先着50名・オンライン開催】イチから学ぶ「Apple Vision Pro」とユースケース](https://awenitetokyo.connpass.com/event/310658/)
+- Feb 26 [早朝オンライン[Math & Coding] 多様体の基礎 #33](https://math-coding.connpass.com/event/311034/)
 <!-- profile updater end: connpass -->
 
 <!---
