@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 9 [nagara.rb 0.8.4 もくもく会  at Neo work-Gifu](https://nagara-rb.connpass.com/event/311032/)
-- Mar 7 [徳丸さんが指南 Webアプリケーション開発に潜むリスクのケーススタディ](https://findy.connpass.com/event/310778/)
-- Feb 29 [障害者雇用とIT人材の活躍について](https://cdle-fukuoka.connpass.com/event/310214/)
-- Feb 29 [【先着50名・オンライン開催】イチから学ぶ「Apple Vision Pro」とユースケース](https://awenitetokyo.connpass.com/event/310658/)
-- Feb 26 [早朝オンライン[Math & Coding] 多様体の基礎 #33](https://math-coding.connpass.com/event/311034/)
+- Mar 7 [令和5年度 第4回ネットワーク委員会](https://jcta-shinetsu-network-group.connpass.com/event/309771/)
+- Feb 28 [【2/28(水) 19:00~】生成AI交流会&LT](https://creator-square.connpass.com/event/310054/)
+- Feb 28 [TechBrew in 東京 〜フロントエンド技術選定、その後どうなった？〜](https://findy.connpass.com/event/310614/)
+- Feb 28 [あつまれOutSystems Developer!開発者超会議 2024](https://outsystems-chubu.connpass.com/event/307692/)
+- Feb 27 [IT系&誰でも参加OK！もくもく会_朝活_2/27(火)](https://morimori.connpass.com/event/311152/)
 <!-- profile updater end: connpass -->
 
 <!---
