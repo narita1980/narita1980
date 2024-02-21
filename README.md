@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 7 [令和5年度 第4回ネットワーク委員会](https://jcta-shinetsu-network-group.connpass.com/event/309771/)
-- Feb 28 [【2/28(水) 19:00~】生成AI交流会&LT](https://creator-square.connpass.com/event/310054/)
-- Feb 28 [TechBrew in 東京 〜フロントエンド技術選定、その後どうなった？〜](https://findy.connpass.com/event/310614/)
-- Feb 28 [あつまれOutSystems Developer!開発者超会議 2024](https://outsystems-chubu.connpass.com/event/307692/)
-- Feb 27 [IT系&誰でも参加OK！もくもく会_朝活_2/27(火)](https://morimori.connpass.com/event/311152/)
+- Mar 27 [【実務経験1~3年Javaエンジニア対象】フリーランスエンジニアで必要なスキルとは？](https://connpass.com/event/311158/)
+- Mar 19 [React Native Meetup #15 ft. RevenueCat](https://react-native-meetup.connpass.com/event/310838/)
+- Mar 17 [Machine Learning A Probabilistic Perspective輪読会#57](https://thinkerslab.connpass.com/event/311254/)
+- Mar 17 [ネットワーク分析 輪読会#3](https://thinkerslab.connpass.com/event/311253/)
+- Mar 8 [デジタルハプティクス・キックオフシンポジウム](https://connpass.com/event/311252/)
 <!-- profile updater end: connpass -->
 
 <!---
