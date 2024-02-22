@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 27 [【実務経験1~3年Javaエンジニア対象】フリーランスエンジニアで必要なスキルとは？](https://connpass.com/event/311158/)
-- Mar 19 [React Native Meetup #15 ft. RevenueCat](https://react-native-meetup.connpass.com/event/310838/)
-- Mar 17 [Machine Learning A Probabilistic Perspective輪読会#57](https://thinkerslab.connpass.com/event/311254/)
-- Mar 17 [ネットワーク分析 輪読会#3](https://thinkerslab.connpass.com/event/311253/)
-- Mar 8 [デジタルハプティクス・キックオフシンポジウム](https://connpass.com/event/311252/)
+- May 26 [JSI/TRL@三番町  同窓会](https://connpass.com/event/309395/)
+- Mar 23 [kintone Café 栃木 vol.1](https://kintonecafe-tochigi.connpass.com/event/308191/)
+- Mar 22 [NRUG沖縄支部 (New Relic User Group) Vol.1 ハンズオン！＠那覇](https://nrug-okinawa.connpass.com/event/311329/)
+- Mar 13 [なぜ、情シス部門と業務部門は分かり合えないのか　現場理解のズレを「組織とシステムの構成」から読み解く](https://anitya-darsana.connpass.com/event/310704/)
+- Feb 29 [IT系&誰でも参加OK！もくもく会_朝活_2/29(木)](https://morimori.connpass.com/event/311361/)
 <!-- profile updater end: connpass -->
 
 <!---
