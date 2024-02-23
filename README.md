@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 26 [JSI/TRL@三番町  同窓会](https://connpass.com/event/309395/)
-- Mar 23 [kintone Café 栃木 vol.1](https://kintonecafe-tochigi.connpass.com/event/308191/)
-- Mar 22 [NRUG沖縄支部 (New Relic User Group) Vol.1 ハンズオン！＠那覇](https://nrug-okinawa.connpass.com/event/311329/)
-- Mar 13 [なぜ、情シス部門と業務部門は分かり合えないのか　現場理解のズレを「組織とシステムの構成」から読み解く](https://anitya-darsana.connpass.com/event/310704/)
-- Feb 29 [IT系&誰でも参加OK！もくもく会_朝活_2/29(木)](https://morimori.connpass.com/event/311361/)
+- Apr 13 [【リアル開催・景品有】ALGYAN 9周年【解散】最後のLT＆懇親会・新時代を作るのは、あなたです！](https://algyan.connpass.com/event/310312/)
+- Mar 30 [JMLT vol.7 in Sapporo](https://jmlt.connpass.com/event/310998/)
+- Mar 23 [Matsuriba MAX 2024](https://matsuriba-tech.connpass.com/event/306853/)
+- Mar 19 [JAWS-UG東京 ランチタイムLT会 #9](https://jawsug.connpass.com/event/310995/)
+- Mar 16 [魔女のお茶会#5 おふらいん！（2024/冬）](https://witchskeyparty.connpass.com/event/308427/)
 <!-- profile updater end: connpass -->
 
 <!---
