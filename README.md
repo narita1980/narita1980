@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [【リアル開催・景品有】ALGYAN 9周年【解散】最後のLT＆懇親会・新時代を作るのは、あなたです！](https://algyan.connpass.com/event/310312/)
-- Mar 30 [JMLT vol.7 in Sapporo](https://jmlt.connpass.com/event/310998/)
-- Mar 23 [Matsuriba MAX 2024](https://matsuriba-tech.connpass.com/event/306853/)
-- Mar 19 [JAWS-UG東京 ランチタイムLT会 #9](https://jawsug.connpass.com/event/310995/)
-- Mar 16 [魔女のお茶会#5 おふらいん！（2024/冬）](https://witchskeyparty.connpass.com/event/308427/)
+- Mar 31 [[勉強会]Rustをゆっくり学ぶ会　Vol.23](https://rust4fun.connpass.com/event/311537/)
+- Mar 20 [M365セキュリティ&ゼロトラスト勉強会 #11](https://m365security.connpass.com/event/311501/)
+- Mar 17 [[勉強会]Rustをゆっくり学ぶ会　Vol.22](https://rust4fun.connpass.com/event/311536/)
+- Mar 15 [福岡フロントエンド勉強会 #1](https://connpass.com/event/311524/)
+- Mar 1 [IT系&誰でも参加OK！もくもく会_朝活_3/1(金)](https://morimori.connpass.com/event/311535/)
 <!-- profile updater end: connpass -->
 
 <!---
