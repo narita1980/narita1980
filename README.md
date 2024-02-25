@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 31 [[勉強会]Rustをゆっくり学ぶ会　Vol.23](https://rust4fun.connpass.com/event/311537/)
-- Mar 20 [M365セキュリティ&ゼロトラスト勉強会 #11](https://m365security.connpass.com/event/311501/)
-- Mar 17 [[勉強会]Rustをゆっくり学ぶ会　Vol.22](https://rust4fun.connpass.com/event/311536/)
-- Mar 15 [福岡フロントエンド勉強会 #1](https://connpass.com/event/311524/)
-- Mar 1 [IT系&誰でも参加OK！もくもく会_朝活_3/1(金)](https://morimori.connpass.com/event/311535/)
+- Apr 13 [【リアル開催・景品有】ALGYAN 9周年【解散】最後のLT＆懇親会・新時代を作るのは、あなたです！](https://algyan.connpass.com/event/310312/)
+- Mar 23 [富山デザイン勉強会＃4｢未定」](https://toyama-design.connpass.com/event/311598/)
+- Mar 21 [KC3 Meet! Vol.02](https://kc3.connpass.com/event/310566/)
+- Mar 8 [第16回ACRiウェビナー：リアルタイム制御におけるFPGAの活用](https://acri.connpass.com/event/311583/)
+- Mar 3 [第12回 全日本コンピュータビジョン勉強会](https://kantocv.connpass.com/event/307177/)
 <!-- profile updater end: connpass -->
 
 <!---
