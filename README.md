@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [【リアル開催・景品有】ALGYAN 9周年【解散】最後のLT＆懇親会・新時代を作るのは、あなたです！](https://algyan.connpass.com/event/310312/)
-- Mar 23 [富山デザイン勉強会＃4｢未定」](https://toyama-design.connpass.com/event/311598/)
-- Mar 21 [KC3 Meet! Vol.02](https://kc3.connpass.com/event/310566/)
-- Mar 8 [第16回ACRiウェビナー：リアルタイム制御におけるFPGAの活用](https://acri.connpass.com/event/311583/)
-- Mar 3 [第12回 全日本コンピュータビジョン勉強会](https://kantocv.connpass.com/event/307177/)
+- May 26 [JSI/TRL@三番町  同窓会](https://connpass.com/event/309395/)
+- Mar 25 [早朝オンライン[Math & Coding] 多様体の基礎 #34](https://math-coding.connpass.com/event/311674/)
+- Mar 21 [TechBrew in 東京 〜mtx2sさんと考えるコード品質とビジネスインパクト〜](https://findy.connpass.com/event/310772/)
+- Mar 18 [【WHOM主催 人事向けイベント】松本 淳さんと語る！人事のキャリア（オフライン開催）](https://whom.connpass.com/event/311347/)
+- Mar 10 [新横浜インディゲームもくもく会 第11回（協賛：学校法人岩崎学園 横浜デジタルアーツ専門学](https://indiegame.connpass.com/event/311679/)
 <!-- profile updater end: connpass -->
 
 <!---
