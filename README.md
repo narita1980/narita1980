@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 26 [JSI/TRL@三番町  同窓会](https://connpass.com/event/309395/)
-- Mar 25 [早朝オンライン[Math & Coding] 多様体の基礎 #34](https://math-coding.connpass.com/event/311674/)
-- Mar 21 [TechBrew in 東京 〜mtx2sさんと考えるコード品質とビジネスインパクト〜](https://findy.connpass.com/event/310772/)
-- Mar 18 [【WHOM主催 人事向けイベント】松本 淳さんと語る！人事のキャリア（オフライン開催）](https://whom.connpass.com/event/311347/)
-- Mar 10 [新横浜インディゲームもくもく会 第11回（協賛：学校法人岩崎学園 横浜デジタルアーツ専門学](https://indiegame.connpass.com/event/311679/)
+- Mar 21 [【初心者大歓迎】3/21(木）【第16回】エンジニア/デザイナーもくもく会](https://better-place-it-mokumoku.connpass.com/event/311806/)
+- Mar 21 [Tokyo Tech Leads Circle - Meetup #6](https://tokyo-tech-leads-circle.connpass.com/event/311113/)
+- Mar 18 [WEST-SECセキュリティ勉強会#5 Splunk実機操作（初歩）](https://west-sec.connpass.com/event/307647/)
+- Mar 7 [JBUG沖縄#6 効率的なプロジェクトの進め方とチームコミュニケーション](https://jbug.connpass.com/event/309408/)
+- Mar 6 [【初心者大歓迎】3/6(水）【第15回】エンジニア/デザイナーもくもく会](https://better-place-it-mokumoku.connpass.com/event/311805/)
 <!-- profile updater end: connpass -->
 
 <!---
