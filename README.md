@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 21 [【初心者大歓迎】3/21(木）【第16回】エンジニア/デザイナーもくもく会](https://better-place-it-mokumoku.connpass.com/event/311806/)
-- Mar 21 [Tokyo Tech Leads Circle - Meetup #6](https://tokyo-tech-leads-circle.connpass.com/event/311113/)
+- Mar 22 [Geeks Who Drink in Osaka！〜Tech好きが集まる福岡発イベントの大阪開催〜](https://nulab.connpass.com/event/311915/)
 - Mar 18 [WEST-SECセキュリティ勉強会#5 Splunk実機操作（初歩）](https://west-sec.connpass.com/event/307647/)
-- Mar 7 [JBUG沖縄#6 効率的なプロジェクトの進め方とチームコミュニケーション](https://jbug.connpass.com/event/309408/)
-- Mar 6 [【初心者大歓迎】3/6(水）【第15回】エンジニア/デザイナーもくもく会](https://better-place-it-mokumoku.connpass.com/event/311805/)
+- Mar 13 [SREたちの廊下〜あなたの現場での悩み、あの本にヒントがあるかも〜](https://findy.connpass.com/event/311323/)
+- Mar 8 [デジタルハプティクス・キックオフシンポジウム](https://connpass.com/event/311252/)
+- Mar 6 [【ログラス×ラクス】PdM Meetup ～製品・組織フェーズによって異なるPdMの役割や考え方〜](https://loglass-tech.connpass.com/event/308736/)
 <!-- profile updater end: connpass -->
 
 <!---
