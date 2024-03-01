@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 30 [SIGYO IT「ストックオプション」~1円ストックオプションは結局どうなの？~](https://sigyo-it.connpass.com/event/309999/)
-- Mar 28 [Shinjuku.rb #90 再開プレDrink Up!](https://shinjukurb.connpass.com/event/311538/)
-- Mar 27 [LLM Night 〜検証・開発・運用改善の工夫やプロセスについて〜](https://yojo.connpass.com/event/307923/)
-- Mar 18 [事業価値を最大化し、組織の力を向上させる - 開発生産性が支えるプロダクトの進化](https://developer-productivity-engineering.connpass.com/event/311767/)
-- Mar 13 [Microsoft Security Monthly News #5](https://sutonari.connpass.com/event/312038/)
+- Apr 13 [Flutter.Okinawa Meetup #7 Gemini SDKを使ったAIアプリデビュー](https://flutter-okinawa.connpass.com/event/310848/)
+- Apr 4 [【ママパパ エンジニアあつまれ！】あつまれエンジニアの森 #2](https://atuen.connpass.com/event/310952/)
+- Mar 18 [未読でもOK！【オンライン開催】ティム・インゴルド『メイキング』読書会 第２回](https://humanities.connpass.com/event/312117/)
+- Mar 16 [CoderDojo吉備Okayama #034](https://coderdojokibi.connpass.com/event/305490/)
+- Mar 13 [【熊本オンライン会場】AIミーティング 2024/03/13 #ChatGPT #Gemini](https://kumamcn.connpass.com/event/312119/)
 <!-- profile updater end: connpass -->
 
 <!---
