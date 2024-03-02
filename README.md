@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [Flutter.Okinawa Meetup #7 Gemini SDKを使ったAIアプリデビュー](https://flutter-okinawa.connpass.com/event/310848/)
 - Apr 4 [【ママパパ エンジニアあつまれ！】あつまれエンジニアの森 #2](https://atuen.connpass.com/event/310952/)
-- Mar 18 [未読でもOK！【オンライン開催】ティム・インゴルド『メイキング』読書会 第２回](https://humanities.connpass.com/event/312117/)
-- Mar 16 [CoderDojo吉備Okayama #034](https://coderdojokibi.connpass.com/event/305490/)
-- Mar 13 [【熊本オンライン会場】AIミーティング 2024/03/13 #ChatGPT #Gemini](https://kumamcn.connpass.com/event/312119/)
+- Mar 30 [【新宿】ゆるもくかい#9回目 2024年第1号！](https://connpass.com/event/312232/)
+- Mar 10 [CoderDojo名護（屋部地区センター・交流エントランス）](https://coderdojo-nago.connpass.com/event/310992/)
+- Mar 9 [第27回『Effective Java 第3版』オンライン読書会（第3サイクル：3回目）](https://ej3e-reading.connpass.com/event/310296/)
+- Mar 9 [IT系&誰でも参加OK！もくもく会_朝活_3/9(土)](https://morimori.connpass.com/event/312246/)
 <!-- profile updater end: connpass -->
 
 <!---
