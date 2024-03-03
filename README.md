@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 4 [【ママパパ エンジニアあつまれ！】あつまれエンジニアの森 #2](https://atuen.connpass.com/event/310952/)
-- Mar 30 [【新宿】ゆるもくかい#9回目 2024年第1号！](https://connpass.com/event/312232/)
-- Mar 10 [CoderDojo名護（屋部地区センター・交流エントランス）](https://coderdojo-nago.connpass.com/event/310992/)
-- Mar 9 [第27回『Effective Java 第3版』オンライン読書会（第3サイクル：3回目）](https://ej3e-reading.connpass.com/event/310296/)
-- Mar 9 [IT系&誰でも参加OK！もくもく会_朝活_3/9(土)](https://morimori.connpass.com/event/312246/)
+- May 4 [FortiGate基礎のハンズオンセミナー【品川開催】](https://nespe.connpass.com/event/312306/)
+- Mar 31 [第55回 CoderDojo池袋@ユニーク・アイネット](https://coderdojo-ikebukuro.connpass.com/event/312310/)
+- Mar 19 [JAWS-UG東京 ランチタイムLT会 #9](https://jawsug.connpass.com/event/310995/)
+- Mar 14 [ChatGPTのLT会~面倒なことはChatGPTにやらせようコミュニティ主催~](https://let-chatgpt-do-the-troublesome-work.connpass.com/event/312091/)
+- Mar 10 [IT系&誰でも参加OK！もくもく会_朝活_3/10(日)](https://morimori.connpass.com/event/312308/)
 <!-- profile updater end: connpass -->
 
 <!---
