@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 4 [FortiGate基礎のハンズオンセミナー【品川開催】](https://nespe.connpass.com/event/312306/)
-- Mar 31 [第55回 CoderDojo池袋@ユニーク・アイネット](https://coderdojo-ikebukuro.connpass.com/event/312310/)
-- Mar 19 [JAWS-UG東京 ランチタイムLT会 #9](https://jawsug.connpass.com/event/310995/)
-- Mar 14 [ChatGPTのLT会~面倒なことはChatGPTにやらせようコミュニティ主催~](https://let-chatgpt-do-the-troublesome-work.connpass.com/event/312091/)
-- Mar 10 [IT系&誰でも参加OK！もくもく会_朝活_3/10(日)](https://morimori.connpass.com/event/312308/)
+- Mar 28 [Encraft #12 Frontend Quiz Night](https://knowledgework.connpass.com/event/311056/)
+- Mar 28 [Community Manager Meetup #02](https://cm2.connpass.com/event/311256/)
+- Mar 27 [生成AIセキュリティ対策事例共有会 ／Azure OpenAI 最新情報セミナー特別同時開催！](https://tech-street.connpass.com/event/311093/)
+- Mar 26 [UV Study : E2Eテスト LT会](https://uniquevision.connpass.com/event/311382/)
+- Mar 25 [【LT募集】AI4D Gathering @虎ノ門](https://connpass.com/event/312085/)
 <!-- profile updater end: connpass -->
 
 <!---
