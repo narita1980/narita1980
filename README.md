@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 28 [Encraft #12 Frontend Quiz Night](https://knowledgework.connpass.com/event/311056/)
-- Mar 28 [Community Manager Meetup #02](https://cm2.connpass.com/event/311256/)
-- Mar 27 [生成AIセキュリティ対策事例共有会 ／Azure OpenAI 最新情報セミナー特別同時開催！](https://tech-street.connpass.com/event/311093/)
-- Mar 26 [UV Study : E2Eテスト LT会](https://uniquevision.connpass.com/event/311382/)
-- Mar 25 [【LT募集】AI4D Gathering @虎ノ門](https://connpass.com/event/312085/)
+- Apr 20 [THE岡山IT座談会](https://freelance-matchup.connpass.com/event/312554/)
+- Mar 28 [JapanVMUG March Meeting 2024](https://vmug-jp.connpass.com/event/311815/)
+- Mar 21 [TechBrew in 東京 〜mtx2sさんと考えるコード品質とビジネスインパクト〜](https://findy.connpass.com/event/310772/)
+- Mar 14 [XR信州 座談会 #17 2024/03/14 安曇野観光メタバースを見て回ろう](https://xr-shinshu.connpass.com/event/312551/)
+- Mar 13 [ラーソーメンを食べに行く口実を得るためにプロポーザルをもくもく考える集い](https://connpass.com/event/312546/)
 <!-- profile updater end: connpass -->
 
 <!---
