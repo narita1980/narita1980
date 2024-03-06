@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 20 [THE岡山IT座談会](https://freelance-matchup.connpass.com/event/312554/)
-- Mar 28 [JapanVMUG March Meeting 2024](https://vmug-jp.connpass.com/event/311815/)
-- Mar 21 [TechBrew in 東京 〜mtx2sさんと考えるコード品質とビジネスインパクト〜](https://findy.connpass.com/event/310772/)
-- Mar 14 [XR信州 座談会 #17 2024/03/14 安曇野観光メタバースを見て回ろう](https://xr-shinshu.connpass.com/event/312551/)
-- Mar 13 [ラーソーメンを食べに行く口実を得るためにプロポーザルをもくもく考える集い](https://connpass.com/event/312546/)
+- Apr 19 [インテル(R) ソフトウェア開発ツールによるデータ並列 C++ プログラミング・トレーニング](https://xlsoft02.connpass.com/event/312682/)
+- Apr 9 [Google流 ダイバーシティ&インクルージョン読書会 #0](https://wiaj.connpass.com/event/312266/)
+- Mar 31 [「リンカ・ローダ実践開発テクニック」読書会(23)](https://linker-loader.connpass.com/event/312687/)
+- Mar 30 [第30回 たけともそん in 荻窪（ボルダリング）](https://soudai1025.connpass.com/event/312088/)
+- Mar 27 [JAWS-UG初心者支部#59 山下さんを囲んで LT 大会](https://jawsug-bgnr.connpass.com/event/310308/)
 <!-- profile updater end: connpass -->
 
 <!---
