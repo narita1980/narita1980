@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 19 [インテル(R) ソフトウェア開発ツールによるデータ並列 C++ プログラミング・トレーニング](https://xlsoft02.connpass.com/event/312682/)
-- Apr 9 [Google流 ダイバーシティ&インクルージョン読書会 #0](https://wiaj.connpass.com/event/312266/)
-- Mar 31 [「リンカ・ローダ実践開発テクニック」読書会(23)](https://linker-loader.connpass.com/event/312687/)
-- Mar 30 [第30回 たけともそん in 荻窪（ボルダリング）](https://soudai1025.connpass.com/event/312088/)
-- Mar 27 [JAWS-UG初心者支部#59 山下さんを囲んで LT 大会](https://jawsug-bgnr.connpass.com/event/310308/)
+- Apr 13 [第27回『Effective Java 第3版』オンライン読書会（第3サイクル：3回目）](https://ej3e-reading.connpass.com/event/310296/)
+- Mar 31 [甲斐国もくもく会 #1 (甲府/オンライン)](https://kainokuni.connpass.com/event/312679/)
+- Mar 28 [Raccoon Tech Connect #3 そろそろ春だから、うちの研修を紹介します](https://raccoon-holdings.connpass.com/event/310875/)
+- Mar 27 [BPStudy#199〜Essenceによる開発プロセスの品質向上](https://bpstudy.connpass.com/event/312066/)
+- Mar 25 [ハイパフォーマンスな組織をつくるための開発生産性の考え方【リンクアンドモチベーション×ココナラ】](https://developer-productivity-engineering.connpass.com/event/312695/)
 <!-- profile updater end: connpass -->
 
 <!---
