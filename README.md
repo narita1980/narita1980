@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [第27回『Effective Java 第3版』オンライン読書会（第3サイクル：3回目）](https://ej3e-reading.connpass.com/event/310296/)
-- Mar 31 [甲斐国もくもく会 #1 (甲府/オンライン)](https://kainokuni.connpass.com/event/312679/)
-- Mar 28 [Raccoon Tech Connect #3 そろそろ春だから、うちの研修を紹介します](https://raccoon-holdings.connpass.com/event/310875/)
-- Mar 27 [BPStudy#199〜Essenceによる開発プロセスの品質向上](https://bpstudy.connpass.com/event/312066/)
-- Mar 25 [ハイパフォーマンスな組織をつくるための開発生産性の考え方【リンクアンドモチベーション×ココナラ】](https://developer-productivity-engineering.connpass.com/event/312695/)
+- Apr 18 [ビジネスインパクトを最大化するEM戦略【EM Oasis #4】](https://emoasis.connpass.com/event/312868/)
+- Apr 13 [第36回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/312282/)
+- Apr 13 [第6回オープンCAE勉強会＠横浜](https://ocbyokohama.connpass.com/event/312147/)
+- Mar 26 [TypeScript 開発言語を統一 〜フロントからバックまで活用〜](https://findy.connpass.com/event/312847/)
+- Mar 24 [【LT会&勉強会】エンジニアの輪 at 福岡 エンジニアカフェ（第９回）](https://circle-of-engineer.connpass.com/event/311669/)
 <!-- profile updater end: connpass -->
 
 <!---
