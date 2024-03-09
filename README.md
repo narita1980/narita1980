@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 18 [ビジネスインパクトを最大化するEM戦略【EM Oasis #4】](https://emoasis.connpass.com/event/312868/)
-- Apr 13 [第36回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/312282/)
-- Apr 13 [第6回オープンCAE勉強会＠横浜](https://ocbyokohama.connpass.com/event/312147/)
-- Mar 26 [TypeScript 開発言語を統一 〜フロントからバックまで活用〜](https://findy.connpass.com/event/312847/)
-- Mar 24 [【LT会&勉強会】エンジニアの輪 at 福岡 エンジニアカフェ（第９回）](https://circle-of-engineer.connpass.com/event/311669/)
+- Apr 27 [C#パフォーマンス勉強会](https://cs-reading.connpass.com/event/309714/)
+- Apr 20 [CoderDojo大府共和 4月20日(土) 9:15～11:30](https://coderdojo-obu-t.connpass.com/event/308234/)
+- Apr 11 [KOBE.Laravel](https://kobe-laravel.connpass.com/event/312889/)
+- Mar 24 [CoderDojo at OIST(Conference Center Meeting Room1）](https://coderdojo-nago.connpass.com/event/311618/)
+- Mar 16 [横浜(関内) もくもく会](https://yokohama-moku.connpass.com/event/303839/)
 <!-- profile updater end: connpass -->
 
 <!---
