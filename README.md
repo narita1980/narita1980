@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 27 [C#パフォーマンス勉強会](https://cs-reading.connpass.com/event/309714/)
-- Apr 20 [CoderDojo大府共和 4月20日(土) 9:15～11:30](https://coderdojo-obu-t.connpass.com/event/308234/)
-- Apr 11 [KOBE.Laravel](https://kobe-laravel.connpass.com/event/312889/)
-- Mar 24 [CoderDojo at OIST(Conference Center Meeting Room1）](https://coderdojo-nago.connpass.com/event/311618/)
-- Mar 16 [横浜(関内) もくもく会](https://yokohama-moku.connpass.com/event/303839/)
+- Apr 19 [Platform Engineering Meetup #8](https://platformengineering.connpass.com/event/310994/)
+- Apr 13 [川口インディーゲーム製作もくもく会(Unity/Unreal Engine) 34回目](https://kawaguchimokumoku.connpass.com/event/313029/)
+- Apr 11 [Shinjuku.rb #91 好きなもの紹介LT大会](https://shinjukurb.connpass.com/event/311092/)
+- Mar 31 [tokyo.ex #24](https://beam-lang.connpass.com/event/313037/)
+- Mar 30 [JMLT vol.7 in Sapporo](https://jmlt.connpass.com/event/310998/)
 <!-- profile updater end: connpass -->
 
 <!---
