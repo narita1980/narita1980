@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 19 [Platform Engineering Meetup #8](https://platformengineering.connpass.com/event/310994/)
-- Apr 13 [川口インディーゲーム製作もくもく会(Unity/Unreal Engine) 34回目](https://kawaguchimokumoku.connpass.com/event/313029/)
-- Apr 11 [Shinjuku.rb #91 好きなもの紹介LT大会](https://shinjukurb.connpass.com/event/311092/)
-- Mar 31 [tokyo.ex #24](https://beam-lang.connpass.com/event/313037/)
-- Mar 30 [JMLT vol.7 in Sapporo](https://jmlt.connpass.com/event/310998/)
+- Apr 19 [今宵はゆるりと情シストークしよう！24回目！](https://infosys-talk.connpass.com/event/313110/)
+- Apr 19 [JAWS-UG朝会 #56](https://jawsug-asa.connpass.com/event/312976/)
+- Mar 30 [SIGYO IT「ストックオプション」~1円ストックオプションは結局どうなの？~](https://sigyo-it.connpass.com/event/309999/)
+- Mar 28 [技術カンファレンスの主催者mhidakaさん、長谷川さんを深堀り！運営の裏側とその秘訣を徹底解剖](https://findy.connpass.com/event/311186/)
+- Mar 18 [GASを使ってGoogleカレンダーを操作してみよう 無料プログラミング体験会](https://future-tech-association.connpass.com/event/313098/)
 <!-- profile updater end: connpass -->
 
 <!---
