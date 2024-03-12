@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 19 [今宵はゆるりと情シストークしよう！24回目！](https://infosys-talk.connpass.com/event/313110/)
-- Apr 19 [JAWS-UG朝会 #56](https://jawsug-asa.connpass.com/event/312976/)
-- Mar 30 [SIGYO IT「ストックオプション」~1円ストックオプションは結局どうなの？~](https://sigyo-it.connpass.com/event/309999/)
-- Mar 28 [技術カンファレンスの主催者mhidakaさん、長谷川さんを深堀り！運営の裏側とその秘訣を徹底解剖](https://findy.connpass.com/event/311186/)
-- Mar 18 [GASを使ってGoogleカレンダーを操作してみよう 無料プログラミング体験会](https://future-tech-association.connpass.com/event/313098/)
+- Mar 27 [#2 テンプレートメソッドパターンとストラテジーパターン](https://kagoben.connpass.com/event/313063/)
+- Mar 26 [TechBrew in 東京 〜バッチ処理のあれこれ〜](https://findy.connpass.com/event/312637/)
+- Mar 25 [【輪読会】第3回WEBアプリケーションアクセシビリティ【オンライン】](https://connpass.com/event/313218/)
+- Mar 24 [ウォーターフォール座談会 Online](https://setk.connpass.com/event/313052/)
+- Mar 21 [IT系&誰でも参加OK！もくもく会_朝活_3/21(木)](https://morimori.connpass.com/event/313214/)
 <!-- profile updater end: connpass -->
 
 <!---
