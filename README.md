@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 27 [#2 テンプレートメソッドパターンとストラテジーパターン](https://kagoben.connpass.com/event/313063/)
-- Mar 26 [TechBrew in 東京 〜バッチ処理のあれこれ〜](https://findy.connpass.com/event/312637/)
-- Mar 25 [【輪読会】第3回WEBアプリケーションアクセシビリティ【オンライン】](https://connpass.com/event/313218/)
-- Mar 24 [ウォーターフォール座談会 Online](https://setk.connpass.com/event/313052/)
-- Mar 21 [IT系&誰でも参加OK！もくもく会_朝活_3/21(木)](https://morimori.connpass.com/event/313214/)
+- Apr 11 [Shinjuku.rb #91 好きなもの紹介LT大会](https://shinjukurb.connpass.com/event/311092/)
+- Mar 31 [Smartphone and Beyond 2024 vol.3](https://sab.connpass.com/event/313114/)
+- Mar 31 [甲斐国もくもく会 #1 (甲府/オンライン)](https://kainokuni.connpass.com/event/312679/)
+- Mar 29 [【KURAND社 協賛】仕事とお酒を愛でる「ソースコード」レビューまつり！](https://kinto-technologies.connpass.com/event/310504/)
+- Mar 28 [【日経×ワンキャリア×NTT Com】コミュニティが生み出すプロダクトセキュリティ資料の活用術](https://nikkei.connpass.com/event/311714/)
 <!-- profile updater end: connpass -->
 
 <!---
