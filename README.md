@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 11 [Shinjuku.rb #91 好きなもの紹介LT大会](https://shinjukurb.connpass.com/event/311092/)
-- Mar 31 [Smartphone and Beyond 2024 vol.3](https://sab.connpass.com/event/313114/)
-- Mar 31 [甲斐国もくもく会 #1 (甲府/オンライン)](https://kainokuni.connpass.com/event/312679/)
-- Mar 29 [【KURAND社 協賛】仕事とお酒を愛でる「ソースコード」レビューまつり！](https://kinto-technologies.connpass.com/event/310504/)
+- May 15 [【オフライン開催】プロダクトマネージャー座談会＠Money Forward](https://connpass.com/event/312894/)
+- Mar 30 [Atelier Vision 最終発表会](https://atelier-vision.connpass.com/event/311886/)
+- Mar 30 [TOKUSHIMA Cybersecurity Meetup #14](https://tokushima-cyber-security-meetup.connpass.com/event/309007/)
 - Mar 28 [【日経×ワンキャリア×NTT Com】コミュニティが生み出すプロダクトセキュリティ資料の活用術](https://nikkei.connpass.com/event/311714/)
+- Mar 26 [TechBrew in 東京 〜バッチ処理 最適化の取り組み〜](https://findy.connpass.com/event/312637/)
 <!-- profile updater end: connpass -->
 
 <!---
