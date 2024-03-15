@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 15 [【オフライン開催】プロダクトマネージャー座談会＠Money Forward](https://connpass.com/event/312894/)
-- Mar 30 [Atelier Vision 最終発表会](https://atelier-vision.connpass.com/event/311886/)
-- Mar 30 [TOKUSHIMA Cybersecurity Meetup #14](https://tokushima-cyber-security-meetup.connpass.com/event/309007/)
-- Mar 28 [【日経×ワンキャリア×NTT Com】コミュニティが生み出すプロダクトセキュリティ資料の活用術](https://nikkei.connpass.com/event/311714/)
-- Mar 26 [TechBrew in 東京 〜バッチ処理 最適化の取り組み〜](https://findy.connpass.com/event/312637/)
+- Apr 13 [第116回「WEB TOUCH MEETING」懇親会](https://wtm.connpass.com/event/310425/)
+- Apr 10 [OpenTelemetry Observability運用の実例 Lunch LT](https://findy.connpass.com/event/313260/)
+- Mar 23 [IT系&誰でも参加OK！もくもく会_朝活_3/23(土)](https://morimori.connpass.com/event/313536/)
+- Mar 22 [【第41回】Shopify開発者向け勉強会](https://shopify-meet.connpass.com/event/311502/)
+- Mar 22 [IT系&誰でも参加OK！もくもく会_朝活_3/22(金)](https://morimori.connpass.com/event/313535/)
 <!-- profile updater end: connpass -->
 
 <!---
