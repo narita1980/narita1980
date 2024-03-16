@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [第116回「WEB TOUCH MEETING」懇親会](https://wtm.connpass.com/event/310425/)
-- Apr 10 [OpenTelemetry Observability運用の実例 Lunch LT](https://findy.connpass.com/event/313260/)
-- Mar 23 [IT系&誰でも参加OK！もくもく会_朝活_3/23(土)](https://morimori.connpass.com/event/313536/)
-- Mar 22 [【第41回】Shopify開発者向け勉強会](https://shopify-meet.connpass.com/event/311502/)
-- Mar 22 [IT系&誰でも参加OK！もくもく会_朝活_3/22(金)](https://morimori.connpass.com/event/313535/)
+- Apr 12 [インフラ技術基礎勉強会 #5](https://infra365.connpass.com/event/312035/)
+- Apr 8 [【オンライン】4/8(月)5時〜7時：Flutter好きが集まる朝もく会（第389回）](https://flutter-asamoku.connpass.com/event/313165/)
+- Apr 1 [【オンライン】4/1(月)5時〜7時：Flutter好きが集まる朝もく会（第388回）](https://flutter-asamoku.connpass.com/event/313164/)
+- Mar 26 [男性エンジニア限定イベント。エンジニアリングの面白さを女性陣と飲みながら楽しむ会](https://connpass.com/event/312839/)
+- Mar 26 [マネージャーとテックリードどっちを選ぶ？ エンジニアのキャリアについて本音で語り合う](https://enechange-meetup.connpass.com/event/313239/)
 <!-- profile updater end: connpass -->
 
 <!---
