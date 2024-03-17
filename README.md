@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 12 [インフラ技術基礎勉強会 #5](https://infra365.connpass.com/event/312035/)
-- Apr 8 [【オンライン】4/8(月)5時〜7時：Flutter好きが集まる朝もく会（第389回）](https://flutter-asamoku.connpass.com/event/313165/)
-- Apr 1 [【オンライン】4/1(月)5時〜7時：Flutter好きが集まる朝もく会（第388回）](https://flutter-asamoku.connpass.com/event/313164/)
-- Mar 26 [男性エンジニア限定イベント。エンジニアリングの面白さを女性陣と飲みながら楽しむ会](https://connpass.com/event/312839/)
-- Mar 26 [マネージャーとテックリードどっちを選ぶ？ エンジニアのキャリアについて本音で語り合う](https://enechange-meetup.connpass.com/event/313239/)
+- Apr 20 [第58回横浜Go読書会（オンライン）- Part 2](https://yokohama-go-reading.connpass.com/event/313675/)
+- Apr 20 [第58回横浜Go読書会（オンライン）- Part 1](https://yokohama-go-reading.connpass.com/event/313674/)
+- Apr 20 [第31回『Implementing functional languages』勉強会](https://sampou.connpass.com/event/313654/)
+- Apr 13 [HarborSサイレントもくもく会@表参道 #9](https://harbors-kihonjoho.connpass.com/event/313671/)
+- Mar 29 [【KURAND社 協賛】仕事とお酒を愛でる「ソースコード」レビューまつり！](https://kinto-technologies.connpass.com/event/310504/)
 <!-- profile updater end: connpass -->
 
 <!---
