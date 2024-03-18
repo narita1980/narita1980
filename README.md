@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 20 [第58回横浜Go読書会（オンライン）- Part 2](https://yokohama-go-reading.connpass.com/event/313675/)
-- Apr 20 [第58回横浜Go読書会（オンライン）- Part 1](https://yokohama-go-reading.connpass.com/event/313674/)
-- Apr 20 [第31回『Implementing functional languages』勉強会](https://sampou.connpass.com/event/313654/)
-- Apr 13 [HarborSサイレントもくもく会@表参道 #9](https://harbors-kihonjoho.connpass.com/event/313671/)
-- Mar 29 [【KURAND社 協賛】仕事とお酒を愛でる「ソースコード」レビューまつり！](https://kinto-technologies.connpass.com/event/310504/)
+- May 15 [【オフライン開催】プロダクトマネージャー座談会 ＠ Money Forward](https://connpass.com/event/312894/)
+- Apr 21 [CoderDojo赤羽 #55](https://coderdojo-akabane.connpass.com/event/313705/)
+- Apr 19 [JAWS-UG朝会 #56](https://jawsug-asa.connpass.com/event/312976/)
+- Apr 3 [Jira Meetup Sapporo Vol.1 〜Jiraのノウハウを共有しよう〜](https://connpass.com/event/310405/)
+- Mar 25 [【夜開催】GitHub、MySQL5.7→8.0へのサービス無停止アップグレードの内幕](https://findy.connpass.com/event/312198/)
 <!-- profile updater end: connpass -->
 
 <!---
