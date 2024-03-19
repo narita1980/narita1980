@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 15 [【オフライン開催】プロダクトマネージャー座談会 ＠ Money Forward](https://connpass.com/event/312894/)
-- Apr 21 [CoderDojo赤羽 #55](https://coderdojo-akabane.connpass.com/event/313705/)
-- Apr 19 [JAWS-UG朝会 #56](https://jawsug-asa.connpass.com/event/312976/)
-- Apr 3 [Jira Meetup Sapporo Vol.1 〜Jiraのノウハウを共有しよう〜](https://connpass.com/event/310405/)
-- Mar 25 [【夜開催】GitHub、MySQL5.7→8.0へのサービス無停止アップグレードの内幕](https://findy.connpass.com/event/312198/)
+- Apr 13 [【SE交流会】〜オフライン限定〜　開催決定](https://fukuoka.connpass.com/event/312874/)
+- Apr 8 [日本CTO協会代表理事 登壇！意義と目的から考える。誰にとっての開発生産性？](https://developer-productivity-engineering.connpass.com/event/313128/)
+- Mar 26 [Tsurugi本勉強会#10](https://tsurugi-book-study.connpass.com/event/311050/)
+- Mar 25 [IT系&誰でも参加OK！もくもく会_朝活_3/25(月)](https://morimori.connpass.com/event/313858/)
+- Mar 24 [IT系&誰でも参加OK！もくもく会_朝活_3/24(日)](https://morimori.connpass.com/event/313857/)
 <!-- profile updater end: connpass -->
 
 <!---
