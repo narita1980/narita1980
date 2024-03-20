@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 13 [【SE交流会】〜オフライン限定〜　開催決定](https://fukuoka.connpass.com/event/312874/)
-- Apr 8 [日本CTO協会代表理事 登壇！意義と目的から考える。誰にとっての開発生産性？](https://developer-productivity-engineering.connpass.com/event/313128/)
-- Mar 26 [Tsurugi本勉強会#10](https://tsurugi-book-study.connpass.com/event/311050/)
-- Mar 25 [IT系&誰でも参加OK！もくもく会_朝活_3/25(月)](https://morimori.connpass.com/event/313858/)
-- Mar 24 [IT系&誰でも参加OK！もくもく会_朝活_3/24(日)](https://morimori.connpass.com/event/313857/)
+- Mar 31 [統計検定準一級勉強会日曜版](https://study-data-analysis.connpass.com/event/313984/)
+- Mar 30 [【無料】【マイクラ】 Minecraftカップ打ち上げパーティ](https://coderdojo-seto.connpass.com/event/311487/)
+- Mar 29 [統計検定準一級勉強会過去問偏](https://study-data-analysis.connpass.com/event/313983/)
+- Mar 27 [統計検定準一級勉強会過去問偏](https://study-data-analysis.connpass.com/event/313982/)
+- Mar 25 [統計検定準一級勉強会過去問偏](https://study-data-analysis.connpass.com/event/313981/)
 <!-- profile updater end: connpass -->
 
 <!---
