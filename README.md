@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Mar 31 [統計検定準一級勉強会日曜版](https://study-data-analysis.connpass.com/event/313984/)
-- Mar 30 [【無料】【マイクラ】 Minecraftカップ打ち上げパーティ](https://coderdojo-seto.connpass.com/event/311487/)
-- Mar 29 [統計検定準一級勉強会過去問偏](https://study-data-analysis.connpass.com/event/313983/)
-- Mar 27 [統計検定準一級勉強会過去問偏](https://study-data-analysis.connpass.com/event/313982/)
-- Mar 25 [統計検定準一級勉強会過去問偏](https://study-data-analysis.connpass.com/event/313981/)
+- May 11 [ひまプロによる駆け出しエンジニア向けLT会＆公開収録 vol.2](https://connpass.com/event/312314/)
+- Apr 16 [JaSST nano vol.35](https://jasst-nano.connpass.com/event/309665/)
+- Apr 16 [先達エンジニアに学ぶ 思考の現在地 Online Conference](https://findy.connpass.com/event/313119/)
+- Mar 28 [【増枠】AIの光と闇？失敗しないために知っておきたいAIリスクとその対応  ①政府の動き編](https://studyco.connpass.com/event/312507/)
+- Mar 27 [女性エンジニア向け！技術広報/DevRelのための基礎勉強会](https://sister.connpass.com/event/311735/)
 <!-- profile updater end: connpass -->
 
 <!---
