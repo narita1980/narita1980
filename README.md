@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 11 [ひまプロによる駆け出しエンジニア向けLT会＆公開収録 vol.2](https://connpass.com/event/312314/)
-- Apr 16 [JaSST nano vol.35](https://jasst-nano.connpass.com/event/309665/)
-- Apr 16 [先達エンジニアに学ぶ 思考の現在地 Online Conference](https://findy.connpass.com/event/313119/)
-- Mar 28 [【増枠】AIの光と闇？失敗しないために知っておきたいAIリスクとその対応  ①政府の動き編](https://studyco.connpass.com/event/312507/)
-- Mar 27 [女性エンジニア向け！技術広報/DevRelのための基礎勉強会](https://sister.connpass.com/event/311735/)
+- Apr 20 [Global Azure 2024 in Fukuoka](https://jazug.connpass.com/event/313994/)
+- Apr 17 [Python Kansai #03 with Mix Leap Study #74](https://kansai-python.connpass.com/event/313464/)
+- Apr 12 [Active Directory 勉強会 第 1 回目](https://configmgr.connpass.com/event/313992/)
+- Apr 6 [しゃち.pyみーてぃんぐ 2nd](https://shachi-py.connpass.com/event/312951/)
+- Apr 5 [【オンライン開催】『Pythonでスラスラわかる　ベイズ推論「超」入門』読書会#1](https://soleildatadojo.connpass.com/event/313748/)
 <!-- profile updater end: connpass -->
 
 <!---
