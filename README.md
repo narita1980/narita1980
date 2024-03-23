@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 20 [Global Azure 2024 in Fukuoka](https://jazug.connpass.com/event/313994/)
-- Apr 17 [Python Kansai #03 with Mix Leap Study #74](https://kansai-python.connpass.com/event/313464/)
-- Apr 12 [Active Directory 勉強会 第 1 回目](https://configmgr.connpass.com/event/313992/)
-- Apr 6 [しゃち.pyみーてぃんぐ 2nd](https://shachi-py.connpass.com/event/312951/)
-- Apr 5 [【オンライン開催】『Pythonでスラスラわかる　ベイズ推論「超」入門』読書会#1](https://soleildatadojo.connpass.com/event/313748/)
+- Apr 19 [KaiRA活動説明会2024（#5）](https://kaira-thesis-reading.connpass.com/event/313002/)
+- Apr 17 [「量子力学10講」オンライン読書会 第14回](https://akbrobot.connpass.com/event/314247/)
+- Apr 7 [【初中級者向け】mini CTF Challenge](https://cyber-security-study-space.connpass.com/event/306712/)
+- Apr 3 [「量子力学10講」オンライン読書会 第13回](https://akbrobot.connpass.com/event/314246/)
+- Mar 30 [第2回GPTsハッカソン-2次審査イベント](https://connpass.com/event/313799/)
 <!-- profile updater end: connpass -->
 
 <!---
