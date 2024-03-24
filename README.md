@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 19 [KaiRA活動説明会2024（#5）](https://kaira-thesis-reading.connpass.com/event/313002/)
-- Apr 17 [「量子力学10講」オンライン読書会 第14回](https://akbrobot.connpass.com/event/314247/)
-- Apr 7 [【初中級者向け】mini CTF Challenge](https://cyber-security-study-space.connpass.com/event/306712/)
-- Apr 3 [「量子力学10講」オンライン読書会 第13回](https://akbrobot.connpass.com/event/314246/)
-- Mar 30 [第2回GPTsハッカソン-2次審査イベント](https://connpass.com/event/313799/)
+- Apr 21 [Machine Learning A Probabilistic Perspective輪読会#58](https://thinkerslab.connpass.com/event/314303/)
+- Apr 21 [ネットワーク分析 輪読会#4](https://thinkerslab.connpass.com/event/314302/)
+- Apr 12 [インフラ技術基礎勉強会 #5](https://infra365.connpass.com/event/312035/)
+- Apr 8 [PyCon JP 2024：参加者管理チームMTG #2](https://pyconjp-staff.connpass.com/event/314313/)
+- Apr 6 [未経験者ためのBubbleハンズオンワークショップ 第１回](https://connpass.com/event/312681/)
 <!-- profile updater end: connpass -->
 
 <!---
