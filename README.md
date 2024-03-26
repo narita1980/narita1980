@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 19 [DX 推進！プロジェクトとリソースを効果的に一元管理する Smartsheet セミナー](https://xl-software.connpass.com/event/314251/)
-- Apr 14 [【東京】ラズパイとNode-REDで「TJBot zero」を作ろう2024/04 基礎編](https://bmxug.connpass.com/event/299163/)
-- Apr 12 [Laravel x Claude 3 × LINE ハンズオン！【BOT AWARDS 2024】](https://linedevelopercommunity.connpass.com/event/313579/)
-- Apr 8 [【LangChainゆる勉強会#3】LangChainのAgentはどれを使う？【ランチタイム開催】](https://studyco.connpass.com/event/313809/)
-- Apr 4 [LLMアプリケーションの実験管理・評価の工夫を紹介〜PromptLayerを使った本番運用〜](https://studyco.connpass.com/event/313960/)
+- May 28 [WEST-SEC セキュリティ勉強会#6 SASE丸わかり（ハンズオン付き）](https://west-sec.connpass.com/event/314465/)
+- May 16 [ssmonline #42](https://ssmjp.connpass.com/event/314122/)
+- Apr 27 [HarborSもくもく会＋交流会@表参道 #119](https://harbors-kihonjoho.connpass.com/event/314458/)
+- Apr 20 [HarborSもくもく会＋交流会@表参道 #118](https://harbors-kihonjoho.connpass.com/event/314457/)
+- Apr 13 [小江戸らぐ 4月のオフな集まり(第261回)](https://koedolug.connpass.com/event/314284/)
 <!-- profile updater end: connpass -->
 
 <!---
