@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 28 [WEST-SEC セキュリティ勉強会#6 SASE丸わかり（ハンズオン付き）](https://west-sec.connpass.com/event/314465/)
-- May 16 [ssmonline #42](https://ssmjp.connpass.com/event/314122/)
-- Apr 27 [HarborSもくもく会＋交流会@表参道 #119](https://harbors-kihonjoho.connpass.com/event/314458/)
-- Apr 20 [HarborSもくもく会＋交流会@表参道 #118](https://harbors-kihonjoho.connpass.com/event/314457/)
-- Apr 13 [小江戸らぐ 4月のオフな集まり(第261回)](https://koedolug.connpass.com/event/314284/)
+- Apr 25 [白金鉱業 Meetup Vol.14@六本木（実務におけるLLM、あるある課題共感し合おう！）](https://brainpad-meetup.connpass.com/event/307143/)
+- Apr 20 [GitHub CopilotでWebアプリ開発ハンズオン-VS Code Conf JP 2024](https://vscode.connpass.com/event/313606/)
+- Apr 16 [大企業の新規事業の成功率を上げる『出島・カーブアウト戦略』](https://unii-research.connpass.com/event/310999/)
+- Apr 13 [iPhone Dev Sapporo 懇親会 — April 13, 2024](https://devsap.connpass.com/event/314557/)
+- Apr 13 [iPhone Dev Sapporo — April 13, 2024](https://devsap.connpass.com/event/314134/)
 <!-- profile updater end: connpass -->
 
 <!---
