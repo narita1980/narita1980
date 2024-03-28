@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 25 [白金鉱業 Meetup Vol.14@六本木（実務におけるLLM、あるある課題共感し合おう！）](https://brainpad-meetup.connpass.com/event/307143/)
-- Apr 20 [GitHub CopilotでWebアプリ開発ハンズオン-VS Code Conf JP 2024](https://vscode.connpass.com/event/313606/)
-- Apr 16 [大企業の新規事業の成功率を上げる『出島・カーブアウト戦略』](https://unii-research.connpass.com/event/310999/)
-- Apr 13 [iPhone Dev Sapporo 懇親会 — April 13, 2024](https://devsap.connpass.com/event/314557/)
-- Apr 13 [iPhone Dev Sapporo — April 13, 2024](https://devsap.connpass.com/event/314134/)
+- May 23 [世界を目指すソフトウェアエンジニア育成セミナー](https://peerlearninghub.connpass.com/event/314334/)
+- Apr 23 [【4月】火曜DevMeeting オンラインLT会](https://tuesday-dev-meeting.connpass.com/event/314686/)
+- Apr 18 [【GAS中級編】TSで書くLINE Botハンズオン！【BOT AWARDS 2024】](https://linedevelopercommunity.connpass.com/event/313580/)
+- Apr 18 [BigData-JAWS 勉強会 #26 QuickSight分科会](https://jawsug-bigdata.connpass.com/event/310611/)
+- Apr 11 [【オフライン開催】Technical Writing Meetup vol.32](https://tw-meetup.connpass.com/event/314677/)
 <!-- profile updater end: connpass -->
 
 <!---
