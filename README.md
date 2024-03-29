@@ -24,10 +24,10 @@
 
 <!-- profile updater begin: connpass -->
 - May 23 [世界を目指すソフトウェアエンジニア育成セミナー](https://peerlearninghub.connpass.com/event/314334/)
-- Apr 23 [【4月】火曜DevMeeting オンラインLT会](https://tuesday-dev-meeting.connpass.com/event/314686/)
-- Apr 18 [【GAS中級編】TSで書くLINE Botハンズオン！【BOT AWARDS 2024】](https://linedevelopercommunity.connpass.com/event/313580/)
-- Apr 18 [BigData-JAWS 勉強会 #26 QuickSight分科会](https://jawsug-bigdata.connpass.com/event/310611/)
-- Apr 11 [【オフライン開催】Technical Writing Meetup vol.32](https://tw-meetup.connpass.com/event/314677/)
+- Apr 24 [イベント・ドリブンアーキテクチャ Meetup 第3回（マイクロサービスの整合性・オブザバビリティ）](https://connpass.com/event/312671/)
+- Apr 16 [【4/16(火)19:00~】春のクリエイター大交流会](https://creator-square.connpass.com/event/314073/)
+- Apr 16 [仮説検証インタビューでインサイトを導き出すには](https://connpass.com/event/313263/)
+- Apr 14 [第206回CoderDojo名古屋](https://coderdojo-nagoya.connpass.com/event/314800/)
 <!-- profile updater end: connpass -->
 
 <!---
