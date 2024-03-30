@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 23 [世界を目指すソフトウェアエンジニア育成セミナー](https://peerlearninghub.connpass.com/event/314334/)
-- Apr 24 [イベント・ドリブンアーキテクチャ Meetup 第3回（マイクロサービスの整合性・オブザバビリティ）](https://connpass.com/event/312671/)
-- Apr 16 [【4/16(火)19:00~】春のクリエイター大交流会](https://creator-square.connpass.com/event/314073/)
-- Apr 16 [仮説検証インタビューでインサイトを導き出すには](https://connpass.com/event/313263/)
-- Apr 14 [第206回CoderDojo名古屋](https://coderdojo-nagoya.connpass.com/event/314800/)
+- May 17 [第14回 opensource COBOL活用セミナー](https://osscons-cobol.connpass.com/event/314821/)
+- Apr 17 [第11回オープンエッジデバイス研究会](https://openedgedevice.connpass.com/event/313442/)
+- Apr 7 [Claude3勉強会](https://setk.connpass.com/event/313683/)
+- Apr 7 [4/7(日)【第228回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/314895/)
+- Apr 6 [第45回 CoderDojo 戸田公園](https://corderdojo-todakoen.connpass.com/event/314893/)
 <!-- profile updater end: connpass -->
 
 <!---
