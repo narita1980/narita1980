@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 17 [第14回 opensource COBOL活用セミナー](https://osscons-cobol.connpass.com/event/314821/)
-- Apr 17 [第11回オープンエッジデバイス研究会](https://openedgedevice.connpass.com/event/313442/)
-- Apr 7 [Claude3勉強会](https://setk.connpass.com/event/313683/)
-- Apr 7 [4/7(日)【第228回】フリーダムITもくもく会【朝活】【リアルタイム部屋あり】](https://setk.connpass.com/event/314895/)
-- Apr 6 [第45回 CoderDojo 戸田公園](https://corderdojo-todakoen.connpass.com/event/314893/)
+- May 25 [Google Gemini ハンズオン in 高知（Build with AI）](https://gdgshikoku.connpass.com/event/314938/)
+- May 15 [Drupal Meetup Tokyo #91 - 5/2024 [渋谷開催]](https://drupal-tokyo.connpass.com/event/312867/)
+- May 5 [[学生限定] 子供 x (args) アイデアソン](https://tech-hack.connpass.com/event/313730/)
+- Apr 22 [Bedrock Claude Night（JAWS-UG AI/ML支部 × 東京支部コラボ）](https://jawsug-ai.connpass.com/event/313318/)
+- Apr 20 [アートオブアジャイルデベロップメント第2版 ビデオ鑑賞会 #39](https://agiledevs.connpass.com/event/314939/)
 <!-- profile updater end: connpass -->
 
 <!---
