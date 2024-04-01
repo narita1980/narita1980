@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 25 [Google Gemini ハンズオン in 高知（Build with AI）](https://gdgshikoku.connpass.com/event/314938/)
-- May 15 [Drupal Meetup Tokyo #91 - 5/2024 [渋谷開催]](https://drupal-tokyo.connpass.com/event/312867/)
-- May 5 [[学生限定] 子供 x (args) アイデアソン](https://tech-hack.connpass.com/event/313730/)
-- Apr 22 [Bedrock Claude Night（JAWS-UG AI/ML支部 × 東京支部コラボ）](https://jawsug-ai.connpass.com/event/313318/)
-- Apr 20 [アートオブアジャイルデベロップメント第2版 ビデオ鑑賞会 #39](https://agiledevs.connpass.com/event/314939/)
+- May 16 [渋谷でビール片手にLT会！【SREどうでしょう】](https://metaps.connpass.com/event/313921/)
+- Apr 26 [Accessiブランチ #26](https://accessiblunch.connpass.com/event/314880/)
+- Apr 7 [CoderDojo仙台若林(申請中)#3](https://coderdojo-sendai-wakabayashi.connpass.com/event/314896/)
+- Dec 20 [color is【クラウドLT大会vol.6】大型アップデート祭り](https://saison-coloris.connpass.com/event/303486/)
+- Oct 23 [color is【クラウドLT大会vol.5】フリーテーマ！](https://saison-coloris.connpass.com/event/298589/)
 <!-- profile updater end: connpass -->
 
 <!---
