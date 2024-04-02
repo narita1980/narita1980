@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 16 [渋谷でビール片手にLT会！【SREどうでしょう】](https://metaps.connpass.com/event/313921/)
-- Apr 26 [Accessiブランチ #26](https://accessiblunch.connpass.com/event/314880/)
-- Apr 7 [CoderDojo仙台若林(申請中)#3](https://coderdojo-sendai-wakabayashi.connpass.com/event/314896/)
-- Dec 20 [color is【クラウドLT大会vol.6】大型アップデート祭り](https://saison-coloris.connpass.com/event/303486/)
-- Oct 23 [color is【クラウドLT大会vol.5】フリーテーマ！](https://saison-coloris.connpass.com/event/298589/)
+- Apr 23 [プロダクトマネージャーLT Night ~PMの育成・目標設定・評価どうしてる？~](https://pmhub-findy.connpass.com/event/314178/)
+- Apr 23 [Goのエラーハンドリング 最新事情Lunch LT](https://findy.connpass.com/event/314417/)
+- Apr 21 [圏論（けんろん）の面白い話](https://setk.connpass.com/event/315126/)
+- Apr 21 [もくもく会（プログラミング初学者）#22](https://pg-beginner-mtg.connpass.com/event/315131/)
+- Apr 20 [Unagi.py 勉強会57枚目@スイーツバンク](https://pycon-shizu.connpass.com/event/311185/)
 <!-- profile updater end: connpass -->
 
 <!---
