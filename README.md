@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 18 [2024/05/18-19テクノ未来塾・合宿ゼミ](https://connpass.com/event/314816/)
-- Apr 28 [必ず受かる！エンジニア面接対策4/28(日)](https://connpass.com/event/315271/)
 - Apr 28 [甲斐国もくもく会 #2 (甲府/オンライン)](https://kainokuni.connpass.com/event/314329/)
-- Apr 23 [プロダクトマネージャーLT Night ~PMの育成・目標設定・評価どうしてる？~](https://pmhub-findy.connpass.com/event/314178/)
-- Apr 16 [JaSST nano vol.35](https://jasst-nano.connpass.com/event/309665/)
+- Apr 27 [第88回 Machine Learning 15minutes! Hybrid](https://machine-learning15minutes.connpass.com/event/314043/)
+- Apr 27 [BOT AWARDS 2024 ハッカソン@福岡【副賞あり/初心者歓迎】](https://linedevelopercommunity.connpass.com/event/314812/)
+- Apr 26 [Microsoft Intune 勉強会 第 2 回目](https://configmgr.connpass.com/event/315267/)
+- Apr 20 [unity1week online共有会 #15](https://u1w-sharing.connpass.com/event/314568/)
 <!-- profile updater end: connpass -->
 
 <!---
