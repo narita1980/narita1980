@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 28 [甲斐国もくもく会 #2 (甲府/オンライン)](https://kainokuni.connpass.com/event/314329/)
-- Apr 27 [第88回 Machine Learning 15minutes! Hybrid](https://machine-learning15minutes.connpass.com/event/314043/)
-- Apr 27 [BOT AWARDS 2024 ハッカソン@福岡【副賞あり/初心者歓迎】](https://linedevelopercommunity.connpass.com/event/314812/)
-- Apr 26 [Microsoft Intune 勉強会 第 2 回目](https://configmgr.connpass.com/event/315267/)
-- Apr 20 [unity1week online共有会 #15](https://u1w-sharing.connpass.com/event/314568/)
+- May 25 [松濤会コラボLT #2（5スキップ）](https://shoto-kai.connpass.com/event/314263/)
+- May 24 [kintone Café 広島 Vol.27](https://kintone-cafe-hiroshima.connpass.com/event/315532/)
+- May 17 [ふりかえり手法を試そう！ #4](https://retrospective.connpass.com/event/315531/)
+- May 5 [[学生限定] 子供 x (args) アイデアソン](https://tech-hack.connpass.com/event/313730/)
+- Apr 23 [プロダクトマネージャーLT Night ~PMの育成・目標設定・評価どうしてる？~](https://pmhub-findy.connpass.com/event/314178/)
 <!-- profile updater end: connpass -->
 
 <!---
