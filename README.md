@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 10 [#2 RAGアプリ開発ハンズオン【オンライン】](https://genai-users.connpass.com/event/315624/)
-- May 4 [天下一キーボードわいわい会 Vol.6](https://tenkey.connpass.com/event/314946/)
-- Apr 14 [Firebase & Flutter ハンズオン in 神山](https://gdgshikoku.connpass.com/event/315535/)
-- Apr 10 [【大阪】KANSAI AI PUB（関西×人工知能×場）2024/04/10 #AIMTG](https://deep-learning-osaka.connpass.com/event/313072/)
-- Apr 10 [AIミーティング 2024/04/10 #ChatGPT #Claude #Copilot](https://osaka-driven-dev.connpass.com/event/313073/)
+- Apr 28 [みやこもくもく会#28 with Digital Nomad Kyoto @佛現寺](https://mit.connpass.com/event/315634/)
+- Apr 17 [【オフライン開催】春のジンジニアMeetup!](https://jinjineer.connpass.com/event/313516/)
+- Apr 14 [IT系&誰でも参加OK！もくもく会_朝活_4/14(日)](https://morimori.connpass.com/event/315700/)
+- Apr 11 [量子エンジニア（アニーリング式）講座（第２回）](https://jqca2023.connpass.com/event/315702/)
+- Apr 7 [IT・データ関連のもくもく会](https://connpass.com/event/315450/)
 <!-- profile updater end: connpass -->
 
 <!---
