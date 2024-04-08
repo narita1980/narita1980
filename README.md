@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Apr 28 [みやこもくもく会#28 with Digital Nomad Kyoto @佛現寺](https://mit.connpass.com/event/315634/)
-- Apr 17 [【オフライン開催】春のジンジニアMeetup!](https://jinjineer.connpass.com/event/313516/)
-- Apr 14 [IT系&誰でも参加OK！もくもく会_朝活_4/14(日)](https://morimori.connpass.com/event/315700/)
-- Apr 11 [量子エンジニア（アニーリング式）講座（第２回）](https://jqca2023.connpass.com/event/315702/)
-- Apr 7 [IT・データ関連のもくもく会](https://connpass.com/event/315450/)
+- May 25 [本町LT &もくもく会](https://osaka-mokumoku-honnmachi.connpass.com/event/315762/)
+- May 21 [Azure OpenAI ServiceによるRAG実装ガイドを公開しました](https://tech-lab.connpass.com/event/315703/)
+- May 7 [エンジニアがアニメから得た学び](https://engineers-anime.connpass.com/event/314672/)
+- Apr 18 [渋谷でビール片手にLT会！ ※初心者大歓迎](https://metaps.connpass.com/event/313920/)
+- Apr 16 [Postman API Night Fukuoka 2024 Spring](https://postman.connpass.com/event/309419/)
 <!-- profile updater end: connpass -->
 
 <!---
