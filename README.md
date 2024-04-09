@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 25 [本町LT &もくもく会](https://osaka-mokumoku-honnmachi.connpass.com/event/315762/)
-- May 21 [Azure OpenAI ServiceによるRAG実装ガイドを公開しました](https://tech-lab.connpass.com/event/315703/)
-- May 7 [エンジニアがアニメから得た学び](https://engineers-anime.connpass.com/event/314672/)
-- Apr 18 [渋谷でビール片手にLT会！ ※初心者大歓迎](https://metaps.connpass.com/event/313920/)
-- Apr 16 [Postman API Night Fukuoka 2024 Spring](https://postman.connpass.com/event/309419/)
+- Jul 6 [JAWS ミート 2024](https://jaws-ug-tokaido.connpass.com/event/315732/)
+- Apr 28 [Babylon.js 勉強会 vol.3 ~Babylon.js v7 リリース記念~](https://babylonjs.connpass.com/event/315390/)
+- Apr 25 [iOSアプリのアーキテクチャ設計~TCA実践編~](https://findy.connpass.com/event/315494/)
+- Apr 23 [プロダクトマネージャーLT Night ~PMの育成・目標設定・評価どうしてる？~](https://pmhub-findy.connpass.com/event/314178/)
+- Apr 23 [[RAG]Google Cloud×Gemini×LINEハンズオン【BOT AWARDS2024】](https://linedevelopercommunity.connpass.com/event/315468/)
 <!-- profile updater end: connpass -->
 
 <!---
