@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 6 [JAWS ミート 2024](https://jaws-ug-tokaido.connpass.com/event/315732/)
-- Apr 28 [Babylon.js 勉強会 vol.3 ~Babylon.js v7 リリース記念~](https://babylonjs.connpass.com/event/315390/)
-- Apr 25 [iOSアプリのアーキテクチャ設計~TCA実践編~](https://findy.connpass.com/event/315494/)
-- Apr 23 [プロダクトマネージャーLT Night ~PMの育成・目標設定・評価どうしてる？~](https://pmhub-findy.connpass.com/event/314178/)
-- Apr 23 [[RAG]Google Cloud×Gemini×LINEハンズオン【BOT AWARDS2024】](https://linedevelopercommunity.connpass.com/event/315468/)
+- May 22 [アーキテクチャを突き詰める Online Conference](https://findy.connpass.com/event/314782/)
+- May 6 [kintone Café HYOGO vol.3](https://cafehyogo.connpass.com/event/315252/)
+- Apr 27 [ゆるWeb勉強会@札幌 #26](https://mild-web-sap.connpass.com/event/308416/)
+- Apr 25 [Postmanオンラインワークショップ - API認証](https://postman.connpass.com/event/313475/)
+- Apr 24 [チームと個人の可能性を最大化する - パフォーマンスを落とさない体制構築とセルフマネジメント方法](https://developer-productivity-engineering.connpass.com/event/315860/)
 <!-- profile updater end: connpass -->
 
 <!---
