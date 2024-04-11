@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 22 [アーキテクチャを突き詰める Online Conference](https://findy.connpass.com/event/314782/)
-- May 6 [kintone Café HYOGO vol.3](https://cafehyogo.connpass.com/event/315252/)
-- Apr 27 [ゆるWeb勉強会@札幌 #26](https://mild-web-sap.connpass.com/event/308416/)
-- Apr 25 [Postmanオンラインワークショップ - API認証](https://postman.connpass.com/event/313475/)
-- Apr 24 [チームと個人の可能性を最大化する - パフォーマンスを落とさない体制構築とセルフマネジメント方法](https://developer-productivity-engineering.connpass.com/event/315860/)
+- May 15 [インフラエンジニアBooks 30分でわかる「クラウドアプリケーション 10の設計原則」](https://infra-eng-books.connpass.com/event/312410/)
+- May 15 [JAWS-UG磐田 AWS Expert Online for JAWS-UG ＃33](https://jawsug-iwata.connpass.com/event/315864/)
+- May 15 [インフラ技術基礎勉強会 #6](https://infra365.connpass.com/event/313272/)
+- May 3 [もくもく会_0503＠自由が丘_2024](https://connpass.com/event/316130/)
+- May 2 [もくもく会_0502＠自由が丘_2024](https://connpass.com/event/316129/)
 <!-- profile updater end: connpass -->
 
 <!---
