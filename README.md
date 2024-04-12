@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 15 [インフラエンジニアBooks 30分でわかる「クラウドアプリケーション 10の設計原則」](https://infra-eng-books.connpass.com/event/312410/)
-- May 15 [JAWS-UG磐田 AWS Expert Online for JAWS-UG ＃33](https://jawsug-iwata.connpass.com/event/315864/)
-- May 15 [インフラ技術基礎勉強会 #6](https://infra365.connpass.com/event/313272/)
-- May 3 [もくもく会_0503＠自由が丘_2024](https://connpass.com/event/316130/)
-- May 2 [もくもく会_0502＠自由が丘_2024](https://connpass.com/event/316129/)
+- May 16 [Instagramを活用したWEB集客のポイントとは](https://connpass.com/event/315924/)
+- May 11 [札幌ITでぃぐでぃぐ会 vol.1 ~TypeScript 勉強会~](https://digdig.connpass.com/event/315640/)
+- May 10 [第8回 Data-Centric AI勉強会 ~Human-in-the-Loop機械学習 特別回~](https://dcai-jp.connpass.com/event/315963/)
+- May 10 [[オンライン開催]  #AWSなんでもLT会 #6 LT初心者歓迎!](https://ncdc-dev.connpass.com/event/314862/)
+- May 9 [0→1Meetup 〜多様な0→1フェーズにおけるデザイナーの働き方〜](https://algomatic.connpass.com/event/314088/)
 <!-- profile updater end: connpass -->
 
 <!---
