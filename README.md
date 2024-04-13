@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 16 [Instagramを活用したWEB集客のポイントとは](https://connpass.com/event/315924/)
-- May 11 [札幌ITでぃぐでぃぐ会 vol.1 ~TypeScript 勉強会~](https://digdig.connpass.com/event/315640/)
-- May 10 [第8回 Data-Centric AI勉強会 ~Human-in-the-Loop機械学習 特別回~](https://dcai-jp.connpass.com/event/315963/)
-- May 10 [[オンライン開催]  #AWSなんでもLT会 #6 LT初心者歓迎!](https://ncdc-dev.connpass.com/event/314862/)
+- Jun 21 [エッジ AI 推論開発者向けインテル(R) アーキテクチャー活用セミナー](https://xl-software.connpass.com/event/316277/)
 - May 9 [0→1Meetup 〜多様な0→1フェーズにおけるデザイナーの働き方〜](https://algomatic.connpass.com/event/314088/)
+- May 1 [【女性エンジニア限定LT】〇〇したら、エンジニア人生変わった！](https://sister.connpass.com/event/315872/)
+- Apr 26 [スタートアップのプロダクトエンジニアのキャリアと取り組み](https://smartcamp.connpass.com/event/313331/)
+- Apr 25 [【アウトプットをもっと身近に！】趣味のLT大会（仮称） #1　〜バイク編〜](https://tanoshii.connpass.com/event/314689/)
 <!-- profile updater end: connpass -->
 
 <!---
