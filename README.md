@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 21 [エッジ AI 推論開発者向けインテル(R) アーキテクチャー活用セミナー](https://xl-software.connpass.com/event/316277/)
-- May 9 [0→1Meetup 〜多様な0→1フェーズにおけるデザイナーの働き方〜](https://algomatic.connpass.com/event/314088/)
-- May 1 [【女性エンジニア限定LT】〇〇したら、エンジニア人生変わった！](https://sister.connpass.com/event/315872/)
-- Apr 26 [スタートアップのプロダクトエンジニアのキャリアと取り組み](https://smartcamp.connpass.com/event/313331/)
-- Apr 25 [【アウトプットをもっと身近に！】趣味のLT大会（仮称） #1　〜バイク編〜](https://tanoshii.connpass.com/event/314689/)
+- Sep 21 [2024 システム工学研究会 OBOG会](https://sysken.connpass.com/event/313719/)
+- May 15 [総関西サイバーセキュリティＬＴ大会（第41回）](https://sec-kansai.connpass.com/event/316351/)
+- May 12 [第33回 CoderDojo 三島/沼津](https://coderdojo-mn.connpass.com/event/316324/)
+- May 4 [天下一キーボードわいわい会 Vol.6](https://tenkey.connpass.com/event/314946/)
+- Apr 29 [M365セキュリティ&ゼロトラスト勉強会 #12](https://m365security.connpass.com/event/314018/)
 <!-- profile updater end: connpass -->
 
 <!---
