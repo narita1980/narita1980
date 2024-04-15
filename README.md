@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Sep 21 [2024 システム工学研究会 OBOG会](https://sysken.connpass.com/event/313719/)
-- May 15 [総関西サイバーセキュリティＬＴ大会（第41回）](https://sec-kansai.connpass.com/event/316351/)
-- May 12 [第33回 CoderDojo 三島/沼津](https://coderdojo-mn.connpass.com/event/316324/)
-- May 4 [天下一キーボードわいわい会 Vol.6](https://tenkey.connpass.com/event/314946/)
-- Apr 29 [M365セキュリティ&ゼロトラスト勉強会 #12](https://m365security.connpass.com/event/314018/)
+- May 25 [AI勉強会 in 仙台【オフライン開催】202405](https://ai-learn.connpass.com/event/316431/)
+- May 16 [Cookpad Drinkup at RubyKaigi 2024](https://cookpad.connpass.com/event/316237/)
+- May 16 [GAAD Japan 2024（2024/05/16 YouTubeライブ）](https://gaadjp.connpass.com/event/315449/)
+- Apr 26 [スタートアップのプロダクトエンジニアのキャリアと取り組み](https://smartcamp.connpass.com/event/313331/)
+- Apr 25 [LEADING QUALITYから紐解く、QAエンジニアのキャリア展開](https://globis.connpass.com/event/314089/)
 <!-- profile updater end: connpass -->
 
 <!---
