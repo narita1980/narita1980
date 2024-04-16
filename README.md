@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 25 [AI勉強会 in 仙台【オフライン開催】202405](https://ai-learn.connpass.com/event/316431/)
-- May 16 [Cookpad Drinkup at RubyKaigi 2024](https://cookpad.connpass.com/event/316237/)
-- May 16 [GAAD Japan 2024（2024/05/16 YouTubeライブ）](https://gaadjp.connpass.com/event/315449/)
-- Apr 26 [スタートアップのプロダクトエンジニアのキャリアと取り組み](https://smartcamp.connpass.com/event/313331/)
-- Apr 25 [LEADING QUALITYから紐解く、QAエンジニアのキャリア展開](https://globis.connpass.com/event/314089/)
+- Jun 14 [設計ナイト2024【オフライン】](https://kichijojipm.connpass.com/event/316361/)
+- Apr 28 [Babylon.js 勉強会 vol.3 ~Babylon.js v7 リリース記念~](https://babylonjs.connpass.com/event/315390/)
+- Apr 25 [GPTsもくもく会（前編）〜エンジニアのためのLLMアウトプット勉強会〜](https://orionsalon-sirius.connpass.com/event/315583/)
+- Apr 24 [生成AI最前線 - NVIDIA GTC2024をどう感じて、どう行動すべきか](https://wandb.connpass.com/event/316410/)
+- Apr 23 [第40回 MLOps 勉強会](https://mlops.connpass.com/event/314376/)
 <!-- profile updater end: connpass -->
 
 <!---
