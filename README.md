@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 14 [設計ナイト2024【オフライン】](https://kichijojipm.connpass.com/event/316361/)
-- Apr 28 [Babylon.js 勉強会 vol.3 ~Babylon.js v7 リリース記念~](https://babylonjs.connpass.com/event/315390/)
-- Apr 25 [GPTsもくもく会（前編）〜エンジニアのためのLLMアウトプット勉強会〜](https://orionsalon-sirius.connpass.com/event/315583/)
-- Apr 24 [生成AI最前線 - NVIDIA GTC2024をどう感じて、どう行動すべきか](https://wandb.connpass.com/event/316410/)
-- Apr 23 [第40回 MLOps 勉強会](https://mlops.connpass.com/event/314376/)
+- Jun 27 [JAWS-UG名古屋 × Media-JAWS@中京テレビ](https://jawsug-nagoya.connpass.com/event/316106/)
+- Jun 14 [JAWS-UG朝会 #58](https://jawsug-asa.connpass.com/event/312979/)
+- May 29 [OpsJAWS Meetup29 ロギング、ログ管理](https://opsjaws.connpass.com/event/314570/)
+- May 28 [北海道IoTビジネス共創ラボ 第5回勉強会【AIの未来を切り拓く最前線】](https://iotbizlabo.connpass.com/event/315281/)
+- Apr 27 [札幌 Azure/Microsoft Learn もくもく会 69（2024/04)](https://sapporoazuremok2.connpass.com/event/316618/)
 <!-- profile updater end: connpass -->
 
 <!---
