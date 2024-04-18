@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 27 [JAWS-UG名古屋 × Media-JAWS@中京テレビ](https://jawsug-nagoya.connpass.com/event/316106/)
-- Jun 14 [JAWS-UG朝会 #58](https://jawsug-asa.connpass.com/event/312979/)
-- May 29 [OpsJAWS Meetup29 ロギング、ログ管理](https://opsjaws.connpass.com/event/314570/)
-- May 28 [北海道IoTビジネス共創ラボ 第5回勉強会【AIの未来を切り拓く最前線】](https://iotbizlabo.connpass.com/event/315281/)
-- Apr 27 [札幌 Azure/Microsoft Learn もくもく会 69（2024/04)](https://sapporoazuremok2.connpass.com/event/316618/)
+- May 28 [ビジネス成長を止めてしまうペインはどこにある？投資した開発品質との向き合い方](https://developer-productivity-engineering.connpass.com/event/316486/)
+- May 18 [仲間と一緒に自分好みの作品を作ろう『サッポロ電子クラフト部』](https://sapporoelec.connpass.com/event/316707/)
+- May 15 [【日経×グロービス×PharmaX】企業フェーズごとの事例で学ぶ技術広報](https://nikkei.connpass.com/event/316356/)
+- May 2 [テクノロジーとアート、その現在地を見る](https://knowers.connpass.com/event/316677/)
+- Apr 26 [IT系&誰でも参加OK！もくもく会_朝活_4/26(金)](https://morimori.connpass.com/event/316725/)
 <!-- profile updater end: connpass -->
 
 <!---
