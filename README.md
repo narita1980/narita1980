@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 28 [ビジネス成長を止めてしまうペインはどこにある？投資した開発品質との向き合い方](https://developer-productivity-engineering.connpass.com/event/316486/)
-- May 18 [仲間と一緒に自分好みの作品を作ろう『サッポロ電子クラフト部』](https://sapporoelec.connpass.com/event/316707/)
-- May 15 [【日経×グロービス×PharmaX】企業フェーズごとの事例で学ぶ技術広報](https://nikkei.connpass.com/event/316356/)
-- May 2 [テクノロジーとアート、その現在地を見る](https://knowers.connpass.com/event/316677/)
-- Apr 26 [IT系&誰でも参加OK！もくもく会_朝活_4/26(金)](https://morimori.connpass.com/event/316725/)
+- May 28 [After RubyKaigi 2024〜メドピア、ZOZO、Findy〜](https://findy.connpass.com/event/315981/)
+- May 24 [WebRTC Meetup 10周年記念パネルディスカッション『WebRTCの光と影』](https://webrtcmeetup.connpass.com/event/313737/)
+- May 13 [Jetpack Composeの課題〜モバイルアプリの品質改善を考える〜](https://rosca.connpass.com/event/316620/)
+- May 5 [JAWS-UG初心者支部#60 初心者向けLT大会](https://jawsug-bgnr.connpass.com/event/316727/)
+- Apr 30 [9割の人がわかっていない！デジタルマーケティングの全体像](https://itc-okinawa.connpass.com/event/316839/)
 <!-- profile updater end: connpass -->
 
 <!---
