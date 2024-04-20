@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 28 [After RubyKaigi 2024〜メドピア、ZOZO、Findy〜](https://findy.connpass.com/event/315981/)
-- May 24 [WebRTC Meetup 10周年記念パネルディスカッション『WebRTCの光と影』](https://webrtcmeetup.connpass.com/event/313737/)
+- Jun 15 [CoderDojo新代田第8回（無料・見学OK）子ども向けプログラミング道場](https://coder-dojo-shindaita.connpass.com/event/315501/)
+- May 20 [【オンライン】5/20(月)5時〜7時：Flutter好きが集まる朝もく会（第393回）](https://flutter-asamoku.connpass.com/event/316563/)
+- May 18 [マッピングパーティー@京田辺](https://connpass.com/event/316962/)
+- May 18 [Djangoもくもく会](https://connpass.com/event/316332/)
 - May 13 [Jetpack Composeの課題〜モバイルアプリの品質改善を考える〜](https://rosca.connpass.com/event/316620/)
-- May 5 [JAWS-UG初心者支部#60 初心者向けLT大会](https://jawsug-bgnr.connpass.com/event/316727/)
-- Apr 30 [9割の人がわかっていない！デジタルマーケティングの全体像](https://itc-okinawa.connpass.com/event/316839/)
 <!-- profile updater end: connpass -->
 
 <!---
