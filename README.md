@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 15 [CoderDojo新代田第8回（無料・見学OK）子ども向けプログラミング道場](https://coder-dojo-shindaita.connpass.com/event/315501/)
-- May 20 [【オンライン】5/20(月)5時〜7時：Flutter好きが集まる朝もく会（第393回）](https://flutter-asamoku.connpass.com/event/316563/)
-- May 18 [マッピングパーティー@京田辺](https://connpass.com/event/316962/)
-- May 18 [Djangoもくもく会](https://connpass.com/event/316332/)
-- May 13 [Jetpack Composeの課題〜モバイルアプリの品質改善を考える〜](https://rosca.connpass.com/event/316620/)
+- Jul 5 [関西Kaggler会 交流会 in Osaka 2024#2](https://kansaikaggler.connpass.com/event/316950/)
+- Jun 15 [同ソもくもく会 ＃73(オンライン開催)](https://doso.connpass.com/event/317019/)
+- May 25 [PyCon Kyushu 2024 KAGOSHIMA](https://pycon-kyushu.connpass.com/event/314932/)
+- May 18 [第59回横浜Go読書会（オンライン）](https://yokohama-go-reading.connpass.com/event/317024/)
+- May 3 [【Python講座】プログラミング初学者大歓迎! !](https://mokumoku-osaka.connpass.com/event/316053/)
 <!-- profile updater end: connpass -->
 
 <!---
