@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 5 [関西Kaggler会 交流会 in Osaka 2024#2](https://kansaikaggler.connpass.com/event/316950/)
-- Jun 15 [同ソもくもく会 ＃73(オンライン開催)](https://doso.connpass.com/event/317019/)
-- May 25 [PyCon Kyushu 2024 KAGOSHIMA](https://pycon-kyushu.connpass.com/event/314932/)
-- May 18 [第59回横浜Go読書会（オンライン）](https://yokohama-go-reading.connpass.com/event/317024/)
-- May 3 [【Python講座】プログラミング初学者大歓迎! !](https://mokumoku-osaka.connpass.com/event/316053/)
+- Jun 1 [JAWS-UG山梨 【第0回】サメ発表会](https://jaws-ug-yamanashi.connpass.com/event/316697/)
+- May 18 [2024/05/18-19テクノ未来塾・合宿ゼミ](https://connpass.com/event/314816/)
+- May 6 [第74回 CoderDojo Hitachinaka](https://coderdojo-hitachinaka.connpass.com/event/317106/)
+- Apr 29 [早朝オンライン[Math & Coding] 多様体の基礎 #39](https://math-coding.connpass.com/event/317107/)
+- Apr 27 [【大井町線・池上線】 定例もくもく会&交流会@旗の台 #108](https://ay-house01.connpass.com/event/317109/)
 <!-- profile updater end: connpass -->
 
 <!---
