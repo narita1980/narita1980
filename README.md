@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 29 [ビジュアルプログラミングIoTLT vol.17](https://iotlt.connpass.com/event/316732/)
-- May 29 [OpsJAWS Meetup29 ロギング、ログ管理](https://opsjaws.connpass.com/event/314570/)
-- May 23 [Microsoft Build 2024 発表72時間以内 Power Platform 最新情報](https://powerapps.connpass.com/event/315696/)
-- May 13 [【LangChainゆる勉強会#5】LangChainのテスト関連機能を動かす【ランチタイム開催】](https://studyco.connpass.com/event/317018/)
-- Apr 30 [PyCon JP 2024：参加者管理チームMTG #5](https://pyconjp-staff.connpass.com/event/317237/)
+- Jul 14 [第65回 CoderDojoとよなか（大阪）2024/07/14(日)](https://coderdojo-toyonaka.connpass.com/event/317355/)
+- May 28 [北海道IoTビジネス共創ラボ 第5回勉強会【AIの未来を切り拓く最前線】](https://iotbizlabo.connpass.com/event/315281/)
+- May 25 [ビリビリ☆Power Apps 同好会 登壇大会＃1](https://connpass.com/event/317081/)
+- May 23 [JAWS-UG 名古屋 AWS BuilderCards体験会](https://jawsug-nagoya.connpass.com/event/317104/)
+- May 15 [【日経×グロービス×PharmaX】企業フェーズごとの事例で学ぶ技術広報](https://nikkei.connpass.com/event/316356/)
 <!-- profile updater end: connpass -->
 
 <!---
