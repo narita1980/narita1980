@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 14 [第65回 CoderDojoとよなか（大阪）2024/07/14(日)](https://coderdojo-toyonaka.connpass.com/event/317355/)
-- May 28 [北海道IoTビジネス共創ラボ 第5回勉強会【AIの未来を切り拓く最前線】](https://iotbizlabo.connpass.com/event/315281/)
-- May 25 [ビリビリ☆Power Apps 同好会 登壇大会＃1](https://connpass.com/event/317081/)
-- May 23 [JAWS-UG 名古屋 AWS BuilderCards体験会](https://jawsug-nagoya.connpass.com/event/317104/)
-- May 15 [【日経×グロービス×PharmaX】企業フェーズごとの事例で学ぶ技術広報](https://nikkei.connpass.com/event/316356/)
+- Jul 6 [SORACOM with M5Stack ハンズオン in マルツ金沢](https://connpass.com/event/313429/)
+- May 28 [UXデザイン ~デジタルプロダクトデザインの今と未来〜](https://cross-rel.connpass.com/event/316259/)
+- May 11 [第124回 いわき情報技術研究会](https://iitg.connpass.com/event/317456/)
+- May 5 [JAWS-UG初心者支部#60 初心者向けLT大会](https://jawsug-bgnr.connpass.com/event/316727/)
+- May 2 [IT系&誰でも参加OK！もくもく会_朝活_5/2(木)](https://morimori.connpass.com/event/317454/)
 <!-- profile updater end: connpass -->
 
 <!---
