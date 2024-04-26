@@ -24,10 +24,10 @@
 
 <!-- profile updater begin: connpass -->
 - Jul 6 [SORACOM with M5Stack ハンズオン in マルツ金沢](https://connpass.com/event/313429/)
-- May 28 [UXデザイン ~デジタルプロダクトデザインの今と未来〜](https://cross-rel.connpass.com/event/316259/)
-- May 11 [第124回 いわき情報技術研究会](https://iitg.connpass.com/event/317456/)
-- May 5 [JAWS-UG初心者支部#60 初心者向けLT大会](https://jawsug-bgnr.connpass.com/event/316727/)
-- May 2 [IT系&誰でも参加OK！もくもく会_朝活_5/2(木)](https://morimori.connpass.com/event/317454/)
+- Jun 13 [HPSC 2024 オンライン講演 Day 2](https://xl-software.connpass.com/event/317451/)
+- Jun 12 [HPSC 2024 オンライン講演 Day 1](https://xl-software.connpass.com/event/317450/)
+- May 23 [LLMマルチエージェントによるチャットアプリケーションの構築](https://studyco.connpass.com/event/317516/)
+- May 21 [JaSST nano vol.36](https://jasst-nano.connpass.com/event/316558/)
 <!-- profile updater end: connpass -->
 
 <!---
