@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 28 [北海道IoTビジネス共創ラボ 第5回勉強会【AIの未来を切り拓く最前線】](https://iotbizlabo.connpass.com/event/315281/)
-- May 21 [Slack活用 法 ＆ GASのミニ実践講座](https://connpass.com/event/317650/)
-- May 19 [第45回 CoderDojo厚木](https://coderdojo-atsugi.connpass.com/event/314797/)
-- May 9 [Postmanオンラインワークショップ - API基礎](https://postman.connpass.com/event/316049/)
-- May 2 [量子エンジニア（アニーリング式）講座（第５回）](https://jqca2023.connpass.com/event/317673/)
+- May 22 [技術書ビブリオバトル](https://gdsc-osaka-univ.connpass.com/event/317632/)
+- May 8 [【「はじめて」歓迎】スクフェス金沢にプロポーザルを出すことに興味がある人たちが集まってわいわいする会](https://beyond-hardware-agile.connpass.com/event/317387/)
+- May 6 [第74回 CoderDojo Hitachinaka](https://coderdojo-hitachinaka.connpass.com/event/317106/)
+- May 5 [IT系&誰でも参加OK！もくもく会_朝活_5/5(日)](https://morimori.connpass.com/event/317727/)
+- May 4 [IT系&誰でも参加OK！もくもく会_朝活_5/4(土)](https://morimori.connpass.com/event/317720/)
 <!-- profile updater end: connpass -->
 
 <!---
