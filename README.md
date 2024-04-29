@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 22 [技術書ビブリオバトル](https://gdsc-osaka-univ.connpass.com/event/317632/)
-- May 8 [【「はじめて」歓迎】スクフェス金沢にプロポーザルを出すことに興味がある人たちが集まってわいわいする会](https://beyond-hardware-agile.connpass.com/event/317387/)
-- May 6 [第74回 CoderDojo Hitachinaka](https://coderdojo-hitachinaka.connpass.com/event/317106/)
-- May 5 [IT系&誰でも参加OK！もくもく会_朝活_5/5(日)](https://morimori.connpass.com/event/317727/)
-- May 4 [IT系&誰でも参加OK！もくもく会_朝活_5/4(土)](https://morimori.connpass.com/event/317720/)
+- May 26 [【無料】AIと統計の関係とは？AI(人工知能)超入門](https://datascience-wakara.connpass.com/event/317616/)
+- May 23 [【無料】業務自動化から人工知能まで！ここから始めるPythonプログラミング体験セミナー](https://datascience-wakara.connpass.com/event/317615/)
+- May 22 [【無料】効果的なマーケティングを！アンケートからニーズを把握するためのテキストマイニング超入門](https://datascience-wakara.connpass.com/event/317613/)
+- May 21 [『反実仮想機械学習』出版記念イベント Vol.2](https://cfml.connpass.com/event/317145/)
+- May 19 [【無料】効果的なマーケティングを！アンケートからニーズを把握するためのテキストマイニング超入門](https://datascience-wakara.connpass.com/event/317612/)
 <!-- profile updater end: connpass -->
 
 <!---
