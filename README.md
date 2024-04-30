@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- May 26 [【無料】AIと統計の関係とは？AI(人工知能)超入門](https://datascience-wakara.connpass.com/event/317616/)
-- May 23 [【無料】業務自動化から人工知能まで！ここから始めるPythonプログラミング体験セミナー](https://datascience-wakara.connpass.com/event/317615/)
-- May 22 [【無料】効果的なマーケティングを！アンケートからニーズを把握するためのテキストマイニング超入門](https://datascience-wakara.connpass.com/event/317613/)
-- May 21 [『反実仮想機械学習』出版記念イベント Vol.2](https://cfml.connpass.com/event/317145/)
-- May 19 [【無料】効果的なマーケティングを！アンケートからニーズを把握するためのテキストマイニング超入門](https://datascience-wakara.connpass.com/event/317612/)
+- Jun 30 [tenntenn Conference 2024](https://tenntenn.connpass.com/event/315013/)
+- Jun 6 [広報・人事さん集まれ！LT初心者の会！](https://xrelations.connpass.com/event/317496/)
+- May 29 [OpsJAWS Meetup29 ロギング、ログ管理](https://opsjaws.connpass.com/event/314570/)
+- May 28 [第13回著作権法セミナー（VRChat実施、デジタル空間における商品制作）](https://kittenlawoffice.connpass.com/event/317722/)
+- May 24 [第13回著作権法セミナー（zoom実施、デジタル空間における商品制作）](https://kittenlawoffice.connpass.com/event/317721/)
 <!-- profile updater end: connpass -->
 
 <!---
