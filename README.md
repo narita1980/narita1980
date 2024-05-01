@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 30 [tenntenn Conference 2024](https://tenntenn.connpass.com/event/315013/)
-- Jun 6 [広報・人事さん集まれ！LT初心者の会！](https://xrelations.connpass.com/event/317496/)
-- May 29 [OpsJAWS Meetup29 ロギング、ログ管理](https://opsjaws.connpass.com/event/314570/)
-- May 28 [第13回著作権法セミナー（VRChat実施、デジタル空間における商品制作）](https://kittenlawoffice.connpass.com/event/317722/)
-- May 24 [第13回著作権法セミナー（zoom実施、デジタル空間における商品制作）](https://kittenlawoffice.connpass.com/event/317721/)
+- Feb 8 [（開催検討中）8th長崎QDG　アフターツアー](https://nagasaki-it-engineers.connpass.com/event/317949/)
+- Jun 1 [Windows Server ＆ Cloud User Group Japan 第40回 勉強会](https://scugj.connpass.com/event/317896/)
+- May 28 [エンジニア達の「完全に理解した」Talk　#53](https://easy2.connpass.com/event/317931/)
+- May 28 [【残席わずか】北海道IoTビジネス共創ラボ 第5回勉強会「AIの未来を切り拓く最前線」](https://iotbizlabo.connpass.com/event/315281/)
+- May 24 [日本OpenStackユーザ会 第48回勉強会](https://openstack-jp.connpass.com/event/317644/)
 <!-- profile updater end: connpass -->
 
 <!---
