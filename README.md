@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Feb 8 [（開催検討中）8th長崎QDG　アフターツアー](https://nagasaki-it-engineers.connpass.com/event/317949/)
-- Jun 1 [Windows Server ＆ Cloud User Group Japan 第40回 勉強会](https://scugj.connpass.com/event/317896/)
-- May 28 [エンジニア達の「完全に理解した」Talk　#53](https://easy2.connpass.com/event/317931/)
-- May 28 [【残席わずか】北海道IoTビジネス共創ラボ 第5回勉強会「AIの未来を切り拓く最前線」](https://iotbizlabo.connpass.com/event/315281/)
-- May 24 [日本OpenStackユーザ会 第48回勉強会](https://openstack-jp.connpass.com/event/317644/)
+- Jun 27 [6/27ウェビナー開催「ビジネスを加速する！質の高いBtoBリードの獲得戦略」](https://connpass.com/event/315360/)
+- Jun 22 [【Okayama.なんか #3】Okayama.CorpIT](https://okayama-nanka.connpass.com/event/316087/)
+- Jun 15 [第7回オープンCAE勉強会＠横浜](https://ocbyokohama.connpass.com/event/317729/)
+- May 29 [【無料】現代の常識「機械学習」を90分で超簡潔に理解する！-機械学習超入門-](https://datascience-wakara.connpass.com/event/317617/)
+- May 23 [TechBrew in 東京 ~モバイルアプリの技術的負債に向き合う~](https://findy.connpass.com/event/317998/)
 <!-- profile updater end: connpass -->
 
 <!---
