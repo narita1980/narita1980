@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 27 [6/27ウェビナー開催「ビジネスを加速する！質の高いBtoBリードの獲得戦略」](https://connpass.com/event/315360/)
-- Jun 22 [【Okayama.なんか #3】Okayama.CorpIT](https://okayama-nanka.connpass.com/event/316087/)
-- Jun 15 [第7回オープンCAE勉強会＠横浜](https://ocbyokohama.connpass.com/event/317729/)
-- May 29 [【無料】現代の常識「機械学習」を90分で超簡潔に理解する！-機械学習超入門-](https://datascience-wakara.connpass.com/event/317617/)
-- May 23 [TechBrew in 東京 ~モバイルアプリの技術的負債に向き合う~](https://findy.connpass.com/event/317998/)
+- May 28 [『データモデリングでドメインを駆動する』読書感想会](https://kichijojipm.connpass.com/event/315276/)
+- May 26 [5/26 浜松もくもく会](https://connpass.com/event/318139/)
+- May 25 [本町LT &もくもく会](https://osaka-mokumoku-honnmachi.connpass.com/event/315762/)
+- May 20 [ふくおかスクラム vol.14 OSTの会](https://fukuoka-scrum.connpass.com/event/318138/)
+- May 17 [Cloudflare Meet-up Osaka #4](https://cfm-cts.connpass.com/event/317972/)
 <!-- profile updater end: connpass -->
 
 <!---
