@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
+- Jul 5 [関西Kaggler会 交流会 in Osaka 2024#2](https://kansaikaggler.connpass.com/event/316950/)
 - Jun 1 [Cloudflare Meet-up Fukuoka Vol.2](https://cfm-cts.connpass.com/event/313438/)
-- May 26 [Creative Talk in Roblox](https://connpass.com/event/318087/)
-- May 24 [Active Directory 勉強会 第 2 回目](https://configmgr.connpass.com/event/318054/)
-- May 11 [【大井町線・池上線】 定例もくもく会&交流会@旗の台 #110](https://ay-house01.connpass.com/event/318187/)
-- May 9 [量子エンジニア（アニーリング式）講座（第１回）](https://jqca2023.connpass.com/event/318190/)
+- May 26 [Maya vs Blender 討論会](https://iwakenlab.connpass.com/event/317218/)
+- May 12 [子供たちのためのプログラミング初心者/未経験者向け【CoderDojo青梅】第74, 75回](https://coderdojo-ome.connpass.com/event/317361/)
+- May 12 [IT系&誰でも参加OK！もくもく会_朝活_5/12(日)](https://morimori.connpass.com/event/318239/)
 <!-- profile updater end: connpass -->
 
 <!---
