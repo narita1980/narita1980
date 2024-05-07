@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 1 [JAWS-UG山梨 【第0回】サメ発表会](https://jaws-ug-yamanashi.connpass.com/event/316697/)
-- May 31 [【月一回】自主制作デザインシェア会【5月】](https://connpass.com/event/318258/)
+- Jun 1 [エンジニアコネクト【LT勉強会&交流会】vol.3](https://cnctor-japan.connpass.com/event/317526/)
+- May 29 [うひょさんに聞く！React 19アップデートの勘所](https://findy.connpass.com/event/318090/)
 - May 20 [アクセシビリティやるぞ！LT祭り #5](https://smarthr.connpass.com/event/315155/)
-- May 17 [U29 CREATOR MEET UP! CATCH UP! #02](https://atsumaru.connpass.com/event/314970/)
-- May 15 [総関西サイバーセキュリティＬＴ大会（第41回）](https://sec-kansai.connpass.com/event/316351/)
+- May 15 [【オフライン開催】プロダクトマネージャー座談会 ＠ Money Forward](https://connpass.com/event/312894/)
+- May 14 [IT系&誰でも参加OK！もくもく会_朝活_5/14(火)](https://morimori.connpass.com/event/318323/)
 <!-- profile updater end: connpass -->
 
 <!---
