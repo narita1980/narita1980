@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 1 [エンジニアコネクト【LT勉強会&交流会】vol.3](https://cnctor-japan.connpass.com/event/317526/)
-- May 29 [うひょさんに聞く！React 19アップデートの勘所](https://findy.connpass.com/event/318090/)
-- May 20 [アクセシビリティやるぞ！LT祭り #5](https://smarthr.connpass.com/event/315155/)
-- May 15 [【オフライン開催】プロダクトマネージャー座談会 ＠ Money Forward](https://connpass.com/event/312894/)
-- May 14 [IT系&誰でも参加OK！もくもく会_朝活_5/14(火)](https://morimori.connpass.com/event/318323/)
+- Jun 27 [Jira Meetup Sapporo Vol.2 〜Jiraのノウハウを共有しよう〜](https://connpass.com/event/318461/)
+- Jun 20 [「Tailwind CSS実践入門」出版記念勉強会 in 福岡](https://pixiv.connpass.com/event/318399/)
+- May 25 [.NETラボ 勉強会 2024年5月 newMVP祭り](https://dotnetlab.connpass.com/event/317839/)
+- May 23 [大規模組織における開発生産性向上へのアプローチ](https://developer-productivity-engineering.connpass.com/event/316472/)
+- May 16 [スマート育児の時代](https://yumemi.connpass.com/event/315529/)
 <!-- profile updater end: connpass -->
 
 <!---
