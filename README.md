@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 27 [Jira Meetup Sapporo Vol.2 〜Jiraのノウハウを共有しよう〜](https://connpass.com/event/318461/)
-- Jun 20 [「Tailwind CSS実践入門」出版記念勉強会 in 福岡](https://pixiv.connpass.com/event/318399/)
-- May 25 [.NETラボ 勉強会 2024年5月 newMVP祭り](https://dotnetlab.connpass.com/event/317839/)
-- May 23 [大規模組織における開発生産性向上へのアプローチ](https://developer-productivity-engineering.connpass.com/event/316472/)
-- May 16 [スマート育児の時代](https://yumemi.connpass.com/event/315529/)
+- Jun 13 [脅威モデリングナイト #1 in Tokyo](https://threatmodeling.connpass.com/event/318433/)
+- Jun 8 [上田市 社会人 ITフリー勉強会&交流会 6/8](https://connpass.com/event/318515/)
+- May 25 [5/25(土) Hack U もくもく会 in 大阪](https://hacku.connpass.com/event/318533/)
+- May 15 [【5/15(水)】生成AIキャリア戦略 勉強会&交流会@GMO Yours ・フクラス](https://creator-square.connpass.com/event/317400/)
+- May 12 [マインクラフト&Scratch・マイクラプログラミング教室（那覇市）★沖縄マイクラ部](https://minecraft098.connpass.com/event/318643/)
 <!-- profile updater end: connpass -->
 
 <!---
