@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 13 [脅威モデリングナイト #1 in Tokyo](https://threatmodeling.connpass.com/event/318433/)
-- Jun 8 [上田市 社会人 ITフリー勉強会&交流会 6/8](https://connpass.com/event/318515/)
-- May 25 [5/25(土) Hack U もくもく会 in 大阪](https://hacku.connpass.com/event/318533/)
-- May 15 [【5/15(水)】生成AIキャリア戦略 勉強会&交流会@GMO Yours ・フクラス](https://creator-square.connpass.com/event/317400/)
-- May 12 [マインクラフト&Scratch・マイクラプログラミング教室（那覇市）★沖縄マイクラ部](https://minecraft098.connpass.com/event/318643/)
+- Jun 26 [サイボウズOffice SPACE LAB オンライン vol.02](https://cybozuoffice-user.connpass.com/event/318692/)
+- Jun 8 [第38回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/318206/)
+- May 30 [拡散モデル勉強会 #4](https://grass-roots-ml.connpass.com/event/318223/)
+- May 30 [第3回 Salesforce Beginners Club](https://salesforce-beginners.connpass.com/event/316915/)
+- May 24 [【オフライン開催】Wantedly Tech Night 2024/5](https://wantedly.connpass.com/event/317603/)
 <!-- profile updater end: connpass -->
 
 <!---
