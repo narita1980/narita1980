@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 26 [サイボウズOffice SPACE LAB オンライン vol.02](https://cybozuoffice-user.connpass.com/event/318692/)
-- Jun 8 [第38回　CoderDojo伊勢原](https://coderdojo-isehara.connpass.com/event/318206/)
-- May 30 [拡散モデル勉強会 #4](https://grass-roots-ml.connpass.com/event/318223/)
-- May 30 [第3回 Salesforce Beginners Club](https://salesforce-beginners.connpass.com/event/316915/)
-- May 24 [【オフライン開催】Wantedly Tech Night 2024/5](https://wantedly.connpass.com/event/317603/)
+- Jun 26 [アニメから得た学びを発表会](https://engineers-anime.connpass.com/event/317999/)
+- Jun 8 [技術発表会 #9](https://akiba.connpass.com/event/318864/)
+- Jun 8 [第26回オープンCAE勉強会@関東（構造など）](https://openfem-kanto.connpass.com/event/318861/)
+- May 18 [IT系&誰でも参加OK！もくもく会_朝活_5/18(土)](https://morimori.connpass.com/event/318862/)
+- May 15 [インフラ技術基礎勉強会 #6](https://infra365.connpass.com/event/313272/)
 <!-- profile updater end: connpass -->
 
 <!---
