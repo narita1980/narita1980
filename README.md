@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 26 [アニメから得た学びを発表会](https://engineers-anime.connpass.com/event/317999/)
-- Jun 8 [技術発表会 #9](https://akiba.connpass.com/event/318864/)
-- Jun 8 [第26回オープンCAE勉強会@関東（構造など）](https://openfem-kanto.connpass.com/event/318861/)
-- May 18 [IT系&誰でも参加OK！もくもく会_朝活_5/18(土)](https://morimori.connpass.com/event/318862/)
-- May 15 [インフラ技術基礎勉強会 #6](https://infra365.connpass.com/event/313272/)
+- Aug 17 [同ソもくもく会 ＃75(オンライン開催)](https://doso.connpass.com/event/318920/)
+- Jul 20 [同ソもくもく会 ＃74(オンライン開催)](https://doso.connpass.com/event/318919/)
+- Jun 16 [CoderDojo横浜師岡（第21回）](https://coderdojo-morooka.connpass.com/event/318925/)
+- Jun 5 [Agile MiSHIKA(シカ祭り) vol.1](https://agile-mishima.connpass.com/event/317442/)
+- May 31 [【月一回】自主制作デザインシェア会【5月】](https://connpass.com/event/318258/)
 <!-- profile updater end: connpass -->
 
 <!---
