@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 30 [tenntenn Conference 2024](https://tenntenn.connpass.com/event/315013/)
-- Jun 29 [第68回CoderDojoあざみ野](https://coderdojo-azamino.connpass.com/event/319008/)
-- Jun 17 [【6/17(月)】飲食SaaS「ダイニー」を触りながらプロダクト開発について話す会＠東京](https://dinii.connpass.com/event/319007/)
-- May 31 [【ベトナム人オフショア責任者が語る】オフショア開発成功のためのヒント](https://shiftasia.connpass.com/event/318787/)
-- May 30 [個人の生産性ってどう上げるの？〜iwashiさんに学ぶ仕事術＆増井さんに学ぶObsidian活用〜](https://findy.connpass.com/event/318375/)
+- Jun 26 [サイボウズOffice SPACE LAB オンライン vol.02](https://cybozuoffice-user.connpass.com/event/318692/)
+- Jun 15 [脅威モデリングワークショップ in 東京 #2](https://security-initiative.connpass.com/event/319066/)
+- Jun 11 [勝手にPO/PdM - CREATIVE - 第3回 クリエイティブ編](https://popdm.connpass.com/event/315669/)
+- Jun 2 [【ハンズオン】チャットアプリ開発勉強会](https://mokumoku-osaka.connpass.com/event/319144/)
+- May 31 [BPStudy#201〜数理最適化問題をAIに解かせてみよう](https://bpstudy.connpass.com/event/318553/)
 <!-- profile updater end: connpass -->
 
 <!---
