@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 26 [サイボウズOffice SPACE LAB オンライン vol.02](https://cybozuoffice-user.connpass.com/event/318692/)
-- Jun 15 [脅威モデリングワークショップ in 東京 #2](https://security-initiative.connpass.com/event/319066/)
-- Jun 11 [勝手にPO/PdM - CREATIVE - 第3回 クリエイティブ編](https://popdm.connpass.com/event/315669/)
-- Jun 2 [【ハンズオン】チャットアプリ開発勉強会](https://mokumoku-osaka.connpass.com/event/319144/)
-- May 31 [BPStudy#201〜数理最適化問題をAIに解かせてみよう](https://bpstudy.connpass.com/event/318553/)
+- Jun 15 [初心者向けPythonにプログラミング勉強会](https://crabclub.connpass.com/event/319255/)
+- May 29 [Japan Datadog User Group Meetup#4](https://datadog-jp.connpass.com/event/317091/)
+- May 25 [世界初？量子アニーリング アイディアソン](https://428lab.connpass.com/event/317565/)
+- May 23 [Outreach Meetup #1](https://outreach-meetup.connpass.com/event/317201/)
+- May 22 [[optim社オフィス開催] 第23回 Customer系エンジニア座談会](https://customer-x-engineer.connpass.com/event/314639/)
 <!-- profile updater end: connpass -->
 
 <!---
