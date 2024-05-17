@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 16 [No.128 CoderDojo瑞穂 / Mizuho 現地](https://coderdojo-mizuho.connpass.com/event/319352/)
-- Jun 8 [第81回 CoderDojo 福岡 【オンライン】+ 会場：fgn（大名小跡地）](https://coderdojo-fukuoka.connpass.com/event/319357/)
-- Jun 6 [Spotifyの開発生産性向上事例 - 効果的なDevOpsアプローチとそのリスクとは](https://developer-productivity-engineering.connpass.com/event/319086/)
-- May 29 [D-Plus Tokyo #2 開発生産性と開発者体験の未来を支える~「育成」「評価」どうしてる？~](https://d-plus.connpass.com/event/318834/)
-- May 25 [朝霞IT勉強会 #40 〜Remote でもくもく〜](https://asaka-it.connpass.com/event/319330/)
+- Jun 27 [【日経×ソラコム×Qiita】知識の壁を乗り越えよう！ライティングとナレッジ共有の裏側](https://nikkei.connpass.com/event/318402/)
+- Jun 19 [【ハイブリッド開催】fin-pyもくもく会 #81](https://fin-py.connpass.com/event/319474/)
+- Jun 19 [鹿野さんに聞く！ 2024年最新CSSトレンドと実践テクニック](https://findy.connpass.com/event/318569/)
+- Jun 15 [kintone Café 白馬 Vol.2](https://connpass.com/event/319240/)
+- Jun 14 [Fukuoka CTO Meetup](https://connpass.com/event/319089/)
 <!-- profile updater end: connpass -->
 
 <!---
