@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 27 [【日経×ソラコム×Qiita】知識の壁を乗り越えよう！ライティングとナレッジ共有の裏側](https://nikkei.connpass.com/event/318402/)
-- Jun 19 [【ハイブリッド開催】fin-pyもくもく会 #81](https://fin-py.connpass.com/event/319474/)
-- Jun 19 [鹿野さんに聞く！ 2024年最新CSSトレンドと実践テクニック](https://findy.connpass.com/event/318569/)
-- Jun 15 [kintone Café 白馬 Vol.2](https://connpass.com/event/319240/)
-- Jun 14 [Fukuoka CTO Meetup](https://connpass.com/event/319089/)
+- Jul 13 [神山.swift 前夜祭&宿泊](https://kamiyama-swift.connpass.com/event/319107/)
+- Jun 10 [【オンライン】6/10(月)5時〜7時：Flutter好きが集まる朝もく会（第396回）](https://flutter-asamoku.connpass.com/event/319392/)
+- Jun 3 [【オンライン】6/3(月)5時〜7時：Flutter好きが集まる朝もく会（第395回）](https://flutter-asamoku.connpass.com/event/319389/)
+- May 29 [ビジュアルプログラミングIoTLT vol.17](https://iotlt.connpass.com/event/316732/)
+- May 25 [PyCon Kyushu 2024 KAGOSHIMA 関係者懇親会（一般参加枠）](https://pycon-kyushu.connpass.com/event/319237/)
 <!-- profile updater end: connpass -->
 
 <!---
