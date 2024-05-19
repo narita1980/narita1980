@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jul 13 [神山.swift 前夜祭&宿泊](https://kamiyama-swift.connpass.com/event/319107/)
-- Jun 10 [【オンライン】6/10(月)5時〜7時：Flutter好きが集まる朝もく会（第396回）](https://flutter-asamoku.connpass.com/event/319392/)
-- Jun 3 [【オンライン】6/3(月)5時〜7時：Flutter好きが集まる朝もく会（第395回）](https://flutter-asamoku.connpass.com/event/319389/)
-- May 29 [ビジュアルプログラミングIoTLT vol.17](https://iotlt.connpass.com/event/316732/)
-- May 25 [PyCon Kyushu 2024 KAGOSHIMA 関係者懇親会（一般参加枠）](https://pycon-kyushu.connpass.com/event/319237/)
+- Jun 27 [【日経×ソラコム×Qiita】知識の壁を乗り越えよう！ライティングとナレッジ共有の裏側](https://nikkei.connpass.com/event/318402/)
+- Jun 22 [マイクロマウス合宿2024](https://connpass.com/event/315125/)
+- Jun 15 [Djangoもくもく会: 2回目](https://connpass.com/event/319630/)
+- May 29 [【ランチ勉強会】生成AIを活用したエンジニアキャリア戦略](https://creator-square.connpass.com/event/318871/)
+- May 27 [スタートアップがAWSパートナーになる理由](https://aws-startup-community.connpass.com/event/318044/)
 <!-- profile updater end: connpass -->
 
 <!---
