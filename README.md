@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 27 [【日経×ソラコム×Qiita】知識の壁を乗り越えよう！ライティングとナレッジ共有の裏側](https://nikkei.connpass.com/event/318402/)
-- Jun 22 [マイクロマウス合宿2024](https://connpass.com/event/315125/)
-- Jun 15 [Djangoもくもく会: 2回目](https://connpass.com/event/319630/)
-- May 29 [【ランチ勉強会】生成AIを活用したエンジニアキャリア戦略](https://creator-square.connpass.com/event/318871/)
-- May 27 [スタートアップがAWSパートナーになる理由](https://aws-startup-community.connpass.com/event/318044/)
+- Jun 3 [いまからでも遅くない！IBM Cloud Support Case 早期解決“コツ”伝授します！](https://ibm-developer.connpass.com/event/319054/)
+- May 30 [いまからでも遅くない！OpenShiftでアプリをHTTPSで公開してみる](https://ibm-developer.connpass.com/event/317279/)
+- May 29 [いまからでも遅くない！Apache Kafkaの概要](https://ibm-developer.connpass.com/event/317238/)
+- May 27 [【好評につき増枠】いまからでも遅くない！デジタル従業員超入門](https://ibm-developer.connpass.com/event/317247/)
+- May 25 [本町勉強会（LT &もくもく会）](https://osaka-mokumoku-honnmachi.connpass.com/event/315762/)
 <!-- profile updater end: connpass -->
 
 <!---
