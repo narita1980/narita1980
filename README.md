@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 3 [いまからでも遅くない！IBM Cloud Support Case 早期解決“コツ”伝授します！](https://ibm-developer.connpass.com/event/319054/)
-- May 30 [いまからでも遅くない！OpenShiftでアプリをHTTPSで公開してみる](https://ibm-developer.connpass.com/event/317279/)
-- May 29 [いまからでも遅くない！Apache Kafkaの概要](https://ibm-developer.connpass.com/event/317238/)
-- May 27 [【好評につき増枠】いまからでも遅くない！デジタル従業員超入門](https://ibm-developer.connpass.com/event/317247/)
-- May 25 [本町勉強会（LT &もくもく会）](https://osaka-mokumoku-honnmachi.connpass.com/event/315762/)
+- Jun 26 [Instanauts_jp#5 1周年記念！みんなのInstana再発見](https://instanautsjp.connpass.com/event/319201/)
+- Jun 11 [【GAテクノロジーズ×イタンジ共催】AIで住まいはどう変わる?不動産テックの今](https://rosca.connpass.com/event/319386/)
+- Jun 2 [第三回データモデリングでドメインを駆動する](https://clever-crazy-domain-driven.connpass.com/event/318168/)
+- May 25 [第二回データモデリングでドメインを駆動する](https://clever-crazy-domain-driven.connpass.com/event/318167/)
+- May 25 [メタ思考トレーニング](https://business-book-workshop.connpass.com/event/319821/)
 <!-- profile updater end: connpass -->
 
 <!---
