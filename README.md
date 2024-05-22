@@ -23,11 +23,11 @@
 # connpass Events
 
 <!-- profile updater begin: connpass -->
-- Jun 26 [Instanauts_jp#5 1周年記念！みんなのInstana再発見](https://instanautsjp.connpass.com/event/319201/)
-- Jun 11 [【GAテクノロジーズ×イタンジ共催】AIで住まいはどう変わる?不動産テックの今](https://rosca.connpass.com/event/319386/)
-- Jun 2 [第三回データモデリングでドメインを駆動する](https://clever-crazy-domain-driven.connpass.com/event/318168/)
-- May 25 [第二回データモデリングでドメインを駆動する](https://clever-crazy-domain-driven.connpass.com/event/318167/)
-- May 25 [メタ思考トレーニング](https://business-book-workshop.connpass.com/event/319821/)
+- Jun 22 [【多団体交流会】JISTA関東支部 懇親会【2024年6月22日】](https://jista-kanto.connpass.com/event/319210/)
+- Jun 22 [【多団体交流会】JISTA関東支部月例会【2024年6月22日】](https://jista-kanto.connpass.com/event/318453/)
+- Jun 21 [Shima Tech Hub#3](https://shima-tech-hub.connpass.com/event/319732/)
+- Jun 18 [リアーキテクチャにおけるアンチパターンへの向き合い方と次なる挑戦【オフライン】@ラクスルオフィス](https://findy.connpass.com/event/319637/)
+- May 29 [JAWS-UG IAM専門支部 #42L IAM要素解析: ハードウェアMFA](https://jawsug-cli-advanced.connpass.com/event/316745/)
 <!-- profile updater end: connpass -->
 
 <!---
